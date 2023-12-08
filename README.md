@@ -37,5 +37,5 @@ This corpus was created as a part of the SUMM-RE (ANR-20-CE23-0017) and CORTEX2 
 
 If you use this dataset, please cite the following article:
 
-- Virgile Rennard, Guokan Shang, Damien Grari, Julie Hunter, Michalis Vazirgiannis (2023). "FREDSum: A Dialogue Summarization Corpus for French Political Debates". _Empirical Methods in Natural Language Processing_ (EMNLP).
+- Virgile Rennard, Guokan Shang, Damien Grari, Julie Hunter, and Michalis Vazirgiannis. 2023. [FREDSum: A Dialogue Summarization Corpus for French Political Debates](https://aclanthology.org/2023.findings-emnlp.280). In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 4241–4253, Singapore. Association for Computational Linguistics.
 
