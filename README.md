@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the FREDSum dataset, a comprehensive collection of transcripts and metadata from various political and public debates in France. The dataset aims to provide researchers, linguists, and data scientists with a rich source of debate content for analysis and natural language processing tasks.
+This repository contains the FREDSum dataset, a comprehensive collection of transcripts and metadata from various political and public debates in France. The dataset aims to provide researchers, linguists, and data scientists with a rich source of debate content for analysis and natural language processing tasks. The dataset is also available on [Hugging Face](https://huggingface.co/datasets/linagora/FREDSum).
 
 ## Dataset Description
 
