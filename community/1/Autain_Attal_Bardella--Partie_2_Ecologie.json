@@ -1,0 +1,76 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Clémentine Autain, Gabriel Attal et Jordan Bardella discutent des mesures écologiques à mettre en place."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "C'était le premier grand thème de cette émission, c'est maintenant ça a été un thème de friction ces derniers jours, quelle mesure pour protéger le pouvoir d'achat des français ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal explique que son gouvernement a investit dans le nucléaire et les énergies renouvelables."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "D'abord merci de rappeler qu'on a beaucoup agi pour limiter l'envoler des prix dans notre pays il y a aujourd'hui une inflation qui est élevée trop élevée en France, au-dessus de 5% mais qui reste la plus faible de la zone euro."
+            },
+            {
+                "speaker": "GA",
+                "text": "On a dès le mois de novembre dernier 2021, bloqué les prix du gaz, bloqué les prix de l'électricité, ce qui fait que contrairement à ce que nous voyons autour de nous, notamment en Espagne et en Italie, ou encore en Allemagne, il n'y a pas eu d'envolée de la facture d'électricité puisque les prix ont été bloqués."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal explique que ses adversaires supportent des candidats qui ne veulent pas utiliser à la foi le nucléaire et les énergies renouvelables."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "On a mis en place des mesures avec notamment la ristourne carburant que vous évoquez, à laquelle va succéder un dispositif de soutien encore plus massif et ciblé pour ce qu'on appelle, j'aime pas trop ce terme les gros rouleurs, mais on pourrait dire les gros bosseurs, c'est-à-dire ceux qui doivent utiliser leur voiture pour aller travailler, faire un certain nombre de kilomètres, et ont une rémunération qui fait que l'augmentation du prix de l'essence ça les impacte énormément dans leur pouvoir d'achat."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine Autain répond qu'il faut créer des mesures d'urgence, et des mesures de fonds pour la transition écologique, comme l'arrêt des subventions des énergies fossiles."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "écoutez sur les carburants il y a 60% de taxes, donc on peut si vous voulez donner de la main droite, pour reprendre le double de la main gauche, mais ça ne fonctionne pas."
+            },
+            {
+                "speaker": "JB",
+                "text": "Nous proposons nous 4 grandes mesures, la première grande mesure c'est la baisse de la TVA de 20% à 5,5% sur l'énergie, l'électricité, le gaz, le fuel on baisse la TVA de 20 à 5,5%, c'est en train de devenir aujourd'hui se chauffer comme se déplacer un produit de luxe."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que les dégâts sur l'environnement sont produits par le modèle économique basé sur dese échanges globaux."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Il y a 3 fois depuis 1960 où le pouvoir d'achat a baissé, en 1960, en 2013, avec les mesures de François Hollande, et cette année avec Emmanuel Macron."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique qu'il souhaite favoriser le localisme et le patriotisme économique"
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Je veux juste réagir parce qu'on parlait de la question du carburant, et Jordan Bardella a élargi, donc je veux élargir aussi, nous avons une loi sur le pouvoir d'achat qui est prête à être votée après les élections législatives, qui prévoit que les pensions de nos retraités seront revalorisées de 4% dès le mois de juillet."
+            }
+        ]
+    }
+]

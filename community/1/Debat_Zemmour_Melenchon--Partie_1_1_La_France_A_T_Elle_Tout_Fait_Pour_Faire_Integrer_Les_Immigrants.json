@@ -1,0 +1,112 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Eric Zemmour et Jean Luc Mélenchon discutent de si oui ou non, la france a tout fait pour intégrer les immigrants."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "La France eric zemmour a-t-elle tout fait pour intégrer les populations immigrées qui sont arrivées ici ces soixante dernières années ?"
+            },
+            {
+                "speaker": "EZ",
+                "text": "Votre question est mal posée parce que vous sous-entendez que la France est est en faute dès le départ de votre question."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Zemmour critique la formulation de la question, selon lui, la france n'a pas à aider à l'intégration, les gens doivent s'assimiler."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "D'abord moi je suis contre l'intégration, je suis pour l'assimilation."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Et deuxièmement ce n'est pas la france qui a fautée, et si elle a fautée, ce sont les gens comme monsieur mélenchon, et les élites françaises, qui depuis quarante ans ont fait la folie, je dis bien la folie criminelle, de faire venir, de laisser venir des millions et des millions d'immigrés venus de, d'une civilisation arabo-musulmane qui est hostile à la civilisation chrétienne dont nous sommes issus depuis mille ans !"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique que deux millions d'immigrants entrent en france tous les 5 ans, venant d'une culture qui est incompatible avec la France."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Le regroupement familial déclenche je ne sais quelle histoire chez vous, c'est monsieur giscard d'estaing qui l'a fait."
+            },
+            {
+                "speaker": "JLM",
+                "text": "Les millions de gens qui sont venus c'est les patrons qui les ont fait pour faire rentrer les travailleurs en france."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Les patrons c'était dans les années soixante soixante-dix, et ils ont eu grand tort"
+            },
+            {
+                "speaker": "EZ",
+                "text": "C'est-à-dire que nous avons, en vérité, donner les droits de régler la politique d'immigration de la france aux immigrés, c'est à dire que nous avons accumulé des droits pour eux et ce sont eux qui choisissent qui vient, qui ne vient pas."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Nous avons deux cent soixante-quinze mille en 2019 deux cent soixante-quinze mille entrées légales qui se décomposent en regroupement familial, immigration familiale, euh étudiants."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Vous savez combien là-dedans viennent pour travailler ?"
+            },
+            {
+                "speaker": "EZ",
+                "text": "Quatorze pour cent."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Selon Jean luc Mélenchon, les migrants ont fait la france, et viennent contribuer à la france avec des étudiants qui repartent pour la pluspart."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Et puis nous avons le droit d'asile, le droit d'asile qui est submergé."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Vous allez me dire ils sont déboutés à quatre-vingts pour cent, sauf que ils ne partent pas nous, nous expulsons que dix pour cent."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Tout ça ça vous fait à peu près quatre cent mille immigrés légaux je dis bien légaux, je ne parle même pas des clandestins on on a valu entre quatre cent mille huit cent mille je n'en parle même pas."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il parle de Créolisation, le processus de fusion des cultures."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "C'est à dire qu'au bout du mandat d'emmanuel macron y aura deux millions d'immigrés légaux qui seront rentrés."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Il disait à l'époque, qu'il y avait trois millions d'italiens qui étaient venus entre mille huit cent soixante-dix et mille neuf cent quarante, et il disait, un seul million est resté car à l'époque, on renvoyait les délinquants, on renvoyait les chômeurs."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Ils parlent ensuite de la devise française, opposée à L'islam selon Eric Zemmour."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "On n'avait pas un regroupement familial automatique et comme ça on ne gardait que les gens assimilés."
+            }
+        ]
+    }
+]

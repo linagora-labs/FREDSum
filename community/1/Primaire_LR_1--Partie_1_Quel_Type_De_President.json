@@ -1,0 +1,139 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Phillippe juvin, Xavier Bertrand, Valérie Pécresse, Michel Barnier et Eric Ciotti discutent de leur premières actions en tant que président."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Effectivement, on voudrait avoir votre conception de la présidence de la République et pour cela, nous vous avons demandé de nous révéler votre première décision et votre premier déplacement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Ciotti explique qu'il souhaite signer un décret de convocation par référendum pour l'article 11 et l'article 55 qui pose les traités européens au dessus des lois françaises, pour pouvoir récupérer de la souveraineté en matière de sécurité et de politique migratoire."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Première décision c'est signer un décret de convocation par référendum au titre de l'article 11."
+            },
+            {
+                "speaker": "EC",
+                "text": "Modifier l'article 55, qui pose aujourd'hui la suprématie des traités européens, notamment sur le droit interne, c'est faire en sorte que la France retrouve le cours de son destin en matière de sécurité et en matière de politique migratoire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Ciotti explique que son premier déplacement sera à la cité des flamands à marseille."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Premier déplacement La cité des Flamands à Marseille, vous avez vu cette barrière qui a été posée par des dealers qui aujourd'hui tiennent ce quartier comme ils tiennent 500 quartiers en France?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Philippe Juvin explique qu'il convoquera les chefs d'état européen pour créer un nouveau traité européen, pour travailler sur l'immigration et le réchauffement climatique."
+        },
+        "extractive": [
+            {
+                "speaker": "PJ",
+                "text": "Donc, j'invite les chefs d'Etat et de gouvernement européens à Paris, et je mets sur la table un nouveau traité européen."
+            },
+            {
+                "speaker": "PJ",
+                "text": "Des sujets immenses l'immigration, le réchauffement climatique, tout ça, ça doit se gérer au niveau européen."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Philippe juvin explique que son premier déplacement sera à son village natal en corse, afin de montrer l'importance des racines."
+        },
+        "extractive": [
+            {
+                "speaker": "PJ",
+                "text": "J'irai en Corse, j'irai en Corse où j'ai mes racines, dans un petit village de montagne, à ucciani."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Michel Barnier explique qu'il fera directement un message de soutien aux soldats dans le monde entier."
+        },
+        "extractive": [
+            {
+                "speaker": "MB",
+                "text": "Ma première décision sera de faire un message aux armées françaises, à tous nos soldats en métropole et dans le monde entier, outre mer, qui sont en charge de notre sécurité, qui sont aussi héritiers et acteurs d'une grande histoire dont nous sommes fiers et dont je ne m'excuserai jamais."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Michel Barnier explique qu'il visitera un grand bassin industriel et agricole, pour montrer sa volonté qui est de rendre à la france sa place de première puissance industrielle et agricole."
+        },
+        "extractive": [
+            {
+                "speaker": "MB",
+                "text": "Ma première visite sera pour un grand bassin industriel et agricole."
+            },
+            {
+                "speaker": "MB",
+                "text": "Et ce sera pour moi l'occasion de dire depuis ce bassin un message à toutes les régions de France pour porter ensemble une grande ambition, celle que la France devienne ou redevienne la première puissance industrielle et agricole d'Europe."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valérie pécresse explique qu'elle créera le 10 novembre le jour des héros de la france, pour redonner des exemples aux enfants."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Alors ma première décision, elle, sera très symbolique, ce sera le 10 novembre de déclarer un jour des héros qui font la France dans toutes les écoles."
+            },
+            {
+                "speaker": "VP",
+                "text": "On étudiera ce jour là la biographie et les œuvres de nos grands hommes et de nos grandes femmes d'hier et d'aujourd'hui, de Vercingétorix à Marie Curie, des poilus de la Grande Guerre au colonel Arnaud Beltrame, de Pasteur aux soignants de la crise covid je veux donner à nos enfants des modèles."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valérie Pécresse se déplacera à la fondation jacques chirac, pour montrer qu'il faut bien traiter les handicapés."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Et mon premier déplacement, ce sera aussi pour recoudre la nation quand on recoud la nation, on considère chaque Français dans sa différence et ses fragilités, donc, j'irais à la Fondation Jacques Chirac à s'installer sur le plateau de Millevaches, qui accueille des adultes autistes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Xavier Bertrand explique que sa première action sera d'ordonner à EDF de lancer la construction de dix nouveaux réacteurs nucléaires."
+        },
+        "extractive": [
+            {
+                "speaker": "XB",
+                "text": "La première décision, ce sera d'ordonner au président d'EDF de lancer la construction de dix nouveaux réacteurs nucléaires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Xavier Bertrand explique qu'il fera sa première visite dans les quartiers nords de marseille"
+        },
+        "extractive": [
+            {
+                "speaker": "XB",
+                "text": "Je veux très clairement relancer le nucléaire dans notre pays et le premier déplacement, je me rendrai, avec mon ministre de l'Intérieur dans les quartiers nord de Marseille, là où monsieur Macron est allé, là où il a échoué."
+            }
+        ]
+    }
+]

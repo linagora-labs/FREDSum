@@ -1,0 +1,92 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Gérald Darmanin et Jordan Bardella parlent d'une conférence de presse où une militante écologiste a été expulsée."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Pendant cette conférence de presse, une militante écologiste, qui voulait dénoncer la proximité de marine le pen avec vladimir poutine a été expulsée de manière plutôt musclée."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gérald Darmanin explique que la personne qui a été violente n'était pas un policier, mais un membre du service d'ordre du rassemblement national. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "La personne qui est traînée par terre n'est pas, euh, traînée par un policier, mais par un membre du service d'ordre du rassemblement national."
+            },
+            {
+                "speaker": "JB",
+                "text": "Oui, c’est vrai, vous avez raison."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gérald Darmanin explique que Marine le pen n'aurait pas du accuser les policiers, qui sont la pour la protéger. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "Que fait madame le Pen, très courageusement, d'abord, elle a évoqué les policiers de Darmanin."
+            },
+            {
+                "speaker": "GD",
+                "text": "D'abord, c’est les policiers de la république, des policiers de services de protection des personnalités, qui protègent, tous les jours, tous les candidats d'ailleurs, c'est la grandeur de la république."
+            },
+            {
+                "speaker": "GD",
+                "text": "Quel mépris a eu madame le pen pour ces policiers qui la protègent, au risque de leur propre vie ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gérald Darmanin explique que Marine le pen devrait s'excuser pour ses accusations. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "Donc, tout ça, c’est scandaleux, si je me permets quelques instants, parce qu'on peut aimer les policiers en général, mais, quand y a un problème, je constate que Madame le pen se permet de les montrer du doigt."
+            },
+            {
+                "speaker": "GD",
+                "text": "Aussi. Je vous dis juste, monsieur Bardella, que quand on est un parti qui prône l'ordre et le respect des policiers, et dès qu'il y a un problème, on en est à montrer du doigt des policiers, alors que c'est même pas eux qui l'ont fait, je trouve franchement que c'est pas faire grand cas de l’honneur des policiers de la république."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que la militante a été évacuée car elle aurait pu être dangereuse. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Vous avez raison de rappeler que, euh, la militante qui se lève et qui hurle, donc, qui vient perturber ouvertement la conférence de presse, est plaquée au sol."
+            },
+            {
+                "speaker": "JB",
+                "text": "Elle n'est pas plaquée au sol, elle tombe bien, incident, par un policier du, du sdlp, et, ensuite, elle est évacuée par le service d'ordre du rassemblement national."
+            },
+            {
+                "speaker": "JB",
+                "text": "Vous savez pertinemment que dans ce genre de de meeting, vous savez que nous avons été visés en deux mille dix-sept, sur la fin de campagne, par une tentative d'attentat. évidemment que lorsque cette dame se lève, personne ne sait si elle, est armée, personne ne connaît ses intentions, et donc, elle est évacuée avec l'aide, parfois, c'est vrai, des policiers du ministre de l'intérieur."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que les médias utilisent le rassemblement national comme paratonnerre"
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "On a un peu l’impression que depuis que le paratonnerre des dix autres candidats est partis, il faut retrouver une forme de virulence à notre égard."
+            }
+        ]
+    }
+]

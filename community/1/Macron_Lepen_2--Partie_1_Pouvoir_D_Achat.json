@@ -1,0 +1,246 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Emmanuel Macron et Marine le Pen parlent de leur propositions pour améliorer le pouvoir d'achat."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Marine Le Pen vous avez la parole en premier, avec une inflation qui risque de s'installer dans la durée, qu'allez-vous faire concrètement pour aider les Français ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine le pen commence en expliquant qu'Emmanuel Macron a baissé le pouvoir d'achat en mettant en place la taxe carbone et en baissant les aides sociales."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Alors vous avez fait des choix, le choix de mettre en place la taxe carbone qui a aggravé le prix de l'essence, vous avez fait le choix de baisser des aides qui étaient essentielles pour un certain nombre de nos compatriotes, notamment l'aide au logement de cinq euros."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique faire du pouvoir d'achat la priorité de son quinquennat, en baissant les dépenses contraintes de matières pérenne à travers la baisse de la TVA sur l'énergie."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Et moi je veux véritablement faire du pouvoir d'achat la priorité de mon prochain quinquennat si les Français me font confiance."
+            },
+            {
+                "speaker": "MLP",
+                "text": "D'abord baisser les dépenses contraintes, baisser les dépenses contraintes, c'est baisser aussi la fiscalité, je veux proposer de baisser de matière pérenne, pas des chèques, pas des tickets de rationnement, de manière pérenne la tva sur l'énergie, l'ensemble de l'énergie de 20 à 5,5 %."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen souhaite baisser la fiscalité en restituant la demi-part fiscale aux veufs et veuves, en exonérant d'impôt sur le revenu les moins de trente ans, en accordant aux familles une part pleine fiscale dès le deuxième enfant."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Mais je vais aussi leur rendre du pouvoir d'achat par l'intermédiaire de baisse de la fiscalité."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Je vais restituer la demi-part fiscale aux veufs et aux veuves qui en ont été privés."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Je souhaite exonérer d'impôt sur le revenu les moins de trente ans."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Je souhaite accorder aux familles une part pleine fiscale dès le deuxième enfant qui leur permettra de pouvoir augmenter leur pouvoir d'achat de 560 euros par an."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine le pen souhaite valoriser la valeur travail en améliorant les salaires des soignants et des enseignants."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Et puis je veux soutenir la valeur travail, c'est mon deuxième levier."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Les soignants par exemple et les enseignants qui sont particulièrement maltraités et en dessous de la moyenne européenne, mais c'est aussi soutenir les apprentis, les alternants, les étudiants qui travaillent par des compléments de revenus de 200 à 300 euros."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine le pen explique vouloir améliorer la condition des personnes vulnérables, en doublant les allocations pour les familles monoparentales, en revalorisant l'allocation adulte handicapés, et en réindexant les retraites."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Et puis la dernière, le dernier secteur sur lequel je veux absolument intervenir, c'est les personnes vulnérables parce que j'ai le sentiment que pendant votre quinquennat elles ont été particulièrement maltraitées."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Revaloriser la politique à destination des personnes vulnérables, c'est doubler comme je le souhaite les aides, les allocations pour les familles monoparentales, c'est individualiser, revaloriser l'allocation adulte handicapé."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Et puis il y a le sujet des retraités et l'indexation des retraites qui n'a pas été, c'est le moins que l'on puisse dire, été respecté lors des cinq dernières années."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron débute en expliquant que selon l'INSEE, le pouvoir d'achat des français a augmenté durant son quinquennat."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "D'abord Mme LE PEN a raison de dire que les chiffres, en effet, qui ne sont pas les miens, qui sont ceux des organismes indépendants, de l'INSEE ou autres établissent très bien que sous ce quinquennat le pouvoir d'achat, en particulier de tous les Français, mais des Françaises et Français qui travaillent et qui sont les classes moyennes et populaires a augmenté."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique qu'il a mis en place le bouclier sur le prix de l'énergie, qui est un dispositif de crise, plus efficace que la baisse de la tva."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Alors d'abord ce que nous avons fait, ce que j'assume et ce que je veux maintenir c'est face au prix de l'énergie, telle que Madame Le Pen l'a décrit, le bouclier."
+            },
+            {
+                "speaker": "EM",
+                "text": "La deuxième c'est que c'est plus efficace, deux fois plus que vous."
+            },
+            {
+                "speaker": "EM",
+                "text": "La troisième différence c'est en effet que ce n'est pas pérenne comme vous l'avez très bien décrit."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique qu'il a baissé le chômage, et qu'il souhaite augmenter le SMIC et les retraites."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "La deuxième chose c'est le travail, moi je suis fier que tous ensemble nous ayons permis de créer 1,2 million de feuilles de paye."
+            },
+            {
+                "speaker": "EM",
+                "text": "Mais la meilleure façon de gagner du pouvoir d'achat c'est de lutter contre le chômage."
+            },
+            {
+                "speaker": "EM",
+                "text": "Le smic sera augmenté de 34 euros par mois, idem pour les plus petites rémunérations de la fonction publique avant que le point ne sera repris à l'été."
+            },
+            {
+                "speaker": "EM",
+                "text": "Les retraites moyennes seront augmentées d'environ 60 euros par mois pour une retraite de 1400 euros."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron propose le dividende salarial, qui force les entreprises qui versent des dividendes à verser des intéressement aux salariés, et augmente la prime macron à 6000 euros."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Et pour tous les travailleurs, il y a un point qui me paraît très important c'est ce que j'appelle le dividende salarial, c'est que lorsqu'un patron que ce soit d'ailleurs une PME/TPE ou un très grand groupe verse du dividende à ses actionnaires, il doit verser ou de l'intéressement/participation et nous simplifieront dès cet été les règles compte tenu de l'inflation et des problèmes de pouvoir d'achat pour le libérer et permettre d'en faire un gain de pouvoir d'achat ou de la prime pouvoir d'achat qui sera porté à 6000 euros sans charge pour l'employeur, sans impôt pour le salarié."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron souhaite revaloriser les minima sociaux et mettre en place une automatisation des versements des aides sociales."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Et enfin sur les minimas sociaux, je souhaite pouvoir les revaloriser dès cet été en même temps que de rendre le système beaucoup plus simple c'est-à-dire de permettre un système de solidarité à la source où toutes celles et tous ceux qui y auront droit les toucheront de manière beaucoup simple ce qui permet à la fois de lutter contre la fraude et de la fraude et le non-recours."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique vouloir sortir du marché européen de l'électricité."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "C'est-à-dire je veux sortir du marché européen de l'électricité qui en fait nous oblige à voir les prix de l'ensemble de l'énergie augmentés dans des proportions qui sont spectaculaires"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine le pen propose aux entreprises d'augmenter de 10% les salaires sans hausse des cotisations patronales, ce qui est plus utile que les primes."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Moi je veux, je dis aux entreprises, voilà si vous augmentez de 10 % les salaires jusqu'à trois fois le smic et bien je gèlerai les cotisations patronales subséquentes, c'est-à-dire l'augmentation des cotisations patronales subséquentes."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Quand dans la vraie vie, vous allez pour louer un appartement, et bien le propriétaire il vous demande combien vous gagnez en salaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine le pen souhaite supprimer la TVA sur des produits de première nécessité tant que l'inflation est supérieure d'un point à la croissance."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Moi je suis parfaitement d'accord pour mettre une mesure supplémentaire qui est une mesure pour le coup, vous voyez, toutes les mesures dont je viens de vous parler sont pérennes, mais qui est une mesure conjoncturelle qui est la suppression totale de la tva, c'est-à-dire une tva à 0 % sur un panier de 100 produits de première nécessité, d'hygiène ou alimentaire, tant que l'inflation est supérieure d'un point à la croissance ce qui est le cas, évidemment, actuellement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique qu'il faut réformer le marché européen de l'énergie pour améliorer les conditions de la france."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Vous ce que vous avez déclaré c'est vouloir sortir du marché européen de l'énergie, et c'est une immense erreur parce que nous sommes interconnectés, parce que nous avons des moments où nous importons l'énergie que nous ne produisons pas sur le sol français et comme nous sommes interconnectés nous avons besoin du marché européen."
+            },
+            {
+                "speaker": "EM",
+                "text": "Il faut pouvoir justement réformer le marché de l'électricité pour qu'il ne dépende plus des petites parts additionnelles de gaz parfois qu'on importe mais de la base installée, en particulier la nôtre qui est beaucoup plus le nucléaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron propose le chèque alimentaire, qu'il estime être plus juste que la baisse de la TVA à 0% qui ne cible pas les gens qui en ont le plus besoin, et qui favorise les grands distributeurs"
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Ensuite sur la tva sur les produits alimentaires, moi je propose le chèque alimentaire."
+            },
+            {
+                "speaker": "EM",
+                "text": "Parce que la tva à 0 % sur les produits alimentaires que vous proposez ce n'est pas une mesure efficace parce qu'elle est très peu répercutée."
+            },
+            {
+                "speaker": "EM",
+                "text": "Là, votre baisse de la tva, elle va aller aux grands distributeurs beaucoup plus qu'aux consommateurs, Mme Le Pen."
+            },
+            {
+                "speaker": "EM",
+                "text": "Elle est injuste parce que vous et moi, on n'a pas besoin de payer 0 % de tva sur ces biens"
+            }
+        ]
+    }
+]

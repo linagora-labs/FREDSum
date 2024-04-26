@@ -1,0 +1,209 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, François Hollande et Nicolas Sarkozy discutent du pouvoir d'achat."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Pour le pouvoir d’achat maintenant, quelles sont vos mesures à vous, François Hollande ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Hollande explique qu'il souhaite indexer le SMIC sur la croissance, et baisser les dépenses contraintes."
+        },
+        "extractive": [
+            {
+                "speaker": "FH",
+                "text": "Et donc, le SMIC sera indexé non seulement sur les prix mais sur une part de la croissance."
+            },
+            {
+                "speaker": "FH",
+                "text": "Deuxièmement, je considère qu'aujourd'hui, il y a une part de dépenses contraintes très élevée."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François hollande explique vouloir instaurer un forfait de base pour que les consommateurs paient le même prix sur un volume de leur consommation, et qu'il y ait une progressivité au dela."
+        },
+        "extractive": [
+            {
+                "speaker": "FH",
+                "text": "Et donc j'instaurerai un forfait de base qui fera que les consommateurs, jusqu'à un certain volume de leur consommation, paieront le même tarif."
+            },
+            {
+                "speaker": "FH",
+                "text": "Et c'est ensuite en fonction de leur propre consommation qu'ils paieraient un tarif supérieur, donc une progressivité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Hollande souhaite mettre en place la TIPP flottante sur le prix des carburants afin que l'état ne gagne pas d'argent sur la hausse des prix."
+        },
+        "extractive": [
+            {
+                "speaker": "FH",
+                "text": "Sur l'essence, j'ai dit qu'il y aurait un blocage pendant trois mois du prix de l'essence et l'instauration de la TIPP flottante, c'est-à-dire que l'État ne pourra pas gagner un seul centime d'euro sur le prix des carburants."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Hollande souhaite aussi augmenter l'allocation de rentrée scolaire."
+        },
+        "extractive": [
+            {
+                "speaker": "FH",
+                "text": "Enfin, j'augmenterai de 25 % l'allocation de rentrée scolaire dès cet été parce que je considère que les familles doivent être soutenues dans ce moment particulièrement difficile."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Nicolas Sarkozy explique que la france a déjà payé les heures de chômage pareil, et que les heures supplémentaires sont la meilleur manière d'augmenter le pouvoir d'achat, alors que François Hollande souhaite les supprimer."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Deuxième élément sur le chômage partiel : savez-vous combien nous avons financé d'heures de chômage partiel en France ?"
+            },
+            {
+                "speaker": "NS",
+                "text": "Nous avons financé 180 millions d'heures de chômage partiel."
+            },
+            {
+                "speaker": "NS",
+                "text": "Les Français doivent le savoir quand le carnet de commandes dans l'Entreprise diminue, au lieu de mettre la personne au chômage, l'État prend à sa charge, avec les syndicats d'ailleurs, le temps de formation quand la personne ne va pas à l'usine ou au bureau parce qu'il n'y a pas de travail."
+            },
+            {
+                "speaker": "NS",
+                "text": "Le pouvoir d'achat, la première chose que nous avons faite, ce sont les heures supplémentaires."
+            },
+            {
+                "speaker": "NS",
+                "text": "C'est presque 500 euros en moyenne de pouvoir d'achat en plus puisqu'ils ne paient pas d'impôts dessus et que les entreprises ne paient pas de charges dessus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Nicolas Sarkozy critique l'augmentation du SMIC, qui n'aiderait pas la majeure partie des gens."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Parce que quand vous dites : on va donner un coup de pouce au SMIC, combien de personnes touchent le SMIC ?"
+            },
+            {
+                "speaker": "NS",
+                "text": "Moins de 15 %, pourquoi oublier les 85 % qui ne touchent pas le SMIC ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Nicolas Sarkozy explique qu'il est impossible de bloquer le prix de l'essence que l'on achète ailleurs, et que tous blocage sera payé par le contribuable."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Voilà maintenant qu'on va payer son électricité et son gaz en fonction de son revenu"
+            },
+            {
+                "speaker": "FH",
+                "text": "Non, en fonction de sa consommation."
+            },
+            {
+                "speaker": "NS",
+                "text": "Un mot sur l'essence, le blocage des prix ?"
+            },
+            {
+                "speaker": "NS",
+                "text": "Vous n'allez pas bloquer le prix du baril de brent que vous allez acheter à l'Arabie Saoudite, aux pays producteurs."
+            },
+            {
+                "speaker": "FH",
+                "text": "C'est le prix de la distribution du carburant raffiné."
+            },
+            {
+                "speaker": "NS",
+                "text": "Celui qui va payer, c'est le contribuable."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Nicolas Sarkozy explique que la baisse du prix du carburant est trop coûteuse, et qu'il est mieux d'encourager les français à acheter des voitures qui consomment moins."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Juste un mot pour terminer sur ce point : Deux centimes de moins sur le litre d'essence, c'est un milliard d'euros de déficit en plus, est-ce que ça vaut la peine ?"
+            },
+            {
+                "speaker": "NS",
+                "text": "Est-ce qu'il ne vaut pas mieux mettre en œuvre la politique que le gouvernement a voulu mettre en œuvre pour aider les gens à acheter des voitures moins consommatrices d'essence, pour faire des économies d'énergie ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Nicolas Sarkozy critique aussi le coût des réformes de françois hollande."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Comment allez-vous faire pour réduire les déficits d'un côté, augmenter l'allocation de rentrée scolaire, subventionner le prix de l'essence, augmenter toutes les prestations."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Hollande explique qu'il est obligatoire d'aider les français qui vivent dans des départements ruraux avec le prix des carburants, et que la TIPP flottante ne coûtera rien à l'état."
+        },
+        "extractive": [
+            {
+                "speaker": "FH",
+                "text": "Deuxièmement, sur les carburants, vous dites que vous ne pouvez rien et vous laissez les Français vivre avec ces prix des carburants, qui font que, dans des départements ruraux, pour ceux qui vont à leur travail, c'est devenu un prélèvement insupportable."
+            },
+            {
+                "speaker": "FH",
+                "text": "Ça ne coûtera pas à l'Etat puisque l'Etat reçoit par la TVA une recette supplémentaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Nicolas Sarkozy critique aussi le souhaite de fermeture des centrales nucléaires de François Hollande, qui est la meilleure manière d'économiser sur l'énergie."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Laisser à penser aux Français que le prix du pétrole et le prix du gaz va pouvoir diminuer que l'on va pouvoir bloquer les prix : il n'y a pas un pays au monde qui réagit comme ça."
+            },
+            {
+                "speaker": "NS",
+                "text": "Je répète une question : grâce au nucléaire, nous payons l'électricité et le chauffage 35 % moins cher."
+            },
+            {
+                "speaker": "NS",
+                "text": "En conscience, d'après vous, est-ce que c'est vraiment le moment, alors que le prix du pétrole explose, que le prix du gaz explose, est-ce vraiment le moment de vouloir démanteler l'industrie nucléaire, de vouloir fermer la moitié des réacteurs nucléaires ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Hollande explique ne vouloir fermer qu'une seule centrale sur son quinquennat"
+        },
+        "extractive": [
+            {
+                "speaker": "FH",
+                "text": "Je ne fermerai qu'une seule centrale sur le prochain quinquennat"
+            }
+        ]
+    }
+]

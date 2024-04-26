@@ -1,0 +1,283 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Eric Ciotti, Bruno Retailleau et Aurélien Pradié parlent du futur de leur parti, les républicains."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "A quoi sert votre parti, les Républicains, aujourd'hui et demain?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Aurélien Pradié explique vouloir fixer les limites du parti, la régularisation massive des clandestins et le passage en force sur la réforme des retraites."
+        },
+        "extractive": [
+            {
+                "speaker": "AP",
+                "text": "Nous avons un parti qui je le redis, depuis dix ans, échoue à toutes les élections."
+            },
+            {
+                "speaker": "AP",
+                "text": "Je veux que ce parti redevienne plus moderne, plus populaire."
+            },
+            {
+                "speaker": "AP",
+                "text": "Nous devrons dire politiquement quelle est notre limite, et moi je vous la donne."
+            },
+            {
+                "speaker": "AP",
+                "text": "Ma limite, c'est la régularisation massive des clandestins aujourd'hui dans notre pays."
+            },
+            {
+                "speaker": "AP",
+                "text": "Ma deuxième limite, c'est le passage en force sur la réforme des retraites."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bruno Retailleau explique vouloir exclure Nicolas Sarkozy du parti parcequ'il a soutenu Emmanuel Macron aux élections présidentielles."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Bruno Retailleau, vous avez déjà eu l'occasion de dire qu'en cas de victoire, vous ne retiendriez pas Nicolas Sarkozy dans votre parti."
+            },
+            {
+                "speaker": "BR",
+                "text": "Moi, je pense que si on veut tout rebâtir et pas seulement changer de nom, il faudra changer de nom, je pense que la marque est morte."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bruno Retailleau explique vouloir incarner une droite différente d'Emmanuel Macron, trop progressiste et laxiste, et Marine le pen, qui est économiquement à gauche."
+        },
+        "extractive": [
+            {
+                "speaker": "BR",
+                "text": "Moi, j'ai assumé cette rupture avec Nicolas Sarkozy pour deux raisons, parceque simplement, il a soutenu Emmanuel Macron à l'élection présidentielle."
+            },
+            {
+                "speaker": "BR",
+                "text": "Je n'ai ni les convictions de Emmanuel Macron, progressiste, ni les convictions de Marine Le Pen."
+            },
+            {
+                "speaker": "BR",
+                "text": "Je n'ai pas les convictions de Marine Le Pen parce que son programme économique la rapproche de Jean-Luc Mélenchon."
+            },
+            {
+                "speaker": "BR",
+                "text": "Et je n'ai pas les convictions, en a t’il d'ailleurs d'Emmanuel Macron parce que c'est le en même temps et parce que sur le Régalien, notamment, on voit bien qu'il est totalement laxiste."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Ciotti annonce que son objectif est la victoire des républicains aux prochaines élections présidentielles."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Moi, j'ai fixé une méthode et un objectif, l'objectif, c'est que l'on gagne l'élection présidentielle de 2027."
+            },
+            {
+                "speaker": "EC",
+                "text": "Aujourd'hui, il faut un grand projet d'idées."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Ciotti souhaite que les républicains représentent le parti de la baisse des impôts, de l'ordre et du mérite."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Le parti de la baisse des impôts, le parti de l'ordre, le parti du mérite."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Ciotti souhaite lui aussi exclure Nicolas Sarkozy du parti."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Et il faut, Il y a un défaut, parce que malgré tout ce qu'on peut faire de brillant, d'intelligent, une fondation des idées, ce que je veux porter, remuscler notre parti, une école des cadres, une fondation, un média des Républicains, tout ça, il faut le faire."
+            },
+            {
+                "speaker": "EC",
+                "text": "Nicolas Sarkozy, il a quitté la vie politique."
+            },
+            {
+                "speaker": "EC",
+                "text": "Je suis en désaccord avec ce qu'il prône pour l'alliance avec Emmanuel Macron, mais je crois que la dessus,on doit avoir un souci de clarification."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Ciotti explique qu'il manque un chef au parti."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Moi, quand je vois Bruno, je te le dis avec amitié, et on en a souvent parlé, que ta première vice-présidence du groupe LR, Mme Estrosi, au Sénat, a refusé, dans notre département, de soutenir nos candidats."
+            },
+            {
+                "speaker": "EC",
+                "text": "Sur ma feuille de route, il manque quelque chose, c'est le chef."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Quand le présentateur demande qui est l'ennemi principal des républicains entre Emmanuel Macron et Marine le Pen, Aurélien Pradié débute en expliquant qu'il souhaite tourner la page de Nicolas Sarkozy, et qu'il ne fait aucune distinction entre Marine le pen et Aurélien Pradié, ce qu'affirme aussi Bruno Retailleau."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Aujourd'hui, après deux présidentielles où Emmanuel Macron et Marine Le Pen se sont opposés, quel est votre principal adversaire?"
+            },
+            {
+                "speaker": "AP",
+                "text": "Il faut tourner la page de Nicolas Sarkozy."
+            },
+            {
+                "speaker": "AP",
+                "text": "La droite, depuis dix ans, se querelle entre elle."
+            },
+            {
+                "speaker": "AP",
+                "text": "C'est le moment, pour la relève et la nouvelle génération, de faire en sorte que Eric et Bruno puissent se parler."
+            },
+            {
+                "speaker": "AP",
+                "text": "Quant à mes adversaires, ils sont autant du côté d'Emmanuel Macron que de Marine Le Pen, je ne fais aucune distinction."
+            },
+            {
+                "speaker": "BR",
+                "text": "Non, mais pas question d'être la béquille d'Emmanuel Macron, pas question non plus d'être le marchepied de Marine Le Pen."
+            },
+            {
+                "speaker": "BR",
+                "text": "Je vous ai dit qu'on peut construire cet espace, reprendre notre thème de la liberté économique, de la création d'emplois, parce qu'on voit bien, nous, que la France n'a pas besoin de chèques en bois en plus, d'une politique de la dépense publique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le présentateur demande aussi si Bruno Retailleau et Aurélien Pradié sont d'accord avec Eric Ciotti qui souhaite que le parti désigne son candidat aux présidentielles dès l'année prochaine."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Eric Ciotti propose que, dès l'année prochaine, votre parti désigne son candidat, Il a même cité un nom, Laurent Wauquiez."
+            },
+            {
+                "speaker": "P1",
+                "text": "Est ce que vous partagez cette stratégie et ce nom ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bruno Retailleau explique qu'il n'est pas d'accord, car cela laisserait trop de temps aux médias pour court circuiter leur candidat."
+        },
+        "extractive": [
+            {
+                "speaker": "BR",
+                "text": "Je pense que ce n'est pas une bonne idée, ni pour le parti, ni pour ce candidat."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bruno Retailleau explique souhaiter faire un travail de reconstruction avant de nommer un candidat."
+        },
+        "extractive": [
+            {
+                "speaker": "BR",
+                "text": "Je pense qu'on a un énorme travail de reconstruction à faire, donc pas la charrue avant les bœufs, la reconstruction, les idées, et ensuite, l'incarnation."
+            },
+            {
+                "speaker": "BR",
+                "text": "Travaillons, ne tombons pas dans la paresse intellectuelle, parce que si on se remet déjà entre les mainsd'un chef, je suis sûr qu’on ne refondra rien du tout."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric ciotti répond que le parti a besoin d'un chef à mettre en contraste avec Emmanuel Macron, Marine le pen et Jean Luc mélenchon."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Je dis à Bruno avec beaucoup d'amitié que le candidat, on ne risquera pas de l'électrocuter si on n'a plus d'électricité."
+            },
+            {
+                "speaker": "EC",
+                "text": "Moi, ce que je dis sur la nécessité du chef."
+            },
+            {
+                "speaker": "EC",
+                "text": "Face à nous, on a Emmanuel Macron, on en pense ce qu'on en veut, mais il a le talent de la communication qui est inversement proportionnelle à sa capacité d'action."
+            },
+            {
+                "speaker": "EC",
+                "text": "On a Mélenchon avec sa dangerosité, on a Le Pen, qui est très identifié, et nous, qui est le chef ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Aurélien Pradié et Eric Ciotti expliquent vouloir mettre fin aux primaires chez les républicains."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Moi, je souhaite supprimer les primaires."
+            },
+            {
+                "speaker": "AP",
+                "text": "La première décision que je prendrai, pas la deuxième, la première comme président des Républicains, c'est la suppression de la primaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Aucun des trois débatteurs ne souhaitent être candidats aux présidentielles de 202"
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Bruno Retailleau voulez vous être candidat en 2027 ?"
+            },
+            {
+                "speaker": "BR",
+                "text": "Si j'avais voulu être candidat à l'élection présidentielle, je me serais présenté comme Eric en décembre dernier au congrès."
+            },
+            {
+                "speaker": "P1",
+                "text": "Non pour 2027, Eric Ciotti ?"
+            },
+            {
+                "speaker": "EC",
+                "text": "Absolument, je le dis clairement."
+            },
+            {
+                "speaker": "P1",
+                "text": "Non pour 2027 Aurélien Pradier ?"
+            },
+            {
+                "speaker": "AP",
+                "text": "Je ne serai pas candidat en 2027"
+            }
+        ]
+    }
+]

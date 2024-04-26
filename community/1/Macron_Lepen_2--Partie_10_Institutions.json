@@ -1,0 +1,96 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Emmanuel Macron et Marine Le Pen discutent des institutions."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Emmanuel Macron, si vous êtes réélu, allez-vous avoir recours fréquemment ou plus fréquemment au référendum, allez-vous instaurer la proportionnelle et amener le septennat ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron débute en expliquant que la moitié de son mandat a été effectué pendant la crise du covid, et qu'il était impossible de faire des référendum."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Néanmoins, je pense que c'est un élément important qui est dans notre Constitution voulu par le général De Gaulle, donc j'y suis attaché, c'est à la main du président."
+            },
+            {
+                "speaker": "EM",
+                "text": "Et si nous étions amenés à changer notre organisation, en Europe, parce qu'elle sera à refonder après la guerre, c'est évident, le référendum pour moi sera l'option retenue."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique qu'il n'a pas pu changer la constitution."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "La deuxième chose, c'est qu'il nous faut rénover la vie démocratique, vous avez parfaitement raison, et donc j'ai échoué durant ce quinquennat à faire la révision constitutionnelle que je voulais faire, je n'ai pas eu d'accord."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron est pour la proportionelle aux legislatives, il explique aussi souhaiter un changement de la pratique du pouvoir, avec des référendums sur les grands chantiers."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Ce que je veux faire c'est dès le début, là, mettre toutes les forces politiques y compris celles qui ne sont pas assez représentées à l'Assemblée, parce que l'Assemblée qui sera élue dans quelques semaines ne sera pas élue à la proportionnelle, puisque je n'ai pas réussi à faire ce changement, je veux, j'y suis favorable pour ma part à titre personnel, on pourra peut-être y revenir, et nous avons discuté et je pense que là-dessus nous avons les mêmes opinions."
+            },
+            {
+                "speaker": "EM",
+                "text": "La 2ème chose, c'est que je pense que nos compatriotes veulent un changement de pratique, c'est ça qui m'a frappé, du grand débat aux conventions citoyennes, j'ai essayé plusieurs choses durant ce quinquennat et on voit bien, on parle d'élections, de référendum et en même temps on parle souvent de faible participation."
+            },
+            {
+                "speaker": "EM",
+                "text": "Et donc ce que je veux pouvoir faire c'est une autre méthode de la pratique du pouvoir, c'est avec vous et qui en particulier sur le chantier de l'école ou de la santé va conduire à fixer au niveau de la nation, des grandes orientations, mais à assumer d'avoir des conférences de partis pour agir et qui vont prendre des décisions qui sont ainsi mises en œuvre sous la houlette de nos préfets."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique qu'elle souhaite une renaissance démocratique, avec une assemblée nationale qui a plus de pouvoir."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Une renaissance démocratique avec une Assemblée nationale qui ai plus de pouvoir mais surtout avec la mise en œuvre effectivement du référendum d'initiative citoyenne."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle souhaite mettre en place de référendum d'initiative citoyenne, pour que cinq cent mille français puissent souomettre un projet de loi."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Je souhaite que 500 000 Français puissent soit soumettre au vote des Français l'abrogation d'une loi, soit puissent soumettre au vote des Français un projet de loi, je crois à ce référendum d'initiative citoyenne."
+            },
+            {
+                "speaker": "MLP",
+                "text": "C'est comme ça que l'union nationale va revenir, quand tout le monde aura le sentiment d'être respecté, quand chaque voix comptera et quand, à l'Assemblée nationale, chaque Français qui aura voté, aura un représentant y compris minoritaire."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Parce que, il ne s'agit pas encore une fois de décider qui est à l'Assemblée nationale, les courants minoritaires doivent pouvoir être représentés à l'Assemblée nationale."
+            },
+            {
+                "speaker": "EM",
+                "text": "Je dis ça, parce que, le RIC, c'est permettre une initiative sans limitation de champs de venir court-circuiter les représentants du peuple."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Et je vous rappelle quand même que dans notre constitution, il est indiqué que la souveraineté appartient au peuple, qui l'exerce par la voix de ses représentants, et par le référendum"
+            }
+        ]
+    }
+]

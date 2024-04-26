@@ -1,0 +1,253 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Jacques Chirac et Lionel Jospin discutent de leur mesures pour réduire le chômage."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Beaucoup de gens se demandent comment concrètement, si vous êtes élu l'un ou l'autre Président de la République, vous allez relancer l'embauche, comment concrètement vous allez pouvoir créer ou faire naître des emplois, suivant quel calendrier, avec quels objectifs et avec quels moyens."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jacques Chirac débute en expliquant qu'il veut une politique de l'emploi, qui n'a jamais été au centre des préoccupations des dirigeants."
+        },
+        "extractive": [
+            {
+                "speaker": "JC",
+                "text": "Je crois qu'il y a d'abord la nécessité dans notre pays de donner un peu d'oxygène à tous ceux qui innovent, à tous ceux qui investissent, à tous ceux qui travaillent et qui sont un très grand nombre."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il souhaite donner de l'oxygène aux entrepreneurs, en leur permettant d'accéder au crédit plus facilement."
+        },
+        "extractive": [
+            {
+                "speaker": "JC",
+                "text": "Ce qui veut dire leur permettre d'accéder au crédit, ce qui n'est quasiment pas le cas aujourd'hui, et aux fonds propres."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il souhaite baisser les charges sur le travail, notamment pour les chômeurs de longue date."
+        },
+        "extractive": [
+            {
+                "speaker": "JC",
+                "text": "Ce qui veut dire réduire le coût du travail de façon adaptée, nous y reviendrons."
+            },
+            {
+                "speaker": "JC",
+                "text": "Il faut ensuite prendre en considération celles et ceux qui sont au chômage depuis longtemps et qui, par conséquent, exigent une main tendue de la société."
+            },
+            {
+                "speaker": "JC",
+                "text": "Nous y reviendrons peut-être, c'est le sens de la proposition que j'ai faite de ce Contrat Initiative-Emploi, qui permet de prendre les gens qui sont dans l'antichambre de l'exclusion, ceux qui sont les chômeurs de longue durée et qui, avec les jeunes, sont naturellement les plus fragiles."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il souhaite créer une croissance plus créatrice d'emploi."
+        },
+        "extractive": [
+            {
+                "speaker": "JC",
+                "text": "Il faut, troisièmement, imaginer une croissance qui soit beaucoup plus créatrice d'emplois."
+            },
+            {
+                "speaker": "JC",
+                "text": "Cela veut dire développer les services de proximité qui, de surcroît, permettent de renforcer la solidarité dans notre pays qui en a bien besoin."
+            },
+            {
+                "speaker": "JC",
+                "text": "Cela veut dire aménager le temps de travail ; nous parlerons peut-être de la durée du travail, je ne suis pas contre la durée du travail, mais pas comme vous."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il finit en expliquant qu'il souhaite changer la politique d'éducation et de logement, ainsi que réformer le système de l'assurance chômage pour créer plus d'emplois."
+        },
+        "extractive": [
+            {
+                "speaker": "JC",
+                "text": "Enfin, dernier point : c'est une politique d'éducation et de formation."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Lionel Jospin débute en expliquant que son gouvernement n'a pas réussi à combattre le chômage de manière satisfaisante."
+        },
+        "extractive": [
+            {
+                "speaker": "LJ",
+                "text": "Et, de ce point de vue, si, par une augmentation maîtrisée des salaires et, là, le social rejoint l'économique, nous donnons un léger surcroît de croissance, nous avons un premier impact par la croissance."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il continue en expliquant qu'il souhaite diminuer le temps de travail, et abaisser les charges sur les bas salaires."
+        },
+        "extractive": [
+            {
+                "speaker": "LJ",
+                "text": "Je propose, là, une réduction de la durée légale du travail dans deux ans, en 97, à 37 heures."
+            },
+            {
+                "speaker": "LJ",
+                "text": "D'autre part, je propose un abaissement des charges sur les bas salaires à travers l'allègement de la cotisation employeur parce que c'est essentiellement sur le terrain du travail non qualifié que les problèmes existent."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique ensuite qu'il souhaite créer quatres programmes volontariste, pour les emplois dégradés, les emplois de proximité, les emplois dans le domaine de l'environnement et les emplois dans le domaine de l'humanitaire."
+        },
+        "extractive": [
+            {
+                "speaker": "LJ",
+                "text": "Enfin, parmi les mesures que je propose, quatre grands programmes volontaristes là encore, impulsés par l'Etat mais trouvant ses relais dans les collectivités locales, naturellement dans les entreprises, pour une grande politique du logement et du logement social, de lutte contre les emplois dégradés, les emplois de proximité, les emplois dans le domaine de l'environnement et les emplois dans le domaine de l'humanitaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il finit en critiquant les propositions de Jacques Chirac, qui substituraient d'anciens chômeurs pour des nouveaux."
+        },
+        "extractive": [
+            {
+                "speaker": "LJ",
+                "text": "Quand j'écoute Jacques Chirac, je n'entends que des généralités sur le système d'éducation qui serait inadapté, je suis prêt à ce qu'on parle d'éducation, des généralités sur moins de contrôle, il faut être moins bureaucratique, moins tatillon, mais ce ne sont pas des mesures précises."
+            },
+            {
+                "speaker": "LJ",
+                "text": "Il y a une mesure précise qui est effectivement, et c'est la seule qui, finalement, fait le plan-emploi de Jacques Chirac et, à mon avis, souligne son insuffisance, c'est le contrat initiative emploi."
+            },
+            {
+                "speaker": "LJ",
+                "text": "Cela ne créera pas beaucoup d'emplois parce que les entrepreneurs feront un effet de substitution, c'est-à-dire qu'ils remplaceront un travailleur qu'ils auraient pu embaucher, plus récent, au chômage depuis moins de temps, par un chômeur de longue durée."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jacques Chirac critique ensuite le programme de Lionel Jospin, qui souhaite augmenter la croissance, mais qui souhaite aussi créer et augmenter des impôts."
+        },
+        "extractive": [
+            {
+                "speaker": "JC",
+                "text": "C'est que vous commencez par créer ou augmenter des impôts sur les entreprises, c'est-à-dire que, une fois de plus, vous allez les tirer vers le bas."
+            },
+            {
+                "speaker": "JC",
+                "text": "Mais comme les salariés avaient moins, la consommation n'a pas augmenté et, comme elle n'augmentait pas, les entreprises n'étaient pas incitées à investir."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique que les entrepreneurs ne peuvent pas obtenir de crédits, et il continue en affirmant que la baisse de la durée du travail n'a pas crée d'emplois."
+        },
+        "extractive": [
+            {
+                "speaker": "JC",
+                "text": "Il faut, effectivement, rétablir cette situation et, pour cela, il faut donner aux entreprises les chances d'innover, d'investir, d'embaucher."
+            },
+            {
+                "speaker": "JC",
+                "text": "Je vais vous dire une chose : les 37 heures ne créeront pas d'emplois, sauf dans la Fonction publique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique aussi que la baisse de charge sur les petit salaires est récupérée sur les hauts salaires, et que cela impactera l'emploi des jeunes."
+        },
+        "extractive": [
+            {
+                "speaker": "JC",
+                "text": "Troisièmement, vous dites : \"On va baisser les charges sur les salaires\"."
+            },
+            {
+                "speaker": "JC",
+                "text": "Et la façon dont vous le proposez est tout à fait étonnante puisque cela consiste à supprimer, si j'ai bien compris, par le biais d'une franchise de 5000 francs, les cotisations sociales employeur sur les bas salaires, c'est-à-dire sur le Smic puisque la marge est de 5000 francs."
+            },
+            {
+                "speaker": "JC",
+                "text": "Là encore, de tirer tout le monde vers le bas. 11200 ou 11300 francs en net, c'est le contre-maître en milieu de carrière, c'est l'agent de maîtrise, ce sont tous ces gens qui font progresser l'économie."
+            },
+            {
+                "speaker": "JC",
+                "text": "J'en reviens à tous ces jeunes."
+            },
+            {
+                "speaker": "JC",
+                "text": "On va en former bientôt 250000 par an, bac + 4 et bac + 5."
+            },
+            {
+                "speaker": "JC",
+                "text": "On a 80000 emplois à leur donner à ce niveau-là."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Lionel Jospin explique qu'il souhaite supprimer les droits de succession pour les PME et les PMI."
+        },
+        "extractive": [
+            {
+                "speaker": "LJ",
+                "text": "Je m'en préoccupe tellement que, alors que, vous, vous préconisez, et c'est votre droit, un allègement sur l'ensemble des droits de succession, moi, je propose simplement qu'on le fasse pour la transmission, en direction des petites et moyennes entreprises, de la succession parce qu'on sait que c'est une cause de mortalité des entreprises, sans raison économique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Lionel Jospin explique qu'il souhaite aider l'accès aux crédits, moins chers pour certains types d'entreprise."
+        },
+        "extractive": [
+            {
+                "speaker": "LJ",
+                "text": "Et je le fais en ciblant particulièrement les PMI et les PME."
+            },
+            {
+                "speaker": "LJ",
+                "text": "En ce qui concerne les crédits, par exemple, je suis favorable à ce qu'on revienne à une certaine sélectivité du crédit et qu'on aide particulièrement les PMI et les PME."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique qu'il souhaite réguler les licenciement."
+        },
+        "extractive": [
+            {
+                "speaker": "LJ",
+                "text": "On avait encore, dans un journal aujourd'hui, des annonces de licenciements dans un certain nombre d'entreprises, y compris parfois des entreprises qui font des bénéfices ou qui ont de bons carnets de commandes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il finit en expliquant que la baisse de temps de travail créerait quatre cent mille emplois, et que l'allégement des charges sur les travails à bas salaire est important, car c'est la qu'il y a le plus de problèmes"
+        },
+        "extractive": [
+            {
+                "speaker": "LJ",
+                "text": "Cela, il faudra le changer et il faudra qu'une impulsion politique notamment y veille."
+            },
+            {
+                "speaker": "LJ",
+                "text": "Je pense, contrairement à vous, qu'un allègement d'environ 600 francs, parce que c'est cela que ça produit au niveau d'un salaire proche du Smic, c'est-à-dire une diminution de 10 % à peu près de la charge salariale, c'est une incitation forte pour les employeurs à embaucher des travailleurs sans qualification"
+            }
+        ]
+    }
+]

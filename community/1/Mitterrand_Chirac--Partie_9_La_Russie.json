@@ -1,0 +1,113 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Jacques Chirac et François Mitterrand discutent de la politique étrangère, en particulier sur la Russie et la question du désarmement."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Alors jugez-vous que les Européens, pourtant concernés au premier chef, ont été assez consultés sur les problèmes du désarmement ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jacques Chirac explique qu'il ne fait pas de procès d'intention à la Russie, mais qu'il reste vigilant, car pour lui, tout les dirigeant soviétiques souhaitent neutraliser l'europe occidentale."
+        },
+        "extractive": [
+            {
+                "speaker": "JC",
+                "text": "Moi, je ne fais pas de procès d'intention et je pense qu'il est, de surcroît, de l'intérêt de M. Gorbatchev de diminuer les charges que la production considérable et l'entretien d'armements tout à fait excessifs fait peser sur la vie des Soviétiques."
+            },
+            {
+                "speaker": "JC",
+                "text": "Je suis néanmoins extrêmement vigilant car je reste convaincu que jamais un dirigeant soviétique n'abandonnera son objectif qui est de neutraliser l'Europe occidentale."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jacques Chirac estime qu'il faut garder les moyens de dissuasion français."
+        },
+        "extractive": [
+            {
+                "speaker": "JC",
+                "text": "Et, par conséquent, je considère que nous ne devons pas, dans l'état actuel des choses, baisser la garde, que nous devons conserver tous les moyens permettant d'être suffisamment dissuasifs pour éviter toute tentation d'aventure de la part des Russes ou de quiconque d'autre."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Mitterrand s'accorde avec Jacques Chirac et déplore que, que Gorbatchev souhaite désarmer où non, personne ne prends en compte le cas où il n'est pas sincère."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "Le problème n'est pas, madame Cotta, de savoir si M. Gorbatchev est sincère, le problème est que tout puisse se dérouler sur la scène du monde comme si il était sincère."
+            },
+            {
+                "speaker": "FM",
+                "text": "Voilà pourquoi il faut à la fois approuver ses démarches en faveur du désarmement et en même temps il faut prendre nos précautions pour assurer la sécurité de l'Europe et la nôtre."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Mitterrand souhaite assurer la sécurité de l'europe et de la france, et souhaite avoir un désarmement des forces conventionnelles entre l'est et l'ouest."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "J'en demande davantage et j'estime que la priorité aujourd'hui est au désarmement des forces conventionnelles entre l'Est et l'Ouest, c'est-à-dire à la frontière des deux Allemagne et de la Tchécoslovaquie et de l'Allemagne où les Soviétiques disposent d'une puissance infiniment supérieure à la nôtre, alors on saura si M. Gorbatchev est tout à fait sincère."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jacques Chirac ne souhaite pas désarmer au delà des accords conclus."
+        },
+        "extractive": [
+            {
+                "speaker": "JC",
+                "text": "Sur ce désarmement, je considère que l'Europe ne doit pas aujourd'hui, en termes nucléaires, aller au-delà des accords conclus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jacques Chirac rappelle que François Mitterrand combattait la dissuasion nucléaire et demande si la france aurait aujourd'hui l'arme nucléaire si il avait battu Charles de Gaulle."
+        },
+        "extractive": [
+            {
+                "speaker": "JC",
+                "text": "Dissuasion nucléaire à laquelle vous êtes aujourd'hui très attaché, M. Mitterrand et je m'en réjouis, mais je voudrais tout de même rappeler qu'elle a été inspirée et mise en oeuvre par le général de Gaulle, que nous lui devons à ce titre notre capacité de grande puissance, qu'elle a été combattue par vous, et je me demande si, en 1965, vous aviez été Président de la République, nous n'aurions pas de force nucléaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jacques Chirac souhaite que les arsenaux centraux soient désarmés, et il souhaite une réduction du déséquilibre sur le plan des armes classiques et chimique entre les pays de l'est et de l'alliance atlantique."
+        },
+        "extractive": [
+            {
+                "speaker": "JC",
+                "text": "Pour le reste, j'estime que la priorité, aujourd'hui, c'est la réduction des arsenaux centraux, russes et américains, qui sont les plus dangereux naturellement et qui nous prendraient en otages si nous n'avions pas les moyens de dissuasion nécessaires et, d'autre part, la réduction du déséquilibre qui existe sur le plan des armes classiques et chimiques entre les pays de l'Est et les pays de l'Alliance atlantique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Mitterrand s'inscrit dans la continuité des décisions présidentielles"
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "La continuité de la France doit être assumée par tous ceux qui en ont la charge, en 30 ans il se passe beaucoup de choses et j'en tiens compte."
+            },
+            {
+                "speaker": "JC",
+                "text": "Si, monsieur Mitterrand, vous aviez été élu beaucoup plus tôt, vous auriez pu l'être, nous n'aurions pas nos institutions d'aujourd'hui, vous les avez combattues avec beaucoup de violence dans le propos comme dans l'action, nous n'aurions pas de force de frappe, vous l'avez combattue avec une très grande violence, vous l'assumez aujourd'hui et je m'en réjouis,vous l'assumez d'ailleurs avec enthousiasme, et j'en suis content, mais vous l'avez combattue avec une très grande violence"
+            }
+        ]
+    }
+]

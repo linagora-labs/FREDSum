@@ -1,0 +1,123 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat Aurélien Pradié, Eric Ciotti et Bruno Retailleau discutent de l'écologie et des énergies renouvelables."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Vous êtes tous pour relancer le nucléaire, même si vous avez quelques nuances."
+            },
+            {
+                "speaker": "P2",
+                "text": "Vous apportez quoi sur l'écologie?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le présentateur explique que le sénat a voté des procédures d'accélération d'installation d'éoliennes."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Le Sénat, il y a quelques jours, avec le vote de Bruno Retailleau, a adopté un texte de loi qui permet d'accélérer certaines procédures, par exemple, d'installation d'éoliennes et de panneaux solaires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Ciotti explique qu'il est contre les éoliennes, qui est une énergie intermittente, et préfère le nucléaire."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Eric Ciotti, est-ce que ce texte, comme Bruno Retailleau au Sénat, vous le voterez à l'Assemblée ?"
+            },
+            {
+                "speaker": "EC",
+                "text": "Non, je ne le voterai pas, et je regrette le vote des sénateurs."
+            },
+            {
+                "speaker": "EC",
+                "text": "Je le dis, car il y avait deux mesures qu'on réclamait, c'était un droit de veto des maires et qu'on n'installe aucune éolienne en mer à 40 km des côtes."
+            },
+            {
+                "speaker": "EC",
+                "text": "La seule énergie décarbonée, c'est le nucléaire."
+            },
+            {
+                "speaker": "EC",
+                "text": "Pour faire 1 400 éoliennes, il faut combien de temps?"
+            },
+            {
+                "speaker": "EC",
+                "text": "C'est une énergie intermittente, qui n'est pas pilotable."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bruno Retailleau explique qu'il est contre les éoliennes, mais à permis au sénat de donner un droit de véto aux maires de communes sur l'installation des éoliennes."
+        },
+        "extractive": [
+            {
+                "speaker": "BR",
+                "text": "Un, on a donné la possibilité au maire, dans des documents d'urbanisme, d'interdire des éoliennes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bruno Retailleau explique qu'il n'a pas pu forcer le sénat à voter un déplacement des éoliennes marine à 40km de la côte."
+        },
+        "extractive": [
+            {
+                "speaker": "BR",
+                "text": "Deuxième chose, nous avons porté un amendement pour interdire l'éolien flottant."
+            },
+            {
+                "speaker": "BR",
+                "text": "On a porté l'amendement pour dire qu'il n'y avait pas d'éolien avant 40 km, parce que ça ne se voit pas."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Aurélien Pradié affirme que la france doit relancer le nucléaire et démonter l'éolien."
+        },
+        "extractive": [
+            {
+                "speaker": "AP",
+                "text": "Nous, je ne souhaite plus que nous allions dans cette course en avant de l'éolien et je souhaite même qu'on réfléchisse au démontage de nos éoliennes parce que cette énergie transitoire aura besoin d'être démontée."
+            },
+            {
+                "speaker": "AP",
+                "text": "Nous sommes d'accord sur la relance de la filière nucléaire."
+            },
+            {
+                "speaker": "AP",
+                "text": "Commençons à relancer les programmes de recherche, notamment astrid, qui permettent de trouver une alternative."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Aurélien Pradié explique vouloir investir dans l'énergie hydroélectrique, qui est un fleuron Français"
+        },
+        "extractive": [
+            {
+                "speaker": "AP",
+                "text": "Nous sommes aujourd'hui dans un pays dans lequel nous avions un champion, et ces champions, c'étaient nos barrages hydroélectriques."
+            },
+            {
+                "speaker": "AP",
+                "text": "Depuis quelques années, l'Union européenne souhaite que nous mettions en concurrence nos barrages."
+            },
+            {
+                "speaker": "AP",
+                "text": "Je souhaite que nous reprenions la main sur nos barrages."
+            }
+        ]
+    }
+]

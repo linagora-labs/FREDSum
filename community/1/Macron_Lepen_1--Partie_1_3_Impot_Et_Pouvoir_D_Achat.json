@@ -1,0 +1,192 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Marine Le pen et Emmanuel Macron parlent du pouvoir d'achat. "
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Alors on va aborder le sujet des impôts et du pouvoir d’achat."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron propose de faire des économies pour pouvoir baisser les impôts des entreprises et des ménages. "
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Bah voila, ce que je propose, c’est de faire des économies pour pouvoir baisser les impôts des entreprises et des ménages."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique qu'il va faire soixante milliards d'économies pour baisser le déficit de quarante milliards et baisser de dix milliards les impôts et les charges des entreprises. "
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Donc moi je propose de faire, sur le quinquennat soixante milliards d’économies pour pouvoir baisser notre déficit de quarante milliards et baisser de dix milliards les impôts et les charges des entreprises."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique qu'il va baisser de six points les charges jusqu'à deux smic, et de dix points pour le smic, pour les entreprises, il va faire une baisse de l'impôt sur les sociétés de 33.3 à 25%. "
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "La baisse des charges, qu’on a dit tout à l’heure, jusquà deux smic et demi, six points de charges en moins, dix points de charges en moins au niveau du smic pour les entreprises et une baisse de l’impôt sur les sociétés de 33,3 à 25%."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron souhaite supprimer la taxe d'habitation, et si la croissance s'améliore plus que prévue, il réaffectera ce qui est gagné sur la baisse des impôts. "
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Et du côté de nos concitoyens, les ménages, je propose de supprimer la taxe d’habitation, pour 80% de nos concitoyens, ça correspond à dix milliards d’euros, voilà."
+            },
+            {
+                "speaker": "EM",
+                "text": "Si la croissance se porte mieux que ce que jai prévu, parce que je suis très prudent dans les années à venir, je ne fais jamais dépasser dans les hypothèses qui sont les miennes la croissance de 1,8%, j'espère qu’on pourra aller plus loin alors je réaffecterai ce qu’on gagnera sur la baisse de l’impôt sur le revenu et donc sur les ménages."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen rappelle qu'Emmanuel Macron va augmenter la CSG de 1.75 points. "
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Mais en revanche vous voulez augmenter la CSG de 1.75 points donc vingt milliards de plus pour les travailleurs, pour les retraités, qui vont voir peser sur eux."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique baisser de plus de trois pionts les charges salariales de celles et ceux qui travaillent, pour avoir une assurance chômage universelle, pour les artisans, les commerçants et les agriculteurs. "
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Je baisse d’un peu plus de trois points les charges salariales de celles et ceux qui travaillent."
+            },
+            {
+                "speaker": "EM",
+                "text": "Parce que je veux aller au bout de ce système où l’assurance chômage doit être universelle."
+            },
+            {
+                "speaker": "EM",
+                "text": "Parce que je veux que les artisans, que les commerçants, que les agriculteurs puissent toucher le chômage, ils ne l’ont pas aujourd'hui et ce n’est pas juste."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron supprime les cotisations sociales salariales et les remplaces par l'augmentation de la CSG. "
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Je supprime pour tous les travailleurs, leurs cotisations sociales salariales et je les remplace par 1,7 point de CSG."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique qu'elle veut baisser de 10% les trois premimères tranches de l'impôt sur le revenu, rétablir la demi-part des veufs et veuves, défiscaliser les heures supplémentaires, et mettre en place des primes de pouvoir d'achat pour les retraites et salaires de moins de 1500 euros par mois qui sera financé par une contribution sociale à l'importation. "
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Alors moi j’ai évidemment, et Monsieur Macron me le reproche souvent d’ailleurs, effectivement des mesures extrêmement importantes pour le pouvoir d'achat, pour rendre l’argent aux Français, notamment qui passent par la baisse de 10% des trois premières tranches de l’impôt sur le revenu, qui passent par le rétablissement de la demi-part des veufs et veuves que les socialistes ont quand même maintenue ce qui était assez ignoble, je trouve, parce qu’ils auraient pu faire un effort sur ce sujet-là, par la défiscalisation des heures supplémentaires, pour rendre du pouvoir d’achat à ceux qui travaillent, par des mesures claires de primes de pouvoir d'achat, pour les salaires et les retraites de moins de 1500 euros par mois, que je fais financer par une contribution sociale à l’importation et non par l’impôt, Monsieur Macron."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen souhaite aussi baisser le prix du gaz et de l'électricité de 5% et revaloriser les petites retraites, ainsi qu'augmenter de 25% l'aide au logement des jeunes et rétablir le quotient familial. "
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Et puis, une baisse du prix du gaz et de l’électricité de 5% parce qu’aujourd’hui, il y a eu des hausses successives qui pèsent considérablement sur le budget des familles."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Je revalorise les petites retraites, parce que vous allez taper sur les retraités, Monsieur Macron."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Et bien moi, je veux que notamment pour les jeunes, les moins de vingt-sept ans, puissent voir leur aide au logement augmenter de 25%."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Je vais penser aux familles par le rétablissement du quotient familial qui a été baissé."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen souhaite aussi revenir à l'universalité des allocations familiales. "
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Puis revenir à l’universalité des allocations familiales."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique qu'elle financera cela avec des économies sur l'union européenne, l'immigration, et la fraude sociale. "
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Mais je vais vous trouver des économies tout de suite Monsieur Macron, regardez, l’Union européenne, neuf milliards d’euros par an."
+            },
+            {
+                "speaker": "MLP",
+                "text": "L’immigration a un coût spectaculaire, je n’ai conservé que quinze milliards par an, j’ai été extrêmement raisonnable, vous voyez, dans mes calculs, il y a la fraude sociale contre laquelle vous n’avez pas lutté."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique que marine le pen ne fait baisser aucune dépenses et ne finance pas ses aides. "
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Vous ne baissez aucune dépense, Madame Le Pen, ce n’est pas vrai, et donc vous allez, soit creuser le déficit et dépendre des marchés financiers, soit augmenter les impôts durant votre quinquennat mais vous ne le dites pas."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Les deux candidats parlent ensuite de la GPA, les deux sont contre, mais Emmanuel Macron explique qu'il est pour donner des droits aux enfants nés par GPA sur le territoire français"
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "J’ai toujours dit que j’étais contre la GPA."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Oui mais vous êtes d’accord pour que les GPA qui ont lieu à l'étranger, en réalité, on les entérine sur le territoire national."
+            },
+            {
+                "speaker": "EM",
+                "text": "Simplement quand vous avez un enfant sur le territoire français vous, vous préférez le laisser sans droit."
+            }
+        ]
+    }
+]

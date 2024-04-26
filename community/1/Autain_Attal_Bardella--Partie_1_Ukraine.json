@@ -1,0 +1,143 @@
+[
+    {
+        "abstractive": {
+            "text": "Le présentateur débute en demandant si le président qui est parti à kiev est parti au bon moment."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Vous êtes tous les trois, quand on regarde les programmes, d'accord sur un point, pour recruter plus d'infirmiers, pour recruter plus d'aides soignantes, pour aider l'hôpital, pour revaloriser ces métiers."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine Autain répond que c'est important que le président de la république aille à kiev pour affirmer le soutien de la france."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Comment fait-on Clémentine Autain ?"
+            },
+            {
+                "speaker": "CA",
+                "text": "Et les fonctionnaires, on n'a pas eu le temps d'en parler aussi sur la question du pouvoir d'achat, vous savez qu'ils subissent le gel du point d'indice depuis fort longtemps."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine Autain explique aussi que le calendrier de ce déplacement à quelques jours du deuxième tour des élections législative pose question et empêche le débat."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Donc, ce qu'il faut pour ouvrir des lits, c'est former des personnels, mieux rémunérer, augmenter les salaires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que le timing est mauvais."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Ce qu'on propose, par exemple, c'est que pour les infirmières qui démarrent, il y a immédiatement 200 euros de plus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que la stratégie de créer un lien avec l'ukraine et la russie est le bon."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Donc remettre de l'humain, faire en sorte que les services publics soient respectés, que les personnels puissent travailler dans des conditions dignes, revaloriser leurs salaires et former massivement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella déplore cependant l'absence du président dans les débats."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Des grands chantiers de modernisation, la facturation électronique entre les entreprises, la prescription, la carte vitale et une maîtrise des dépenses dans les secteurs où c'est possible."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal explique que c'est très important pour affirmer le soutien de la france, et qu'il ne pouvait pas faire autrement car le déplacement se fait avec d'autres présidents."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Et ce qu'il faut, c'est renforcer l'attractivité des postes à l'hôpital."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel attal attaque ensuite Jean Luc Mélenchon et Marine le pen qui ont votés contre les sanctions contre la Russie."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "On a fait le ségur de la santé au moins 183 euros net par mois."
+            },
+            {
+                "speaker": "GA",
+                "text": "Pourquoi est-ce que vous avez voté contre une augmentation de près de 200 euros net pour tous ceux qui travaillent à l'hôpital, alors que vous la réclamez ici?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Clémentine Autain, Gabriel Attal et Jordan Bardella discutent de la situation en Ukraine."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Il y a 3000 hôpitaux et EHPAD en France et notamment des petits hôpitaux, des hôpitaux de proximité. On arrête de financer uniquement les grands CHU, des grandes métropoles qui vont être soit rénovés, soit intégralement reconstruits."
+            },
+            {
+                "speaker": "GA",
+                "text": "En plus du fait, je le rappelle, qu'on a supprimé le numérus clausus, ce qui fait qu'on aura dans quelques années davantage de médecins qui arriveront dans nos hôpitaux et sur le terrain."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine Autain explique que les votes négatif s'expliquait par la volonté de ne pas entrer en co bélligérence."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Et le troisième chantier, et je terminerai par là, j'avais un peu de retard sur le temps de parole, le troisième chantier, c'est celui du fonctionnement dans l'hôpital, des conditions de travail dans l'hôpital."
+            },
+            {
+                "speaker": "JB",
+                "text": "Ils s'estiment maltraités parce que voyez-vous, ils sont paix 10 % de moins que la moyenne de l'OCDE."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que ces votes négatifs viennent de la punition subies par les français au résultat de ces sanctions"
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Vous avez détruit l'hôpital public parce que vous avez supprimé 27 milliers à l'hôpital public depuis 2013 et que vous avez continué à fermer des lits pendant la crise sanitaire."
+            },
+            {
+                "speaker": "JB",
+                "text": "Donc, il faut un moratoire sur les fermetures de l'île premièrement."
+            }
+        ]
+    }
+]

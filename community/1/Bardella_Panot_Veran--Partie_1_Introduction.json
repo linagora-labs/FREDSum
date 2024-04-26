@@ -1,0 +1,118 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Jordan Bardella, Mathilde Panot, et Olivier Véran expliquent ce qu'ils pensent de la réforme des retraites."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "En un mot, comment résumeriez-vous cette réforme des retraites?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Selon Mathilde Panot, le gouvernement est minoritaire, et les français rejettent fortement la réforme, qui fera travailler les français plus longtemps pour les actionnaires, et qui ignore la crise économique et climatique."
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "Minoritaire."
+            },
+            {
+                "speaker": "MP",
+                "text": "Vous êtes seuls, monsieur le ministre, 80% des Français sont contre votre réforme et plus vous faites de la pédagogie, mieux ils comprennent."
+            },
+            {
+                "speaker": "MP",
+                "text": "Avec votre retraite à 64 ans, vous voulez faire travailler les salariés pour les actionnaires, les pauvres pour les riches."
+            },
+            {
+                "speaker": "MP",
+                "text": "Alors que les Français n'en peuvent plus car les factures d'énergie explosent, les salaires sont trop bas, la vie trop chère et que la santé et l'éducation sont malmenées, alors que l'urgence écologique n'a jamais été aussi forte, cette réforme est injuste et injustifiée."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mathilde Panot explique que le système des retraite n'est pas en faillite, et que la réforme pénalise les femmes, les jeunes, et les plus précaires."
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "Injustifiée parce que le système de retraite n'est pas en faillite, injuste parce qu'elle pénalise les femmes, les jeunes, elle brutalise les précaires, les salariés du public, comme du privé et ce pour faire baisser les pensions."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mathilde Panot explique être la seule à proposer la retraite à 60 ans."
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "Nous sommes les seuls à porter la retraite à 60 ans."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique que sa réforme est liée avec le travail, qui est l'adn de sa famille politique."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Moi, j'ai choisi le mot travail."
+            },
+            {
+                "speaker": "OV",
+                "text": "D'abord parce que c'est l'ADN politique de ma famille politique, l'ADN de ma famille politique, et parce que je considère qu'il n'y a pas du tout à en avoir honte au contraire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique que son parti a recréé des emplois, et qu'il faut augmenter l'âge de départ à la retraite, ce qui permettre d'équilibrer le système sans avoir à baisser les pensions des retraités, et sans avoir à augmenter les impôts, tout en propoosant la création d'un congé de réorientation professionnelle et la suppression des régimes spéciaux."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Nous recréons des emplois, nous adaptons les formations des jeunes au métier de demain, nous sommes redevenus un pays qui est un pays attractif."
+            },
+            {
+                "speaker": "OV",
+                "text": "Prendre les bonnes décisions au bon moment, j'en ai conscience, ça veut dire demander aux Français de travailler progressivement un peu plus longtemps."
+            },
+            {
+                "speaker": "OV",
+                "text": "Et cette réforme, nous allons la faire avec des contreparties que nous assumons, c'est-à-dire, sans baisser les pensions des retraités au contraire, elles vont augmenter, et d'autant plus pour les retraités fragiles, sans augmenter les impôts, sans augmenter les impôts, et avec des droits nouveaux qui vont être créés, dont on va parler ce soir, comme par exemple la possibilité d'avoir un congé pour pouvoir réorienter sa profession ou encore la suppression des régimes spéciaux."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella considère cette réforme comme étant cynique, et que le gouvernement vit hors de la réalité des français."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "J'ai choisi le mot cynique, parce que j'ai le sentiment comme des millions de Français, comme beaucoup de Français qui nous regardent ce soir, que nous avons à la tête de l'Etat un gouvernement qui vit hors des réalités populaires, que nous avons à la tête de l'Etat un gouvernement qui mène une guerre sociale contre le peuple français."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que la réforme répartit injustement l'effort, qui demande plus de travail à ceux qui ont commencé le plus tôt, et que le système de protection sociale devrait relancer la natalité et l'emploi"
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "J'ai le sentiment d'une réforme qui répartit injustement l'effort, qui va demander à ceux qui ont commencé très tôt de travailler encore plus, encore plus durement, encore plus tard, quand on demandera des efforts quasi identiques aux gens qui ont commencé à travailler plus tard."
+            },
+            {
+                "speaker": "JB",
+                "text": "Je conteste cette réforme parce que je pense qu'on peut faire autrement, autrement pour assurer la pérennité de notre système de protection sociale, notamment en relançant la natalité et en relançant l'emploi dans notre pays, mais probablement on aura l'occasion d'en parler."
+            }
+        ]
+    }
+]

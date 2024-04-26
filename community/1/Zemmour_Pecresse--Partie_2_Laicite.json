@@ -1,0 +1,209 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Eric Zemmour et Valérie Pécresse discutent de l'identité française."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Eric Zemmour, Valérie Pécresse, l’identité française, ce terme la, tiens une place importante dans vos programmes, même si la terminologie n’est pas la même."
+            },
+            {
+                "speaker": "P1",
+                "text": "Eric Zemmour, vous prenez la discrétion de la pratique religieuse dans l'espace public, en clair, euh, pas de voile, islamique, pas de kippa, pas de croix ostentatoire, dans la rue."
+            },
+            {
+                "speaker": "P1",
+                "text": "Madame Pécresse, est-ce que vous êtes favorable à cela"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valérie Pécresse explique qu'elle s'est battue contre la burqa, interdite dans l'espace public."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "D'abord, tout d'abord, il faut savoir contre quoi on lutte."
+            },
+            {
+                "speaker": "VP",
+                "text": "Moi, je lutte contre l'islamisme, et je lutte dans les actes, parce que eric zemmour a dit que je faisais."
+            },
+            {
+                "speaker": "VP",
+                "text": "En deux mille dix, euh, quand, euh, je me suis aperçu que, dans ma région, y avait des femmes intégralement voilées, j'ai pris la tête, avec jean-françois copé à l'époque du combat contre la burqa dans l'espace public, et nous avons convaincu nicolas sarkozy de voter une loi pour interdire la burqa dans l'espace public."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valérie Pécresse explique avoir crée la chartes de la laïcité, qui interdit le financement des associations qui font du prosélytisme religieux."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Quand je suis devenue présidente de région, j'ai fait voter la première charte de la laïcité."
+            },
+            {
+                "speaker": "VP",
+                "text": "Ça veut dire qu'il y a plus un euro d'argent public qui va à des ennemis de la république, c'est-à-dire des associations qui font du prosélytisme religieux."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valérie Pécresse a aussi mise en place des plans contre la radicalisation dans les clubs sportifs et contre le burkini."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "J’ai mis en place un plan pour lutter contre la radicalisation dans les clubs sportifs, un plan de lanceurs d'alerte, parce que il y avait des terroristes islamistes, et des, des radicalisés, qui étaient infiltrés dans les clubs de sport, et on a eu plus de plusieurs dizaines de signalements, qui ont permis à l'état de dire qu'on était exemplaire, et de faire la même chose."
+            },
+            {
+                "speaker": "VP",
+                "text": "Et je me bat aussi contre le burkini, contre le burkini, dans les îles de loisirs de la région, ce qui me vaut, aujourd'hui, euh, que, d'avoir, euh, le comité contre l'islamophobie en france, qui a été dissous au moment de l'affaire de samuel patty, qui a porté plainte contre moi, parce que, justement, je voulais protéger les femmes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valérie pécresse propose l'interdiction du voile dans les services publics et pour les filles à l'école."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "De deux manières, dans les services publics, on ne porte pas de voile."
+            },
+            {
+                "speaker": "VP",
+                "text": "Et, en revanche, je veux que les filles, les fillettes, soient protégées, je veux qu'à l'école dans les compétitions sportives."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Zemmour explique que le voile doit être interdit dans l'espace public, et que les musulman doivent avoir une pratique discrète de leur religion."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Et comment, et comment, pouvez-vous appliquer une interdiction totale de tous les signes religieux dans la rue ?"
+            },
+            {
+                "speaker": "EZ",
+                "text": "Les français de confession musulmane peuvent avoir une pratique qui est à la française, c'est-à-dire qui respecte la discrétion dans l'espace public."
+            },
+            {
+                "speaker": "EZ",
+                "text": "De pas s'afficher, comme toutes les religions."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Madame Pécresse, maintenant, est contre le voile, alors que elle n'a jamais été contre le voile dans les universités."
+            },
+            {
+                "speaker": "P2",
+                "text": "Comment vous faites pour faire respecter l'interdiction du port du voile dans la rue, dans l'espace public, dans, dans, dans, tout le pays ?"
+            },
+            {
+                "speaker": "EZ",
+                "text": "Car le voile sera interdit partout."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Zemmour souhaite aussi fermer toutes les mosquées salafistes."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Je ferme toutes les mosquées Salafistes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valérie Pécresse explique qu'elle souhaite que l'islam suivent les lois de la république."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Non, c'est simple, c'est, je souhaite ça, c'est ça que je souhaite, c'est que l'islam respecte les lois de la république."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valérie Pécresse souhaite aussi fermer toutes les mosquées dans lesquelles on peut trouver des précheurs de haine."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Moi, ce que je propose, c'est, évidemment, que toutes les mosquées dans lesquelles il y a des prêcheurs de haine soient fermées."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valérie pécresse souhaite que les prêches soient en français."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Je propose que les, je veux que les prêches soient en français, et je veux que les prêcheurs de haine soient soit en prison, soit dans l'avion."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Zemmour explique qu'il est impossible d'avoir un islam qui suit les lois de la républiques alors que soixante cinq pour cent des jeunes musulmans mettent les lois de la charia au dessus de celles de la république."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Et, quand vous avez soixante-cinq pour cent des jeunes musulmans qui, selon l'ifop, estiment que la charia est au-dessus des lois de la république, vous pouvez pérorer sur le discours de haine et sur les valeurs de la république."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valérie pécresse souhaite mettre en place un plan de déghettoïsation, en mettant en place un plafond de trente pour cent de logement social par quartier."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Moi, je pense, que, ce qu'on a demandé aux chrétiens et aux juifs par le passé, on peut le demander, aujourd'hui, aux musulmans."
+            },
+            {
+                "speaker": "VP",
+                "text": "C’est à dire d'un, de, de mettre leur foi dans le cadre des lois de la république, et c'est mon combat, depuis que je suis élue, et c'est à ça que je travaille, et, simplement, on peut le faire, mais, pour le faire, il faut aussi déghettoïser, parce qu'on a des territoires, qui sont des territoires perdus de la république, qui sont, aujourd'hui, des zones de non-droit, parfois même des zones de non-france."
+            },
+            {
+                "speaker": "VP",
+                "text": "ll faut un plafond anti ghetto de trente pour cent de logement social par quartiers."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Zemmour explique que ce plan revient à mettre en place des HLM dans toutes les villes de France"
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Madame pécresse dit, il faut déghettoïser, et comment elle fait ?"
+            },
+            {
+                "speaker": "EZ",
+                "text": "C'est que, simplement, elle va mettre, dans tous les petits villages à proximité de toutes les villes et les villages de france, des barres de hlm, et des immeuble, avec des immigrés, parce que madame pécresse ne supprime pas la loi SRU, que moi je supprime."
+            },
+            {
+                "speaker": "VP",
+                "text": "Sur la loi sru, jeudi, à Chartres, j’ai dit que je mettais fin à cette obligation, et qu'on ferait des contrats avec chaque niveau, ça, pour que les maires retrouvent la maîtrise de leur urbanisme"
+            }
+        ]
+    }
+]

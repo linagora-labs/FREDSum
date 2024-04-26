@@ -1,0 +1,239 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Emmanuel Macron et Marine Le Pen discutent de leur vision pour la retraite et de la dette."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Jusqu'à quel âge devrons-nous travailler si vous êtes élus l'un et l'autre ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique qu'avec elle, la retraite sera entre 60 et 62 ans et 40 et 42 annuités."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Ils partiront à la retraite entre 60 et 62 ans pour avoir une retraite pleine, il leur faudra entre 40 et 42 annuités."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine le pen considère qu'une personne qui a commencé à travailler tôt doit pouvoir partir tôt, et que ceux qui ont eu un premier emploi entre 17 et 20 ans pourront partir à la retraite à 60 ans, avec une progression jusqu'à un maximum de 62 ans et 42 annuités."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Je pense que la justice, elle nécessite de considérer que plus on travaille tôt et plus on travaille dur et plus il faut partir tôt."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Tous ceux qui auront eu un premier emploi significatif avant l'âge de 20 ans, entre 17 et 20 ans, pourront partir à la retraite à 60 ans après 40 annuités."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Et progressivement, au fur et à mesure de l'âge auquel on rentre dans le système, et bien on obtiendra maximum 42 annuités et 62 ans."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique que les dispositifs comme la carrière longue sera toujours prise en compte, et explique qu'augmenter l'âge de la retraite revient à payer des chômeurs plus longtemps."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Permettez-moi quand même de rappeler, parce que je sais que les amis de M. Macron ont essayé de créer une incertitude et donc une inquiétude auprès des Français que tout dispositif particulier, carrière longue et autres, sera évidemment prioritaire sur ma réforme."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Alors que très certainement la majorité d'entre eux ne seront plus en activité puisque déjà à 62,8 mois ils sont déjà la moitié à être en inactivité et au moment où ils prennent leur retraite."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron souhaite mettre le minimum contributif à 1100 euros, ce qu'il considère plus juste que la mesure de marine le pen de mettre le minimum retraite à 1000 euros que les gens aient une carrière longue ou non."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Moi je propose, y compris pour toutes celles et ceux qui sont aujourd'hui à la retraite, de passer ce qu'on appelle le minimum contributif c'est-à-dire quelqu'un qui a une retraite complète à 1100 euros."
+            },
+            {
+                "speaker": "EM",
+                "text": "Vous proposez la même retraite pour quelqu'un qui n'a jamais travaillé de sa vie et quelqu'un qui a une vie de labeur."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique qu'il faut augmenter l'âge de la retraite pour financer les progrès sociaux et pour équilibrer le régime des retraites sans augmenter les impôts."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Et avant même ces progrès, notre régime est déséquilibré."
+            },
+            {
+                "speaker": "EM",
+                "text": "Je ne veux pas que les impôts augmentent, quand je vous dis ça, je suis crédible."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron souhaite augmenter l'âge de la retraite à 65 ans en 2031, en gardant les dispositifs de carrières longues et de pénibilité, qui n'est pas prise en compte par Marine Le Pen."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Et donc il n'y a qu'une manière de financer c'est de travailler progressivement plus, avec un pilier qui est le plein emploi."
+            },
+            {
+                "speaker": "EM",
+                "text": "Ce qui veut dire que vous atteindrez en 2028 64 ans et en 2031 65 ans."
+            },
+            {
+                "speaker": "EM",
+                "text": "Le premier, carrière longue, il faut garder un tel dispositif, vous avez raison."
+            },
+            {
+                "speaker": "EM",
+                "text": "Le deuxième, c'est la pénibilité."
+            },
+            {
+                "speaker": "EM",
+                "text": "Mais vous, vous n'êtes pas juste davantage parce que comme vous ne prenez pas en compte les critères de pénibilité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron souhaite supprimer les régimes spéciaux, et explique que Marine Le Pen n'explique pas comment financer ses progrès."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Et trois, il faut supprimer les principaux régimes spéciaux, et donc les personnes que l'on embauche dans ces régimes, en particulier, la RATP, EDF ne doivent plus être embauché dans un régime spécial, eux doivent rentrer dans le système général."
+            },
+            {
+                "speaker": "EM",
+                "text": "Vous, vous n'expliquez jamais comment vous financez vos progrès."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique qu'Emmanuel Macron a créé 600 milliards d'euros de dettes, et qu'il a donc mal financé ses projets."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Pardon M. Macron mais je rappelle que vous êtes le président qui a créé 600 milliards d'euros de dette supplémentaire en cinq ans dont deux tiers n'ont rien à voir avec le covid."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique que la dette a augmenté pour payer la sécurité sociale et les collectivités sociales en plus du covid, pendant lequel les gens n'ont pas cotisé."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Les 600 milliards d'euros de dettes, c'est 200 milliards de la partie de l'État, le reste c'est la sécurité sociale et les collectivités locales."
+            },
+            {
+                "speaker": "EM",
+                "text": "Parce que comme les gens ne pouvaient pas travailler on n'a pas prélevé leurs cotisations, figurez-vous, parce que on a même fait des décalages voire des exonérations de cotisations."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique que pendant le quinquennat d'Emmanuel macron, le chômage n'a pas baisse, qu'il y a plus de pauvres, qu'il y a un grand déficit de la balance commerciale, et que la productivité a peu augmenté par rapport aux autres pays européen."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "D'ailleurs, c'est si vrai qu'en réalité les chiffres du chômage, c'est-à-dire les chômeurs A, B, C étaient 5,5 millions quand vous avez été élus. Ils sont 5,4 millions."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Moi ce que je vois c'est qu'il y a 400 milles pauvres supplémentaires sous votre quinquennat."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Il y a 85 milliards de déficit de la balance commerciale."
+            },
+            {
+                "speaker": "MLP",
+                "text": "C'est le chiffre de la productivité parce que, en l'occurrence, le chiffre de la productivité, il décroche totalement M. Macron, à compter de votre élection."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen souhaite faire du patriotisme économique, relocaliser les activitées, réindustrialiser le pays, et aider les petites entreprises."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Il faut faire du patriotisme économique, il faut faire de la relocalisation des activités, il faut réindustrialiser notre pays, il faut aider les très petites entreprises et les petites et moyennes entreprises en leur accordant des baisses de fiscalité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique que la plus grosse baisse d'impôt d'emmanuel macron était la suppression de l'impôt sur les grandes fortunes."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Quand vous parlez des baisses d'impôts que vous avez fait pour les Français, vous oubliez de dire que la plus grosse baisse, ça a été, évidemment la suppression de l'impôt sur les grandes fortunes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron répond que c'est la taxe d'habitation, et que l'aide du covid a permis aux français de survivre, et demande à Marine le pen ce qu'elle aurait fait autrement."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "C'est la taxe d'habitation Mme Le Pen"
+            },
+            {
+                "speaker": "EM",
+                "text": "Mais que les restaurateurs, que les artisans, que les commerçants, que les petits industriels qui nous écoutent aujourd'hui mais viennent témoigner, viennent vous parler et vous dire qui les a aidés pendant la crise covid, qui les a aidés avec le fonds de solidarité, avec le chômage partiel, avec les prêts garantis, avec la prise en charge parfois de leurs propres cotisations, c'est le gouvernement."
+            },
+            {
+                "speaker": "EM",
+                "text": "Expliquez-moi ce que vous auriez fait autrement Mme Le Pen."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique qu'elle aurait créé des fonds propres prendant le premier confinement, qu'elle n'aurait pas continué les couvre feux après, et qu'elles n'aurait pas fermée les petites commerces qui n'étaient pas le lieu de transmission du covid"
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "D'abord le premier confinement, j'avais proposé des fonds propres."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Après le premier confinement vous avez continué les couvre-feux, vous avez continué de fermer les commerces en considérant qu'il y avait les essentiels et les non essentiels."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Et bien avec tout cela j'étais en désaccord pour une raison simple, c'est qu'à cette époque-là après le premier confinement on savait qu'en réalité, les petits commerces n'étaient pas le lieu de transmission du virus"
+            }
+        ]
+    }
+]

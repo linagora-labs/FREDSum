@@ -1,0 +1,138 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Clémentine Autain, Gabriel Attal et Jordan Bardella discutent du pouvoir d'achat des français."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Je pense que vous êtes en effet tous d'accord pour dire qu'il faut mieux recruter les professeurs, mieux les payer également, sauf que l'éducation nationale n'y arrive pas."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal débute en expliquant que la france a su garder une inflation plus faible que le reste de l'europe, à l'aide des blocage du prix du gaz et de l'électricité et la réduction du prix du carburant."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "C'est-à-dire que, alors, d'abord, un niveau de burnout là aussi très élevé, on en a parlé, je dirais, dans le débat public sur l'hôpital, et c'est vrai que quand j'écoute Gabriel Attal, moi aussi, j'ai ce sentiment que vous ne prenez absolument pas la mesure de l'enfer, mais vraiment de l'enfer que vivent ces personnels, avec des gens qui sont en pleurs, qui vont travailler en pleurant, qui n'en peuvent plus, en fait."
+            },
+            {
+                "speaker": "CA",
+                "text": "En 20 ans, ils ont perdu 20 % de pouvoir d'achat."
+            },
+            {
+                "speaker": "CA",
+                "text": "C'est pour ça que je dis que la question du dégel du point d'indice globalement est fondamentale, et nous voulons le relever de 10 points."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique vouloir mettre en place quatre grande mesures, la baisse de la tva de vingt à cinq virgule cinq pourcent sur l'énergie, le blocage des prix sur un panier de cent produits de première nécessité, la réindexation des pensions de retraite sur l'inflation, et l'augmentation des salaires, en supprimant les charges sur les augmentations à échelle de 10% d'augmentation."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Et vous inquiétez pas, on a tout à fait de quoi les financer, on sait combien ça coûte et on augmente les impôts pour les 10 % les plus riches."
+            },
+            {
+                "speaker": "CA",
+                "text": "Il y a le fait que le bilan global se résume en 2 chiffres, c'est que vous avez les 500 familles les plus riches de France qui ont doublé leur patrimoine en 5 ans, et vous avez 400 000 pauvres en plus."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et donc, il faut évidemment mettre des moyens, augmenter les salaires, et je rappellerai sur ce qui a été dit sur les salaires, les enseignants aujourd'hui sont payés 25% de moins que tous les autres fonctionnaires de catégorie A."
+            },
+            {
+                "speaker": "JB",
+                "text": "Donc, il faut augmenter les salaires."
+            },
+            {
+                "speaker": "JB",
+                "text": "Moi, il y a quelque chose qui m'a, s'agissant de l'école, qui m'a beaucoup inquiété depuis le début de ce quinquennat, c'est la nomination d'un ministre de l'Education nationale, qui aurait pu d'ailleurs être nommé par Jean-Luc Mélenchon, puisqu'il partage l'essentiel de ces thèse, qui est un anti-blanquer."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal explique qu'il souhaite aussi augmenter de 4% les pensions de retraite pour atteindre le taux de l'inflation."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "On a agi ces 5 dernières années avec une priorité, c'était de renforcer les moyens de l'éducation dans les quartiers les plus difficiles"
+            },
+            {
+                "speaker": "GA",
+                "text": "On a augmenté les primes, qui sont versées aux enseignants, qui vont exercer dans ces quartiers"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal explique que la nupes souhaite augmenter les impôts."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "On a mis en place, ça aussi, c'est le cas chez vous, je crois, Clémentine Autain, des petits déjeuners gratuits dans les écoles primaires pour les enfants de ces quartiers, parce qu'on sait que c'est beaucoup plus difficile d'apprendre avec le ventre vide."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine autain défend son programme en expliquant qu'elle souhaite créer de nouvelles tranches d'impôt sur le revenu, et que tous ceux qui gagnent moins de 4000 euros s'en sortent gagnants."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Maintenant, on veut avoir une action sur l'ensemble de notre système éducatif, en augmentant la rémunération des enseignants."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine Autain souhaite aussi taxer les super profits et les grands opérateurs pétroliers."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Ils vont être revalorisés et revalorisés sensiblement, en ayant aussi là une action de refondation sur les conditions de travail, sur l'organisation, pour donner plus d'autonomie, plus d'autonomie pédagogique à nos enseignants, pour tester des pratiques innovantes, plus d'autonomie au directeur d'établissement aussi."
+            },
+            {
+                "speaker": "JB",
+                "text": "Vous voyez la conséquence du manque de fonctionnaires aujourd'hui, et du fait que les emplois, notamment dans la fonction publique et chez les enseignants, soient moins attractifs."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine autain souhaite aussi le blocage des prix, la taxation des dividentes, et l'augmentation du SMIC de 15%."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Résultat des comptes, ils sont obligés à la tête de l'État de supprimer les mathématiques, et il y a 300 000 élèves de terminale qui, l'an dernier, n'avaient pas les mathématiques, 170 000 sur 300 000 qui n'avaient pas de mathématiques dans le tronc commun."
+            },
+            {
+                "speaker": "JB",
+                "text": "Il y a trop de jeunes qui arrivent aux lycées, qui arrivent aux collèges et qui ne maîtrisent pas la langue, qui ne maîtrisent pas les savoirs fondamentaux, donc il faut augmenter le temps d'enseignement du français, lire, écrire, compter des mathématiques et mettre le paquet sur les fondamentaux plutôt que sur les thèses indigénistes que vous voulez faire rentrer à l'éducation nationale."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine Autain explique que les PME auront un carnet de commande mieux rempli grâce aux autres réformes de la france insoumise."
+        },
+        "extractive": []
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine autain explique qu'elle souhaite supprimer le quotient familial qu'elle considère comme injuste, car elle baisse les impôts d'un taux fixe, avantageant les gens qui sont plus riches et qui paient plus d'impôts"
+        },
+        "extractive": []
+    }
+]
