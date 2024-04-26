@@ -5,8 +5,8 @@
         },
         "extractive": [
             {
-                "speaker": "P1",
-                "text": "Une question encore sur l'éducation, question qui revenait à l'une de l'actualité cette semaine, avec une alerte lancée par plusieurs acteurs de l'éducation nationale et qui concerne certains établissements dans lesquels sont apparus ces derniers temps de plus en plus de tenues à caractère religieuse."
+                "speaker": "P2",
+                "text": "Qu'on soit bien clair, pourquoi la présomption de légitime défense pour les policiers, vous dites non?"
             }
         ]
     },
@@ -16,8 +16,8 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
-                "text": "C'est-ce que défend les féministes de la France insoumise qui ne trouve pas de problème à défendre le burkini plutôt que de parler de pouvoir d'achat lors des élections législatives, par exemple."
+                "speaker": "GA",
+                "text": "S'il y a légitime défense, vous avez une justice qui est capable d'établir les faits."
             }
         ]
     },
@@ -27,8 +27,8 @@
         },
         "extractive": [
             {
-                "speaker": "CA",
-                "text": "Non, mais. C'est quand même extraordinaire d'entendre l'extrême droite qui, à peu près, sur tout sujet globalement qui concerne les droits des femmes, toujours sur les positions ultra conservatrices, pour ne pas dire rétrograde, et qui est là, en train de me faire des leçons de féminisme."
+                "speaker": "JB",
+                "text": "La présomption de légitime défense, c'est justement un soutien moral."
             }
         ]
     },
@@ -38,8 +38,8 @@
         },
         "extractive": [
             {
-                "speaker": "CA",
-                "text": "Est-ce qu'on parle des signes religieux à l'école?"
+                "speaker": "JB",
+                "text": "Ça ne fait pas la présomption de légitime défense, Ça ne fait pas fi de l'enquête."
             }
         ]
     },
@@ -49,8 +49,8 @@
         },
         "extractive": [
             {
-                "speaker": "CA",
-                "text": "Il me semble que ce sont des questions qui sont déjà tranchées par la loi dans l’état dans lequel nous sommes"
+                "speaker": "JB",
+                "text": "Ça veut juste dire que le policier, quand on menace de lui rouler dessus et qu'il est contraint de faire usage de la force, il ne se retrouve pas avec les menottes en garde à vue dans l'heure."
             }
         ]
     },
@@ -61,7 +61,7 @@
         "extractive": [
             {
                 "speaker": "JB",
-                "text": "Quand vous avez une démographie dont le compte à rebour est déclenché, quand vous accueillez des centaines de milliers de personnes chaque année dans votre pays, ces personnes-là viennent aussi avec leurs mœurs, leur coutume, leur mode de vie."
+                "text": "Je vous rappelle qu'il y a 25% de détenus dans les prisons alors qu'on n'a plus de place dans les prisons et qu'il y a 100 000 peines de prison qui ne sont pas appliquées chaque année, manque de place, qui sont étrangers."
             }
         ]
     },
@@ -72,7 +72,7 @@
         "extractive": [
             {
                 "speaker": "JB",
-                "text": "Moi, je pense que la gauche et l'extrême gauche s’est compromis avec les islamistes."
+                "text": "Cette mesure et ensuite, on supprime les aides sociales aux parents de mineurs récidivistes."
             }
         ]
     },
@@ -82,8 +82,12 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
-                "text": "Une des premières choses qu'a fait Jean-Michel Blanquer, après sa nomination à l'éducation nationale, ça a été de mettre en place une remontée systématique de tous les signalements de ce type d'atteinte à la République et à la laïcité, et de mettre en place un système avec des équipes formées pour réagir face à ces situations, dans chaque rectorat, pour se déplacer dans les établissements scolaires pour trouver des solutions avec les familles."
+                "speaker": "CA",
+                "text": "Monsieur Bardella parlait des femmes, puisque dès qu'il peut faire rentrer la défense des femmes, c’est soit dans ses propos racistes, soit par le biais de sa visée sécuritaire."
+            },
+            {
+                "speaker": "CA",
+                "text": "Mais la réalité que n'a pas l'air de connaître, c'est que la majorité des agressions sexuelles et des viols à l'encontre des femmes sont intrafamiliales."
             }
         ]
     },
@@ -91,36 +95,78 @@
         "abstractive": {
             "text": "Clémentine Autain explique que la lutte contre la violence faite aux femmes n'est pas résolue."
         },
-        "extractive": []
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Ça nous donne tout un chantier exclu du débat quand on parle de sécurité, qui est la question des violences faites aux femmes."
+            }
+        ]
     },
     {
         "abstractive": {
             "text": "Gabriel Attal explique que des policiers ont été formés pour la libération de la parole, mais qu'ils doivent être soutenus."
         },
-        "extractive": []
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "On forme désormais tous les policiers en école à la question de la libération de la parole, de la prise des dépôts de plainte."
+            },
+            {
+                "speaker": "GA",
+                "text": "Ils attendent de nous qu'on les soutienne, qu'on reconnaisse effectivement la difficulté de leur condition de travail."
+            }
+        ]
     },
     {
         "abstractive": {
             "text": "Clémentine Autain explique qu'il est de la responsabilité de l'état de mettre fin à l'impunité."
         },
-        "extractive": []
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Je pense qu'il y a un lien de défiance entre la population et la police aujourd'hui et qu'il y a quelque chose qui ne tourne pas rond et qu'il faut renouer un lien de confiance."
+            }
+        ]
     },
     {
         "abstractive": {
             "text": "Sur les places de prisons, Jordan Bardella veut construire des nouvelles places de prisons, et libérer celles occupées par les délinquants étrangers en les expulsants."
         },
-        "extractive": []
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Je plaide pour cette police de proximité et pour que les relations soient différentes, notamment dans les quartiers populaires."
+            },
+            {
+                "speaker": "P1",
+                "text": "Sur la sécurité, oui ou non, faut-il construire en France plus de places de prison?"
+            },
+            {
+                "speaker": "JB",
+                "text": "Oui, mais on peut faire de la place dès demain en expulsant les délinquants étrangers qui sont dans les prisons?"
+            }
+        ]
     },
     {
         "abstractive": {
             "text": "Clémentine Autain ne souhaite pas construire plus de places de prison, et préfère les alternatives pour certaines peines."
         },
-        "extractive": []
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Je pense qu'il y a des alternatives pour un certain nombre de peines possibles."
+            }
+        ]
     },
     {
         "abstractive": {
             "text": "Gabriel Attal souhaite construire des places de prisons, et créer des peines alternatives"
         },
-        "extractive": []
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Oui, on a engagé un plan de 15 000 créations de places de prison, 8 000 qui ont été livrées dans le quinquennat qui vient de s'écouler, 7 000 qui sont programmées qui seront livrées prochainement."
+            }
+        ]
     }
 ]

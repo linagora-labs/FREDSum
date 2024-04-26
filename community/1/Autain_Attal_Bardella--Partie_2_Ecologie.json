@@ -5,8 +5,8 @@
         },
         "extractive": [
             {
-                "speaker": "P2",
-                "text": "C'était le premier grand thème de cette émission, c'est maintenant ça a été un thème de friction ces derniers jours, quelle mesure pour protéger le pouvoir d'achat des français ?"
+                "speaker": "P1",
+                "text": "L'autre question de l'actualité qui s'impose dans ce débat ce soir c'est évidemment la canicule les 40 degrés ont été dépassés aujourd'hui pour la première fois de l'année, 12 départements sont ce soir en alerte rouge c'est la canicule la plus précoce jamais constatée en France quelle est Jordan Bardella une fois l'élection de dimanche passée la première mesure à prendre ?"
             }
         ]
     },
@@ -17,11 +17,11 @@
         "extractive": [
             {
                 "speaker": "GA",
-                "text": "D'abord merci de rappeler qu'on a beaucoup agi pour limiter l'envoler des prix dans notre pays il y a aujourd'hui une inflation qui est élevée trop élevée en France, au-dessus de 5% mais qui reste la plus faible de la zone euro."
+                "text": "Ce qui se passe avec cette canicule, c’est qu’elle nous rappelle une chose importante c'est que quand on parle du réchauffement climatique, on ne parle pas seulement de l'impact qu'il aura sur les générations à venir, on parle de l'impact qu'il a déjà sur les populations aujourd'hui."
             },
             {
                 "speaker": "GA",
-                "text": "On a dès le mois de novembre dernier 2021, bloqué les prix du gaz, bloqué les prix de l'électricité, ce qui fait que contrairement à ce que nous voyons autour de nous, notamment en Espagne et en Italie, ou encore en Allemagne, il n'y a pas eu d'envolée de la facture d'électricité puisque les prix ont été bloqués."
+                "text": "Nous avons fixé un objectif que je veux rappeler c'est être le premier grand pays au monde à sortir des énergies fossiles, sortir du gas, sortir du pétrole, du charbon, ça ne sera pas du jour au lendemain mais c'est possible si on investit massivement."
             }
         ]
     },
@@ -32,7 +32,7 @@
         "extractive": [
             {
                 "speaker": "GA",
-                "text": "On a mis en place des mesures avec notamment la ristourne carburant que vous évoquez, à laquelle va succéder un dispositif de soutien encore plus massif et ciblé pour ce qu'on appelle, j'aime pas trop ce terme les gros rouleurs, mais on pourrait dire les gros bosseurs, c'est-à-dire ceux qui doivent utiliser leur voiture pour aller travailler, faire un certain nombre de kilomètres, et ont une rémunération qui fait que l'augmentation du prix de l'essence ça les impacte énormément dans leur pouvoir d'achat."
+                "text": "J'ai face à moi deux personnalités politiques qui soutiennent des candidats à la présidentielle qui nous expliquent qu'on pourrait se priver soit du nucléaire pour madame Autain, soit des énergies renouvelables pour monsieur Bardella, alors qu'on sait qu'on a besoin des deux."
             }
         ]
     },
@@ -42,12 +42,12 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
-                "text": "écoutez sur les carburants il y a 60% de taxes, donc on peut si vous voulez donner de la main droite, pour reprendre le double de la main gauche, mais ça ne fonctionne pas."
+                "speaker": "CA",
+                "text": "Il y a les mesures immédiates d’urgence car on va être de plus en plus confrontés à ces vagues de canicule, il faut savoir que par exemple chez les jeunes générations ceux qui naissent là dans les années 2020, ils vont connaître probablement 7 fois plus d'épisodes de canicule que ce que nous avons connu."
             },
             {
-                "speaker": "JB",
-                "text": "Nous proposons nous 4 grandes mesures, la première grande mesure c'est la baisse de la TVA de 20% à 5,5% sur l'énergie, l'électricité, le gaz, le fuel on baisse la TVA de 20 à 5,5%, c'est en train de devenir aujourd'hui se chauffer comme se déplacer un produit de luxe."
+                "speaker": "CA",
+                "text": "Or les politiques publiques pour les avoir suivis à l'Assemblée nationale depuis 5 ans, elles sont marquées par l'incapacité à changer en profondeur notre modèle de développement, c'est à dire qu'il faut pas simplement une mesure dans un coin, bien sûr qu'il y a des mesures phares, il faut arrêter de subventionner les énergies fossiles, mais il faut investir dans la transition de notre modèle de développement."
             }
         ]
     },
@@ -58,7 +58,7 @@
         "extractive": [
             {
                 "speaker": "JB",
-                "text": "Il y a 3 fois depuis 1960 où le pouvoir d'achat a baissé, en 1960, en 2013, avec les mesures de François Hollande, et cette année avec Emmanuel Macron."
+                "text": "Nous n'avons pas de planète de rechange, ce qui crée aujourd'hui les conditions d'un dégâts sur l'environnement et de dégâts planétaires c'est ce modèle économique qui est basé sur fabrication de produits en Chine, à l'Est, en Asie une consommation en Europe et un recyclage en Afrique."
             }
         ]
     },
@@ -68,8 +68,8 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
-                "text": "Je veux juste réagir parce qu'on parlait de la question du carburant, et Jordan Bardella a élargi, donc je veux élargir aussi, nous avons une loi sur le pouvoir d'achat qui est prête à être votée après les élections législatives, qui prévoit que les pensions de nos retraités seront revalorisées de 4% dès le mois de juillet."
+                "speaker": "JB",
+                "text": "Je pense qu’il faut changer de modèle économique, il faut faire le localisme, il faut développer les circuits courts, il faut développer la proximité, il faut faire le patriotisme économique, il faut faire en sorte que plus vous allez vous fournir près du territoire près de votre ville près de votre métropole moins le produit est cher."
             }
         ]
     }
