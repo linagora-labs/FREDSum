@@ -4,6 +4,8 @@
 
 This repository contains the FREDSum dataset, a comprehensive collection of transcripts and metadata from various political and public debates in France. The dataset aims to provide researchers, linguists, and data scientists with a rich source of debate content for analysis and natural language processing tasks.
 
+Further details are provided in the paper "FREDSum: A Dialogue Summarization Corpus for French Political Debates" (see Acknowledgement below). While we continue to improve the dataset, the version of the transcripts and summaries used in the FREDSum paper can be found in the release [v0.1-emnlp-2023](https://github.com/linagora-labs/FREDSum/releases/tag/v0.1-emnlp-2023).
+
 The dataset can also be found on [Hugging Face](https://huggingface.co/datasets/linagora/FREDSum) and [Ortolang](https://hdl.handle.net/11403/fredsum).
 
 Data from the French National Assembly and French Senate that were used to continue the pretraining of the Barthez language model, as described in the paper "FREDSum: A Dialogue Summarization Corpus for French Political Debates", is available at [FREDSum Parliament](https://hdl.handle.net/11403/fredsum-parliament). (The portion from the National Assembly can also be found on [Hugging Face](https://huggingface.co/datasets/OpenLLM-France/Claire-Dialogue-French-0.1/tree/main/FR).)
