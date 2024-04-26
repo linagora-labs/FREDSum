@@ -1,0 +1,227 @@
+[
+    {
+        "abstractive": {
+            "text": "CHIRAC entend se concentrer sur les entrepreneurs, en facilitant leur accès au crédit, en diminuant leurs contraintes administratives et en réduisant leurs charges."
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Nous avons en France 2.400.000 entrepreneurs ; ce sont 2.400.000 possibilités de créer des emplois, d'insérer des jeunes, à condition naturellement qu'on ne les paralyse pas, qu'on ne les tire pas en permanence vers le bas."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Ce qui veut dire leur permettre d'accéder au crédit, ce qui n'est quasiment pas le cas aujourd'hui, et aux fonds propres."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Ce qui veut dire diminuer la paperasserie épouvantable, qui s'est considérablement augmentée sous l'impulsion socialiste et qui les paralyse, inutilement généralement."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Cela suppose naturellement une diminution des charges qui pèsent sur le travail."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Autrement dit, il vaut mieux payer des gens, dépenser de l'argent pour que des gens travaillent, que d'en dépenser généralement plus, et c'est ce qu'on fait, pour qu'ils soient au chômage et qu'on les indemnise."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique que les socialistes ont réussi à mettre fin à l’inflation, à redresser le commerce extérieur, à redresser les comptes des entreprises et à moderniser l’appareil productif français."
+        },
+        "extractive": [
+            {
+                "speaker": "M. JOSPIN",
+                "text": "Nous avions l'inflation à 15 % quand nous sommes arrivés en 81, il n'y a plus d'inflation."
+            },
+            {
+                "speaker": "M. JOSPIN",
+                "text": "Nous avons redressé le Commerce extérieur. Nous avons redressé les comptes des entreprises."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "JOSPIN commence par rappeler le bilan des socialistes."
+        },
+        "extractive": [
+            {
+                "speaker": "M. JOSPIN",
+                "text": "Nous avons fait toute une série de choses positives : moderniser l'appareil de production du pays mais le chômage est, pour nous comme pour d'autres pays européens, une croix et une difficulté."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "JOSPIN dénonce ensuite la politique de l’offre de Baladur, estimant qu’il faut une politique de la demande pour stimuler la croissance économique."
+        },
+        "extractive": [
+            {
+                "speaker": "M. JOSPIN",
+                "text": "M. Balladur et son Gouvernement ont fait une erreur de diagnostic en transférant des sommes vers les entreprises, c'est-à-dire vers l'offre alors que c'était la demande qui manquait, la consommation intérieure."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "En revanche, il propose tout de même un abaissement des charges sur les bas salaires."
+        },
+        "extractive": [
+            {
+                "speaker": "M. JOSPIN",
+                "text": "Et, de ce point de vue, si, par une augmentation maîtrisée des salaires et, là, le social rejoint l'économique, nous donnons un léger surcroît de croissance, nous avons un premier impact par la croissance."
+            },
+            {
+                "speaker": "M. JOSPIN",
+                "text": "D'autre part, je propose un abaissement des charges sur les bas salaires à travers l'allègement de la cotisation employeur parce que c'est essentiellement sur le terrain du travail non qualifié que les problèmes existent."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "JOSPIN propose enfin une grande politique d’investissements étatistes, générant emplois et croissances à l’échelle européenne."
+        },
+        "extractive": [
+            {
+                "speaker": "M. JOSPIN",
+                "text": "Enfin, parmi les mesures que je propose, quatre grands programmes volontaristes là encore, impulsés par l'Etat mais trouvant ses relais dans les collectivités locales, naturellement dans les entreprises, pour une grande politique du logement et du logement social, de lutte contre les emplois dégradés, les emplois de proximité, les emplois dans le domaine de l'environnement et les emplois dans le domaine de l'humanitaire."
+            },
+            {
+                "speaker": "M. JOSPIN",
+                "text": "C'est-à-dire une vraie politique volontariste qui s'appuie en plus, en Europe, sur la reprise des idées de Jacques Delors, dans son \"Livre Blanc\", à savoir les grands travaux à l'échelle européenne."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "CHIRAC fustige la politique fiscale de son adversaire (écotaxe, augmentation de l’impôt sur les sociétés)."
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Vous voulez augmenter l'impôt sur les sociétés, vous voulez créer une écotaxe, c'est-à-dire la taxe sur la pollution, et vous voulez créer un troisième impôt, je ne me souviens plus duquel, ce n'est pas comme cela, M. Jospin, que vous arriverez à redonner à ces 2700000 entrepreneurs qui sont les forces vives de notre pays, qui peuvent lui redonner son esprit de conquête, qui peuvent innover, investir, embaucher, ce n'est pas comme cela que vous leur permettrez de le faire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "CHIRAC pense que la politique socialiste a mené à une économie de rente au service des entreprises à cause d’une politique défavorable aux travailleurs due à l’augmentation des taxes sur le travail."
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Essentiellement, d'ailleurs, sous l'impulsion de gouvernements socialistes, les salariés ont eu moins, de moins en moins, ce qui fait que naturellement les entreprises ont eu plus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il pense au contraire qu’il faut aider les entreprises à investir et non à spéculer."
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Mais comme les salariés avaient moins, la consommation n'a pas augmenté et, comme elle n'augmentait pas, les entreprises n'étaient pas incitées à investir."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il s’attaque ensuite au passage du temps de travail à 39 heures qui n’a pas créé beaucoup d’emplois."
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Les 39 heures n'ont pratiquement créé aucun emploi."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Mais, dans l'économie, il y a des marges, aujourd'hui, de productivité dans toutes les entreprises, petites, moyennes et grandes, qui sont supérieures à deux heures de réduction de travail."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Si bien que le travail diminuera de deux heures, c&#x27;est vrai, mais on n&#x27;embauchera pas pour autant un travailleur supplémentaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "CHIRAC regrette également la disproportion entre le grand nombre de jeunes diplômés et le faible nombre d’emplois à pourvoir en face."
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "J'ai toujours été contre le Smic Jeunes."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "On va en former bientôt 250000 par an, bac + 4 et bac + 5."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "On a 80000 emplois à leur donner à ce niveau-là."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "On est en train de créer une vraie difficulté supplémentaire et c'est le moment que vous choisissez pour rendre leur embauche dans les entreprises plus difficile puisque l'employeur sera obligé de payer des cotisations supplémentaires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "JOSPIN parle de son côté des PME et PMI, expliquant que les droits de transmissions pour celles-ci doivent baisser."
+        },
+        "extractive": [
+            {
+                "speaker": "M. JOSPIN",
+                "text": "Je m'en préoccupe tellement que, alors que, vous, vous préconisez, et c'est votre droit, un allègement sur l'ensemble des droits de succession, moi, je propose simplement qu'on le fasse pour la transmission, en direction des petites et moyennes entreprises, de la succession parce qu'on sait que c'est une cause de mortalité des entreprises, sans raison économique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "CHIRAC est cette fois d’accord."
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Vous avez aujourd'hui, en gros, 80000 emplois qui sont détruits par l'impôt sur les successions compte tenu du niveau auquel, pour des raisons idéologiques."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il ajoute vouloir rendre le crédit plus facile d’accès pour les PME PMI."
+        },
+        "extractive": [
+            {
+                "speaker": "M. JOSPIN",
+                "text": "En ce qui concerne les crédits, par exemple, je suis favorable à ce qu'on revienne à une certaine sélectivité du crédit et qu'on aide particulièrement les PMI et les PME."
+            },
+            {
+                "speaker": "M. JOSPIN",
+                "text": "Sur un siècle, pour prendre les choses dans l'évolution humaine, c'est tout de même important, la durée du travail a diminué de moitié sans que les salaires baissent pendant cette période, d'ailleurs, au contraire, ils ont considérablement cru."
+            },
+            {
+                "speaker": "M. JOSPIN",
+                "text": "Je constate que le progrès technique aidant, la productivité progressant, la tendance à réduire le nombre des travailleurs dans la production est une tendance lourde, dominante de nos entreprises."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "JOSPIN défend ensuite les 35h, nécessité dans la mesure où la productivité a augmenté, puis termine en proposant la baisse des charges pour les petits salaires : il explique que le financement sera à la charge des patrons et représentera peu de choses sur la masse salariale globale"
+        },
+        "extractive": [
+            {
+                "speaker": "M. JOSPIN",
+                "text": "Je pense, contrairement à vous, qu'un allègement d'environ 600 francs, parce que c'est cela que ça produit au niveau d'un salaire proche du Smic, c'est-à-dire une diminution de 10 % à peu près de la charge salariale, c'est une incitation forte pour les employeurs à embaucher des travailleurs sans qualification."
+            },
+            {
+                "speaker": "M. JOSPIN",
+                "text": "Par contre, si vous prenez un salaire à 20000 francs, par exemple, parce que cela jouera à partir de 15000 francs en réalité,ce renversement est donc des cotisations plus lourdes pour les autres salariés, ce n'est pas le salarié qui les paie, c'est le patron, c'est le chef d'entreprise, qu'est-ce que cela représente 600 francs pour un salaire à 20000 francs"
+            }
+        ]
+    }
+]

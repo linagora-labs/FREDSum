@@ -1,0 +1,176 @@
+[
+    {
+        "abstractive": {
+            "text": "JOSPIN pense qu’il existe une fracture sociale énorme en France."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "Comme je l'ai dit, au tout début de notre échange, de notre débat, je suis frappé de l'idée qu'il y a deux France, sans doute y en a t-il davantage, mais schématisons un peu mon propos, qui s'écartent."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il pense qu’une partie de la population craint de s’appauvrir."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "Ce qui me préoccupe, en particulier, c'est qu'une bonne partie des hommes et des femmes de ce pays qui vivent de leur travail, travail salarié ou travail non salarié, agriculteurs, artisans, commerçants, certaines personnes des professions libérales, mais dont les revenus sont moyens ou modestes, ont peur de voir leur ascension sociale bloquée, ont peur de voir l'avenir de leurs enfants moins bon que celui qu'ils ont connu, ce qui serait une rupture dans notre Histoire depuis la Libération, et, en même temps, ont la crainte d'être tirés vers le bas, tirés vers le bas, vers les situations de précarité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "JOSPIN estime de son côté qu’il faut lutter contre le chômage et encourager l’accession au logement."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "C'est le terrain du chômage, ma première priorité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur ce dernier point, JOSPIN entend construire davantage de logements sociaux, les attribuer plus justement et développer les prêts à la propriété sociale."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "Je pense qu'il faut construire plus de logements sociaux, d'une part, et, d'autre part, bien attribuer ceux qui existent déjà."
+            },
+            {
+                "speaker": "JOSPIN",
+                "text": "Je propose que les 70 % restants des organismes d'HLM et des villes soient attribués dans la transparence."
+            },
+            {
+                "speaker": "JOSPIN",
+                "text": "Et, enfin, d'accroître le nombre des prêts à la propriété sociale."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "CHIRAC est d’accord sur le thème de la fracture sociale mais pense que c’est le socialisme qui en est responsable."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "C'est vrai qu'il y a deux France, et c'est vrai que, fracture ou faille, cela s'écarte."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "JOSPIN conteste cela ; les causes sont structurelles, propres à toute l’Europe."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "C'est un phénomène européen lié à des politiques globales."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour CHIRAC, le socialisme accentue ces problèmes structurels."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "J'ai dit que le phénomène avait frappé beaucoup plus fortement la France que les autres pays européens, précisément parce que l'on a un système qui nous tire vers le bas, au lieu d'avoir un système qui nous donne un peu d'oxygène."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il pense qu’il faut avant tout aider les classes moyennes et modestes à devenir propriétaire grâce à des aides de l’état et des prêts à taux 0."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "II faut d'abord donner la possibilité aux gens qui sont entre 1,5 et 3 SMIC d'accéder, comme ils le souhaitent, à la propriété."
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "Et pour cela, il faut un nouveau type d'aides : il faut une aide directe d'apport personnel, je dirai de l'ordre de 120000 frs pour une famille avec 2 enfants, un prêt à taux 0 et, deuxièmement, il faut un prêt complémentaire adapté, c'est-à-dire qui tienne compte de l'accident social (chômage ou divorce), en rééchelonnant, le cas échéant, la dette de celui qui est titulaire du prêt."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "CHIRAC veut aussi développer la construction de logements, ce qui serait aussi une source d’emplois et de recettes."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "Enfin, il faut relancer la construction privée. Pour des raisons purement idéologiques, vous avez considérablement diminué la déduction forfaitaire sur le revenu, ce qui a limité la construction privée."
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "Et le coût, M. Jospin, est faible : 100000 logements, cela représente 10 milliards de rentrée de TVA ; 100000 logements, cela représente 200000 emplois, c'est-à-dire une économie de 24 milliards, si l'on estime qu'un chômeur coûte environ 120000 francs par an."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "JOSPIN le rejoint sur ce point car cela fait partie d’un de ses grands programmes de relance."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "D'abord, merci à Jacques Chirac de venir plaider pour moi, puisqu'en insistant sur l'importance du logement dans les créations d'emplois et dans les recettes fiscales, il a plaidé pour l'un de mes quatre programmes de création d'emplois, qui concerne le logement, très précisément."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il ajoute que les mesures de CHIRAC seront inefficaces à Paris, ville trop chère."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "Parce que qui peut accéder à la propriété à Paris ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "CHIRAC réplique en expliquant que les causes de la hausse des prix de la capitale viennent de la spéculation causée par les banques nationalisées."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "A Paris, nous avons eu la spéculation."
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "Des grandes Compagnies d'assurances et des grandes banques nationalisées appartenant à l'Etat ."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour JOSPIN le problème vient de l’activité des marchands de biens."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "Et des marchands de biens."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "CHIRAC critique ensuite la gauche qui appelait à la construction de bureaux en Île-de-France."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "Permettez-moi de vous dire, M. Jospin, que M. Rocard, qui était Premier Ministre, avait indiqué les règles, et la règle était : 1 m2 de logement pour 2 m2 de bureaux dans les villes de France, et notamment en Ile-de-France. Je voudrais vous dire que nous avons fait 8 m2 de logements pour 2 m2 de bureaux"
+            }
+        ]
+    }
+]

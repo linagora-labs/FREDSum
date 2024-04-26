@@ -1,0 +1,292 @@
+[
+    {
+        "abstractive": {
+            "text": "Tous deux sont d’accord pour réduire les déficits, mais leur méthode pour y parvenir est différente."
+        },
+        "extractive": [
+            {
+                "speaker": "David PUJADAS",
+                "text": "Vous êtes tous les deux d'accord, avec un calendrier un peu différent, pour arriver à l'équilibre des comptes publics."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Hollande commence par accuser son rival d’être responsable d’une hausse des déficit de 600 milliards, à cause de largesses faites aux plus fortunés et de son incapacité de maîtriser le budget public."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Parlons de la dette publique, elle a augmenté de 600 milliards d'euros depuis le début du quinquennat de Nicolas Sarkozy."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Cette dette publique que nous avons, que nous allons honorer, parce que nous allons prendre en charge ce qu'est votre héritage, cette dette publique est née à la fois de vos largesses fiscales, pour les plus favorisés, et, en même temps, de cette incapacité qui est la vôtre de maîtriser la dépense publique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour réduire les déficit, Hollande propose 40 milliards de prélèvements en plus pour les plus riches et 50 milliards d’économies."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Nous ferons 40 milliards de prélèvements supplémentaires et 50 milliards d'économies sur les dépenses."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "La fiscalité du travail sera alignée sur celle du capital, les niches fiscales seront plafonnées, une nouvelle tranche d’impôt sera mise en place pour les hauts revenus et l’impôt sur la fortune sera rétabli."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "D'abord, les revenus du travail seront fiscalisés au même titre que les revenus du capital ou les revenus du capital au même titre que les revenus du travail."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Les niches fiscales, qui ont été une façon pour beaucoup de contribuables aisés d'échapper à la progressivité de l'impôt, seront plafonnées à 10 000 euros."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Enfin, il y aura une tranche supérieure, 150 000 euros par part, qui sera à 45 %, au lieu de 41 % aujourd'hui."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il s’en prend en outre la TVA sociale de son adversaire, véritable taxe pour les plus modestes."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Ces éléments seront aussi complétés par le rétablissement de l'impôt sur la fortune parce que, avoir été capable, en fin de mandat, d'infliger aux Français la TVA anti-délocalisation, mais qui ne dissuadera aucune délocalisation, 13 milliards d'euros de prélèvements supplémentaires et d'avoir accordé un allégement fiscal sur l'impôt sur le revenu de près de 2 milliards d'euros ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sarkozy se défend en justifiant la hausse des déficits : en 2009, les recettes d’impôts ont brutalement chuté de 25 %."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Savez-vous Monsieur Hollande, vous qui êtes depuis si longtemps éloigné des dossiers qu'en 2009, les recettes de l'impôt sur les bénéfices de la France ont chuté du jour au lendemain de 25 % et que nous avons garanti, sur 100 milliards de transferts de l'Etat vers les collectivités territoriales, la stricte égalité d'une année sur l'autre."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il attaque ensuite Hollande sa proposition d’augmentation du nombre de fonctionnaires, là où lui, avec Fillon, en avait supprimé."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Vous commencez par promettre aux syndicats de l'éducation nationale, avant la moindre discussion, 61 000 postes de fonctionnaires en plus, alors même qu'avec François Fillon, nous avons supprimé 160 000 postes de fonctionnaires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il rappelle également que la réforme des retraites a réduit de 20 milliards le déficit de l’assurance maladie."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Deuxième élément, la réforme des retraites que nous avons mise en œuvre et que vous avez contestée, réduit de 20 milliards le déficit de l'assurance vieillesse."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour l’impôt sur la fortune, il explique avoir, en contrepartie de sa suppression, augmenté les droits de succession pour les plus riches."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "La réforme de l'impôt sur la fortune que j'ai faite, je l'ai conduite intégralement financée par les plus fortunés puisqu'elle l'a été par une augmentation des droits de succession, payée sur les plus hautes fortunes, de 40 % à 45 %."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Face à ça, il affirme avoir accordé 4 milliards via les heures supplémentaires, et 3 milliards pour les petites successions, soit des avantages importants pour les classes populaires."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "4 milliards et demi pour les heures supplémentaires Vous croyez que ce sont les riches qui profitent des heures supplémentaires ?"
+            },
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "3 milliards pour la suppression de l'impôt sur les successions, pour les petites et moyennes successions."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "De son côté, Hollande explique vouloir créer 12 000 postes dans l’enseignement – 60 000 lui répond Sarkozy."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Devant cette situation, j'ai pris un engagement et je l'assume, c'est de créer 12 000 postes par an pour tous les métiers de l'enseignement, c'est-à-dire pour les professeurs, les assistantes sociales, les infirmières scolaires, pour les surveillants, pour ceux qui vont encadrer les élèves qui sont le plus en difficulté, les plus violents, pour ceux qui pourront leur retrouver une nouvelle chance."
+            },
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Pas 12 000, 60 000 !"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur la retraite, Hollande précise que la réforme ne permet son financement que jusqu’à 2017-2018."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Enfin, sur la question des retraites, vous avez fait une réforme, qui d'ailleurs ne sera plus financée à partir de 2017-2018."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il appelle à revenir à 60 ans, avec 41 annuités, en dépit d’un coût de 5 milliards d’euros, ce qui représente peu de chose au regard de l’augmentation des dépenses s’étant produite sous le quinquennat de son adversaire."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "J'ai considéré que oui, pour cette catégorie, je rétablirai le départ à 60 ans dès lors qu'il y a 41 années de cotisation et qu'on a commencé tôt à travailler : 5 milliards d'euros."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Je rappelle que, sous votre direction, pendant cinq ans, la dépense publique a augmenté de 2 %."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Cependant, Sarkozy l’attaque sur l’imposition ; il ironise en estimant que les mesures fiscales feront fuir tout le monde ; or, pour Hollande, la tranche à 75 % ne concerne que les très gros revenus."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Qu'est-ce que vous voulez, Monsieur Hollande, que tout le monde s'en aille, que plus personne ne puisse payer les impôts ici ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il dénonce alors les mesures fiscales de Sarkozy, lesquelles ont favorisé les plus riches."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Vous savez très bien que j'ai fixé à 1 million d'euros le seuil d'imposition des 75 %."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Ce sont les plus modestes qui ont payé vos largesses."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Si vous m'interrogez, je vais répondre : vous avez augmenté les prélèvements obligatoires, sous votre quinquennat, de près d'un point et demi."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "En réponse, Sarkozy justifie la hausse des prélèvements : elle était nécessaire devant la crise ; par ailleurs, il précise que ces hausses ont touché les plus riches, non les classes populaires."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Monsieur Hollande, face à la crise, pour réduire notre déficit et diminuer notre endettement, j'ai dû prendre des décisions qui ont conduit à renforcer l'imposition des plus riches."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur l’enseignement, le problème ne vient pas du nombre de professeur mais de la qualité de l’enseignement ; il entend faire travailler les professeurs davantage, en échange d’une meilleure rémunération."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Le problème, c'est un problème de qualité, il faut augmenter la rémunération des enseignants."
+            },
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Moins d'enseignants, mieux payés, mieux formés, ayant 26 heures d'obligation de service au lieu de 18 heures."
+            },
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Je propose d'augmenter de 25 % la rémunération de ces professeurs, sur la base du volontariat."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Hollande, lui, explique également vouloir augmenter le nombre de policiers, pour répondre aux suppressions réalisées pendant le quinquennat de Sarkozy."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Les policiers, je veux augmenter leur nombre puisque vous avez supprimé 12 000 postes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Ce dernier revient sur la réforme des retraites pour mentionner l’ajout du critère de pénibilité."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Juste un mot sur les retraites."
+            },
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "J'ai introduit pour la première fois en France le critère de la pénibilité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Hollande, à son tour, revient sur un sujet précédemment évoqué, à savoir l’enseignement ; la France manquerait de professeurs en primaire, ce qui justifie les embauches qu’il propose ; sur la formation de ces enseignements, il critique les mesures de Sarkozy l’ayant supprimé."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "C'est-à-dire que nous avons moins de professeurs dans le primaire par rapport aux élèves que dans tous les pays comparables."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Ensuite, sur la formation, vous dites qu'on veut des enseignants mieux formés, vous avez vous-même, votre gouvernement, supprimé purement et simplement la formation des enseignants."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Enfin, il ne remplacera pas partout les fonctionnaires partant à la retraite mais créera à la place des postes dans l’éducation nationale et la police."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Ce qui veut dire que plutôt que de ne pas remplacer des fonctionnaires partant à la retraite, moi, je ne les remplacerai pas partout mais je créerai des postes et dans l'Education nationale et dans la Police."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sarkozy termine en parlant de la formation : il ne l’a pas supprimée, mais a fait en sorte que les enseignants soient formés à l’université."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "J'ai supprimé les IUFM qui étaient une catastrophe parce que j'ai voulu que nos enseignants soient formés dans l'université."
+            }
+        ]
+    }
+]

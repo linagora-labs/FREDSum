@@ -1,0 +1,79 @@
+[
+    {
+        "abstractive": {
+            "text": "Attal commence par rappeler que les conséquences du réchauffement se font déjà sentir et que le gouvernement a investi à la fois dans le nucléaire et dans les renouvelables."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Ce qui se passe avec cette canicule, c’est qu’elle nous rappelle une chose importante c'est que quand on parle du réchauffement climatique, on ne parle pas seulement de l'impact qu'il aura sur les générations à venir, on parle de l'impact qu'il a déjà sur les populations aujourd'hui."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique les avancées du quinquennat concernant le déploiement des véhicules électriques et la rénovation des logements."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Nous avons fixé un objectif que je veux rappeler c'est être le premier grand pays au monde à sortir des énergies fossiles, sortir du gas, sortir du pétrole, du charbon, ça ne sera pas du jour au lendemain mais c'est possible si on investit massivement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Autain conteste l’action du gouvernement, en particulier le nombre de logements rénovés."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Or les politiques publiques pour les avoir suivis à l'Assemblée nationale depuis 5 ans, elles sont marquées par l'incapacité à changer en profondeur notre modèle de développement, c'est à dire qu'il faut pas simplement une mesure dans un coin, bien sûr qu'il y a des mesures phares, il faut arrêter de subventionner les énergies fossiles, mais il faut investir dans la transition de notre modèle de développement. ça veut dire très concrètement les passoires thermiques que vous en parliez je suis désolée, la prime rénove n'a pas permis de rénover les 700 000 passoires thermiques, mais il faut investir dans."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Autain explique alors que le programme de Mélenchon n’a rien à voir avec la politique de Hollande."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Il y a la 650 propositions, et le programme là n'a strictement rien à voir avec le bilan de l'ère Hollande, je reviens quand même sur le climat puisque nous voulons c'est la planification écologique concrète, c'est-à-dire d'anticiper les changements aussi bien dans le bâtiment que dans le développement des transports en commun, c'est-à-dire que c'est un ensemble de mesures qui doit nous permettre de nous prémunir de toutes ces crises qui sont là devant nous."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Puis intervient Bardella : pour lui, le souci vient avant tout du libre échange ; il faut donc privilégier la production locale, les circuits courts et le protectionnisme."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Je pense qu’il faut changer de modèle économique, il faut faire le localisme, il faut développer les circuits courts, il faut développer la proximité, il faut faire le patriotisme économique, il faut faire en sorte que plus vous allez vous fournir près du territoire près de votre ville près de votre métropole moins le produit est cher. C'est l'inverse de ce qu'il faut faire aujourd'hui, et nous défendons notamment une loi de patriotisme économique qui permet à l'ensemble des TPE/PME d'avoir dans la commande publique un avantage"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Selon lui, les Français, et notamment les automobilistes ne sont pas les responsables de la crise climatique."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Donc je dirais que l'automobiliste français, la famille française qui font partie des pays les plus propres au monde a finalement très peu de responsabilité là-dedans donc il faut évidemment le prendre en compte, mais pas de solutions apocalyptiques."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Attal rebondit sur ces propos en mentionnant que des relocalisations ont lieu"
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Vous avez des entreprises qui le relocalisent des activités en France"
+            }
+        ]
+    }
+]

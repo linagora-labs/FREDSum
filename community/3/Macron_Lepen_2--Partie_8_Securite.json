@@ -1,0 +1,165 @@
+[
+    {
+        "abstractive": {
+            "text": "Selon MARINE LE PEN, il s’agit d’un des thèmes principaux de la campagne avec celui du pouvoir d’achat."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Voyez, je considère qu'avec le pouvoir d'achat, la sécurité est un des éléments absolument essentiels et une demande parfaitement légitime d'ailleurs des Français."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle déplore le barbarisme dans lequel le pays est en train de plonger et estime que l’immigration est l’une des causes essentielles expliquant ce phénomène ; elle appelle donc à changer la politique d’immigration en renvoyant clandestins et délinquants étrangers et en choisissant qui peut venir sur le territoire français."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Parce qu'on est confronté à une vraie barbarie, à un vrai ensauvagement."
+            },
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Car je le dis très clairement l'immigration anarchique et massive contribue à l'aggravation de l'insécurité dans notre pays."
+            },
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Nous aurons sûrement l'occasion d'en parler tout à l'heure qui vise à changer la politique d'immigration pour que, enfin simplement les Français décident qui vient, qui se maintient et qui doit partir et qu'on fasse respecter la loi notamment en renvoyant chez eux non seulement les clandestins mais également évidemment en renvoyant chez eux les délinquants et les criminels."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Par ailleurs, elle soutient la présomption de légitime défense pour les policiers et souhaite des peines plus dures contre les délinquants."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Il faut donc réarmer les policiers moralement d'abord, et je suis, vous savez, pour la présomption de légitime défense."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle estime qu’il faut exécuter toutes les peines, y compris les plus petites, comme celles par exemple de quelques semaines."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Et puis il faut être beaucoup plus dur sur les peines."
+            },
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "C'est mieux de mettre une petite peine de 5 jours ou de 15 jours qu'on effectue, plutôt qu'une peine d'un an qu'on n'effectue pas."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour cela, il est impératif de construire davantage de places de prison (25 000 dans son programme)."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Donc il faut construire des places de prison, et notamment en l'espèce 25 000 qui sont absolument nécessaires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "EMMANUEL MACRON commence de son côté par rappeler les mesures de son premier quinquennat : 10 000 postes de forces de l’ordre ont été créés et la justice a vu ses moyens augmenter de 30 %."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Moi durant ce quinquennat, j'ai tenu mes engagements, 10 000 postes de policiers et de gendarmes ont été créés."
+            },
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Et à côté de ça, on a augmenté les moyens de la justice de 30% ces deux dernières années."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il insiste également sur ses succès dans la lutte contre le terrorisme."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Des résultats aussi sur la lutte contre le terrorisme et je veux saluer ce qu'a fait le gouvernement, ce qu'ont fait l'ensemble des services, avec plus d'une trentaine d'attentat déjoués."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il justifie ensuite la hausse des violences intra-familiale : les victimes ont désormais moins peur de porter plainte."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Si les chiffres des violences au personne augmentent c'est à plus de 80 % des violences intrafamiliales, parce qu'il y eut une fin d'omerta, et je suis fier de ça."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "En effet, les policiers sont mieux formés à ce type de plaintes, et les associations ont réalisé un important travail de prévention."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Parce que ce qui était avant de la main courante est maintenant de la prise de plainte, parce qu'on a formé, investi, parce que les associations ont fait un travail formidable avec nous, parce qu'on a mis en place des numéros 24 heures sur 24, parce qu'on a justement commencé cette lutte."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il se croit également capable de créer 200 brigades dans la ruralité."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "La deuxième c'est dans la ruralité, grâce aux moyens que nous avons dégagé et aussi aux réformes que nous avons en fait, en particulier, sur le temps de travail et la loi d'orientation et de programmation du ministère de l'intérieur qui est prête, on pourra créer 200 brigades de gendarmerie dans nos campagnes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il en vient ensuite à évoquer le cyber, où les risques augmentent ; face à ce nouvel enjeu, il entend créer 1 500 postes de policiers spécialistes de l’espace internet, appuyés par un cadre juridique favorable."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "C'est le cyber, parce que vous savez beaucoup des risques et de l'insécurité vont être les attaques cyber contre les hôpitaux, contre les services publics, les rançonneurs privés, les terroristes, les agresseurs utilisent et utiliseront de plus en plus ces moyens."
+            },
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "C'est pourquoi je veux créer le cadre législatif pour les faire mais aussi les moyens en mettant en place 1 500 cyberpatrouilleurs qui vont permettre justement d'abord de répondre très vite, de protéger."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il souhaite par ailleurs généraliser les travaux d’intérêt généraux et les internats militaires pour la petite délinquance ; ces peines sont à ses yeux plus favorables à la réinsertion que la prison."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Il faut le permettre d'avoir de la rétention soit dans un environnement militaire, ce qui est une de mes propositions, soit des travaux d'intérêts généraux sous contrôle pour en particulier les plus petits délinquants."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Enfin, il propose de créer 8 500 postes de magistrats pour accélérer les procédures judiciaires."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Et je veux d'ores et déjà créer 8 500 postes de justice, magistrats, greffiers, personnels administratifs qui vont permettre d'alléger la charge de nos magistrats et de répondre beaucoup plus vite"
+            }
+        ]
+    }
+]

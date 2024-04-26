@@ -1,0 +1,99 @@
+[
+    {
+        "abstractive": {
+            "text": " Sarkozy appelle à refonder l’école autour du mérite et souhaite que chaque enfant puisse avoir accès aux grand auteurs ; il entend également enseigner aux enfants le respect et la morale républicaine."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Je veux une école du respect, de l'autorité, de l'exigence, du mérite où les enfants des familles modestes accèdent aux grands auteurs et où, comme Jules Ferry, on a de l'ambition pour les enfants."
+            },
+            {
+                "speaker": "NS",
+                "text": "Une école qui transmet un savoir, qui n'a pas peur d'enseigner le civisme, qui transmet une morale commune, une école où les maîtres sont respectés, où lorsque le maître entre dans la classe les élèves se lèvent en signe de respect."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Il propose que les enfants puissent rester après l’école en heures d’études ; ces heures seraient rémunérées avantageusement pour les enseignants chargés de la surveillance."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Je propose une révolution pour toutes les femmes en France, c'est que tous les enfants, si je suis élu Président de la République, pourront au collège et au lycée rester en étude surveillée après la fin des cours pour rentrer à la maison avec les devoirs faits."
+            },
+            {
+                "speaker": "NS",
+                "text": "J'ajoute que cela permettrait de résoudre le problème du pouvoir d'achat des enseignants, car cela leur permettrait de faire ces études encadrées, sur la base du volontariat, pour être davantage rémunérés."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Sarkozy aborde ensuite la question des enfants handicapés : il souhaite que ces enfants puissent être scolarisés dans une école normale."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Je considère qu'il est scandaleux qu'un enfant ayant un handicap ne puisse pas être scolarisé dans une école \"normale\", c'est important pour l'enfant ayant un handicap et pour les autres enfants qui n'ont pas de handicap, qui au contact de cet enfant différent apprendront que la différence est une richesse."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Si une école leur refusait ce droit, les parents pourraient saisir la justice."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Qu'une famille au bout de cinq ans, à qui on refuserait une place dans une école, pourrait aller devant le tribunal en disant : la République m'a promis un droit."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Royal est indignée par cette proposition ; elle avait en effet créé un plan pour accueillir les enfants handicapés à l’école ; or, elle accuse le gouvernement dans lequel était Sarkozy d’avoir supprimé ce plan ainsi que les éducateurs chargés de l’accueil des enfants."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Lorsque j'étais Ministre de l'enseignement scolaire, c'est moi qui ai créé le plan handiscole qui a demandé à toutes les écoles d'accueillir tous les enfants handicapés."
+            },
+            {
+                "speaker": "SR",
+                "text": "C'est votre gouvernement qui a supprimé non seulement le plan handiscole, qui a supprimé les aides éducateurs, qui fait qu'aujourd'hui, moins d'un enfant sur deux qui était accueilli il y a cinq ans dans l'école de la République ne le sont plus aujourd'hui"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Elle fustige donc les incohérences de son opposant."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Tout n'est pas possible dans la vie politique, ce discours, cet écart entre le discours et les actes, surtout lorsqu'il s'agit d'enfant handicapé, ce n'est pas acceptable."
+            },
+            {
+                "speaker": "SR",
+                "text": "C'est votre action que je mets en cause."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Sarkozy se défend : ce n’est pas lui qui a décidé de la suppression du plan ; il estime être sincère dans sa démarche et trouve que son adversaire manque de sang-froid pour devenir Président."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "J'ai le droit d'être sincère dans mon engagement et d'être bouleversé par la situation d'enfants qui aimeraient être scolarisés."
+            },
+            {
+                "speaker": "NS",
+                "text": "Il faut garder son calme et ses nerfs et utiliser des mots qui ne blessent pas."
+            }
+        ]
+    }
+]

@@ -1,0 +1,349 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce  débat, Macron et Le Pen discutent de la question de la délinquance."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Emmanuel Macron et Marine Le Pen, s’il vous plaît, justement, que fait-on des jeunes Français qui se radicalisent sur notre territoire ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Selon Macron, il faut s’interroger sur les raisons pour lesquelles les jeunes se radicalisent alors même qu’ils ont grandi en France."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Ce que j’ai dit c’est pourquoi des jeunes Français se radicalisent ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le Pen fustige ce raisonnement."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Vous avez dit : c'est à cause de la France."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Cela implique que le pays a forcément une part de responsabilité."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Quand des jeunes Français ou des jeunes Françaises qui sont nés en France, qui ont grandi en France, qui ont été élevés dans notre pays, suivent des fanatiques et détruisent nos propres enfants, on doit s’interroger, et j’ai dit : nous avons notre part de responsabilité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Macron nuance donc en expliquant que la cause majeure de la radicalisation vient de la propagande djihadiste."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Ce n’est pas la première cause, la cause première ce sont les djihadistes, ce sont les terroristes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il rappelle qu’il existe également des malades psychiatriques parmi les radicalisés, et souhaite renforcer la prévention."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "C’est savoir comment des enfants qui sont nés dans la République en arrivent là, ça veut dire qu’il y a des malades psychiatriques et qu’on ne les suit plus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Macron entend mener d’une part une lutte de fond contre le terrorisme, en France comme à l’international, d’autre part un combat pour la justice sociale en désenclavant les quartiers populaires et en tendant la main aux jeunes qui y vivent."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Donc il faut la dessus avoir un travail préventif indispensable."
+            },
+            {
+                "speaker": "EM",
+                "text": "Nous devons dans le même temps, mener une lutte intraitable, avoir une tolérance zéro à l'égard du terrorisme, hors de nos frontières et dans nos frontières."
+            },
+            {
+                "speaker": "EM",
+                "text": "Or, notre République, elle ne donne plus une place à tous nos jeunes, elle enclave, elle assigne à résidence des jeunes, par l’échec scolaire, par l’échec économique et social."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "En face, il considère que le discours de Le Pen est insultant et encourage la guerre civile en divisant les Français entre eux ; elle tombe ainsi dans le piège tendu par les terroristes qui recherchent justement le conflit."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Le piège de la guerre civile, celui qu’ils nous tendent, celui que vous portez en divisant les Français, en insultant les Français et les Française à cause de leur religion, en jetant le trouble dans notre pays."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le Pen se défend d’insulter quiconque en raison de son origine ou de sa religion."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Je n’ai jamais, absolument jamais, de toute mon existence insulté quiconque en raison ni de son origine ni de sa religion Monsieur Macron."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Selon elle, c’est Macron lui-même qui a une part de responsabilité dans le développement de la haine, en particulier au cours d’une visite en Algérie, lorsqu’il affirme que la France aurait commis des crimes."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Vous ne croyez pas que vous avez, vous, une part de responsabilité dans la haine qui se développe chez un certain nombre de Jeunes à l’égard de la France quand vous allez en Algérie pour accuser la France de crime contre l’humanité, crime contre l’humanité, c'est-à-dire le crime le plus grave qui puisse exister, vous êtes allé, vous qui voulez être président de la République en Algérie, à l’étranger donc, pour aller dire la France a commis un crime contre l’humanité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle entend interdire un certain nombre d’associations sportives et culturels qui participent à la radicalisation."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Alors, encore une fois, on arrête toutes les associations sportives, locales, culturelles, qui en réalité se sont développées partout sur nos territoires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle critique également la loi El-Khomri qui facilite les expressions communautaires au sein des entreprises."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Oui oui, parce qu’avec la loi El-Khomri, en l’occurrence et bien vous interdisez aux chefs d’entreprise de pouvoir éviter les revendications communautaristes et les exigences religieuses au sein de l’entreprise."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Donc c’est évidemment avec une fermeté totale qu’il faut agir."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur la Guerre d’Algérie, Macron ne veut être ni dans le déni, ni dans la repentance."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Vous avez relevé un sujet très important qui est la guerre d’Algérie."
+            },
+            {
+                "speaker": "EM",
+                "text": "Non, et je ne suis ni dans la repentance, ni dans le déni."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il estime qu’en revenant sur la responsabilité de la France dans la rafle du Vel d’Hiv, Le Pen insulte les Français."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Et, vous avez insulté beaucoup de Françaises et de Français quand vous êtes revenue sur la rafle du Vel d’Hiv pour revenir sur les propos courageux qu’avait tenus Jacques"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Au contraire, Il se place, lui, en réconciliateur de nation."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Pour dire la vérité que nous devons à tous nos concitoyens, pour les réconcilier, pour avoir de l’unité et pas cultiver les haines comme votre parti d’extrême droite le fait depuis des années, des décennies."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur le Vel d’Hiv, Le Pen estime que la France était à Londres, ce qui est politiquement faux selon Macron."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Moi je considère que la France était à Londres."
+            },
+            {
+                "speaker": "EM",
+                "text": "C’est faux sur le plan politique et Jacques Chirac l’a reconnu."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le Pen évoque ensuite la tolérance zéro ; elle  veut sanctionner le moindre délit, rétablir les peines planchers et renvoyer dans leur pays les étrangers condamnés."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "La tolérance zéro c’est qu’à chaque crime ou à chaque délit il y a une sanction qui s’applique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "A coté, elle entend donner plus de moyens à la justice et créer des places de prisons supplémentaires."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Il faut que les magistrats reçoivent un certain nombre d’instructions, notamment sur le retour des peines planchers, par exemple, sur notamment le renvoi dans leur pays des étrangers condamnés, parce que la double peine, ça a été supprimé, il y a un certain nombre d’années."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Plus de magistrats, plus de greffiers, et surtout plus de places de prisons."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Macron propose de son côté de créer dix-mille postes de policiers et de gendarmes."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "C’est d’abord dix-mille postes de policiers et de gendarmes en plus sur le territoire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il veut donner le pouvoir à une police de terrain pour sanctionner les délits du quotidien par des amendes systématiques."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Donc je veux recréer une police de sécurité quotidienne qui connaît le terrain, qui est déployée sur le terrain en permanence, qui utilise justement ces nouveaux moyens, et à laquelle je donne deux pouvoirs, qui aujourd’hui n’existent pas et qui sont décisifs à mes yeux : un pouvoir d'amende d’abord, il faut que sur des délits du quotidien, qui n’ont pas de réponse pénale aujourdhui, ils sont à 80%, classés sans suite"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Le Pen, ces peines ne seront pas appliquées."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Il y a les vaches à lait qui sont les automobilistes, puis il y a les autres qui sont dans les cités, dans lesquelles on ne rentre pas parce que ces cités sont sous la responsabilité des caïds, et bien ceux-là vont commettre tous les délits possibles et inimaginables parce quon ne va jamais appliquer la peine, quand cest une peine, par exemple, d’amende ou une peine qui vise à réparer le préjudice qu’ils ont commis à leurs victimes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Macron explique alors que la procédure pénale sera possible dans un second temps, si l’amende n’est pas réglée."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Donc il y aura le pouvoir d’amende avec, si l’amende n’est pas réglée, à ce moment-là une vraie procédure pénale avec des contraintes et la possibilité également d’éloigner les jeunes avant même le délit du territoire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il souhaite également donner la possibilité juridique aux forces de l’ordre d’éloigner les jeunes de certains endroits, comme les cages d’escaliers, pour éviter les nuisances et les phénomènes de bande."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Lorsqu’il y a des jeunes, ou moins jeunes, des bandes qui troublent près de la gare, en bas de l’immeuble, qu’on connaît, qu’on a identifiés, auxquels aujourdhui on n’apporte pas de réponse, sauf à les prendre en flagrant délit."
+            },
+            {
+                "speaker": "EM",
+                "text": "Il faut que nos forces de police puissent, avec l’autorisation du juge, dans une procédure très accélérée de 48 heures, les enjoindre de ne pas rester là."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Or, Le Pen lui rétorque que cette sanction ne peut être formulée que par un juge."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Ça s 'appelle l’injonction civile, c’est une peine, ça peut donc être appliqué que par un juge."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur la justice, Macron veut que chaque peine prononcée soit exécutée, et appelle donc à revenir sur la loi instaurant la non-exécution des peines de moins de deux ans."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Alors, outre ces moyens, outre cette police de sécurité quotidienne, outre ces nouveaux moyens de coercition, parce que nos policiers en ont besoin, je veux que notre justice soit intraitable, c’est pour cela qu’avec moi toute peine prononcée sera exécutée, et, je reviendrai sur la loi qui a fait que pour toutes les peines de moins de deux ans, il n’y a pas d’exécution de peine."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Enfin, il se dit favorable à la dissolution des groupes violents connus."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Je suis pour la dissolution de tous les groupes violents qui sont identifiés et connus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Toutefois, Le Pen rappelle que ce n’est pas ce qu’a fait le gouvernement Hollande."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Pourquoi ça n’a pas été fait dans le gouvernement socialiste auquel vous avez participé ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Macron précise qu’il était en désaccord, d’où sa démission, mais Le Pen n’est pas dupe, estimant qu’il se préparait déjà la présidentielle."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "J’y ai participé, je n’étais pas d’accord et je suis sorti."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Globalement, les deux candidats défendent une justice plus ferme mais sont en désaccord sur la responsabilité de la France dans l’émergence du terrorisme"
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Mais vous êtes parti pour pouvoir organiser votre candidature, pour pouvoir mettre en place les conditions pour faire croire aux Français que, justement, vous étiez nouveau."
+            }
+        ]
+    }
+]

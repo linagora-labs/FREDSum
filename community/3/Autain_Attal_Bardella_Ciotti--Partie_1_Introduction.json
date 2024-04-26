@@ -1,0 +1,155 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Autain, Attal, Bardella et Ciotti évoquent leur vision générale de la réforme des retraites. "
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Eric Ciotti, vous qui êtes à une force d'appoint essentielle pour éviter le 49-3, est-ce que vous considérez que vous avez été entendus, satisfaits ou alors vous dites franchement que la Premier ministre peut mieux faire ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Ciotti commence par expliquer qu’il est favorable à une réforme des retraites ; il s’agit désormais de discuter et de débattre avec le gouvernement pour poser les modalités de la loi. "
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Je redis la nécessité incontestable d'une réforme."
+            },
+            {
+                "speaker": "EC",
+                "text": "Les modalités, nous avons posé des points de discussion sur la table, nous n'avons pas ce soir entendu les réponses, mais le débat s'ouvre la."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bardella estime de son coté que le texte est très dur pour les Français et se base sur un mensonge : celui de faire croire que cette réforme est nécessaire pour éviter un effondrement du système. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Une première ministre qui va imposer un texte qui va être très dur pour le peuple français et qu'une très large majorité de Français rejettent."
+            },
+            {
+                "speaker": "JB",
+                "text": "Donc cette réforme, elle est injuste, elle est injustifiée, elle est brutale et elle est basée sur un mensonge, celui qui vise à dire aux Français s'il n'y a pas cette réforme-là, c'est l'effondrement totale du système."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "De plus, l’immense majorité des Français s’y oppose. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Et si 72% des Français y sont opposés, c'est parce qu'ils ont bien compris ce qui les attendait."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Autain reprend ce dernier argument. "
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Mais une majorité écrasante de Français 93% des actifs ne veulent pas travailler plus longtemps."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle regrette une réforme comptable qui sert en réalité à compenser les milliards accordés aux grandes entreprises et aux plus riches. "
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "C'est un discours comptable, ce n'est pas un discours qui reflète la compréhension de ce pourquoi des millions de personnes sont descendues dans la rue."
+            },
+            {
+                "speaker": "CA",
+                "text": "Donc c'est injuste parce qu'elle vient chercher de l'argent par le biais de cette réforme pour compenser des milliards et des milliards qui ont été donnés aux grandes entreprises sans contreparties, qui ont été données par le biais de la fin de l'impôt sur la fortune pour les plus riches."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle est par ailleurs injuste pour les femmes et pour les travailleurs, qui devront travailler deux années de plus. "
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Injuste aussi cette réforme parce que ce sont les femmes, contrairement à ce qu'elle a dit, qui vont en payer le prix fort."
+            },
+            {
+                "speaker": "CA",
+                "text": "Caroline Roux, parce qu'il s'agit de transformer les deux meilleures années de la retraite en deux pires années de travail."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Enfin, comme Bardella, Autain rappelle que la réforme est inutile, car le régime est déjà équilibré. "
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "La trajectoire est maîtrisée."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Attal est en désaccord, cette réforme est nécessaire pour financer les pensions, dont le nombre va augmenter. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Si il n'y a pas de réforme aujourd'hui, on aura un gros problème pour payer les pensions de retraite dans les années à venir."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il critique alors le groupe politique d’Autain, lequel souhaite augmenter massivement les impôts. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "C'est-à-dire madame Autain, votre groupe dépose des amendements, puisque c'est l'heure des choix aujourd'hui au Parlement, pour augmenter massivement les impôts, pas les impôts sur les plus riches spécifiquement, mais sur les petits patrons, sur les petites entreprises, sur les salariés qui travaillent, qui font des heures supplémentaires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il est néanmoins conscient de l’effort demandé aux Français, avec un âge de départ poussé progressivement à 64 ans ; il rappelle que le débat a démarré et qu’il s’agit de la seule voie pour éviter la hausse des impôts. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Évidemment que quelqu'un qui a commencé à travailler très tôt, que quelqu'un qui a été usé par son travail, il va pas travailler jusqu'à 64 ans."
+            },
+            {
+                "speaker": "GA",
+                "text": "Evidemment que cette réforme, elle demande un effort."
+            },
+            {
+                "speaker": "GA",
+                "text": "Ça veut dire, dabord, que cette réforme, elle a évolué depuis plusieurs mois parce qu'elle a eu un travail avec des organisations syndicales."
+            },
+            {
+                "speaker": "GA",
+                "text": "Et il y a un débat parlementaire qui a démarré."
+            },
+            {
+                "speaker": "GA",
+                "text": "Et on voit d'ailleurs dans le débat parlementaire que ce qui se profile, c'est un choix clair, entre augmenter massivement les impôts sur tous les Français ou travailler un peu plus longtemps progressivement sur 10 ans en partageant les formes de retraite"
+            }
+        ]
+    }
+]

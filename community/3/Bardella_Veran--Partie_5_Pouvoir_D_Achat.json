@@ -1,0 +1,231 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Olivier Véran et Jordan Bardella parlent du pouvoir d'achat. "
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Est-ce que euh distribuer, et notamment euh baisser la tva par exemple sur le carburant, baisser les euh, bloquer ou baisser la tva sur un certain nombre de produits de première nécessité, euh la retirer même, Marine Le Pen a dit que ça équivaut à un blocage des prix."
+            },
+            {
+                "speaker": "P1",
+                "text": "Euh est-ce que c'est suffisamment financé de votre part, est-ce que c'est une mesure à très court terme ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella débute en expliquant que les aides qu'il propose sont financées, c'est à dire, la baisse de la TVA de 20 à 5.5% ainsi que le blocage des prix sur 100 produits de première nécessité tant que l'inflation dest de 1 point supérieur à la croissance. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Nous le compensons."
+            },
+            {
+                "speaker": "JB",
+                "text": "J'ai évoqué cette mesure de la baisse de la tva de vingt pour cent, à cinq cinq, sur l'ensemble des énergies."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et nous souhaitons également faire en sorte que, euh pour compléter ce que vous disiez, qu'il y ait un panier de cent produits de première nécessité, donc c'est le riz, les pâtes, euh les produits hygiéniques par exemple pour les femmes, les couches-culottes et qu'on supprime la tva là-dessus à partir du moment où l'inflation et d'un point supérieur à la croissance."
+            },
+            {
+                "speaker": "JB",
+                "text": "C'est un dispositif d'urgence qui s'activera automatiquement, quant à la baisse de la tva elle est pérenne, et puis il y a une question de hausse salaire mais peut-être on aura l'occasion d'en parler juste après."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran attaque les économies présentées par Jordan Bardella, qui compte les aides aux logements et à la santé dans les économies faites sur la suppression des prestations sociales pour les étrangers. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Quand vous présentez la fin des prestations sociales pour les étrangers comme faisant seize milliards d'euros d'économies, je tic, parce que ça fait partie de mon périmètre ministériel, la totalité des prestations sociales versées aux étrangers chaque année c’est neuf milliards d'euros."
+            },
+            {
+                "speaker": "OV",
+                "text": "Vous oubliez que dedans, de vos seize milliards, il y a la partie logement et à la partie santé et caetera."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "De son côté, il propose d'augmenter les pensions des retraités de 4%, de réindexer les points d'indice des fonctionnaires, de mettre en place des dividences salariaux, et d'augmenter le plafond de la prime macron à 6000 euros. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Premières mesures nous allons augmenter les pensions de tous les retraités des français, de quatre à quatre virgule cinq pour cent dès cet été."
+            },
+            {
+                "speaker": "OV",
+                "text": "Deuxième point, la réindexation des points d'indice pour les fonctionnaires, qui attendent ça depuis très longtemps."
+            },
+            {
+                "speaker": "OV",
+                "text": "Plus une entreprise de ce pays ne pourra distribuer des dividendes à des actionnaires sans en distribuer dans le même mouvement à l'ensemble de ses salariés."
+            },
+            {
+                "speaker": "OV",
+                "text": "Vous avez ce qu'on appelle la prime macron, qui pourra être porté jusqu'à six mille euros défiscalisés désocialisé, chaque année ça fait potentiellement cinq cents euros de salaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le présentateur rappelle que les deux dernières aides dépendent des entreprises; à ça, Olivier Véran oppose la suppression de la redevance télé et le blocage des prix. "
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Ces deux dernière mesure dépendent des entreprises Oliver Véran."
+            },
+            {
+                "speaker": "OV",
+                "text": "Nous supprimons la redevance télé mais ça vous le faites aussi."
+            },
+            {
+                "speaker": "OV",
+                "text": "Nous avons le blocage des prix, qui est, on pourrait en discuter, mais on en discute tous les jours, beaucoup plus efficace en fait, et vous le savez ça a été démontrée sur l'évolution du prix du gaz, et de l'essence, même si ça reste très cher on est d'accord."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique aussi que les propositions de Marine le pen ne sont pas crédibles et pas financées. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Marine le pen vous dis, elle supprime les impôts moins de trente ans, elle supprime où elle réduit, éradique la tva sur tout un tas de produits du quotidien, elle va vous faire travailler moins longtemps tout en gardant les mêmes pensions de retraite, elle va augmenter les dépenses publiques parce qu'elle augmente les services publics, et elle va augmenter tous les salaires, c'est ça, j'ai bon ?"
+            },
+            {
+                "speaker": "OV",
+                "text": "Pardonnez-moi, y a une pub qui dit c'est la marmotte qui met le chocolat dans le papier d'alu, mais ce n'est pas crédible."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur ce sujet, Jordan Bardella rappelle que le gouvernement d'Olivier Véran à fait 600 milliards d'euros de dettes. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Euh, ces gens qui se sont présentés euh en mozart de la finance en deux mille dix-sept, euh nous lèguent un pays avec six cents milliards d'euros de dettes, dont le ministère des comptes publics rappelle que seuls deux cents milliards sur ces six cents milliards de plus, deux cent milliards de dettes de plus, sont imputables au quoiqu'il en coûte, à la crise sanitaire, le reste c'est de la mauvaise gestion."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explicite les économies qu'il fera sur la lutte contre l'immigration et sur la fraude, en mettant en place la carte vitale biométrique, et en baissant la cotisation européenne. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Donc il y aura des économies, c'est vrai, sur la lutte contre l'immigration, il y aura des économies sur la lutte contre la fraude, euh je vous invite à lire le bouquin de charles pratt, qui est un magistrat qui a travaillé sur les fraudes et qui nous parle de cinquante milliards de fraude sur la carte vitale."
+            },
+            {
+                "speaker": "JB",
+                "text": "Nous mettrons en place la carte vitale biométrique, nous ferons des économies en baissant la cotisation de la france au budget de l'union européenne telle qu'elle est votée chaque année par l'assemblée nationale."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "De plus, il propose d'éxonérer de charges les augmentations salariales jusqu'à dix pour cent sur cinq ans. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Euh, les chefs d'entreprise, chefs de tpe, pme, si vous augmentez de dix pour cent, et beaucoup voudraient le faire mais ne le peuvent pas, de dix pourcent les salaires, ces dix pour cent seront exonérés de cotisations euh patronales pendant cinq ans."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran défend son gouvernement et son bilan; la france a une inflation plus faible et un chômage plus bas grâce aux réformes qu'il a proposé. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Vous savez pourquoi l'inflation qui est forte, est moins forte que la plupart de de nos voisins, pourquoi, vous savez, vous savez pourquoi le chômage, la baisse du chômage est plus importante ailleurs qu’en france, malgré la crise sanitaire ?"
+            },
+            {
+                "speaker": "OV",
+                "text": "Ceci c'est factuel, c'est des chiffres, parce que en fait, il y a des réformes profondes qui ont été faites dans notre pays, on a redonné envie aux entreprises d'investir et de créer de la richesse en france."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique avoir doublé l'apprentissage en france pour augmenter les cotisations sociales et faire baisser la dette de l'état et de la sécurité sociale. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "C'est pour ça qu'on a plus que doublé l'apprentissage dans notre pays, et ça, ça crée la richesse parce que c'est des cotisations sociales qui rentrent."
+            },
+            {
+                "speaker": "OV",
+                "text": "Donc, ça fait baisser la dette de l'état et de la sécu en l'occurrence, et ça permet de ne plus délivrer de prestations chômage, donc c'est des dépenses publiques de moins."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur la baisse de la cotisation européenne, Jordan Bardella montre que d'autres pays l'ont aussi fait sans problèmes. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Mais attendez c'est quoi le problème pour les français avec le fait euh, je pense pas que ça va attirer la nuit des temps, les pluies de sauterelles que de baisser la cotisation de la france, la baisser de neuf milliards à quatre milliards pour aller économiser cinq milliards dans le budget de l'état pour financer des baisses de taxes pour les français."
+            },
+            {
+                "speaker": "JB",
+                "text": "La réforme des retraites comme contrepartie, d'ailleurs qui est inscrite depuis maintenant dix ans dans les textes de la commission européenne, mais enfin euh, mais enfin passons d'ailleurs même le ministre beaune avait reconnu que ce déblocage de fonds se faisait en exigeant une contrepartie."
+            },
+            {
+                "speaker": "JB",
+                "text": "Je vais vous dire une chose je pense que, euh les français se rendent compte dans leur quotidien que l'union européenne qui était la promesse de protection, qui était depuis quarante ans sur les affiches des campagnes électorales de la droite, et la gauche la promesse d'une europe sociale, est une catastrophe."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il fustige aussi le gouvernement qui a accepté de faire la réforme des retraites à cause de l'union européenne. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Y a des pays comme les pays-bas par exemple qui ont baissé, qui ont divisé par trois dans le cadre de l'obtention des des fonds européen pour la relance de leurs économies, qui ont baissé leurs cotisations à l'union européenne."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Ces raisons motivent le choix du premier déplacement de Marine Le Pen qui sera fait à bruxelles. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Donc le premier déplacement que fera Marine Le Pen ça sera effectivement à bruxelles."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Olivier Véran, l'europe peut être améliorée, mais est quand même positive."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Je dis pas que l'europe est une machine qui tourne parfaitement bien, d'ailleurs personne ne peut dire ça de façon sérieuse, mais seulement c'est comme pour tout à l'heure en fait, dès qu'on fait face à un problème vous dites je renonce"
+            }
+        ]
+    }
+]

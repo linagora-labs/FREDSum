@@ -1,0 +1,217 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Jordan Bardella et Gérald Darmanin discutent des peines planchers et des OQTFs."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Les peines plancher, les peines minimales, pour ceux qui s'en prennent aux forces de l'ordre si marine Le pen est élue, comment ça marche ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella débute en expliquant qu'il faut mettre en place des peines planchers, afin d'avoir des peines maximales et minimales. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Pour bien comprendre, il y a aujourd'hui des peines maximales, la peine plancher, c'est-à-dire de qualifier combien d'années de prison vaudra une agression d'un policier."
+            },
+            {
+                "speaker": "JB",
+                "text": "Il y a des peines maximales, donc il faut qu'il y ait des peines minimales."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Les peines planchers n'empêcheront pas l'individualisation de la peine. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Encore une fois, ça ne contraint pas l'individualisation de la peine."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose d'augmenter le nombre de magistrats, de places de prisons, ainsi que l'expulsion des délinquents et des criminels étrangers. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "On compte à la fois augmenter leur nombre, le nombre des magistrats, leur faciliter le travail, créer, des places de prison, expulser les délinquants et criminels étrangers, parce que, là aussi, je veux dire, là aussi, c'est la fête."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il continue en accusant Gérald Darmanin, qui n'a réussi à faire exécuter que dix pour cent des OQTF. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Monsieur Darmanin, vous êtes le ministre de l'intérieur, quatre-vingt-dix pour cent, quatre-vingt-dix pour cent des obligations de quitter le territoire français ne sont pas exécutées."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gérald Darmanin rappelle que le rassemblement national n'a jamais voté les créations des postes de policiers et de places de prisons, les accusant de vouloir faire la politique du pire. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "Vous avez pas voté, la création des dix mille policiers, gendarmes, supplémentaires en cinq ans."
+            },
+            {
+                "speaker": "GD",
+                "text": "Vous n'avez pas voté la construction des places de prison proposées par le gouvernement, vous l'avez jamais voté."
+            },
+            {
+                "speaker": "GD",
+                "text": "Vous ne votez jamais une disposition qui va dans le bon sens, parce que, je crois que vous faites de la politique du pire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il déplore l'approche du rassemblement national qui expulse les personnes sans condamnation; les gens doivent d'abord expurger leur peines avant d'être expulsées. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "La proposition du front national, c’est, on expulse la personne, nous ont dit qu'il faut qu'il soit condamné."
+            },
+            {
+                "speaker": "GD",
+                "text": "Si il doit faire de la prison, il la fait, et après on l'expulse."
+            },
+            {
+                "speaker": "GD",
+                "text": "Mais, d'abord, ils ont leur condamnation en france, parce que ça veut dire qu'un français qui commettrait un acte de délinquance avec le front national, serait condamné à la prison, et un étranger qui commet un acte de délinquance serait juste expulsé et ne ferait jamais sa peine."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Jordan Bardella, ce système est la double peine pour les français, qui doivent subir les crimes des clandestins, et payer leur prise en charge en prison. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "C’est la double peine."
+            },
+            {
+                "speaker": "JB",
+                "text": "Les français aujourd’hui ils subissent des clandestins, qui ont pas à être sur le territoire, qui commettent des méfaits, qui commettent quand même des crimes et délits, et en plus, ils doivent rester à notre charge sur le territoire français."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il accuse l'état d'être incapable de connaître les chiffres de l'immigrations. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Donc l'etat est incapable de savoir combien nous avons des habitants sur notre sol tant l'immigration, non pas par l'opération du saint-esprit, mais par le bilan de monsieur darmanin, et monsieur macron, est complètement hors de contrôle."
+            },
+            {
+                "speaker": "JB",
+                "text": "Neuf cent mille clandestins, nous les renvoyons chez eux."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose de renvoyer tous les clandestins et les fichés S en forçant les pays à accepter de reprendres leurs immigrés; pour cela, il souhaite interdire les transferts d'argents de fonds privés avec les pays qui voudraient refuser de reprendre les clandestins, tout en supprimant leur aide au développement. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Il y a huit mille individus qui sont fichés S aujourd'hui, pour radicalisation, quatre mille cinq cents sont étrangers, nous les renvoyons chez eux."
+            },
+            {
+                "speaker": "P1",
+                "text": "Comment faites-vous pour les renvoyer dans leur pays d'origine ?"
+            },
+            {
+                "speaker": "JB",
+                "text": "Eh bien, on négocie des accords avec les pays."
+            },
+            {
+                "speaker": "JB",
+                "text": "Eh bien, figurez-vous que ces pays-là sont, généralement des pays à qui nous donnons beaucoup d'argent, pas seulement au titre de l'aide au développement, mais également au titre des transferts de fonds privés."
+            },
+            {
+                "speaker": "JB",
+                "text": "Donc, si les pays de départ, qui nous envoient leurs indésirables, ne veulent pas les reprendre, eh bien, nous brandiront la menace diplomatique, et nous menaceront de couper l'aide au développement, l'argent public que nous donnons à ces pays-là, où, évidemment, les transferts de fonds privés."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Gérald Darmanin, il n'y a pas d'explosion de l'immigration, et entre vingt et trente pourcent des oqtfs sont réalisées. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "Dans les années trente, il y avait six pour cent d'étrangers."
+            },
+            {
+                "speaker": "GD",
+                "text": "Aujourd'hui, il y en a sept virgule un pour cent."
+            },
+            {
+                "speaker": "GD",
+                "text": "Voilà, donc, y a pas, je veux dire, aux français, euh, quand bien même les étrangers seraient, par nature, mauvais, ce que je ne crois absolument pas."
+            },
+            {
+                "speaker": "GD",
+                "text": "Nous expulsons, nous faisons repartir, dans leur pays, entre vingt et trente pour cent des gens qui devraient repartir."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le processus peut être amélioré, mais il est mieux que le processus cruel de Marine le pen. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "Ensuite, bien sûr, qu'on peut améliorer encore le procédé."
+            },
+            {
+                "speaker": "GD",
+                "text": "Et, même si c'est madame le pen qui est présidente de la république, elle ne pourra pas le faire, parce que personne n'aura la cruauté de renvoyer des afghans au régime des talibans."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella continue en expliquant qu'il ne conteste pas le droit d'asile, mais qu'il souhaite mettre en place des lieux de demandes d'asile en dehors de la france, pour empêcher les immigrants dont la demande a été rejetée de rester en france."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Mais, s'il répond au droit d'asile, il obtient l'asile."
+            },
+            {
+                "speaker": "JB",
+                "text": "Cinq cent mille demandes d'asile déposées sur le territoire national depuis deux mille dix-sept, seulement un tiers sont acceptées, les deux tiers sont déboutés, sauf que les deux tiers ne sont pas renvoyés dans leur pays d'origine, alors qu'il ne répondent pas à la conventions de genève, ni au droit d'asile."
+            },
+            {
+                "speaker": "JB",
+                "text": "Si vous répondez aux critères de l'asile, vous êtes pris en charge."
+            },
+            {
+                "speaker": "JB",
+                "text": "En revanche, ce que je souhaite faire, c'est faire en sorte que comme l'a fait le danemark, gouvernement socialiste, que le droit d'asile soit traité depuis les ambassades et les consulats des pays de départ, parce que, euh, faire venir tout le monde pour faire faire les demandes, sur le territoire français, auprès de la nation française, c'est une pompe aspirante considérable"
+            }
+        ]
+    }
+]

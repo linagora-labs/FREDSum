@@ -1,0 +1,143 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Le Pen et Macron discutent de la question des retraites."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Je vais vous demander de répondre particulièrement et très clairement à une question : à quel âge les Français doivent-ils partir à la retraite ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le Pen est favorable à la retraite à soixante ans pour ceux ayant cotisé quarante ans."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Soixante ans avec quarante annuités donc soixante ans s’ils ont quarante annuités, voilà."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle pense qu’on ne peut demander davantage de sacrifices aux Français."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Parce que l’idée qu’on demande toujours des sacrifices aux Français en toutes circonstances, en leur expliquant et en les culpabilisant, c’est votre grande spécialité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle fustige alors son adversaire qui tenterait de culpabiliser les citoyens en toutes circonstances, en particulier les sans-emplois avec ses mesures visant à limiter l’indemnisation du chômage."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Et c’est la raison pour laquelle vous voulez supprimer, en réalité limiter l’indemnisation du chômage."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Macron trouve le propos de Le Pen ridicule et ironise sur sa diatribe, estimant qu’elle prend les Français pour des imbéciles."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Vous avez raison, vous avez totalement raison mais ils ont le droit qu’on ne les prenne pas pour des imbéciles non plus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le Pen continue en expliquant qu’une baisse du chômage de trois points suffirait amplement à financer le système ; Il s’agit donc pour elle de lutter contre l’ultralibéralisme défendu par son adversaire en redynamisant le tissu économique du pays."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "La retraite à soixante ans avec quarante annuités c’est dix-sept milliards de coût, baisser le chômage de trois points c’est vingt-cinq milliards de recettes pour l’État."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Sauf que ça vous avez été incapable de le faire parce qu’encore une fois le modèle économique soumis à la mondialisation sauvage, l’ouverture totale des frontières, la concurrence de tous contre tous, et bien ça, ça entraine le chômage de masse que nous vivons aujourdhui."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Ainsi, avec notre tissu économique TPE/PME, retrouver la voie de l’emploi, faire baisser le chômage et sauver ce système de retraite par répartition auquel nous sommes si attachés."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle termine en critiquant le régime de retraite unique."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Votre proposition je la connais, elle consiste à faire un régime unique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "A son avis, la réforme de Le Pen coûterait trente milliards ; on ne pourrait la financer."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Ça coûte trente milliards, c’est infinançable."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour ce quinquennat, Macron ne veut changer ni l’âge de départ, ni le niveau de cotisation."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Donc moi je le dis simplement la réforme des retraites de Mme Le Pen c’est ou l’augmentation des cotisations ou la baisse des pensions."
+            },
+            {
+                "speaker": "EM",
+                "text": "Donc je ne change pas, pour le quinquennat à venir, l'âge de départ, je ne change pas le niveau de cotisation, je ne change rien."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il estime par ailleurs que le nombre de régimes est trop élevé (37 différents), ce qui rend illisible le système pour les Français."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Il y a trente-sept régimes de base, qui sont différents."
+            },
+            {
+                "speaker": "EM",
+                "text": "Un artisan, un commerçant, il ne comprend plus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Ensuite, le système pourra être ajusté chaque année de manière responsable pour que le régime par répartition soit en permanence financé."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Je mets en place un système qui prendra progressivement en charge tous les droits qui sont maintenus et chacun ensuite cotisera une nouvelle année dans le système et le système aura un pilotage qui sera pris chaque année où on décide de manière responsable."
+            },
+            {
+                "speaker": "EM",
+                "text": "Donc sur la retraite on reste sur un système de répartition qui est plus juste et plus transparent et qui est, lui, financé contrairement aux autres"
+            }
+        ]
+    }
+]

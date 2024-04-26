@@ -1,0 +1,323 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Pradié, Retailleau et Ciotti discutent de la refondation des Républicains."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "A quoi sert LR?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pradié souhaite changer en profondeur le parti pour le rendre plus moderne, plus populaire ; il entend tracer un chemin clair entre Le Pen et Macron."
+        },
+        "extractive": [
+            {
+                "speaker": "AP",
+                "text": "Je veux que ce parti redevienne plus moderne, plus populaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique vouloir censurer le gouvernement si celui-ci passe en force sur les retraites ou sur la régularisation des clandestins."
+        },
+        "extractive": [
+            {
+                "speaker": "AP",
+                "text": "Je suis clair, si demain, le gouvernement passe en force sur les retraites ou régularise massivement des clandestins, je plaiderai pour que nous portions une motion de censure."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Retailleau pense qu’il faut d’abord changer de nom et assumer une rupture avec son passé et Nicolas Sarkozy."
+        },
+        "extractive": [
+            {
+                "speaker": "BR",
+                "text": "Moi, je pense que si on veut tout rebâtir et pas seulement changer de nom, il faudra changer de nom, je pense que la marque est morte."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il reproche à l’ancien Président d’avoir soutenu Macron à la présidentielle et d’appeler à s’allier avec lui."
+        },
+        "extractive": [
+            {
+                "speaker": "BR",
+                "text": "Moi, j'ai assumé cette rupture avec Nicolas Sarkozy pour deux raisons, parceque simplement, il a soutenu Emmanuel Macron à l'élection présidentielle."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Retailleau, le parti doit être distinct d’un RN, à gauche sur l’économie, et d’un Président de la République, laxiste sur le régalien."
+        },
+        "extractive": [
+            {
+                "speaker": "BR",
+                "text": "Lui, il est pour une coalition avec Emmanuel Macron."
+            },
+            {
+                "speaker": "BR",
+                "text": "Je n'ai pas les convictions de Marine Le Pen parce que son programme économique la rapproche de Jean-Luc Mélenchon."
+            },
+            {
+                "speaker": "BR",
+                "text": "Et je n'ai pas les convictions, en a t’il d'ailleurs d'Emmanuel Macron parce que c'est le en même temps et parce que sur le Régalien, notamment, on voit bien qu'il est totalement laxiste."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Ciotti commence par remercier les militants du parti ; il entend instaurer une école des cadres et un média interne."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Moi, j'ai fixé une méthode et un objectif, l'objectif, c'est que l'on gagne l'élection présidentielle de 2027."
+            },
+            {
+                "speaker": "EC",
+                "text": "On a des forces, des convictions, des territoires, des militants."
+            },
+            {
+                "speaker": "EC",
+                "text": "Et il faut, Il y a un défaut, parce que malgré tout ce qu'on peut faire de brillant, d'intelligent, une fondation des idées, ce que je veux porter, remuscler notre parti, une école des cadres, une fondation, un média des Républicains, tout ça, il faut le faire"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il insiste ensuite sur l’importance du leader."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Nicolas Sarkozy, il a quitté la vie politique."
+            },
+            {
+                "speaker": "EC",
+                "text": "Sur ma feuille de route, il manque quelque chose, c'est le chef."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il regrette la position de Nicolas Sarkozy concernant Macron mais rappelle qu’il a quitté la vie politique."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Je suis en désaccord avec ce qu'il prône pour l'alliance avec Emmanuel Macron, mais je crois que la dessus,on doit avoir un souci de clarification."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Pradié, il faut tourner la page de l’ère Sarkozy, même s’il a été un grand Président."
+        },
+        "extractive": [
+            {
+                "speaker": "AP",
+                "text": "Il faut tourner la page de Nicolas Sarkozy."
+            },
+            {
+                "speaker": "AP",
+                "text": "Nous sommes fiers du président qui a été à cette époque-là."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pradié désigne alors Le Pen et Macron comme étant ses adversaires et n’entend aucunement chercher une alliance avec l’un des deux."
+        },
+        "extractive": [
+            {
+                "speaker": "AP",
+                "text": "Quant à mes adversaires, ils sont autant du côté d'Emmanuel Macron que de Marine Le Pen, je ne fais aucune distinction."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur ce point, les trois candidats sont d’accord."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Si vous écartez tous les trois l'idée d'une coalition, d'une alliance, même dans deux ans, dans trois ans, avec Emmanuel Macron, je ne me trompe pas, vous ne craignez pas un isolement, une forme de rappetissement, peut-être même un risque de disparition de votre famille politique Bruno Retailleau ?"
+            },
+            {
+                "speaker": "BR",
+                "text": "Non, absolument pas."
+            },
+            {
+                "speaker": "BR",
+                "text": "Non, mais pas question d'être la béquille d'Emmanuel Macron, pas question non plus d'être le marchepied de Marine Le Pen."
+            },
+            {
+                "speaker": "BR",
+                "text": "Je pense qu'on a un énorme travail de reconstruction à faire, donc pas la charrue avant les bœufs, la reconstruction, les idées, et ensuite, l'incarnation."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Selon Retailleau, même si Wauquiez dispose des qualités nécessaires pour exercer cette fonction, la question ne se pose pas encore."
+        },
+        "extractive": [
+            {
+                "speaker": "BR",
+                "text": "Travaillons, ne tombons pas dans la paresse intellectuelle, parce que si on se remet déjà entre les mainsd'un chef, je suis sûr qu’on ne refondra rien du tout."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Ciotti est en désaccord ; sans chef, le parti restera inaudible face aux autres leaders (Macron, Mélenchon, Le Pen)."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Face à nous, on a Emmanuel Macron, on en pense ce qu'on en veut, mais il a le talent de la communication qui est inversement proportionnelle à sa capacité d'action."
+            },
+            {
+                "speaker": "EC",
+                "text": "On a Mélenchon avec sa dangerosité, on a Le Pen, qui est très identifié, et nous, qui est le chef ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le parti doit se doter d’un leader naturel ; le système des primaires doit donc être supprimé."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Moi, je souhaite supprimer les primaires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pradié est en accord avec cette décision."
+        },
+        "extractive": [
+            {
+                "speaker": "AP",
+                "text": "La première décision que je prendrai, pas la deuxième, la première comme président des Républicains, c'est la suppression de la primaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il ne veut ni primaire ouverte, ni primaire fermée, jugeant cette dernière responsable de l’échec de 2022."
+        },
+        "extractive": [
+            {
+                "speaker": "AP",
+                "text": "Je souhaite que nous désignons notre candidat en bureau politique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le candidat devra être désigné en bureau interne, mais pas dès l’année prochaine."
+        },
+        "extractive": [
+            {
+                "speaker": "AP",
+                "text": "Sur le calendrier, je pense que c'est une folie de désigner l'année prochaine notre candidat."
+            },
+            {
+                "speaker": "AP",
+                "text": "Je ne souhaite pas que nous mettions Laurent Wauquiez dans un piège et demain, je ne le mettrai pas dans un piège."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Aucun des trois ne souhaite par ailleurs être candidat à la présidentielle de 2027, mais Pradié estime que Retailleau reste dans une espèce ambiguïté, n’ayant pas répondu par un « non » ferme à cette question, posée par les présentateurs."
+        },
+        "extractive": [
+            {
+                "speaker": "AP",
+                "text": "Pour une raison simple, je ne serai pas candidat à l'élection présidentielle de 2027."
+            },
+            {
+                "speaker": "AP",
+                "text": "J'ai d’ailleurs cru comprendre que Eric ne le serait pas non plus."
+            },
+            {
+                "speaker": "BR",
+                "text": "Si j'avais voulu être candidat à l'élection présidentielle, je me serais présenté comme Eric en décembre dernier au congrès."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Contrairement à ses deux adversaires, Retailleau défend un système de primaire interne."
+        },
+        "extractive": [
+            {
+                "speaker": "BR",
+                "text": "Il reste la primaire fermée, exactement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Selon lui, l’échec de la droite en 2022 venait d’un calendrier trop serré et non de la primaire."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Ce qui est aussi pire que la primaire ouverte et qui nous a amené à 4,78."
+            },
+            {
+                "speaker": "BR",
+                "text": "Non, c'est pas ce qui nous a amené à 4,78."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique du reste qu’un bureau politique n’est pas un procédé démocratique."
+        },
+        "extractive": [
+            {
+                "speaker": "BR",
+                "text": "Mon projet à moi, si demain on veut avoir un grand parti populaire et patriote, c'est de donner à nos adhérents, à nos militants, un bulletin de vote."
+            },
+            {
+                "speaker": "EC",
+                "text": "Ce que je voulais dire, c'est que c'est primaire privée, fermée, c'est très exactement ce qu'on a fait."
+            },
+            {
+                "speaker": "EC",
+                "text": "Le président prend ses responsabilités."
+            },
+            {
+                "speaker": "BR",
+                "text": "On n'est pas en Chine."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pradié précise néanmoins que la primaire n’est pas dans la continuité du RPR, lequel désignait à son époque le candidat au cours d’un bureau interne ; cela fonctionnait alors très bien"
+        },
+        "extractive": [
+            {
+                "speaker": "AP",
+                "text": "C'est un parti que tu n'as pas connu, qui était le RPR. Il se trouve que cette méthode-là, c'était la méthode du RPR."
+            }
+        ]
+    }
+]

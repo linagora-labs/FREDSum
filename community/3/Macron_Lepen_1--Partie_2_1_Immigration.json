@@ -1,0 +1,248 @@
+[
+    {
+        "abstractive": {
+            "text": "Selon Le Pen, son adversaire refuse de mener la lutte contre le terrorisme et le fondamentalisme islamique."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "C'est à dire que la sécurité physique de nos compatriotes et la lutte contre le terrorisme et le fondamentalisme Islamiste, vous ne voulez pas la mener,  vous ne voulez pas la mener, Monsieur Macron, moi je sais pourquoi."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Tous ceux qui étrangers ont un lien avec le fondamentalisme islamiste, dehors, dehors, tous ceux qui sont double nationaux on mettra en oeuvre la déchéance nationale."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle appelle de son côté à expulser tous les étrangers ayant des lien avec le terrorisme du territoire français ; pour les binationaux, elle est en faveur de la déchéance de nationalité."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Et, déchus de leur nationalité ils seront également renvoyés dans leur pays."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Or, Macron estime ces mesures inutiles dans la mesure où cela ne ralentira pas les attentas suicides."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Quelqu’un qui se fait sauter, puisqu’aujourd'hui les terroristes que nous devons combattre et que j’éradiquerai ce sont des gens qui se suicident dans les attentats."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le Pen le trouve trop attentiste ; elle désire la fermeture des mosquées salafistes, l’expulsion des prédicateurs radicaux et critique fermement l’UOIF (Union des organisations islamiques de France)."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Donc vous attendez l’attentat vous ?"
+            },
+            {
+                "speaker": "EM",
+                "text": "Faut aller beaucoup plus au coeur, beaucoup plus au fond, être beaucoup plus concret."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Donc déchéance de nationalité, expulsion immédiate."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Parce qu’arriver, quand même, à laisser sur le territoire, Monsieur Macron, onze milles fichés S pour fondamentalisme islamiste, Onze mille !"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le Pen critique également le financement des mosquées par des pays étrangers (Quatar, Arabie Saoudite)."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Il faut évidemment fermer les mosquées salafistes, il faut expulser les prêcheurs de haine, il faut aussi s’attaquer aux associations, qui vous soutiennent Monsieur Macron, comme l’UOIF. L'UOIF c’est l’Union des Organisations Islamiques de France."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Donc tous les gens qu’ils ont reçus dans leurs congrès et qui tiennent des propos qui sont de véritables appels au meurtre, nont pas l’air de vous déranger."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Il faut arrêter les financements étrangers de la part de pays que M. Macron connaît bien, n’est-ce pas ?"
+            },
+            {
+                "speaker": "MLP",
+                "text": "Le Qatar, l’Arabie saoudite."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Enfin, elle souhaite combattre le laxisme judiciaire pour mettre fin à l’insécurité sur tout le territoire ; elle ouvrira ainsi quarante mille places de prison."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Puis au-delà de ça, pardon, il y a le laxisme judiciaire qui fait que l’explosion de l’insécurité, que j’appelle quotidienne, est aujourd’hui un poids insupportable, non seulement dans les villes mais également dans les campagnes."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Il faut créer, non pas quinze mille, mais quarante mille places de prisons, Monsieur Macron."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il veut renforcer les moyens de la police, ainsi que ceux du renseignement."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Cela suppose de renforcer les moyens de police et d’avoir une action, en effet, avant que les attentats interviennent."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "S’il est d’accord pour durcir les privations de liberté à l’égard des fichés S, il trouve les propositions de Le Pen trop générales et donc inefficaces."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Donc, sur les fichés S, ce sont des fichiers de renseignement, en la matière je suis pour renforcer les mesures, y compris les mesures qui peuvent être privatives de liberté sur les fichés S liés à des activités djihadistes."
+            },
+            {
+                "speaker": "EM",
+                "text": "Mais je suis sur une mesure beaucoup plus chirurgicale et pas une mesure générale, comme Mme Le Pen, qui ne permettrait pas à nos forces de police de travailler."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il souhaite donc déployer des mesures ciblées en renforçant la surveillance en ligne et en augmentant la présence du renseignement sur la totalité du territoire national."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Donc l’effort de renseignement doit être fait sur nos territoires et partout, avec un lien renforcé sur le renseignement cyber, c'est-à-dire sur internet."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour cela, il établira une force spéciale pour coordonner la surveillance nationale."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Et pour coordonner cela au mieux, pour prévenir plutôt que guérir, je créerai, une «taskforce» une cellule auprès du président de la République, et pas une agence comme vous le proposez, auprès du Premier ministre, qui coordonnera les services de renseignement, c’est la mère des batailles."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Macron critique ensuite la fermeture des frontières proposée par Le Pen ; il ironise en lui expliquant que Schengen, qu’elle déteste, le fait déjà, sans résultat."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Ensuite la fermeture des frontières et le reste ça ne sert à rien."
+            },
+            {
+                "speaker": "EM",
+                "text": "D’ailleurs, j’ai une nouvelle pour vous, depuis novembre 2015, Schengen le permet, nous avons rétabli des contrôles aux frontières pour lutter contre les terroristes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le Pen répond en proposant le recrutement de douaniers supplémentaires."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "On va mettre des douaniers qui vont surveiller nos frontières et qui vont surveiller nos aéroports."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur l’UOIF, Macron se dit favorable à une interdiction si leurs activités sont illégales."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Sur l’UOIF c’est simple, si l’UOIF prononce, invite, mène des activités qui sont contraires aux lois de la République, je la ferai interdire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Selon lui, c’est le RN qui serait complaisant avec cette organisation."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Et, à ma connaissance, le dernier parti politique qui a eu maille à partir avec eux et qui les a fait participer à des colloques, c’est le Front National avec M. Aliot."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le Pen lui rétorque qu’il a accepté leur soutien."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Bah si, ils vous soutiennent et vous avez dit que vous acceptiez ce soutien."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Non mais pour l’instant vous acceptez leur soutien comme candidat."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle mentionne alors les propos homophobes et antisémites de plusieurs invités de l’UOIF."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Alors Ratib Nabulsi du congrès de l'UOIF du nord en 2016 dit L’homosexualité conduit à la destruction de l’homosexuel c'est pour cette raison, mes chers frères, que le châtiment de l’homosexualité est la peine de mort."
+            },
+            {
+                "speaker": "MLP",
+                "text": "M. Hassan Iquioussen, fondateur des Jeunes Musulmans de France, intervenant au congrès de l’UOIF de 2017, donc vous voyez je ne suis même pas retournée très loin, a qualifié les Juifs d’avares et d’usuriers ou d’être le top de la trahison et de la félonie dans une conférence révélée par le journal de l’Humanité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Macron répond sur le ton de la plaisanterie, feignant la surprise de la voir compatissante avec les minorités juives et homosexuelles."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Madame Le Pen, d’abord ce débat a un mérite formidable, c’est de pouvoir vous entendre tenir des propos de compassion avec les Homosexuels et les Juifs de ce pays."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Redevenant sérieux, il affirme ne pas soutenir l’UOIF"
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Ne mentez pas, je ne soutiens pas l’UOIF."
+            }
+        ]
+    }
+]

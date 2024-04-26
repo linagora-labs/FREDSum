@@ -1,0 +1,305 @@
+[
+    {
+        "abstractive": {
+            "text": "Mathilde Panot commence en parlant de l'effet sur l'associatif que le report de l'âge de départ à la retraite aura; 50% des maires rurauux sont retraités, 27% des bénévoles, et 23 millions d'heures de garde des enfants sont des grands-parents pour leurs petits-enfants; un lien très important qu'elle ne souhaite pas marchander. "
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "Avec le report de deux ans de l'âge légal de 62 à 64 ans, certains devront aller jusqu'à 67 ans pour ne pas avoir la décote."
+            },
+            {
+                "speaker": "MP",
+                "text": "50% des maires ruraux qui sont aujourd'hui retraités, dont on ne sait pas s'ils pourront être maires après, c'est 27% des bénévoles associatifs, donc une désorganisation complète de tout l'associatif dans notre pays, c'est 23 millions d'heures de garde de grands-parents pour leurs petits-enfants."
+            },
+            {
+                "speaker": "MP",
+                "text": "Et chacun et chacune qui ici est grands-parents passent du temps avec leurs petits-enfants peut comprendre que c'est important dans la construction d'un enfant, d'un individu, de créer du lien, d'avoir ce moment mimétique où on apprend finalement l'humanité d'un être humain."
+            },
+            {
+                "speaker": "MP",
+                "text": "Quand vous pouvez le payer, c'est tout ça que vous êtes en train de détruire avec cette question de la retraite et du vol de deux ans de vie des Français."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle continue en critiquant la suppression des critères de pénibilités, qui sont déjà rarement suivis car la médecine du travail est quasi inexistante en france. "
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "Sur la pénibilité, nous avons commencé en 2017 avec ce gouvernement qui a décidé de supprimer quatre critères de pénibilité sur dix, dont celui de port de charge lourde, dont celui d'exposition aux agents chimiques, qui est celui aussi qui a supprimé les CHSCT, qui était, je crois, très important dans la question de la santé au travail, et qui est aussi celui qui a continué de détruire la médecine du travail à tel point qu'elle est quasi inexistante dans notre pays."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran se défend, du travail a été fait pour faciliter la prise en compte de la pénibilité, et les critères qui ont été supprimé ont été renégociés au niveau des branches professionnelles. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Même quand on dit que jusqu'ici il fallait 120 nuits par an pour avoir une reconnaissance particulière, et que, désormais, ce sera 100 nuits."
+            },
+            {
+                "speaker": "OV",
+                "text": "Ensuite, vous avez raison de souligner que dans le mandat précédent, on a supprimé des critères de pénibilité, et on l'a fait pour une raison qui peut s'entendre, même si vous avez le droit de la contester, c'est que ça ne marche pas, c'est qu'il fallait avoir une démarche individuelle, très compliquée."
+            },
+            {
+                "speaker": "OV",
+                "text": "Après, cette fois-ci, c'est une reconnaissance tacite, finalement, de la pénibilité, non pas de l'exercice d'une personne, mais d'une branche professionnelle."
+            },
+            {
+                "speaker": "OV",
+                "text": "C'est-à-dire qu'on considère que si vous travaillez, comme je l'ai fait, par exemple, soignant de nuits en EHPAD, ou quand vous devez travailler dans du BTP avec des ports de charge lourdes, on va simplifier la reconnaissance de la pénibilité."
+            },
+            {
+                "speaker": "OV",
+                "text": "C'est plutôt que d'attendre que la personne soit à l'âge de la retraite pour dire, vous êtes abîmé par votre vie professionnelle, vous pouvez partir, mais c'est un peu tard, on va passer dans une logique de prévention."
+            },
+            {
+                "speaker": "OV",
+                "text": "On va mettre 1 milliard d'euros d'investissement sur 5 ans pour pouvoir prévenir la pénibilité professionnelle."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "De plus, des visites médicales systématiques seront mise en place à 45 et 61 ans pour faire arrêter plus tôt les gens en danger physique. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "On va mettre en place des consultations médicales, systématiques à 45 à 61 ans, et on va arrêter les gens plus tôt."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il continue en expliquant qu'il mettra en place le congé de reconversion professionnel, un congé payé pour aider les français exerçant une profession pénible à changer de métier. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "On va créer un congé de reconversion professionnel."
+            },
+            {
+                "speaker": "OV",
+                "text": "Ça veut dire que quand vous aurez exercé un certain nombre d'années dans une profession avec de la pénibilité, et que vous voulez en changer parce que vous en avez marre et que vous ne voulez pas vous user, non seulement vous allez garder votre salaire le temps de vous former, mais on va vous payer votre formation vers un métier qui n'a pas ces critères de pénibilité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Mathilde Panot, la prévention médicale ne fonctionne pas en france, la médecine du travail étant quasiment détruite en france. "
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "La 2e chose, c'est que la prévention n'existe pas, puisque la médecine de travail est quasiment détruite dans ce pays."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Les candidats parlent ensuite du nombre d'annuitées requises pour partir à la retraite, explicitant que dans certains cas, 44 années de cotisations seront requises pour partir à la retraite. "
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "Et puis la 3e chose, quand même, moi, j'ai parlé il y a 2 jours avec un animateur dans les EHPAD, c'est son métier, il est animateur dans les EHPAD, et il dit, c'est quand même incroyable, moi, j'ai regardé ma retraite, je vais pouvoir partir en retraite à 66 ans Parce qu'il y a une carrière avec des trous dans sa carrière."
+            },
+            {
+                "speaker": "MP",
+                "text": "Quelqu'un qui atteint ses 43 années de cotisation à 62 ans, il partira à 62 ans ?"
+            },
+            {
+                "speaker": "MP",
+                "text": "Sauf que ceux qui sont rentré avant vingt ans, vous les faites cotiser à 44 ans, mais vous n'en partez pas."
+            },
+            {
+                "speaker": "OV",
+                "text": "Non, parce que la preuve, si vous commencez à 19 ans, vous partez à 62."
+            },
+            {
+                "speaker": "OV",
+                "text": "Quelqu'un qui a commencé à 18 ans, il doit partir à 62 ans aussi."
+            },
+            {
+                "speaker": "P1",
+                "text": "Donc, 44 ans de cotisation."
+            },
+            {
+                "speaker": "OV",
+                "text": "C'est le principe de l'équilibre financier de la loi."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella fustige cette approche; dans tous les cas, tous le monde devra travailler plus longtemps, alors qu'il faudrait plutôt travailler sur les grandes orientations en soutenant la natalité. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Pourquoi est-ce qu'un maçon qui commence à travailler à 20 ans doit cotiser 44 ans pour être à la retraite, alors que quelqu'un qui a un analyse financier, qui a commencé lui à 24 ans, il n'a besoin que de 43 annuités pour obtenir sa retraite."
+            },
+            {
+                "speaker": "P1",
+                "text": "Jordan Bardella, est-ce que sur le cas particulier de ceux qui ont le devoir cotiser 44 ans, vous dites, là, au gouvernement, il va falloir qu'on bosse à l'Assemblée au moment des débats pour précisément qu'on arrête cette anomalie, cette injustice?"
+            },
+            {
+                "speaker": "JB",
+                "text": "Enfin, écoutez, ça va de soi."
+            },
+            {
+                "speaker": "JB",
+                "text": "Donc le véritable sujet, c'est que tout le monde, que vous ayez 18, 19, 20, 21 ans, etc, vous allez devoir travailler plus longtemps, C'est ça le sujet, et moi, je suis en désaccord avec cela, et je pense qu'on peut faire autrement et que l'un des grands enjeux de notre société dans les décennies qui viennent, c'est de relancer et de soutenir la natalité."
+            },
+            {
+                "speaker": "JB",
+                "text": "C'est maintenant que les grandes orientations se prennent, et donc pour cela, il faut soutenir la natalité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique cependant que c'est déjà le cas, et qu'avec la réforme, personne ne sera contraint de cotiser 45 ans, et que personne ne devra cotiser 44 ans avec un métier pénible. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Dans le système actuel, il y a même des gens qui doivent cotiser 45 ans, ce qui ne sera pas le cas après la réforme."
+            },
+            {
+                "speaker": "OV",
+                "text": "On met un plan de pénibilité pour que le maçon."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella propose de plus de prendre en compte la pénibilité dans la réforme des retraites; il admet que les gens qui commencent à travailler tôt ont un métier plus physique, et qu'ils devront partir à 60 ans. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Moi, j'intègre la pénibilité dans notre réforme des retraites, vous avez commencé à travailler entre 17 et 20 ans, on considère que plus vous travaillez tôt, plus vous avez un métier difficile, et donc plus vous devrez partir tôt à la retraite."
+            },
+            {
+                "speaker": "JB",
+                "text": "On a un dispositif de carrières longues qui est intégré à notre système de retraite qui est progressif, et en même temps, on a ce compte de prévention de la pénibilité auquel il convient d'ajouter les critères dans le gouvernement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Son système prends donc en compte la pénibilité. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Il n'y a pas de généralité sur le critère de pénibilité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran critique l'approche de Jordan Bardella, qui ne supprime pas les régimes spéciaux, et qui est plutôt pour la clause du grand père. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Il y a deux choses qui me semblent cruellement manquées, il y a justement, comme le disait Maxime Swittek, il n'y a rien sur la pénibilité, vous traitez de façon indistincte des gens qui ont des carrières distinctes, il n'y a rien sur les régimes spéciaux que vous supprimez pas."
+            },
+            {
+                "speaker": "JB",
+                "text": "Vous parlez des régimes spéciaux?"
+            },
+            {
+                "speaker": "JB",
+                "text": "Nous, on est pour la clause du grand-père."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mathilde Panot, elle, est contre la suppression des régimes spéciaux. "
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "On est pour les garder, pour essayer d'emmener tout le monde vers le haut."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle pose aussi la question des conditions de travail, donnant l'exemple des égouttiers, qui ont une espérance de vie beaucoup plus basse que la moyenne des français, et qui ne devraient pas avoir à travailler plus longtemps. "
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "Il y a quand même des questions qui se posent aussi avec, qui sont des questions de condition de travail."
+            },
+            {
+                "speaker": "MP",
+                "text": "Les égoutiers, ils ont 17 ans d'espérance de vie en moins que la population moyenne."
+            },
+            {
+                "speaker": "MP",
+                "text": "Et bien, par exemple, ça, cette question de pénibilité des métiers, cette question de l'espérance de vie quand vous voyez les raffineurs, les raffineurs qui ont fait grève."
+            },
+            {
+                "speaker": "MP",
+                "text": "Parce que le sens de l'histoire, le sens du XXe siècle, ça a été de libérer du temps de travail pour faire autre chose dans la vie qui n'est pas un temps oisif, enfin, ça peut être un temps oisif, si vous voulez, mais qui permet de s'investir dans la société."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour elle, le sens de l'histoire est de se libérer du temps de travail. "
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "Et le combat du XXe siècle, quand je vous disais qu'il y avait 3000 heures de travail au début du XXe siècle, 1500 heures à la fin du XXe siècle pour une productivité augmentée fois 40, c'est justement de libérer du temps pour soi, pour les autres, pour s'occuper de ces petits-enfants, s'occuper d'une association, s'occuper d'autres choses."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran souhaite supprimer les régimes spéciaux, et rappelle la proposition du congé de reconversion professionnelle pour les français qui ont des travails pénibles. "
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "En quelques secondes, quels régime spéciaux supprimez-vous avec la réforme qui vient?"
+            },
+            {
+                "speaker": "OV",
+                "text": "On supprime quasiment tous les régimes spéciaux."
+            },
+            {
+                "speaker": "OV",
+                "text": "J'ai envie de vous dire qu'il me semble plus important de faire en sorte qu'un égoûtier, si c'est son choix, ne soit pas égoûtier toute sa vie professionnelle, et qu'on puisse l'accompagner dans une reconversion professionnelle."
+            },
+            {
+                "speaker": "OV",
+                "text": "Avec la loi, avec le congé de reconversion professionnelle, c'est de dire à cette personne, si elle vous dit que j'ai envie de faire autre chose, parce que j'en ai marre des égoûts, je vais lui dire qu'il y a des solutions qui existent."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Cette option n'est pas importante pour Mathilde Panot; quelqu'un qui a un travail pénible devrait pouvoir partir plus tôt dans les cas où il ne souhaite pas se reconvertir."
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "C'est pas la question qu'ils en ont marre des égoûts, c'est pas ça que les égoûtiers sont en train de vous dire, c'est de vous dire qu'il est normal qu'ils partent 10 ans avant les autres, tout simplement pour pouvoir profiter du temps libéré de la retraite"
+            }
+        ]
+    }
+]

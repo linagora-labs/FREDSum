@@ -1,0 +1,185 @@
+[
+    {
+        "abstractive": {
+            "text": "Le journaliste rappelle que le niveau des jeunes français baisse considérablement."
+        },
+        "extractive": [
+            {
+                "speaker": "GILLES BOULEAU",
+                "text": "Tous les classements internationaux montrent encore et encore que le niveau de connaissance des élèves français baisse."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "EMMANUEL MACRON commence par saluer les investissements qui ont été faits pour les petites classes."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "D'abord, on a commencé à le faire puisque l'investissement qui a été fait en CP, CE1, pour les plus petites classes, donc qui ne sont prises en compte dans ces fameux tests PISA qui ne sont faits qu'au collège, a permis, et ça on le mesure puisqu'on a mis en place des tests annuels pour les enfants de la République qui sont les plus en difficulté et bien de rattraper puisqu'on a fait des classes plus petites."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il souhaite intensifier les moyens en 6e et en secondes, classes charnières dans les parcours scolaires."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Ensuite c'est de mettre les moyens sur les classes de 6ème et de seconde qui sont les classes charnière où les décrochages se font."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il entend également réformer le lycée professionnel et l’université afin de rendre les débouchés plus clairs, tout en aidant les étudiants (logement, sécurité sociale étudiante)."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Fort de celles-ci, je veux réformer le lycée professionnel et puis aller vers une réforme de l'université en ouvrant des filières là aussi avec des débouchés plus clairs, en continuant d'aider nos étudiants, études gratuites, on va continuer ce qu'on a fait justement sur la baisse des mutuelles et de la sécurité sociale étudiante, et en accompagnant mieux, en particulier sur le logement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Enfin, il affirme vouloir poursuivre la politique de revalorisation des salaires des professeurs."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "On ira au bout de la revalorisation commencée pour les professeurs à qui nous devons tant parce que nous avons rouvert l'école grâce à eux."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "MARINE LE PEN explique de son côté que la jeunesse a terriblement souffert, en particulier avec la crise COVID."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Je vais vous répondre, mais d'abord pour vous dire que la jeunesse française a tellement souffert, tellement souffert dans les deux dernières années, deux dernières années et demie."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Tout comme EMMANUEL MACRON, elle souhaite rendre plus attractives les filières professionnelles et propose également un fort accompagnement de la jeunesse, en revalorisant les salaires des apprentis et rendant gratuit les trains pour les 18-25 ans avec certaines conditions."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Je vous l'ai dit tout à l'heure, je veux revaloriser les filières professionnelles, l'alternance, l'apprentissage."
+            },
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Mais moi ce que je veux c'est augmenter les revenus de ces apprentis et de ces alternants."
+            },
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Je suis pour la gratuité aux heures creuses des trains même des grandes lignes d'ailleurs pour les 18-25 ans."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle refuse de fixer en avance les taux de réussite du bac et rétablira les filières scientifiques, économiques et littéraires au lycée."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Donc je veux faire du baccalauréat un examen dont on ne détermine pas à l'avance si on va le donner à 95% ou 98% de la classe d'âge parce que ça ne rend pas service en réalité à nos jeunes ; Deuxièmement je souhaite le retour des filières littéraires, scientifiques, économiques."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Les deux candidats se retrouvent ensuite sur l’augmentation des salaires des professeurs, même si leurs chiffres diffèrent ; ils s’accusent tous deux de ne pas pouvoir financer ce point."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Je le dis, je souhaite les revaloriser de 3 % par an"
+            },
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Et je pense qu'il faut être beaucoup plus sévère, qu'il faut arrêter de mettre la poussière sous le tapis, d'arrêter « le pas de vague » dont beaucoup de professeurs se sont plaints d'ailleurs et qui fait qu'on ne prend plus de décisions, que le conseil de discipline n'ose plus prendre de sanctions, d'exclusions y compris d'exclusions définitives, je le dis, quitte à ouvrir encore une fois des internats qui soient spécifiques à ces enfants qui ont des problèmes de délinquance, des problèmes de comportements mais qui ne doivent pas empêcher les autres de réussir."
+            },
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "La revalorisation des enseignants a commencé sous ce quinquennat."
+            },
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Elle conduira et je veux la poursuivre et la poursuivre dès le début si les Français et les Françaises me font confiance, ce qui que de manière inconditionnelle, il y a une revalorisation d'environ 10 % des enseignants."
+            },
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "C'est vrai qu'avec vos 600 milliards d'euros de dette, je suis sûre que vous êtes absolument compétents"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "EMMANUEL MACRON justifie alors la dette COVID ; elle fut nécessaire pour maintenir les classes ouvertes et fournir les repas aux enfants."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Ce n'est pas du financement courant c'est de la dette covid qui a aidé nos compatriotes qui nous écoutent et en particulier pendant cette période."
+            },
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Et bien si nous n'avions pas rouvert l'école grâce à nos enseignants dès le 11 mai 2020, je sais que vous vous êtes ô combien opposée à cette mesure, nous n'aurions pas pu parfois fournir un repas par jour à ces enfants et leur permettre d'avoir une année justement des plus correctes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il appelle ensuite à travailler davantage avec les parents d’élèves et les directeurs d’école en leur proposant davantage de marge de manœuvre dans leurs méthodes pédagogiques."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Je veux reconnaitre aussi le fait qu'ils ont besoin d'avoir plus de liberté pour travailler avec les parents d'élèves, avec les directrices et directeurs d'école, avec celles et ceux qui font le périscolaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il se félicite ensuite de la présence des services publics dans la ruralité, soulignant le grand nombre d’encadrants dans les classes."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Je vous invite à regarder dans nos ruralités auxquelles je tiens tant et pour lesquelles de la fibre à la réouverture des lignes de chemin de fer au retour des services publics nous avons tant fait durant ces dernières années."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Hors, pour MARINE LE PEN, les campagnes sont abandonnées ; l’on continue d’y fermer des classes"
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Ils ont le sentiment d'être complètement abandonné dans la ruralité."
+            },
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Regardez le nombre d'enfants par classe, c'est là où il est le plus faible dans nos ruralités."
+            },
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Ben non pas bien sûr, parce que j'ai mis fin à la fermeture des classes sans l'accord du maire."
+            },
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Des classes ont continué à ferme"
+            }
+        ]
+    }
+]

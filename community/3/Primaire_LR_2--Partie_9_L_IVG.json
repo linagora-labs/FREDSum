@@ -1,0 +1,142 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Ciotti, Retailleau et Pradié discutent de la constitutionnalisation de l’IVG."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "On va revenir aux questions de société avec l'interruption volontaire de grossesse."
+            },
+            {
+                "speaker": "P1",
+                "text": "Est-ce que vous êtes d'accord pour cette inscription dans la constitution ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Retailleau n’y est pas favorable, car personne aujourd’hui ne conteste la loi Veil, laquelle est du reste protégée par le conseil constitutionnel."
+        },
+        "extractive": [
+            {
+                "speaker": "BR",
+                "text": "Non, je ne suis pas d’accord."
+            },
+            {
+                "speaker": "BR",
+                "text": "La première chose, c'est que personne ne conteste la loi Veil en France."
+            },
+            {
+                "speaker": "BR",
+                "text": "Par ailleurs, le Conseil constitutionnel a pratiquement constitutionnalisé justement ce droit pour les femmes de recourir à l'avortement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Par ailleurs, selon lui, c’est un débat importé des Etats-Unis par la gauche ; il n’a donc pas sa place en France."
+        },
+        "extractive": [
+            {
+                "speaker": "BR",
+                "text": "Deuxième chose, c'est que, moi, je suis français, je ne suis pas américain."
+            },
+            {
+                "speaker": "BR",
+                "text": "C'est un débat que l'extrême gauche est en train d'importer des Etats-Unis."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Cependant, Pradié est en désaccord car la loi Veil est un héritage de la droite dont la constitutionnalisation serait un avancée dans la conquête de nouveaux droits."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Aurélien Pradié, est-ce que vous êtes d'accord avec ce que vient de dire Bruno Retailleau?"
+            },
+            {
+                "speaker": "AP",
+                "text": "Non, je ne suis pas d'accord."
+            },
+            {
+                "speaker": "AP",
+                "text": "Je suis incroyablement fier de ce que Simone Veil a fait dans notre pays."
+            },
+            {
+                "speaker": "AP",
+                "text": "C'est la droite qui l'a fait, c’est notre famille politique qui l’a fait."
+            },
+            {
+                "speaker": "AP",
+                "text": "N'abandonnons pas ces immenses combats, y compris à l'extrême gauche, qu'il instrumentalise."
+            },
+            {
+                "speaker": "AP",
+                "text": "Ce à quoi je suis favorable, c'est que nous inscrivions les principes de la loi Veil, les principes que nous avons soutenus historiquement, qui sont notre propre conquête dans la Constitution."
+            },
+            {
+                "speaker": "AP",
+                "text": "La droite à laquelle nous croyons, c'est une droite de conquête des droits."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Ciotti rejoint Pradié sur cette question."
+        },
+        "extractive": [
+            {
+                "speaker": "AP",
+                "text": "Tout ce qui permettra demain de faire en sorte que les femmes soient mieux protégées dans leurs droits, je dis oui, parce que je pense que c'est non seulement les grandes valeures de la france, mais aussi les vraies valeures de la droite."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Selon lui, la droite doit parler à tous et être ouverte sur la société."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Je crois que la droite ne peut pas être un garde."
+            },
+            {
+                "speaker": "EC",
+                "text": "Je vois que là où on veut nous emmener, soyons fiers de ce que nous avons fait."
+            },
+            {
+                "speaker": "EC",
+                "text": "Je souhaite qu'on conserve le meilleur du passé, de nos racines, bien sûr, de nos civilisations, mais qu'on regarde aussi l'avenir, l'espérance, comment notre société évolue, comment les jeunes aussi veulent évoluer."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Retailleau reste néanmoins sur sa position."
+        },
+        "extractive": [
+            {
+                "speaker": "BR",
+                "text": "C'est toujours une mauvaise chose que la droite reprenne des mots de la gauche pour culpabiliser justement la droite."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pradié termine en expliquant que la droite ne doit pas abandonner ce combat à l’extrême-gauche ; il rappelle l’action de la droite dans la lutte contre les violences conjugales et la  déconjugalisation de l'allocation adulte handicapée"
+        },
+        "extractive": [
+            {
+                "speaker": "AP",
+                "text": "C'est toujours une mauvaise chose quand la droite abandonne à l'extrême-gauche ses combats historiques."
+            },
+            {
+                "speaker": "AP",
+                "text": "La droit que je veux rebâtir demain avec mes amis, c'est une droite qui reparlera à tous les Français de ce qui les concerne"
+            }
+        ]
+    }
+]

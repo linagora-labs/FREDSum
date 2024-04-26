@@ -1,0 +1,105 @@
+[
+    {
+        "abstractive": {
+            "text": "Guaino estime que lui et Mélenchon sont d’accord sur le socle de l’école républicaine et du programme du Conseil National de la Résistance."
+        },
+        "extractive": [
+            {
+                "speaker": "HG",
+                "text": "Alors Jean-Luc Mélenchon apportera un contenu qui sera pas toujours le même que celui que j’apporterais, mais quand même il y a il y a un socle commun, y a le programme du Conseil National de la Résistance, y a l'école de la République, il y a pas d’indifférence d'ailleurs aux problèmes religieux."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Selon lui, la République doit maintenir un dialogue avec les Religions ; il appelle à la création d’un Islam de France."
+        },
+        "extractive": [
+            {
+                "speaker": "HG",
+                "text": "Il y a un dialogue de la République nécessaire avec les religions, nécessaire avec les églises, et on a le vrai on a vrai sujet aujourd'hui, que que nous ne savons pas résoudre pour l'instant, il va bien falloir que nous le fassions."
+            },
+            {
+                "speaker": "HG",
+                "text": "En particulier sur la création d'un d'un d'un véritable islam de France, sur la formation des imams."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mélenchon est en désaccord car la République ne doit pas se mêler de religion."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Je peux pas vous laisser dire ça, on va pas faire des écoles du curés quand même."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "La laïcité exige une neutralité parfaite."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "La République est à cet endroit-là, elle ne se mêle pas de religion et d’anti religion."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le présentateur mentionne ensuite un village où s’exerce la démocratie participative dans les prises de décision."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "A Saillant, les habitants ont mis en place une démocratie participative, où tous les projets de la ville sont soumis à un vote d’un conseil formés de beaucoup d’habitants."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Guaino se réjouit que les citoyens s’engagent dans l’action publique mais il estime que toutes les décisions ne peuvent être prises ainsi ; en effet, la politique ne peut se passer de mandataires sur lesquels s’exerce la pression de choix difficiles."
+        },
+        "extractive": [
+            {
+                "speaker": "HG",
+                "text": "évidemment quand les gens s'intéressent à la chose publique, quand ils veulent y participer, c'est très bien, mais toutes les décisions ne peuvent pas être prises de cette façon."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Mélenchon, l’engagement citoyen dans la prise de décision correspond pleinement au sens de la politique."
+        },
+        "extractive": [
+            {
+                "speaker": "HG",
+                "text": "Mais l'idée que la politique va disparaître au sens traditionnel du terme, c'est-à-dire que l'on donne des des mandats et qui sont chargés de prendre des décisions, qui sont souvent extrêmement difficiles à prendre."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Selon lui, les représentants doivent rendre des comptes et consulter leur administrés."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "La représentation c’est présenter re, mais on présente les gens, donc le moyen pour un représentant de faire honnêtement son travail, c’est de rendre compte de de consulter avant, il représente, il n'a pas été élu roi des habitants de ce pays comme le croit François Hollande."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Ils pensent également qu’il faut laisser du temps aux citoyens pour trancher, maintenant que ceux-ci sont en états de s’informer grâce aux réseaux sociaux"
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Les gens sont en état de contrôler, de voir, nous avons les réseaux sociaux, nous avons mille manières d'accéder au contenus des dossiers"
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Royal et Bayrou discutent de la question du nucléaire et des symboles de la France."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "François Bayrou, est-ce que Nicolas Sarkozy a raison de souhaiter un durcissement des conditions du regroupement familial en France pour les immigrés en disant qu'un immigré ne pourrait demain faire venir ses proches, sa famille que s'il a un salaire et un logement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Après avoir expliqué qu’il ne souhaitait pas limiter le regroupement familial aux seuls migrants ayant un travail et un logement, Bayrou aborde la question du nucléaire."
+        },
+        "extractive": [
+            {
+                "speaker": "FB",
+                "text": "Donc je considère que quand on a un travail, quand on a un logement, comment imposer à quelqu'un de vivre toute sa vie sans sa famille."
+            },
+            {
+                "speaker": "FB",
+                "text": "Je ne vois pas comment on peut remplir les objectifs qu'on a signé à Kyoto sans conserver notre outil de production d'électricité nucléaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il estime que le nucléaire est la seule énergie permettant à la France d’atteindre ses objectifs climatiques, cependant, Bayrou pense qu’il est possible de réfléchir à des énergies alternatives."
+        },
+        "extractive": [
+            {
+                "speaker": "FB",
+                "text": "Qu'on dise, oui il faut une politique d'incitation forte aux énergies alternatives, et la France avec son outil industriel devrait se saisir de ce sujet des énergies alternatives pour en faire un secteur d'excellence, oui de ce point de vue là je le pense."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Royal souhaite quant à elle suspendre le décret relatif à la construction de l’EPR et ajoute que le problème des déchets nucléaires et celui du manque de ressources d’uranium ne sont pas réglés."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Ensuite il faut que les choix relatifs au nucléaire qui sont des choix financièrement extrêmement lourds soient débattus, donc le décret sur l’EPR sera suspendu, et nous reprendrons le débat énergétique en France pour que les citoyens soient bien au clair sur ce qu'il y a à décider."
+            },
+            {
+                "speaker": "SR",
+                "text": "J'ajoute enfin que la question des déchets nucléaires n'est pas résolue, que par ailleurs nous serons confrontés dans un demi-siècle à la pénurie d’uranium, c'est à dire à la pénurie du combustible des centrales nucléaires, donc ce serait irresponsable de se lancer comme ça à l'aveuglette non seulement en France, mais à l'échelle de la planète sur une programmation de centrales nucléaires sans se poser cette question."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur la question des symboles, Bayrou pense que chaque élève doit connaître la Marseillaise mais qu’il n’est pas nécessaire selon lui d’afficher le drapeau tricolore chez soi, dans la mesure où chacun honore la France comme il le souhaite."
+        },
+        "extractive": [
+            {
+                "speaker": "FB",
+                "text": "La marseillaise, tous ceux qui sont allés à l'école doivent la connaître."
+            },
+            {
+                "speaker": "FB",
+                "text": "La France c'est des valeurs, et c'est dedans, et chacun l'honore comme il veut."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Royal rappelle que les Français voient dans le drapeau tricolore et la sécurité sociale les fondements de la nation."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Et lorsque l'on avait interrogé les français sur qu'est-ce qui fait France pour vous ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour elle, les Français en sont fiers."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Ils ont cité le drapeau et la sécurité sociale."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle donne pour exemple des jeunes de banlieue chantant la Marseillaise spontanément."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Et je vais vous dire, ce qui m'a surpris au cours de cette campagne, ce sont les jeunes des quartiers qui ont le plus souvent demandé à ce que soit chanté la Marseillaise à la fin des réunions publiques."
+            }
+        ]
+    }
+]

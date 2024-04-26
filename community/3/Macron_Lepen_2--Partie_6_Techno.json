@@ -1,0 +1,131 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, MARINE LE PEN et EMMANUEL MACRON discutent de la souveraineté numérique française."
+        },
+        "extractive": [
+            {
+                "speaker": "LEA SALAME",
+                "text": "Comment faire pour avoir demain un Google français, un Steve Jobs français."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "MARINE LE PEN commence par fustiger l’immobilisme de l’Europe ; selon elle, on aurait du, depuis plusieurs années déjà, s’interroger sur la manière de conserver les données sur le sol européen et de créer des entreprises technologiques françaises."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Ça fait des années qu'on aurait dû avoir une réflexion sur comment est-ce qu'on met en place le moyen de conserver les données sur le territoire européen, sur comment est-ce qu'on arrive à créer, je sais que ce n'est pas non plus donné, ils ont pris beaucoup d'avance sur nous."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle souhaite bâtir des groupes à l’échelle européen sur le modèle d’Ariane ou d’Airbus."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Moi je pense qu'il faut qu'on crée, au niveau européen, de la même manière qu'on a créé, comment dire, une politique spatiale, on a fait airbus, on a fait Ariane, il faudrait qu'on fasse évidemment un Google européen et qu'au moins on mette en place le moyen de préserver nos données, mais pour l'instant les tentatives, en tout cas, n'ont pas été couronnées de succès."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "En face, EMMANUEL MACRON se félicite que la France soit passée de 2 à 25 licornes durant son élection."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "J'ai été élu, il devait y avoir deux licornes qui dépassent le milliard de chiffre d'affaires de valorisation et elles sont aujourd'hui près de 25."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le problème majeur auquel les entreprises du numérique sont confrontées est celui de la taille du marché, c’est pourquoi EMMANUEL MACRON appelle à un déploiement européen de ces entreprises du digital avec la création d’un marché unique européen."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Si on veut faire des champions, il faut que le marché domestique tout de suite, ce soit le marché de l'Union européenne."
+            },
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Donc il faut un vrai marché unique du numérique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il entend par ailleurs protéger les données des citoyens."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "La deuxième chose, il faut protéger nos citoyens, l'Europe là aussi a créé les premiers standards pour nos données individuelles, le RGPD, pour donner l'acronyme, mais qui est le règlement général pour la protection, justement, des données sur nos vies privées."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il souhaite également favoriser l’investissement et le développement de programmes de recherche entre pays."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Il faut ensuite qu'en Europe on développe cela, qu'on ait des grands programmes de recherche européens comme on a commencé à le faire mais qu'on ait un marché européen qui permette d'avoir la même rapidité et la même force que les grands marchés européens et chinois."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Enfin, il salue l’Europe pour sa capacité à imposer aux grands groupes comme Google le paiement de leurs impôts sur le continent."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Et quand ces grands groupes ne payent pas l'impôt chez nous, qui est ce qui peut nous permettre d'y répondre, l'Europe."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Cependant, MARINE LE PEN estime que beaucoup d’emplois créés au cours de la révolution numérique sont précaires, évoquant une ubérisation de la société."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Parce qu'en fait on est dans une économie qui est en train de s'ubériser."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il faut selon elle miser surtout sur l’industrie et non les plateformes de services."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "C'est-à-dire qu'on crée des emplois, on crée des emplois qui sont des emplois à très bas coûts, qui sont des emplois qui sont très précaires."
+            },
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "C'est sur l'industrie qu'il y a un effort à faire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle appelle ensuite à renforcer la couverture numérique du pays, laquelle est jugée insuffisante ; il s’agit d’une condition préalable à l’émergence de géants du numérique"
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "On parle de choses, de Google européen, etc mais il y a des gens qui nous regardent, ils sont toujours dans un espace où ils n'ont pas la fibre, où ils n'ont pas de couverture numérique, donc je pense que ça pourrait peut-être être la première des priorités car en plus nous aurons besoin de cette couverture numérique parfaite sur le territoire, parce que, si on veut faire de la télémédecine, si on veut faire de la téléconsultation, si on veut faire toutes ces choses-là qui sont des nouvelles technologies, on ne pourra jamais le faire si on est encore des espaces où la couverture numérique est pour le moins défaillante"
+            }
+        ]
+    }
+]

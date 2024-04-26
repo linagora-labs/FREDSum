@@ -1,0 +1,176 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Mélenchon et Zemmour évoquent la grandeur de la France et son indépendance."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Est-ce qu'il aurait fallu par exemple sortir de l'otan, jean-luc mélenchon ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Interrogé par le journaliste, Mélenchon explique vouloir quitter l’OTAN, organisation dépourvue de sens aujourd’hui."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Moi c'est ma position constante, je pense que nous n'avons rien à faire dans cette alliance militaire, qui euh d'ailleurs n'a pas de sens."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "La puissance de la France doit se faire sur la base de l’autorité morale, scientifique et culturelle."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "L'essentiel de la puissance c'est l'autorité morale, scientifique, culturelle, que notre pays peut avoir."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour lui, le pays doit exploiter son espace maritime, le deuxième du monde, et ses compétences dans le domaine spatiale ; elle possède ainsi de nombreux avantages."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Les français ont tout en main pour y parvenir nous sommes le deuxième territoire maritime du monde."
+            },
+            {
+                "speaker": "JLM",
+                "text": "Nous sommes le deuxième peuple du monde pour la contribution à l'exploration de l'espace, vous vous rendez compte ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle doit également nouer des alliances dans le cadre de la francophonie, assise de la créolisation."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Et la francophonie peut-être un espace de créolisation et donc de puissance collective pour tous ceux qui parlent cette langue."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le pays peut avoir un rôle majeur à l’échelle mondial grâce à des accords internationaux qu’elle pourrait proposer dans différents domaines."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Les français doivent être les premiers à promouvoir des traités et des accords internationaux sur des domaines où il n'y a pas de loi, par exemple, les grands fonds ne font l'objet d'aucune loi, que nous soyons les premiers à le proposer que nous soyons les premiers à proposer de revenir à l'idée de démilitarisation de l'espace."
+            },
+            {
+                "speaker": "JLM",
+                "text": "Les français s'occupe de tout le monde, et de tout !"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il termine en accusant son rival de vouloir retirer la déclaration des droits de l’homme de la constitution."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "C'est-à-dire ouvert à la contribution de chacun comme dit la déclaration des droits de l'homme que vous voulez retirer de la constitution."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Zemmour récuse ce propos."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Non."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Néanmoins, il est en accord avec Mélenchon sur l’OTAN ; il faut en sortir, sans pour autant renier les alliances traditionnelles ; il appelle même à tendre la main aux Russes."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "J'aurais dit la même chose je dis ça depuis des années aussi, je pense que l'otan aurait dû se dissoudre en mille neuf cent quatre-vingt-dix quand l'urss a disparu."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Ca veut pas dire qu'on renonce aux alliances avec les américains, avec les anglais, avec les allemands, mais ça veut dire par exemple tendre la main aux russes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il se montre toutefois dubitatif sur l’efficacité des traités internationaux que la France pourrait faire valoir."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Et je je n'aime pas spécialement euh cette machine onusienne qui pond des rapports, des proclamations, et caetera et caetera."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il rappelle ensuite que la France n’est pas raciste ; elle doit simplement défendre sa culture, sa spécificité."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "La france n'est pas raciste quand elle fait, quand elle  défend son modèle, quand elle défend sa culture, quand elle défend sa civilisation."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "La France n’est pas raciste, mais Zemmour l’est, pour Mélenchon ; il voit de l’homophobie et de la misogynie dans le modèle défendu par son rival."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Ecoutez le zemmouristan ça existe d'accord ?"
+            },
+            {
+                "speaker": "JLM",
+                "text": "Un pays où les femmes sont rabaissés, un euh il y a la peine de mort qu'il vous plaît, un pays où les homosexuels sont punis, un pays où on voulait parler conventions internationales."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Or, pour Zemmour, ces valeurs évoquées ne sont pas celles de la France, mais précisément celles des banlieues islamisées du pays."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "la vous décrivez les banlieues islamisées Monsieur Mélenchon !"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Mélenchon, les gens s’appellent comme ils le souhaitent ; pour Zemmour, il faut s’inscrire dans une culture commune, et le prénom y participe."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Je veux vous dire les gens s'appelle comme ils veulent, ils le font par tradition familiale."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Le peuple en commun commence avec une culture commune."
+            }
+        ]
+    }
+]

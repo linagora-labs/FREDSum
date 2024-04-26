@@ -1,0 +1,141 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Olivier Véran et Jordan Bardella parlent de l'interdiction du port du voile en france. "
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Il y a un thème qui est apparu justement sur l'apaisement de la société, euh c'est l'interdiction du voile de la euh dans la rue."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella est pour l'interdiction du port du voile dans l'espace public, qui est devenu un outil militant pour les islamistes fondamentaux, et qui est un signe de contestation de l'égalité entre les hommes et les femmes. "
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Marine Le Pen le propose, euh dans son programme, emmanuel macron s’y oppose, et là-dessus on a un petit peu de doute parce que, est-ce que d'abord c'est une mesure qui apaise la société Jordan Bardella, et puis apparemment on voit que vous-même vous avez des doutes là-dessus."
+            },
+            {
+                "speaker": "JB",
+                "text": "C’est à dire, le voile est devenu aujourd'hui un outil militant pour les fondamentalistes islamistes, euh j'ai grandi avec beaucoup de jeunes femmes en seine-saint-denis de confession musulmane, avec qui j'étais à l'école au collège, au lycée, et pour qui porter le voile en rentrant chez soi le soir dans la cité c'était le moyen d'être tranquille."
+            },
+            {
+                "speaker": "JB",
+                "text": "Je pense que le voile est une contestation de l'égalité entre les hommes et les femmes, et je pense comme monsieur blanquer, peut-être un deuxième point d'accord, comme monsieur macron d'ailleurs l'avait-il déclaré en mars deux mille dix-huit à vos confrères de bfm tv, que le voile n'est pas souhaitable dans la société française."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour lui, cette interdiction n'est cependant pas la priorité, qui est plutôt la fermeture des mosquées radicales et l'expulsion des gens radicalisés, ainsi que le pouvoir d'achat et le contrôle de l'immigration. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Je veux dire, c’est pas la priorité sur l'islamisme, la priorité, c'est de fermer les mosquées radicales, c'est d'expulser les gens radicalisés, rien de tout cela n'a été fait par le gouvernement, et c'est de maîtriser notre immigration."
+            },
+            {
+                "speaker": "JB",
+                "text": "Je pense qu’il y a d'autres priorités, notamment sur la sécurité, sur le pouvoir d'achat, et sur le contrôle de l'immigration."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Quand Olivier Véran remet en question la faisabilité de cette loi, Jordan Bardella rappelle la mise en place de contrôle d'attestation pendant la période covid. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Vous allez pas pouvoir ordonner aux policiers de courir après des gens qui portent le voile pour leur mettre des amendes."
+            },
+            {
+                "speaker": "JB",
+                "text": "Vous leur avez bien fait courir après des gens pendant des mois pour vérifier si ils avaient bien coché sur l'attestations pour pouvoir sortir faire ses courses, pour pouvoir sortir respirer cinq minutes dans la rue."
+            },
+            {
+                "speaker": "OV",
+                "text": "Un, pour montrer le côté absurde de la proposition et de sa mise en place pratique, et deux, pour montrer la gêne de marine le pen d'être confrontée à la réalité pratique justement de cette proposition."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour lui, de toute manière, les française suivront la loi."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Vous savez quoi c'est extrêmement insultant à l'égard de ces femmes-là de considérer qu'elle ne respecterait pas la loi française"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Olivier Véran défend le bilan du gouvernement, qui ferme de nombreux lieux de cultes et d'associations qui prêchent la haine. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Plus de vingt mille contrôle de lieux de culte et d'enseignement, plus de sept cents fermetures , ça n'avait jamais été fait."
+            },
+            {
+                "speaker": "OV",
+                "text": "Plusieurs dizaines d'associations qui prêchait la haine et la détestation de l'autre, qui ont été interdites."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il n'est cependant pas pour l'interdiction du port du voile. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Donc la tenue vestimentaire de cette personne même si c'est pas mon truc, je vous le dis, c'est pas mon truc, mais toute façon les signes extérieurs et la façon d'exercer, de pratiquer sa religion, chacun est libre."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que la signification du port du voile a évolué pendant les dernières décennies, de plus, les français sont majoritairement pour l'interdiction du port du voile. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Les policiers appliqueront la loi et les français appliqueront la loi, c'est extrêmement insultant à l'égard de ces personnes que de considérer qu'elles ne vont pas respecter la loi."
+            },
+            {
+                "speaker": "JB",
+                "text": "Le voile porté dans les années soixante ou soixante-dix, n'a plus la même signification, n'a pas la même signification pour des grand-mères, qui peut être le lundi sur le marché le porte, et qui le mardi lorsqu'elles vont faire d'autres courses ne porte pas le voile."
+            },
+            {
+                "speaker": "JB",
+                "text": "Y a quand même des études qui ont été faites, soixante-cinq pour cent d'après un sondage ifop des français, qui nous disent être favorables à l'interdiction du voile dans l'espace public."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose aussi d'expulser les étrangers fichés pour radicalisation, ainsi que la fermeture des mosquées radicales, ce qui est impossible sur des suppositions pour Olivier Véran."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Il y a quatre mille cinq cents individus étrangers qui sont fichés pour radicalisation, ils ne sont pas expulsés."
+            },
+            {
+                "speaker": "JB",
+                "text": "Il y a cinq cent quarante mosquées radicales, dont une grande partie sont détenus par les frères musulmans, par l'uoif qui est considérée comme organisation terroriste dans les émirats arabes unis, et qui d'ailleurs appellent à voter pour monsieur macron."
+            },
+            {
+                "speaker": "OV",
+                "text": "Après il y a ce qu'on est capable de faire avec l'état de droit; ça vous embête l'état de droit, mais ça existe, c'est-à-dire qu'on ne peut pas juger les gens par avance sur la base de suppositions, il faut quand même qu'on ait quelques éléments tangibles."
+            }
+        ]
+    }
+]

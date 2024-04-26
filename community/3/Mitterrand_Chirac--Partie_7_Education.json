@@ -1,0 +1,91 @@
+[
+    {
+        "abstractive": {
+            "text": "La journaliste commence par rappeler qu’il y a inadéquation entre le système éducatif et le marché de l’emploi."
+        },
+        "extractive": [
+            {
+                "speaker": "Mme COTTA",
+                "text": "Le système éducatif français ne semble pas en adéquation parfaite avec nos problèmes et nos besoins économiques, puisque des dizaines de milliers de jeunes ne trouvent pas de travail et qu&#x27;en revanche certains travaux restent sans personne pour les occuper²"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " En réponse, Mitterrand explique vouloir augmenter les crédits dédiés à l’école, avec quarante milliards en plus de 1988 à 1992. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERAND",
+                "text": "J'ai prévu qu'en 1992, il devrait y avoir 15 à 16 milliards de plus consacrés à l'éducation nationale, étant entendu que la progression qui nous conduira de 1988 à 1992, représentera environ une quarantaine de milliards."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il souhaite par là améliorer les conditions matérielles de l’école et de développer l’apprentissage des technologies nouvelles. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERAND",
+                "text": "Il y a l'amélioration de l'instrument, nos écoles, nos universités sont souvent, souvent, pas toujours, souvent dans une situation matérielle très triste, Enfin l'essentiel, il faut diversifier les formes d'enseignement pour que toutes les technologies compétitives, pratiquées par le monde, puissent être enseignées à nos enfants."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Chirac est d’accord avec cette vision ; il mentionne cependant qu’en valeur relative, le budget de l’éducation a toujours augmenté sur les 25 dernières années, à l’exception de la période 1981 – 1985. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Sur ces problèmes au niveau général nous sommes tous d'accord, bien entendu et je souscris tout à fait à ces objectifs."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "L'observation, c'est : depuis 25 ans, je suis de près les problèmes de l'éducation nationale et de son budget, le budget de l'éducation nationale a toujours augmenté, sauf pendant une période : de 1981 à 1985, où il est passé de 19 % du budget de l'Etat à 18 % naturellement il a augmenté en valeur absolue."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Chirac demande à son adversaire s’il désire relancer la querelle sur la liberté d’enseignement. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Et acceptez-vous la parité et l'égalité, le droit pour chacun, de choisir sa forme d'école ou, au contraire, avez-vous l'intention de relancer cette querelle idéologique ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Mitterrand, cette liberté n’a jamais été contestée, mais le propos de Chirac ne porte pas sur la liberté de choix, mais de moyen."
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERAND",
+                "text": "Mais la liberté de choix n'a jamais été contestée par personne."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Oui, mais c'est la liberté des moyens."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Mitterrand estime avoir apaisé le conflit, si bien qu’il juge la question résolue ; le débat n’a plus lieu d’être, à la grande satisfaction de Chirac."
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERAND",
+                "text": "Mais cette revendication n'est pas majoritaire et, en 1984, j'ai, avec le ministre Jean-Pierre Chevènement, apaisé le conflit, assez de temps, en tout cas, pour qu'il ne connaisse aucun rebondissement depuis cette époque."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Je me réjouis d'une déclaration de cette nature"
+            }
+        ]
+    }
+]

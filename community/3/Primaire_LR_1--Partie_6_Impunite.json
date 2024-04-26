@@ -1,0 +1,245 @@
+[
+    {
+        "abstractive": {
+            "text": "Pujadas commence par rappeler que tous sont d’accord sur un certain nombre de points : construire des places de prison, plus de moyens pour la justice, raccourcir les délais de la justice, des amendes immédiates avec si besoin saisies sur les allocations ou les salaires, double peine et peines planchers."
+        },
+        "extractive": [
+            {
+                "speaker": "DP",
+                "text": "Vous voulez tous construire plus de places de prison, vous voulez tous plus de moyens pour la justice pour que les délais raccourcissent et donc que la justice soit rendue plus vite."
+            },
+            {
+                "speaker": "DP",
+                "text": "Vous êtes tous pour limiter, ou voir supprimer les rappels à la loi et les remplacer par des amendes immédiatement perceptible et notamment en cas de besoin par saisie sur les salaires ou sur les allocations."
+            },
+            {
+                "speaker": "DP",
+                "text": "Premièrement, le rétablissement de la double peine, et là dessus, vous êtes quasiment d'accord là dessus, à des degrés divers."
+            },
+            {
+                "speaker": "DP",
+                "text": "Et ensuite, vous voulez établir des peines minimum, des peines minimum, des peines planchers pour tel ou tel types de délits."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Barnier appelle alors à faire une grande loi de programmation sur 5 ans pour augmenter les places de prison (20 000 supplémentaires) et le nombre de juges et greffiers (250 en plus)."
+        },
+        "extractive": [
+            {
+                "speaker": "MB",
+                "text": "Une loi programme justice police, 20.000 places de prison, 250 postes de juges et de greffiers supplémentaires chaque année pendant cinq ans et une décision très rapide pour toutes les peines, y compris les peines les plus petites, pour que ce sentiment ou cette impunité ne soit plus une réelle."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pujadas explique ensuite que les juges peuvent déroger aux peines plancher, comme sous Sarkozy, ce qui ne les rend guère efficace."
+        },
+        "extractive": [
+            {
+                "speaker": "DP",
+                "text": "Mais il y a le principe d'individualisation de la peine, donc les juges ont toujours la possibilité, s'ils argumentent, de déroger à cette peine plancher."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Ciotti proteste ; selon lui, cela a bien fonctionné."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "C'est vous qui dites ça n'a pas marché et c'est Dupond-Moretti."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose ensuite des peines immédiates dès le premier délit contre les représentants de l’ordre."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Il faut plus d'autorité."
+            },
+            {
+                "speaker": "EC",
+                "text": "D'abord, je propose, moi, des peines immédiates dès le premier délit contre ceux qui représentent l'autorité publique un policier, un gendarme, un douanier, un agent pénitentiaire."
+            },
+            {
+                "speaker": "EC",
+                "text": "La réponse aujourd'hui, elle doit être dans la chaîne pénale, il faut que les peines prononcées soient soient exécutées."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il prévoit également 25 milliard d’euros sur 5 ans pour la police et la justice, souhaitant par là raccourcir la chaîne pénale."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Donc je propose un engagement de 5 milliards d'euros par an sur le quinquennat, ça fait 25 milliards sur la police, sur la justice."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il souhaite enfin rétablir l’ordre à l’école et instaurer un encadrement militaire pour les délinquants."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Il faut aussi faire un travail puissant pour rétablir l'ordre républicain dès l'école, il faut que les enfants apprennent les valeurs de la République."
+            },
+            {
+                "speaker": "EC",
+                "text": "Un encadrement de type militaire pour les mineurs délinquants."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pécresse rappelle également l’importance de réduire les délais judiciaire, avec notamment des comparutions immédiates pour les flagrants délits."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "La première des mesures, c'est de, de travailler sur les délais judiciaires."
+            },
+            {
+                "speaker": "VP",
+                "text": "Donc, le sujet, c'est comparution immédiates pour tout flagrant délit quand l'auteur ait été identifié, et puis, sanction exécutée dans les trois mois."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle appelle a utiliser les anciennes casernes et bâtiments désaffectés pour en faire des prisons."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "On prend ces bracelets électroniques, on prend des anciennes casernes, on prend des hôtels un peu isolés, on prend des bâtiments publics désaffectés, on les transforme en centres fermés qui accueilleront ces détenus euh, avec le bracelet électronique surveillé par la pénitentiaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Juvin désire lui généraliser la police municipale et la vidéo surveillance."
+        },
+        "extractive": [
+            {
+                "speaker": "PJ",
+                "text": "Moi, je veux que chaque ville de plus de 10.000 habitants ait une police municipale armée avec un réseau de vidéosurveillance, premièrement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il veut également construire des préfabriqués pour avoir des places de prison rapidement et instaurer des peines de prison courtes."
+        },
+        "extractive": [
+            {
+                "speaker": "PJ",
+                "text": "Moi, je propose d'emblée la création de 6000 places de prison en préfabriqué pour agir tout de suite."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il pense pouvoir libérer des places de prison en mettant fin à la détention provisoire, et en expulsant les prisonniers étrangers avant qu’ils ne purgent leur peine."
+        },
+        "extractive": [
+            {
+                "speaker": "PJ",
+                "text": "Deuxièmement, je veux rétablir ce qui a été aboli du temps de monsieur Macron par madame Belloubet, ce sont les peines d'emprisonnement de très courte durée."
+            },
+            {
+                "speaker": "PJ",
+                "text": "Troisièmement, je pense qu'il faut que nous repensions la prison, la prison, elle, doit être repensée parce qu'il y a certaines personnes qui sont en prison aujourd'hui qui pourrait libérer des places."
+            },
+            {
+                "speaker": "PJ",
+                "text": "Eh bien, je souhaite abolir la détention provisoire."
+            },
+            {
+                "speaker": "PJ",
+                "text": "Les étrangers qu'on renvoie chez eux au début de leur condamnation et pas à la fin, pas à la fin."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pujadas explique alors que Bertrand souhaite lui que le procureur se substitue au juge pour prononcer certaines peines, inférieures à 5 ans de détention."
+        },
+        "extractive": [
+            {
+                "speaker": "DP",
+                "text": "Alors, question Xavier Bertrand, parce que vous vous distinguez."
+            },
+            {
+                "speaker": "DP",
+                "text": "Vous, vous avez une proposition originale, mais qui surprend et notamment qui surprend beaucoup les juristes, vous voulez déroger à un principe du droit en confiant non plus aux juges, mais aux procureurs, c'est à dire à l'accusation, le soin de prononcer certaines peines, notamment, vous avez dit pour des délits passibles d'une peine inférieure à cinq ans de prison ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bertrand confirme, souhaitant par là rendre la justice plus rapide."
+        },
+        "extractive": [
+            {
+                "speaker": "XB",
+                "text": "Moi, je souhaite qu'il puisse agir non pas pour des peines encourues jusque trois ans aujourd'hui, mais jusque cinq ans."
+            },
+            {
+                "speaker": "XB",
+                "text": "Et je vais aller, parce que je veux que cela aille plus vite."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il pense également pouvoir construire des places de prison en 2 à 3 ans."
+        },
+        "extractive": [
+            {
+                "speaker": "XB",
+                "text": "Moi J'ai demandé à des grands groupes de construction, à partir du moment où ils ont le terrain, en combien de temps ils sont capables de réaliser une prison de 600 ou 800 places."
+            },
+            {
+                "speaker": "XB",
+                "text": "La réponse est très simple c'est deux ans et demi à trois ans."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Enfin il exige 50 ans de prison pour les terroristes"
+        },
+        "extractive": [
+            {
+                "speaker": "XB",
+                "text": "Et l'impunité zéro, elle commence déjà par une chose, ceux qui nous protègent, les policiers nationaux, municipaux, les gendarmes, les pompiers et les maires, je souhaite qu'il y ait des peines minimums obligatoires et je veux un changement de la Constitution dans le référendum de l'automne 2022, il y aura la question des quotas migratoires, il y aura aussi le renforcement 50 ans de peines de prison pour des terroristes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il veut aussi mettre en place une peine de prison minium de un an pour ceux s’attaquant aux représentant de l’ordre."
+        },
+        "extractive": [
+            {
+                "speaker": "XB",
+                "text": "Ce sera donc pour les policiers, on s'en prend à un policier."
+            },
+            {
+                "speaker": "XB",
+                "text": "Ce sera un an de prison minimum"
+            }
+        ]
+    }
+]

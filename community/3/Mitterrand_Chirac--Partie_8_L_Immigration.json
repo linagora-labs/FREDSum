@@ -1,0 +1,200 @@
+[
+    {
+        "abstractive": {
+            "text": "Le journaliste commence par demander aux candidats s’ils souhaitent arrêter l’immigration. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. VANNIER",
+                "text": "Il y a aujourd'hui environ 4,5 millions d'étrangers mais vivant en France, la question que nous vous posons est simple : faut-il stopper toute nouvelle immigration ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mitterrand explique que les immigrés clandestins doivent rentrer chez eux. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Ceux qui sont clandestins, il n'y a qu'une seule loi possible : il faut, c'est malheureux pour eux mais c'est la nécessité, qu'ils rentrent chez eux, et les dispositions doivent être prises et elles ont été prises pour ceux-là, pour qu'ils rentrent chez eux."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il les distingue des immigrés légaux, arrivés massivement pour travailler dans les entreprises françaises, et acceptant des salaires plus faibles ; le gouvernement Mauroy a taché d’encourager le retour de cette seconde catégorie d’immigrés dans leur pays d’origine. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Et puis il y a ceux qui sont là avec leur contrat de travail et leur carte de séjour, puisqu'il y en a trop, ce que je sais c'est que dans les années qui ont précédé 81, il y a eu une formidable aspiration à faire venir chez nous des immigrés, sans doute pour les payer moins bien que les autres, moins bien que les travailleurs français."
+            },
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Et pourtant le gouvernement Mauroy a pris des dispositions pour faciliter leur réinsertion dans leur pays d'origine, leur donnant certains avantages pour qu'il puissent d'eux-mêmes partir."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Chirac affirme lui clairement vouloir stopper l’immigration. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "S'agissant de l'immigration tout court, il faut la stopper, parce que nous n'avons plus les moyens de donner du travail à des étrangers."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il oppose les régularisations massives de son rival à l’action de son gouvernement, lequel a refoulé hors de la France des immigrés en masse. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "En 1981, 1982, 1983, vous en avez régularisé 130000, erreur capitale, car cela a été immédiatement un appel équivalent et même beaucoup plus large."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Nous, nous avons refoulé, en deux ans, plus de 130000 personnes, ce qui fait tout de même 200 par jour et je considère que ce n'est pas suffisant."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il demande alors à Mitterrand s’il souhaite poursuivre sa politique de restriction migratoire. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Ma question est la suivante : les Français y sont sensibles, est-ce que votre intention est de poursuivre ma politique dans ce domaine et, notamment, de maintenir la loi du 9 septembre 1986 ou, au contraire, votre intention est-elle de changer et, notamment, de la faire abroger dans l'hypothèse, dans l'hypothèse où vous seriez élu ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "En réponse, Mitterrand accuse les entreprises françaises d’avoir favoriser l’arrivée des immigrés pour créer une concurrence à l’égard des travailleurs français et ainsi faire baisser le coût du travail. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Mais pourquoi est-ce que les entreprises françaises encouragées par vos gouvernements, où n'étaient pas les socialistes, pourquoi ?"
+            },
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Je dis pour une raison : c'est parce qu'on les payait moins cher et que l'on organisait la concurrence à l'égard des travailleurs d'origine française."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour autant, il n’entend pas revenir sur les lois édictées par Chirac, exprimant simplement le souhait que le pouvoir judiciaire puisse se charger des cas relatifs au droit des personnes. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Je pense simplement qu'il faudra restituer au pouvoir judiciaire la compétence qui est la sienne chaque fois qu'il s'agit du droit des personnes ; pour le reste, nous vivons dans une période trop difficile et trop dangereuse pour remettre sur le chantier constamment les lois qui ont été adoptées."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur le droit de vote des étrangers, Chirac récuse une attaque de Mitterrand sous-entendant qu’il y serait favorable ; Mitterrand ne l’est pas non plus, contrairement à se qu’indiquait son programme de 1981. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Oui, vous auriez pu après tout me convaincre avec votre discours de Bruxelles en 1979, lorsque vous avez préconisé, devant des Africains noirs, à qui vous vouliez peut-être faire plaisir, la participation aux élections municipales des étrangers en France."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Ou vous êtes mal informé, ce qui m'étonnerait compte tenu de la qualité de vos collaborateurs."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Ou il s'agit là, j'ose prononcer le mot, d'une affirmation qui n'est pas de bonne foi."
+            },
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Je l'avais fait en 1981, c'était le 80ème point de mes propositions de l'époque et j'ai constaté, depuis lors, du temps des gouvernements à direction socialiste, que l'opinion publique française ne suivait aucunement et qu'il convenait d'en tenir compte."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le débat glisse ensuite sur le sujet de la sécurité, Chirac appelant à avoir une politique ferme contre la criminalité ; il s’interroge sur la capacité à Mitterrand à en faire de même. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Ce que je voudrais savoir, monsieur Mitterrand, c'est, si, là encore, vous avez changé d'avis, si vous avez abandonné un peu l'appréciation antérieure à 1986, je veux dire un peu indulgente et on dit aujourd'hui laxiste, dans le domaine de la sécurité et si vous poursuivrez, dans l'hypothèse où vous seriez élu, une politique de renforcement de la sécurité, ce qui est mon intention, vous le savez, et en pensant aux gens les plus modestes, les plus fragiles qui sont toujours les premières victimes des voyous ou des agresseurs de toute sorte."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "En réponse, Mitterrand défend son bilan : des forces de l’ordre ont été recrutées et la police a été dotée de moyens considérables. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Par la suite, MM. Defferre et Joxe ont recruté 16000 personnes pour l'ordre public, gendarmes ou policiers, effort qui n'a pas eu de comparaison depuis lors."
+            },
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Monsieur Joxe a fait adopter une loi de modernisation de la police qui sera le vrai moyen de donner à la police les dispositions, de pouvoir prendre les mesures indispensables pour lutter efficacement contre la criminalité, la délinquance ou le terrorisme."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Or, les statistiques ne plaident pas en faveur du bilan de Mitterrand, rappelle Chirac; les crimes et délits ont augmenté de 1981 à 1986, avant de baisser ; la date coïncide avec l’arrivée aux responsabilités de son gouvernement. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Tout simplement, puisque vous avez tant de statistiques, monsieur Mitterrand, parce que, en 1986, il y avait 600 crimes et délits par jour de plus qu'en 1981 et en 1988 il y a 600 crimes et délits de moins par jour qu'en 1986."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Les deux hommes en viennent à parler du terrorisme. Quoique Chirac se montre intransigeant à l’égard des terroristes de tous types, Mitterrand l’accuse d’en avoir libéré plusieurs. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "De même que le terrorisme basque ou corse, j'ai lutté et je lutterai de tous mes moyens, comme le terrorisme en Nouvelle-Calédonie, dont nos gendarmes aujourd'hui sont victimes et d'autres risquent de l'être demain."
+            },
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Moi, je n'ai jamais libéré les terroristes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Les deux hommes sont en désaccords sur les faits. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Et à une époque où vous étiez une première fois Premier ministre, je me souviens des conditions atroces dans lesquelles vous avez libéré un Japonais terroriste après l'attentat de Saint-Germain, au Publicis."
+            },
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Je suis obligé de dire que je me souviens des conditions dans lesquelles vous avez renvoyé en Iran M. Gordji, après m'avoir expliqué, à moi, dans mon bureau, que son dossier était écrasant et que sa complicité était démontrée dans les assassinats qui avaient ensanglanté Paris à la fin de 1986."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Mais est-ce que vous pouvez dire, monsieur Mitterrand, en me regardant dans les yeux, que je vous ai dit que Gordji, que nous avions les preuves que Gordji était coupable de complicité ou d'actions dans les actes précédents."
+            },
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Dans les yeux, je la conteste"
+            }
+        ]
+    }
+]

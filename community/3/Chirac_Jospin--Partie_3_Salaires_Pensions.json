@@ -1,0 +1,167 @@
+[
+    {
+        "abstractive": {
+            "text": "CHIRAC souhaite globalement augmenter les salaires, d’une en répartissant la croissance économique, d’autre part en diminuant les charges sociales."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "En ce qui concerne les salaires, d'abord il y a nécessité de les augmenter dans le principe."
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "II est normal que la croissance aille, pour une part, aux entreprises, notamment pour l'investissement, pour une part, aux salaires, pour une part, aux retraites."
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "La deuxième raison de les augmenter, c'est que je propose de façon plus systématique un transfert à l'Etat, à l'impôt, à la solidarité des dépenses sociales de solidarité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "CHIRAC veut donc privatiser les entreprises publiques et diminuer les dépenses de l’état ainsi que celles de la sécurité sociale."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "Pour cela, il faut poursuivre les privatisations, j'observe que, comme vous refusez de les poursuivre et que vous restez dans la politique du \"ni-ni\", vous vous privez de 50 milliards par an de privatisations, il faut donc poursuivre les privatisations et affecter leurs produits au désendettement"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le temps de résorber la dette, CHIRAC admet qu’il faudra peut-être augmenter la TVA."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "Je propose, pour ma part, que, chaque année, on établisse le Budget en dépenses sur la base des recettes de l'année précédente, à fiscalité constante naturellement, et que, par conséquent, le bénéfice pour l'Etat de la croissance en terme fiscal soit affecté à la réduction des déficits."
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "Troisièmement, il y a les dépenses sociales et le trou important de la Sécurité sociale."
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "A mon avis, si on ne fait pas une reprise de dettes, on ne s'en sortira pas sur le plan de l'équilibre de la Sécurité sociale."
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "Faut-il, par ailleurs, qu'il y ait provisoirement création d'un impôt nouveau ?"
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "Je serais plutôt a priori favorable à la TVA, provisoire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "JOSPIN souhaite lui ne pas poursuivre la vague de privatisation."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "Effectivement, je n'ai pas l'intention de poursuivre le programme de privatisations conduit par M. Balladur et M. Chirac, comme d'ailleurs un programme avait été conduit entre 1986 et 1988."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il désire également protéger les services publics y compris dans les zones isolées."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "Je préserverai les Services publics français et je veillerai à ce qu'ils soient présents dans les zones urbaines là où ils ne le sont pas assez."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "CHIRAC est d’accord avec ce dernier point."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "Permettez, M. Jospin, juste un mot pour vous dire que je partage entièrement votre sentiment."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour JOSPIN cependant, le service public concerne aussi les entreprises à vocation publique, ce que conteste CHIRAC."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "Vous êtes tout de même pour la privatisation de l'Aérospatiale."
+            },
+            {
+                "speaker": "JOSPIN",
+                "text": "Je parle du Service public et de très grandes entreprises publiques nationales qui ont souvent une vocation de Service public."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "JOSPIN souhaite donc à la place une augmentation maîtrisée des salaires, discutée avec les partenaires sociaux."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "Je suis pour une augmentation maîtrisée des salaires."
+            },
+            {
+                "speaker": "JOSPIN",
+                "text": "J'ai même proposé à cet égard que, en fonction du résultat des négociations qui ont en principe commencé entre le patronat et les syndicats sur cette question, à la suite d'une initiative de M. Gandois, une conférence nationale salariale, éventuellement, se saisisse de cette question."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "JOSPIN explique ensuite que la proposition de son adversaire sur l’augmentation des salaires pourrait entraîner une augmentation des impôts et un risque de voir des assurances privées entrer dans la sécurité sociale."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "J'ai même proposé à cet égard que, en fonction du résultat des négociations qui ont en principe commencé entre le patronat et les syndicats sur cette question, à la suite d'une initiative de M. Gandois, une conférence nationale salariale, éventuellement, se saisisse de cette question."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il désire également revaloriser les petites pensions et permettre à ceux ayant travaillé très tôt de partir à la retraite plus tôt."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "En ce qui concerne les retraites et les pensions, je pense que les retraités doivent avoir leur part des fruits de la croissance, notamment les petites retraites."
+            },
+            {
+                "speaker": "JOSPIN",
+                "text": "Je voudrais d'abord dire que je suis, contrairement à ce que j'ai entendu ici ou là, quelqu'un de profondément attaché à la retraite par répartition."
+            },
+            {
+                "speaker": "JOSPIN",
+                "text": "En revanche, je propose un régime sur-complémentaire ouvert à tous, géré avec les partenaires sociaux, qui permet d'améliorer les choses pour ceux qui le veulent."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il rappelle qu’il a toujours défendu la retraite par répartition, mais JOSPIN pense que les propositions de CHIRAC ouvrent néanmoins la voie à la retraite par capitalisation"
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Et, enfin, il faut que, au Comité Économique et Social, dans les comités économiques et sociaux régionaux, dans la plupart des Institutions où l'on parle de ces problèmes, les grandes associations de retraités soient représentées."
+            },
+            {
+                "speaker": "M. JOSPIN",
+                "text": "D'un mot tout de même, je ne suis pas favorable à ce système des fonds de pensions parce que cela n'a rien de mutualiste et c'est l'introduction, malgré le discours de Jacques Chirac, du système d'assurances privées dans le système de répartition"
+            }
+        ]
+    }
+]

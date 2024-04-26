@@ -1,0 +1,201 @@
+[
+    {
+        "abstractive": {
+            "text": "CHIRAC défend les institutions de la V ème République établies par De Gaulle avec un président porteur d’une vision et un gouvernement assumant responsabilités et décisions."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "Nous avons des institutions très remarquables, de mon point de vue."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "CHIRAC pense que l’assemblée doit pouvoir légiférer et que l’administration ne doit pas occuper une place trop importante."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "Et nous avons assisté, au fil des temps, à une dérive monarchique des institutions, c'est-à-dire que de plus en plus le Président de la République, au lieu d'être ce qu'il doit être, c'est-à-dire un arbitre, l'homme qui est le porteur d'une vision de l'avenir, l'homme qui donne l'impulsion aux choses, est devenu une sorte de super Premier Ministre, assumant l'ensemble des responsabilités."
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "Nous avons une administration admirable, mais elle ne doit pas se substituer au politique. Pour prendre un exemple concret, je dirai que le fâcheux développement des cabinets ministériels, spécialité française, doit être impérativement supprimé."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il entend aussi lancer un audit pour dépenser plus efficacement."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "Pour donner là encore un exemple, je dirais que, dès le début, si je suis élu, je demanderai au Parlement d'une part de faire un audit général, avec les moyens dont il se dotera, de la dépense publique, pour faire en sorte que l'on dépense mieux et pas toujours plus, et d'autre part que l'on codifie des lois qui sont devenues si nombreuses, si obscures, qu'elles paralysent littéralement la vie des citoyens comme des entrepreneurs."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "JOSPIN pense lui que la V ème République est un système propre à une certaine époque et qu’il faut donc la faire évoluer."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "Moi, ma vision est très différente : je pense que s'il y a une crise du politique en France, ce n'est pas dû naturellement qu'aux problèmes institutionnels, mais que c'est aussi dû à cela."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il défend ainsi le passage du septennat au quinquennat, via référendum."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "Je propose donc : passage au quinquennat et une limitation plus stricte du cumul des mandats, des ministres qui se consacrent à leur ministère et qui ne partent pas, dès le jeudi, pour aller diriger leur Conseil général ou leur mairie."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose également de nommer moins de ministres et de renforcer l’indépendance de la justice en la coupant du parquet."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "Je propose un Gouvernement plus resserré, c'est-à-dire qui peut, comme le dit la Constitution, déterminer et conduire la politique de la Nation, avec un Premier Ministre responsable vraiment devant l'Assemblée, et un Gouvernement qui peut exercer pleinement ses responsabilités."
+            },
+            {
+                "speaker": "JOSPIN",
+                "text": "En ce qui concerne la Justice indépendante, j'en suis d'accord, mais je vais beaucoup plus loin, là aussi, que M. Chirac, c'est-à-dire que je considère que dans toutes les affaires pendantes, le Parquet ne peut plus recevoir d'instructions du Garde des Sceaux, et donc je veux une coupure extrêmement nette entre la Justice et le Parquet."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "JOSPIN attaque ensuite son adversaire sur sa campagne, dont le train dispendieux ne donne pas l’exemple d’une gestion rigoureuse."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "Enfin, en ce qui concerne le train de vie de l'Etat, je suis un peu inquiet quand je vois le train de vie de la campagne de Jacques Chirac ; il ne donne pas l'exemple."
+            },
+            {
+                "speaker": "JOSPIN",
+                "text": "Donc vous avez un train de vie, en campagne en tous cas, qui ne laisse pas bien augurer de l'avenir."
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "Pour le train de vie de ma campagne, M. Jospin, je puis vous dire que, conformément à la loi, mes comptes sont et seront publics, et que par conséquent le Conseil Constitutionnel pourra juger, de même qu'il jugera les vôtres."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "CHIRAC pense que le passage au quinquennat pourrait être soulevé mais que ce n’est pas une question prioritaire."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "Moi, je ne suis pas contre le quinquennat sur le principe ; j'ai même soutenu cette démarche quand Georges Pompidou l'avait engagée."
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "Je trouve qu'il y a aujourd'hui suffisamment de problèmes à régler, un nécessaire effort pour tous ensemble régler les problèmes qui se posent, sans créer des débats douteux, inutiles, et sur lesquels nous allons nous affronter."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il estime par ailleurs que la possibilité de cumuler deux mandats est une bonne chose pour donner un ancrage local aux élus et donc une connaissance du terrain."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "Ce cumul, M. Jospin, des mandats, a déjà fait l'objet d'une réglementation : on ne peut plus avoir que deux mandats."
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "Alors un député ou un ministre, encore faut-il naturellement qu'il réussisse à se faire élire, qui n'a pas de mandat local, qui n'a pas l'obligation d'aller passer ses week-ends sur le terrain, sur les champs de foire, dans les quartiers difficiles, auprès des gens, c'est un très grand danger qu'il devienne rapidement un apparatchik, et moi je ne suis pas favorable du tout à cette solution."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour JOSPIN, il faut mettre davantage de limitation au cumul des mandats car il est trop difficile d’exercer deux charges importantes à la fois."
+        },
+        "extractive": [
+            {
+                "speaker": "JOSPIN",
+                "text": "Mais je pense qu'il faudrait, à l'imitation de toutes les autres démocraties, parce qu'il n'y a qu'en France qu'il y a cette manie du cumul, que le temps où ils sont ministres, par exemple un Président de Conseil Général, qui a des responsabilités énormes maintenant, vous le savez, avec la décentralisation, en particulier dans les plus importants départements, il faut qu'il puisse se consacrer totalement à sa tâche de Président de Conseil Général, et s'il est ministre de la République, il n'est pas ministre à mi-temps, il ne part pas au milieu de la semaine pour aller s'occuper d'autre chose, sinon il ne fait rien de bien, il ne contrôle pas et c'est parce que les politiques ne contrôlent pas, peut-être, qu'il y a un certain nombre de dérives qui se sont produites, d'un certain genre, d'un certain ordre, et donc il faut absolument que, tout en gardant ses racines locales, pour un temps il accepte de ne plus avoir les mêmes responsabilités exécutives."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Les deux hommes s’affrontent ensuite sur les chiffres des limogeages de recteurs et directeurs par JOSPIN lorsque celui-ci était ministre de l’éducation, JOSPIN contestant les données de CHIRAC."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "Je m'aperçois que sur 28 Recteurs d'académie, vous en avez remercié 27, qu'au ministère de l'Éducation Nationale sur les 9 Directeurs vous en avez remplacé 6 et que 2 ont été obligés de démissionner dans les mois suivants ; il en est resté 1."
+            },
+            {
+                "speaker": "JOSPIN",
+                "text": "Ces affirmations sont purement fantaisistes."
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "Et je voudrais vous dire que sur un point je partage totalement votre sentiment : c'est sur le pantouflage des hauts fonctionnaires dans des secteurs qu'ils ont préalablement contrôlés, et je suis tout à fait convaincu que si tous les dirigeants des banques françaises n'étaient pas sortis de la Direction du Trésor, nous aurions eu beaucoup moins de difficultés pour financer l'économie."
+            },
+            {
+                "speaker": "JOSPIN",
+                "text": "Ou bien les Français me choisiront et m'éliront dimanche prochain Président de la République : à ce moment-là, je pense que, derrière, ils me donneront une majorité, de quoi agir."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "CHIRAC change de sujet en rappelant que les réformes institutionnelles ne sont pas importantes aux yeux des Français : il s’agit d’un argument démagogique et populiste pour JOSPIN, lequel termine en expliquant qu’une fois élu il dissoudra l’assemblée pour obtenir une majorité issue des forces progressistes."
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "Il me parait bien peu probable qu'il y ait une majorité à nouveau socialiste à l'Assemblée Nationale."
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "Cela veut dire que nous repartons, si vous êtes élu Président, d'abord dans une période d'incertitude, avec les risques sociaux et monétaires que cela comporte, toute la période électorale, en allant faire voter les Français pour les élections législatives ; ils devront voter naturellement pour les élections municipales."
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "D'autre part, nous allons nous trouver de nouveau, vraisemblablement, dans une période de cohabitation, c'est-à-dire une période où le pouvoir sera une fois de plus paralysé."
+            },
+            {
+                "speaker": "JOSPIN",
+                "text": "Il y aura des élections législatives effectivement dans cette hypothèse, qui se feront vite."
+            },
+            {
+                "speaker": "JOSPIN",
+                "text": "Quant au référendum sur la question du quinquennat, il sera fait vite ; je veux dire par là qu'il sera fait ou très vite, mais pas avant les élections, ce ne sera pas une élection supplémentaire, ou il sera fait vite ensuite, et cela ne m'empêchera nullement de commencer à régler avec le Gouvernement, le Premier Ministre que j'aurai nommé et le Gouvernement qu'il formera avec moi, les problèmes immédiats, notamment de l'emploi ou autres."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "CHIRAC doute cependant que son adversaire soit capable d’obtenir pareille majorité, ce qui entraînerait beaucoup d’instabilité, y compris monétaire, et paralyserait le pouvoir"
+        },
+        "extractive": [
+            {
+                "speaker": "CHIRAC",
+                "text": "Je crois qu'une modification constitutionnelle aujourd'hui serait dangereuse, et je ne la recommande pas."
+            },
+            {
+                "speaker": "CHIRAC",
+                "text": "Je crois en revanche qu'on doit gouverner les Français avec une beaucoup plus grande proximité, ce qui suppose que ceux qui les représentent, et d'abord le Président de la République, restent à l'affût de tout ce qui vient des Françaises et des Français qui chaque jour sont confrontés à des difficultés et ne comprennent pas pourquoi on les ignore"
+            }
+        ]
+    }
+]

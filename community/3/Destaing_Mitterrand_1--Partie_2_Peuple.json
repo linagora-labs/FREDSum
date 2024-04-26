@@ -1,0 +1,242 @@
+[
+    {
+        "abstractive": {
+            "text": "Pour François Mitterrand, les français ne vivront pas mieux avec Valéry Giscard d'Estaing, qui souhaite aider les personnes les plus aisées."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "Est-ce que le vrai sujet n'est pas de savoir si, après l'élection du président de la république, les français, vivront mieux, autrement, d’une façon plus juste, avec plus de chances de participer aux progrès du pays."
+            },
+            {
+                "speaker": "FM",
+                "text": "Voyez-vous le changement sans risque, dont vous avez parlé ?"
+            },
+            {
+                "speaker": "FM",
+                "text": "Il est sans risque, naturellement, pour des gens comme vous."
+            },
+            {
+                "speaker": "FM",
+                "text": "Des gens qui appartiennent à une certaine caste sociale, qui n’ont pas, en effet, à se trouver affrontés comme le sont la plupart des, des, des, des femmes et des hommes, qui ont votés pour moi."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valéry Giscard D'Estaing fustige cette vision de François Mitterrand qui s'approprie les travailleurs."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Je ne veux pas vous laisser, parce que, en fait, c'est une présentation très habile, une présentation très politique des choses, de laisser croire que vous représentez la catégorie des travailleurs, et je représenterait une autre catégorie, favorisée, ou privilégiée, monsieur mitterrand."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il rappelle qu'il est populaire dans les grandes villes et qu'il est soutenu par les français qui travaillent tout autant que Mitterrand."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Monsieur mitterrand, vous avez dû noter que, dans deux des trois plus grandes villes de france, paris et lyon, je suis, malgré le nombre des candidats, et, en particulier, le fait qu'il y avait un autre candidat issu de la majorité, monsieur chaban-delmas, j'ai eu plus de voix que vous à Paris, et à lyon."
+            },
+            {
+                "speaker": "VG",
+                "text": "Alors, je ne veux pas laisser, dans ce débat, glisser cette insinuation, ou cette présentation politique, qui est de faire croire qu'il y a la france qui travaille, qui vous soutient, et la france qui ne travaillerait pas, ou moins, qui me soutiendrait."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mitterrand prétend cependant que sa politique défend les français qui travaillent, et que celle de Giscard d'Estaing leur nuit, ce que Giscard d'Estaing nie."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "Il y a une politique qui défend la france qui travaille, et que j'entends représenter, et une politique qui leur nuit, et qui sert les intérêts des classes privilégiées, et c'est la vôtre, c’est là tout le problème."
+            },
+            {
+                "speaker": "VG",
+                "text": "Il n'y aurait pas eu huit millions, trois cent mille voix, qui seraient portées sur mon nom si votre analyse était exacte."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Mitterrand constate simplement l'état des français alors que la majorité de Valéry Giscard d'Estaing est au commande, il parle de l'inflation alimentaire et de l'état des finances des français les plus pauvres, de la difficultées des jeunes à trouver un premier emploi lorsqu'ils ne font pas des écoles de commerce, il parle de plus de l'état des retraités qui ne vivent qu'avec 21 francs par mois, et de l'état de l'hôpital."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "Ce que je veux vous dire, c'est que vous êtes, depuis de longues années, responsable des affaires principal de la france, et qu'à ce titre, c'est une politique qu'il s'agit de juger."
+            },
+            {
+                "speaker": "FM",
+                "text": "On peut penser, par exemple, à des gens qui, habitant une hlm, par exemple, F quatre, et qui, euh, payent un loyer de combien, sept cent trente-sept francs, avec les charges locatives, qui sont très lourdes, euh, et plus lourde encore, depuis, euh, les augmentations du fioul, c'est-à-dire plus des deux tiers du smic, lorsque la la ménagère, la mère de famille, qui, euh, s'intéresse à notre débat ce soir, monsieur giscard d'estaing, s'intéresse à notre débat."
+            },
+            {
+                "speaker": "FM",
+                "text": "Elle se dit que, lorsqu'elle va au marché, elle aperçoit que, en dépit de l'indice des prix, qui est déjà très effrayant, car, comme vous le savez, si la courbe continue, euh, telle qu'elle a commencée au cours du premier trimestre de cette année, d'après les chiffres de l'insee, et elle atteindra dix-sept pour cent d'augmentation cette année."
+            },
+            {
+                "speaker": "FM",
+                "text": "La ménagère, la mère de famille, lorsqu'elle se rend compte, euh, lorsqu'elle achète le lait, lorsqu'ils achètent tous les produits qui sont de première nécessité."
+            },
+            {
+                "speaker": "FM",
+                "text": "Lorsqu'elle arrivera, à la fin des études de cet enfant, les immenses difficultés qu'elle aura pour, euh, lui, voir obtenir un premier emploi, lorsque le garçon ou la fille aura obtenu un diplôme d'un institut technologique, on lui aura pas reconnu les équivalences nécessaires, histoire de l'université, le, de l'école du peuple."
+            },
+            {
+                "speaker": "FM",
+                "text": "Alors, naturellement, il est moins bien soigné, que s'il sortait d'une école commercial, vers laquelle on aura dirigé quelques subventions."
+            },
+            {
+                "speaker": "FM",
+                "text": "Les personnes âgées, euh, je leur ai dit, dès le premier jour que je comptais doubler, euh, d'augmenter, le minimum d'augmentation vieillesse, pouvant aller donc jusqu'à vingt et un francs, euh, trente, par jour."
+            },
+            {
+                "speaker": "FM",
+                "text": "Or, l’explication, c'est que vous n'avez pas consacré aux équipements sociaux, l'hôpital, la maison de retraite pour les personnes âgées, l'école les sommes, que vous auriez pu leur consacrer, après avoir constaté la richesse de la france."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valéry Giscard d'Estaing apporte sa propre analyse, citant l'augmentation massive du taux de français propriétaire d'automobiles et de télévisions pour justifier le progrès du niveau de vie en france."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Alors, il considère que le progrès économique de la france n'a pas profité aux travailleurs de ce pays."
+            },
+            {
+                "speaker": "VG",
+                "text": "Entre mille neuf cent soixante-deux et mille neuf cent soixante-treize, il y avait, en mille neuf cent soixante-deux, vingt-quatre pour cent d'ouvriers qui possédaient une voiture automobile, et, en mille neuf cent soixante-treize, il y en a quatre-vingt dix pour cent."
+            },
+            {
+                "speaker": "VG",
+                "text": "La télévision, vous, qui nous regardez, en mille neuf cent soixante, parmi les ménages ouvriers, il y avait quatorze pour cent de français, qui avaient la télévision."
+            },
+            {
+                "speaker": "VG",
+                "text": "À l'heure actuelle, il y a quatre-vingt-trois pour cent, c'est-à-dire la même proportion que dans la catégorie des cadres supérieurs, ce qui montre bien qu'il y a eu, et c’est heureux, c'est naturel, d'ailleurs, un progrès considérable du niveau de vie en france."
+            },
+            {
+                "speaker": "VG",
+                "text": "Alors, monsieur mitterrand, à l’air de dire que, dans la répartition de cette richesse économique créée, nous n'avons fait aucun effort pour que cette richesse aille vers les plus défavorisés."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il rappelle la création du SMIC, ainsi que l'effort le plus important jamais fais pour les personnes âgées, qui continuera d'être accentué."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "La création du smic, elle remonte à mille neuf cent soixante-neuf, monsieur mitterrand, le smic n'existait pas avant, et les gouvernements successifs, de ce dont vous parliez, c'est-à-dire, monsieur chaban-delmas, monsieur messmer, ont fait progresser le smic beaucoup plus rapidement, au cours des dernières années, que la moyenne des revenus en france."
+            },
+            {
+                "speaker": "VG",
+                "text": "L'effort, en ce qui concerne les personnes âgées, au cours des dix-huit mois, a été le plus important pourcentage qui a jamais été réalisé, et, donc, il y a eu un effort actif de meilleure répartition des des ressources en france, et le problème, c'est d'accentuer cet effort, de le poursuivre, et non pas du tout, de revenir en arrière, pour discuter sur ce qui aurait pu être fait, d'autant plus facilement, monsieur mitterrand, que l'on ne portait pas le poids des choses, car il est très facile, en effet, lorsqu'on a été éloigné du pouvoir, qu'on n'a pas connu les crises, intérieures ou extérieures, les difficultés monétaires, euh, les incertitudes de l'inflation mondiale, en mille neuf cent soixante-douze mille neuf cent soixante-treize, de procéder à une sorte de discours distributif, où l'on répartit une richesse que l'on n'a pas créé soit même."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur l'emploi, il rappelle que de nombreux emplois ont été créés et qu'il y a une situation de plein emploi."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Bien, concernant l'emploi, il faut savoir que, depuis mille neuf cent soixante-neuf, c'est un chiffre très frappant, il a été créé en france, Je ne dis même pas j'ai créé, je ne prétends pas du tout que ce soit moi, Il a été créé, en france, plus d'un million deux cent mille emplois, c'est à dire plus que dans les soixante-dix années précédentes, et ceci a permis de maintenir, en france, une situation de plein emploi."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose d'accentuer le progrès économique, pour continuer de resserrer les écarts dans la société française, et en aidant les inactifs comme les personnes âgées."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Et, pour moi, le problème, c'est d'accentuer ce progrès économique et social de la france, et c'est pourquoi j'ai désigné, dès le départ, dans cette campagne présidentielle, les catégorie vers lesquels un effort important doit être accompli."
+            },
+            {
+                "speaker": "VG",
+                "text": "Et, bien, d'abord, on constate qu'au cours des dernières années, l'écart entre les niveaux de consommation de ces groupes c'est resserré, au lieu de s'accroître, c'est-à-dire qu'il y a eu un resserrement des écarts dans la société française."
+            },
+            {
+                "speaker": "VG",
+                "text": "Mais j'ai constaté que le groupe qui avait le niveau de ressources, qui étaient, à l'heure actuelle, le plus en retard, c'était le groupe des inactifs, c'est-à-dire celui des personnes âgées, et c'est le motif pour lequel j'ai mis en tête de mon programme, effectivement, des mesures concernant le personnes âgées"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il accuse françois mitterrand de désorganiser l'économie française avec les nationalisation et la création d'un déficit budgétaire avec des dépenses non financées et des emprunts."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Justement, vous ne parlez jamais du futur, parce que vous ne pouvez pas parler du futur, car, dans votre programme, il y a la désorganisation de l'économie française."
+            },
+            {
+                "speaker": "VG",
+                "text": "À court terme, parce que les mesures que vous comptez prendre, dès le départ, désorganiseront l'économie française."
+            },
+            {
+                "speaker": "VG",
+                "text": "Le premier programme de nationalisation désorganisera en profondeur l'économie française, et je ne parle pas là de ceux qui seront touchés par ces nationalisations."
+            },
+            {
+                "speaker": "VG",
+                "text": "Vous savez très bien que c'est inexact, j’ai là le programme sous les yeux, il y a neuf nationalisations industrielles, et il y a ensuite la nationalisation de secteurs entiers, comme le secteur du crédit, comme le secteur des assurances, comme le secteur des sociétés de portefeuille."
+            },
+            {
+                "speaker": "VG",
+                "text": "Vous créez le déficit budgétaire sur six mois, au lieu de trois mois, ça fera deux fois plus de durée pour le déficit budgétaire."
+            },
+            {
+                "speaker": "VG",
+                "text": "Car dans votre programme, il y a des dépenses, et ces dépenses ne sont pas financées, et, ensuite, il y a un emprunt."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Mitterrand s'inscrit en faux sur une partie de ce que prétend Valéry Giscard d'Estaing, comme le fait que le smic a plus augmenté que le salaire moyen, et explique que l'évolution du pouvoir d'achat française est la plus lente de l'union européenne outre la grande-bretagne."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "Euh, je m'inscris en faux, cependant, de façon la plus précise, contre le fait, euh, ou votre affirmation, que le smic, euh, aurait été augmenté davantage que le salaire moyen."
+            },
+            {
+                "speaker": "FM",
+                "text": "Le salaire moyen baisse régulièrement."
+            },
+            {
+                "speaker": "FM",
+                "text": "L'évolution du pouvoir d'achat des salaires est plus lente que chez tous les membres de la communauté économique européenne, sauf la grande-bretagne."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il rappelle aussi que de nombreux commerces alimentaires ont fait faillite récemment."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "Vous savez combien ont disparu de de commerce de l'alimentation au cours de ces dernières années, disons, depuis neuf ans ?"
+            },
+            {
+                "speaker": "VG",
+                "text": "C'est le nombre de faillites prononcée au point de vue judiciaire, et qui tenait à des raisons de procédure, qui fait que, pendant les mois de novembre et de décembre, on avait pas, effectivement prononcée, du point de vue judiciaire, les faillites correspondantes"
+            }
+        ]
+    }
+]
