@@ -1,0 +1,235 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Eric Zemmour et Jean Luc Mélenchon discutent de l'insécurité en France."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Je vous redonne la parole immédiatement jean-luc mélenchon il faut qu'on avance sur l'insécurité."
+            },
+            {
+                "speaker": "P1",
+                "text": "Parce qu'il faut parce que notamment la police est mal employée, mal formée, mal commandée mal équipée et qu'il faut revoir cela, pourquoi dites-vous cela jean-luc melenchon ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Zemmour explique que l'insécurité sera de pire en pire tant qu'il n'y a pas d'amélioration de l'école publique."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Et je dis la même chose pour toutes les religions, la religion républicaine est respectée par tout le monde sauf une bande ici ou là de gens, euh qui s'y oppose dans la violence et la religion républicaine."
+            },
+            {
+                "speaker": "EZ",
+                "text": "J’ai dit vous avez bien raison que euh je n'adhérait pas à l'adhésion extravagante d’une insécurité cauchemardesques dans le pays où il y a de la sécurité, et je vous annonce qu'il y en aura toujours plus à mesure qu'il y aura toujours plus de misère, et plus de désagrégation de l'école publique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jean Luc Mélenchon explique que la violence physique est une part infime des morts, et que l'insécurité ne vient pas de l'immigration."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Alors je ne dis pas qu'il n'y ait pas de violence, il y en a mais enfin c'est zéro virgule zéro quatre-vingt-sept pour cent du total des violences physiques, et les violences, les gens qui meurent, du fait de la chaleur c’est trois fois et demie plus."
+            },
+            {
+                "speaker": "JLM",
+                "text": "Autrement dit, les causes d'insécurité sont bien plus ample que celles qui sont décrites."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jean Luc Mélenchon explique qu'il y a trop de policiers qui ne sont pas assez formé, et que la police n'est pas assez organisée."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "On met du monde et toujours plus de monde en défaveur de toutes sortes sur le corps de police qui est payé bien mieux que les instituteurs et les professeurs de ce pays."
+            },
+            {
+                "speaker": "JLM",
+                "text": "Par conséquent ça veut dire, non pas que les gens sont coupables, mais que la force est mal employée, mal organisée !"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jean Luc Melenchon souhaite la dissolution des bacs et des brav, ainsi que l'interdiction des flashballs et des grenades pour la police."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Je suis donc pour la dissolution des bacs, qui regroupent sept mille policiers alors qu'il n'y en a que cinq mille pour la police judiciaire, je suis pour la dissolution des braves, qui sont des motos qui circulent avec quelqu'un qui tape sur les jantes derrière."
+            },
+            {
+                "speaker": "JLM",
+                "text": "C'est une deuxième interdiction je ne veux plus des flashballs des grenades et de la possibilité de tirer dans la figure des gens parce que trente-deux personnes éborgnées ce n'est pas trente-deux bavures, ce sont des actes délibérés !"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jean luc mélenchon souhaite une police républicaine, formée, et moins violente."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Je veux une police vraiment républicaine, respectueuse des gens, entraînée, disciplinée, commandée par des gens qui leur fassent respecter les vertus !"
+            },
+            {
+                "speaker": "JLM",
+                "text": "Et il faut donc former les gens qui ne sont pas formés, et nous devons cesser d'être une des rares polices d'europe qui utilisent de telles violences contre la population."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Zemmour explique qu'il y a eu une explosion des crimes et délits."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Dans les années soixante, il y avait quinze crimes et délits pour mille habitants, aujourd'hui il y en a soixante pour mille habitants."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Zemmour explique que la violence n'est pas le fait des pauvres, mais des étrangers, qui sont sur représentés dans les prisons françaises."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Par ailleurs, pardonnez-moi, mais la violence n'est pas le fait de pauvres, on sait d'où elle vient, on sait exactement qui est en prison, on sait qui n'est pas en prison."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Données de la police et de la gendarmerie sur la liste des bandes délinquantes; à part les corses de marseille, il n y a pas un nom français aujourd'hui."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Vous savez combien d'étrangers dans les prisons françaises, vingt-cinq pour cent !"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jean Luc Mélenchon explique que si, la violence a un lien avec la pauvreté."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Si vous dites que ça n’a aucun rapport avec la pauvreté alors vous vivez au dela du réel."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Zemmour explique que la délinquance en france est un jihad."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Tout ça n'a aucun rapport avec la pauvreté je suis désolé, pour moi la délinquance que nous vivons n'est pas une délinquance, c'est un jihad, voila."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Je vous signale que vous ne me laissez pas parler monsieur mélenchon, mais je vais vous dire, il y a heureusement des millions de musulmans qui ne sont pas délinquants."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Zemmour explique que les propos de Jean Luc Mélenchon sur la police sont scandaleux, alors que la police n'est pas la bienvenue dans les quartiers."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Maintenant vous avez parlé de la police, et là je vraiment, je trouve absolument scandaleux ce que vous dites."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Vous accusez les policiers, en vérité, euh d'être des des des pousse-au-crime, d'être criminogène, d'être agressifs, et d'être raciste."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Evidemment dans les quartiers islamisés dominée par les caïds de la drogue qui sont comme des, des concessions étrangères, vous savez au temps de la chine on avait des concessions, ce sont des concessions étrangères, là évidemment; les policiers ne sont pas les bienvenus parce qu'ils sont les représentants de la France."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jean luc mélenchon explique que la violence ne vient pas de l'islam mais de faits sociologiques analysés."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Bon si vous commencez par dire que le problème de ce pays c'est que il y a je sais pas quel jihad islamisation et que c'est à cause de ça qu'on est pillé massacré violé et caetera, vous réglerez aucun problème parce que le problème du vol du pillage et caetera ce n'est pas l'islam, c'est une série d'autres causes, que les sociologues, que vous avez peut-être lu, à part lire les les les les statistiques qui vous font peur parce que vous aimez le cauchemar, que les sociologues ont analysé de longue main."
+            },
+            {
+                "speaker": "JLM",
+                "text": "Moi je n'ai jamais dit que la police était responsable de la situation je ne dis pas ça, je dis que puisque nous sommes en totale inefficacité il faut donc revoir le dispositif."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jean Luc Mélenchon explique ne pas accuser la police mais le dispositif, et explique vouloir une police de proximité qui travaillerait sur des sujets plus important que les contrôles de drogue."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Je suis partisan d'une police de proximité, je suis partisan du fait que les policiers soient mieux formés, je suis partisan du fait qu'on casse la racine même d'al qaida, c'est-à-dire le trafic d'armes, le trafic de drogue, le trafic d'êtres humains"
+            },
+            {
+                "speaker": "JLM",
+                "text": "Il suffit pas d'envoyer des policiers passés selon un rapport qui a été fait récemment, cinquante pour cent de leur temps à vérifier si les gens qu'ils contrôlent ont du shit ou pas dans leur poche."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Zemmour explique que la france est en situation de guerre civile, et qu'il faut prendre des mesures drastiques d'expulsion des étrangers des prisons et de déchéance de nationalité des bi-nationaux qui comettent des crimes et délits."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Comment vous appelez euh un pays où la tête d'un professeur roule dans la rue?"
+            },
+            {
+                "speaker": "EZ",
+                "text": "Moi j'appelle ça un pays en guerre civile."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Au contraire, je pense que nous éviterons la guerre civile que si nous prenons des mesures drastiques."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Par exemple, expulsion des étrangers des prisons, par exemple déchéance de nationalité de tous les bi-nationaux qui font des crimes et délits, et pour en plus après les expulser."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Zemmour explique vouloir forcer des critères d'assimilation pour la naturalisation"
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Moi je dis les gens qui sont français assimilés ils sont français."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Vous savez c'est dans la loi, souvenez-vous que pour la naturalisation, il y a des critères d'assimilation"
+            }
+        ]
+    }
+]

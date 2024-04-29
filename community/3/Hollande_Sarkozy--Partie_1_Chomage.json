@@ -1,0 +1,355 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Sarkozy et Hollande discutent de la question de l’emploi et de la compétitivité."
+        },
+        "extractive": [
+            {
+                "speaker": "Laurence FERRARI",
+                "text": "Comment peut-on relancer l'emploi en France ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Hollande commence par fustiger le bilan de son rival, soulignant que le chômage a augmenté davantage en France qu’en Allemagne."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Le chômage a augmenté si on prend l'ensemble des personnes inscrites d'un million, c'est-à-dire 4 millions personnes sont inscrites mêmes si elles n'ont pas chacune aucune activité."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Donc, Nicolas Sarkozy vous aviez dit, c'était en 2007, que si le chômage ne tombait pas à 5 % de la population active, vous considéreriez que c'est un échec."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Personne ne la conteste mais enfin le chômage a plus augmenté en France qu'il n'a augmenté en Allemagne."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Selon lui, il faut impérativement relancer la croissance, en France et dans l’Europe."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Il faut de la croissance et j'y reviendrai, aussi bien en Europe qu'en France."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Cela doit passer par la création d’une banque publique d’investissement ; Hollande entend également changer la fiscalité des entreprises, afin que les bénéfices contribuent davantage à l’investissement qu’aux actionnaires."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Je créerai une banque publique d'investissement pour accompagner le développement des entreprises."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose par ailleurs pour les employeurs gardant un senior jusqu’à la retraite et embauchant un jeune en CDI d’exonérer de cotisation les deux emplois."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Je modifierai la fiscalité des entreprises pour que le bénéficie qui est réinvesti dans la société soit moins fiscalisé que le bénéfice qui est distribué aux actionnaires."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Donc la proposition que j'ai faite c'est que l'employeur qui gardera le senior le temps qu'il puisse partir à la retraite et donc avec ses droits qui lui donneront une pension à taux plein,  et qui embauchera un jeune avec un contrat à durée indéterminée, cet employeur-là ne paiera plus de cotisations sociales sur les deux emplois, celui du senior, celui du jeune."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sarkozy lui répond en défendant son quinquennat."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Nous avons un taux de chômage qui a augmenté deux fois moins que nos partenaires de la zone euro."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le taux de chômage a augmenté en France deux fois moins vite que dans la zone euro ; si la France n’a cependant pas fait mieux qu’en Allemagne, cela s’explique par les réformes de compétitivité que le pays a entrepris sous Schröder, alors même que la France s’enfermait dans les 35 heures."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Il est vrai qu'en Allemagne il a moins augmenté."
+            },
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Parce que dans le même temps, il y a 10 ans, nous faisions seuls contre le reste du monde, les 35 heures, le chancelier Schröder, qui a par ailleurs soutenu ma candidature, faisait les accords compétitivité emploi, la TVA de localisation et toutes les réformes qu'aujourd'hui vous refusez."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sarkozy raille ensuite le programme de Hollande : la banque d’investissement existe déjà ; exonérer de cotisation un emploi déjà créé relève du gaspillage."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Vous allez créer une banque publique."
+            },
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Formidable, elle existe déjà."
+            },
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Voilà donc que vous allez mobiliser des fonds publics pour exonérer de cotisations sociales patronales des emplois qui existent."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour lui, le problème essentiel vient du coût du travail."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Premièrement, il y a un gigantesque problème de coût du travail."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose donc d’exonérer les entreprises des cotisations familiales pour alléger cette charge."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "C'est la raison pour laquelle j'ai proposé d'exonérer toutes les entreprises des 5,4 % de cotisations familiales pour que le travail coûte moins cher et que nous puissions le garder."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il entend également améliorer la formation des chômeurs et rappelle les efforts qu’il a fait pour soutenir l’innovation, grâce au crédit d’impôt recherche et à une emprunt de 36 milliards dans les investissements d’avenir."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Deuxième remarque, un gigantesque effort de formation pour que les chômeurs d'aujourd'hui soient formés pour les emplois de demain et pas pour les emplois d'hier."
+            },
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Ce que nous avons fait avec le crédit impôt recherche et l'emprunt de 36 milliards d'euros pour favoriser l'investissement et les investissements d'avenir, l'innovation dans toutes nos entreprises."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Hollande l’attaque alors sur la TVA sociale, mesure phare de Sarkozy ; il estime qu’elle pèsera sur le pouvoir d’achat des Français au point de dégrader la croissance du pays."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "TVA sociale : 13 milliards d'euros, qui va d'ailleurs être prélevée sur tous les Français, 300 euros de moins sur leur pouvoir d'achat, ce qui va bien entendu dégrader la croissance."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Par ailleurs, rien n’a été fait sur la formation pendant son quinquennat."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Qu'avez-vous fait depuis 5 ans pour les laisser sans formation et sans qualification ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sarkozy, pour se défendre, explique que l’Allemagne a mis en place une mesure de TVA similaire pour éviter les délocalisations ainsi que des accords compétitivités au sein des entreprises."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "L'Allemagne a fait la TVA anti-délocalisation que je propose, trois points, vous la refusez."
+            },
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Troisième point, elle fait les accords compétitivité emploi que vous refusez, c'est-à-dire la possibilité pour les salariés et les chefs d'entreprise de discuter de la durée de travail et salaire dans l'entreprise."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Quant au déficit commercial, il est principalement du à l’énergie, les prix des hydrocarbures ayant considérablement augmenté – ce qui rend absurde l’amoindrissement de la filière nucléaire voulue par Hollande."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Savez-vous pour combien pèse l'énergie fossile dans les 70 milliards de déficit ?"
+            },
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Si vous le savez, vous le dites : c'est 63 milliards."
+            },
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Je pense d'ailleurs qu'il est totalement irresponsable, dans la situation où 63 milliards de notre déficit pèsent sur le coût de l'énergie qui est de plus en plus cher, de vouloir casser la filière nucléaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Enfin, la TVA sociale permettra de diminuer la dépendance du pays aux importations."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Enfin, deux dernières remarques sur la TVA : la TVA pèsera sur les importations."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sarkozy donne ensuite des exemples concrets d’emplois pour montrer qu’avec son programme, les cotisations sur les salaires diminueront."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Mais je vais vous donner deux chiffres : avec ce que je propose et qui entrera en vigueur au 1er octobre, 94 % des employés agricoles, 94 % , auront 1 800 euros de cotisations en moins."
+            },
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "65 % des employés de l'industrie, 78 % des ouvriers de l'industrie automobile."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il termine son plaidoyer par le vœux d’accompagner les chômeurs vers l’emploi, insistant de nouveau sur la formation."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Je pense qu'il faut un changement considérable, pour que la formation aille à ceux qui en ont besoin, notamment aux chômeurs."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Hollande se moque de ses arguments ; il a l’impression que son adversaire se dédouane de tout, refusant la moindre responsabilité dans la crise que traverse le pays."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Ce n'est jamais de votre faute."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur les accords d’entreprise pour améliorer la compétitivité, la conséquence sera selon lui la fin de la durée légale du travail."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Vous nous dites : « les accords compétitivité emploi », la belle idée que vous avez lancée."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Sauf qu'en conséquence, il n'y aura plus de durée légale du travail puisqu'employeurs et partenaires sociaux  qui se mettront d'accord, j'en conviens, dans une entreprise en considérant qu'il n'y a plus de durée légale du travail."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sarkozy lui répond en défendant la TVA anti-délocalisation : cette mesure était dans le programme de Manuel Valls, candidat à la primaire socialiste."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Si la TVA anti-délocalisation était une si mauvaise idée, on se demande bien pourquoi votre propre porte-parole, Manuel Valls, en a fait le thème de sa campagne dans les primaires socialistes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur les accords d’entreprise, il affirme vouloir garder une base de 35 heures ; ce qui sera négocié au-dessus relèvera des heures supplémentaires."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "L'idée, c'est de garder une loi : à partir de 35 heures, ce seront des heures supplémentaires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Cependant, il sera possible de déroger à cela, si un accord est négocié, pour rester compétitif dans les situations difficiles, lorsque les conditions ne permettent pas de travailler normalement."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Mais si dans l'entreprise, salariés et chefs d'entreprise se mettent d'accord pour augmenter les salaires, pour augmenter la durée du travail ou au contraire pour réduire la durée de travail parce que le carnet de commandes ne va pas, l'accord dans l'Entreprise prime sur la loi et sur le contrat individuel."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il critique ensuite Hollande sur son refus d’avoir voté le grand emploi pour l’innovation."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Sur l'innovation, pourquoi avez-vous voté contre le Grand Emprunt et la Commission Rocard-Juppé ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Hollande revient sur les comparaisons entre pays au niveau de la croissance : Allemagne et États-Unis ont de meilleurs résultats que la France."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Si vous permettez : les États-Unis ont fait mieux que nous en termes de croissance, l'Allemagne a fait mieux en termes de croissance."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Or, tout dépend de l’échelle de temps que l’on prend pour Sarkozy ; car depuis 2009 par exemple, la France est le seul pays n’ayant pas connu de récession."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Sur l'ensemble de la période, c'est certain mais depuis 2009, la France est le seul pays qui n'ait pas connu un trimestre de récession."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Hollande termine en ventant les mérites de l’Allemagne ; il explique le succès de son économie par le dialogue constant entre les partenaires sociaux ; il salue le chômage partielle que les Allemands ont financé."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "C'est qu'en Allemagne, il y a des partenaires sociaux."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Et il y a une capacité à permettre l'assouplissement de la vie de l'entreprise et notamment grâce à un chômage partiel qui a empêché bien des licenciements."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Et quand l'Allemagne met plusieurs milliards pour l'aide au chômage partiel, nous en France, nous avons attendu pour mettre en place un mécanisme de chômage partiel"
+            }
+        ]
+    }
+]

@@ -1,0 +1,203 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, EMMANUEL MACRON ET MARINE LE PEN discutent de la question européenne."
+        },
+        "extractive": [
+            {
+                "speaker": "LEA SALAME",
+                "text": "Souhaitez-vous rester dans l'Union européenne telle qu'elle est aujourd'hui avec le couple franco-allemand comme moteur."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour EMMANUEL MACRON, son adversaire veut sortir de l’Union Européenne, dans la mesure où son programme a très peu changé par rapport aux dernières élections."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Je comprends qu'aujourd'hui, en fait vous voulez en sortir toujours puisque vous n'avez pas tellement changé de programme mais vous ne le dites plus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il souligne au contraire l’importance de l’Europe et de couple franco-allemand."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Moi je crois dans l'Europe, et je crois dans le couple franco-allemand."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il se félicite de l’accord commun européen portant sur la production de vaccins ARN, sur la mutualisation des dettes futures, sur les bases émergentes de l’Europe de la défense, source de souveraineté pour le continent, et sur la PAC pour aider les agriculteurs."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Quand nous avons eu la pandémie, la France, vous savez ne produisait pas de vaccins arn messager, on était tous très heureux d'en avoir en janvier 2021, on l'a fait parce qu'on a eu un accord européen."
+            },
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Nous avons en Européen, parce qu'il y a d'abord eu un accord franco-allemand, bâti une politique de solidarité financière, de mutualisation des dettes futures."
+            },
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Nous avons ensemble commencé à mettre en place les fondements d'une Europe de la défense et donc, moi je suis convaincu en effet que notre souveraineté est nationale et européenne et que les deux se complètent et que c'est par l'Europe qu'on sera plus indépendant pour notre énergie, pour notre technologie, pour notre défense, pour notre agroalimentaire."
+            },
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Et parler d'Europe c'est parler aussi de nos agriculteurs qui savent ô combien l'Europe est importante pour eux puisque la PAC les aide à vivre, à évoluer, à faire avancer cette nouvelle révolution que, à leurs côtés nous conduisons."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Au contraire, MARINE LE PEN pense que la souveraineté européenne n’existe pas, car il n’y a pas de peuple européen."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "D'abord permettez-moi de dire à Emmanuel Macron qu'il n'y a pas de souveraineté européenne parce qu'il n'y a pas de peuple européen."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle explique ensuite vouloir rester dans l’Union pour la réformer et faire émerger une alliance de nations."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Je souhaite rester dans l'Union européenne."
+            },
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Je souhaite profondément la faire modifier pour effectivement faire émerger une alliance européenne des nations."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle fustige l’Union en raison des accords de libre échanges qu’elle a négociés, de la directive travailleurs détachés et d’une politique agricole visant à diminuer la production alors même qu’une crise alimentaire mondiale s’annonce."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Parce qu'il y a toute une série de politiques de l'Union européenne avec lesquelles je suis en désaccord, la multiplication des accords de libre-échange, où on vend des voitures allemandes en sacrifiant des éleveurs, à la concurrence des poulets du Brésil ou du bœuf du Canada."
+            },
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Je suis en désaccord avec la politique des travailleurs détachés qui font que des milliers, des dizaines de milliers, des centaines de milliers même, de travailleurs détachés viennent dans notre pays, travaillent et que les charges qu'ils payent ne sont pas payés en France mais sont payées dans leur pays d'origine."
+            },
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Je suis opposée à la politique que vous avez soutenue, de la ferme à la fourchette qui vise à baisser de 10 à 20 % la production agricole européenne au moment où le monde est en train de faire face à une crise alimentaire qui va voir un certain nombre de pays, probablement, être victimes d'émeutes de la faim."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Or selon EMMANUEL MACRON, MARINE LE PEN ne peut pas réformer toute seule une Europe composée de 27 membres."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Et bien soit les autres vous suivent parce que c'est ça l'Europe, on est 27 autour de la table, soit vous faites bande à part."
+            },
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Et ce que vous décrivez ça ressemble à une bande à part dans votre programme."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il pense qu’elle souhaite une alliance avec la Russie à la place."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "La deuxième chose, vous proposez une alliance avec la Russie dans vos priorités."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique ensuite avoir réformé le régime des travailleurs détachés."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Sur le travail détaché on a changé les règles."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour MARINE LE PEN, ce n’est pas suffisant, dans la mesure où les charges continuent à être payées dans le pays d'origine."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Oui mais les charges continuent à être payées dans le pays d'origine."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Cependant, EMMANUEL MACRON estime que si l’on applique strictement la préférence nationale, on détruit le marché unique européen."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Ce que dit Mme Le Pen est vrai mais la préférence nationale à l'emploi c'est la fin du marché unique européen."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mais pour MARINE LE PEN, il s’agit en réalité de voir plus grand pour la France, laquelle ne peut simplement être une puissance européenne, mais bien une puissance mondiale."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Moi, l'image que j'ai de la France c'est que c'est une puissance mondiale, pas seulement une puissance européenne."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Cela nécessite un rapprochement avec l’Afrique francophone."
+        },
+        "extractive": [
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "lle doit retrouver cette ambition de grandeur, cette ambition d'influence dans le monde et y compris avec des partenaires privilégiés notamment les pays francophones d'Afrique, qui sont des partenaires historiques, avec lesquels il faut vraiment refonder une relation en oubliant la terrible."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "EMMANUEL MACRON n’est pas convaincu : pour lui, son adversaire veut revenir à en arrière avec le contrôle des frontières ; il termine en soulignant son inquiétude sur la proposition de MARINE LE PEN visant à interdire le voile dans l’espace public."
+        },
+        "extractive": [
+            {
+                "speaker": "EMMANUEL MACRON",
+                "text": "Parce que, que quelqu'un qui parle de priorité nationale contre l'Europe, ce que vous venez de faire, en expliquant donc que le marché européen, finito, que pareil sur les marchandises puisque vous remettez des contrôles aux frontières en remettant autant de douaniers qu'en 1990."
+            },
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "C'est faux M. Macron."
+            },
+            {
+                "speaker": "MARINE LE PEN",
+                "text": "Vous voulez faire de la France le premier pays au monde qui interdirait le voile sur la voie publique"
+            }
+        ]
+    }
+]

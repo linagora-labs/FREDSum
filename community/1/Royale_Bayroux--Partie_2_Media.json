@@ -1,0 +1,54 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, François Bayrou et Ségolène Royal discutent de la concentration des médias."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Êtes favorable à une loi interdisant au grand groupe privé qui vivent des commandes de l&#x27;État de posséder des médias ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Bayrou débute en expliquant que les médias ne peuvent pas être contrôlés par une minorité."
+        },
+        "extractive": [
+            {
+                "speaker": "FB",
+                "text": "Je suis absolument opposé au verrouillage médiatique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Bayrou explique que c'est contre les valeurs de la démocratie."
+        },
+        "extractive": [
+            {
+                "speaker": "FB",
+                "text": "Ce débat a été difficile à organiser, comme si quelqu'un pouvait dans une démocratie interdire à des gens de parler ensemble au vu et au su de tout le monde."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Ségolène Royal répond qu'elle est d'accord, et que son pacte présidentiel présente des lois anti concentration des médias"
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Oui, c'est d'ailleurs dans le pacte présidentiel que je propose."
+            },
+            {
+                "speaker": "SR",
+                "text": "Il y a des collusions d'intérêts qui ne sont pas celles d'une démocratie."
+            },
+            {
+                "speaker": "SR",
+                "text": "Mais le Parlement en débattra et des décisions seront prises dans ce sens. Je crois que la liberté d'expression, le pluralisme des opinions, doivent absolument être garanties et déconnectées des puissants de l'argent"
+            }
+        ]
+    }
+]

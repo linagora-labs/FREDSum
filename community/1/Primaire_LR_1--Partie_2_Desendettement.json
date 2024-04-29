@@ -1,0 +1,179 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, les candidats parlent de leur manière de baisser la dette de la france ainsi que les suppression des postes de fonctionnaires."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "On ne trouve dans votre programme aucun engagement de réduction de dépenses ou de réduction de la dette, donc, est ce que c'est LR qui c'est trompé il y a cinq ans ou est ce que c'est l'air du temps qui a complètement changé?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Xavier Bertrand explique faire des économies à l'aide de la réforme des retraites, de l'assurance chômage, et de la république de territoire ainsi que de la suppresion de l'AME."
+        },
+        "extractive": [
+            {
+                "speaker": "XB",
+                "text": "La réforme des retraites, la réforme de l'assurance chômage, le changement au travers de la République des territoires, je veux mettre fin au millefeuille politico administratif français, notamment avec le conseiller territorial moins d'élus, moins d'administrations."
+            },
+            {
+                "speaker": "XB",
+                "text": "D'autre part, les réformes que je veux mener la suppression de l'AME mène la baisse des dépenses publiques, l'aide médicale d'Etat pour immigrés sans papiers."
+            },
+            {
+                "speaker": "XB",
+                "text": "Par le travail et en faisant en sorte qu'il y ait moins de contraintes pour ceux qui donnent du travail, les entrepreneurs, que ceux qui travaillent gagnent vraiment leur vie, et aussi parce que c'est très important qu'il y ait un changement radical, qu'on ne puisse plus en France refuser des offres d'emploi comme c'est le cas aujourd'hui."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Michel Barnier explique qu'il est difficile de faire des promesses, et souhaite inverser la courbe de la dette, avec notamment le régime des retraites et une réforme de l'état."
+        },
+        "extractive": [
+            {
+                "speaker": "MB",
+                "text": "Et moi, mon idée, c'est que dans ce projet, il faudra qu'on prenne les bonnes idées de chacun et qu'on les calcules, qu'on en fasse le compte parce qu'il y a une chose que les Français ne nous pardonneraient pas cette fois ci, c'est de dire des choses sans les avoir calculées, de dire n'importe quoi dans une campagne électorale pour ne pas être capable ensuite de faire ce qu'on a dit."
+            },
+            {
+                "speaker": "MB",
+                "text": "Je prends l'engagement d'inverser progressivement la courbe de la dette, sans doute, il faudra plus d'un quinquennat, même si moi, je ne ferai qu'un quinquennat, ce qui est la raison et le bon sens."
+            },
+            {
+                "speaker": "MB",
+                "text": "Mais il y a une réforme de l'Etat qui est possible et je prends comme exemple plusieurs régions départements."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valérie Pécrsse explique faire des économies avec quatre grande réformes, La retraite à 65 ans, l'assurance chômage dégressive, la réforme de décentralisation, et la réforme de bureaucratisation."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Au contraire, je reprends toutes les réformes que la droite rêve de faire depuis dix ans et je dis que moi, je les ferais parce que j'ai cette expérience."
+            },
+            {
+                "speaker": "VP",
+                "text": "On a mal géré cette crise, mais au delà de la crise COVID, vous voyez bien que le président de la République, qui est aujourd'hui en train d'inventer le clientélisme présidentiel, c'est toutes les semaines des chèques sans provision en sacrifiant les générations futures,"
+            },
+            {
+                "speaker": "VP",
+                "text": "Les économies, je les ferais avec quatre grandes réformes la réforme des retraites, jusqu'à 65 ans, la réforme de l'assurance chômage avec une vraie dégressivité pour toutes les personnes de moins de 50 ans qui gagnent jusqu'à 2 SMIC, la réforme que nous voulions faire, la réforme de la décentralisation, la réforme de la bureaucratisation et je ne suis pas d'accord."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Ciotti souhaite supprimer 250 000 fonctionnaires et faire 100 milliards d'économies de dépenses publiques."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Alors Eric Ciotti, vous vous réclamez de la rupture et vous reprenez le mot euh, vous vous parlez de 250.000 suppressions d'emplois publics, 100 milliards d'économies dans les dépenses publiques, vous supprimez les régions, vous supprimez les départements, vous gardez les provinces et les communes."
+            },
+            {
+                "speaker": "EC",
+                "text": "De quoi souffre notre pays, à la fois d'un excès de dépense publique qui nous paralyse et qui conduit à avoir recours à une dette qui devient insupportable et, d'autre part, à avoir recours à des impôts."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Ciotti souhaite faire la retraite à 65 ans, la semaines de 39 heures payées 38 pour les fonctionnaires, et des strates de collectivité locale."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "La retraite, je crois qu'on est tous d'accord à 65 ans"
+            },
+            {
+                "speaker": "EC",
+                "text": "Le retour aux 39 heures payées 38 dans la fonction publique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Ciotti souhaite supprimer les postes dans les fonctions publiques de l'état, outre dans la sécurité et la justice."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Des strates de collectivités locales, les Communes, cellule de base de la démocratie et une super collectivités locales au dessus, qui serait la fusion des métropoles, des départements, des régions."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Ciotti explique que l'hôpital a un surplus administratif par rapport au personnel soignant."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Sur les 250.000 suppressions d'emplois publics, où est ce que vous voulez les supprimer ?"
+            },
+            {
+                "speaker": "EC",
+                "text": "J'ai mis deux exceptions les métiers de la sécurité qui concourent à la sécurité, la défense, la sécurité, la justice, ce qui fait l'Etat, le régalien, ce pourquoi l'Etat est faible, alors qu'il s'est tellement aujourd'hui amoindri dans son efficacité."
+            },
+            {
+                "speaker": "EC",
+                "text": "Mais ce qu'on ignore de dire, et ce qu'on omet de dire, c'est qu'il y a 35% de personnel administratif dans les 1 million 100 000 agents hospitaliers, est ce qu'on a besoin d'autant d'administrations ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Philippe Juvin ne souhaite pas supprimer de poste, mais veut redistribuer 200 000 postes, considérant qu'il y en a pas assez dans la fonction hospitalière ou dans la justice."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Alors, Philippe Juvin, justement euh, vous, vous dites alors c'est un peu différent parce que vous vous dites la droite, c'est caricaturée sur les services publics en apparaissant comme le père Fouettard, et il ne faut pas baisser le nombre de fonctionnaires."
+            },
+            {
+                "speaker": "PJ",
+                "text": "Le sujet principal, c'est comment on recrée de la richesse."
+            },
+            {
+                "speaker": "PJ",
+                "text": "Je crois que pour recréer de la richesse, il y a 3, il y a deux sujets principaux en termes de recettes, c'est évidemment une réforme des retraites."
+            },
+            {
+                "speaker": "PJ",
+                "text": "Donc, je vous le dis, moi, je ne baisserait pas le nombre de fonctionnaires sur 5 ans, je redistribue 200 000 postes en passant de fonctionnaires qui sont, bon, on va dire, dans des emplois de bureau vers des emplois au contact avec nos administrés, des justiciables de la justice, des patients à l'hôpital."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Xavier Bertrand souhaite supprimmer 200 000 fonctionnaires."
+        },
+        "extractive": [
+            {
+                "speaker": "XB",
+                "text": "Il y a trop de fonctionnaires qui contrôlent les autres et qui contrôlent les Français, mais par contre, il n'y en a pas assez pour contrôler et agir pour lutter contre les fraudes sociales."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Ils s'accordent tous que moins de fonctionnaires, mais mieux payés améliorent les résultats"
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Il est évident, il est évident que aujourd'hui, ce n'est pas des personnes dont on supprime l'emploi, c'est au moment des départs en retraites, des postes qui ne sont pas remplacés, bien évidemment."
+            },
+            {
+                "speaker": "VP",
+                "text": "Là encore, si on réussit à enlever de la bureaucratie de l'administration administrant à fermer un certain nombre de comités à fusionner à ce moment là, on pourra revaloriser les fonctionnaires qui en ont le plus besoin"
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Emmanuel Macron et Marine le pen discutent des institutions."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Est-ce que vous considérez qu'il faut baisser le nombre de parlementaires, et, que pensez-vous à propos du cumul des mandats, pensez-vous à les limiter et de quelle façon ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique qu'il faut baisser le nombre de parlementaire, et qu'il faut limiter les cumuls de mandats."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Oui, aux deux questions, je suis favorable à une baisse du nombre de parlementaires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron souhaite baisser d'environs un tiers les effectifs de l'assemblée et du sénat."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Les baisser d'environ un tiers à l'Assemblée comme au Sénat."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique que si les réformes sont bloquées, il fera un référendum."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Non, il faut une réforme qui a des contraintes constitutionnelles comme vous le savez et je n'exclus pas d'aller devant le peuple s'il y avait un blocage des Assemblées."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron souhaite mettre en place la proportionnelle pour les élections parlementaires, et souhaite limiter les cumuls de mandas."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Je souhaite également une dose de proportionnelle pour les élections, y compris les élections parlementaires, ce ne sera pas possible pour celles qui arrivent par définition mais je souhaite que les choses soient claires au moment de cette élection pour la suite."
+            },
+            {
+                "speaker": "EM",
+                "text": "Sur le cumul des mandats je suis évidemment favorable au maintien de la loi qui a été votée durant ce quinquennat qui empêche le cumul de plusieurs mandats concomitants et je veux ajouter à cela un non-cumul des mandats dans le temps limité à trois mandats."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique être pour le référendum d'initiative populaire"
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Moi je suis pour le référendum d'initiative populaire"
+            }
+        ]
+    }
+]

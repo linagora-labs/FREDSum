@@ -1,0 +1,300 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, les candidats discutent de la question de l’immigration."
+        },
+        "extractive": [
+            {
+                "speaker": "RE",
+                "text": "Eric Ciotti Première question est ce que vous feriez vôtre l'expression : grand remplacement qui est utilisée par Eric Zemmour?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Ciotti admet que le grand remplacement existe."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Vous appelez ce phénomène comme vous voulez, mais moi, je le confesse."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il rappelle que la population change mais souhaite que la France reste la France, héritière du judéo-christianisme et des Lumières."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Moi, je souhaite que la France reste la France."
+            },
+            {
+                "speaker": "EC",
+                "text": "Nous sommes les héritiers d'une magnifique histoire, celle des Lumières, mais aussi celle d'une civilisation judéo chrétienne."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Barnier ne reprend pas quant à lui cette expression ; il souhaite déclencher après l’élection un moratoire pour changer la politique migratoire dans les années suivantes."
+        },
+        "extractive": [
+            {
+                "speaker": "MB",
+                "text": "Je n'utiliserai pas ce mot, la réalité, c'est ce qui est le plus important, et j'ai essayé sérieusement de proposer une méthode globale pour traiter cette question enfin sérieusement, juridiquement, globalement et de manière pratique, à travers l'idée d'un moratoire qui sera immédiatement déclenché au lendemain de l'élection présidentielle, pendant trois, cinq ans, l'idée de remettre à plat tout ce qui ne fonctionne pas."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pécresse n’apprécie pas cette expression car elle donne l’impression que tout est perdu."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Je déteste cette expression parce qu'elle donne le sentiment que tout est foutu."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle rappelle que l’immigration a un lien avec le terrorisme et l’islamisation."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "On en est là aujourd'hui parce que l'immigration aujourd'hui a un lien avec la montée de l'islamisme et le terrorisme, parce que l'immigration a un lien aujourd'hui avec la montée de la violence et de la délinquance et que si on n'accepte pas de reconnaître ces liens, alors ce n'est pas égal, bien sûr."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle souhaite donc arrêter l’immigration incontrôlée et mettre en place des quotas."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Stop à l'immigration incontrôlée, et c'est pour ça que je propose une loi constitutionnelle avec des quotas qui permettront de limiter au maximum l'immigration et de choisir surtout les étrangers qu'on accueil."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bertrand estime que le moratoire de Barnier ne règle pas la question migratoire assez rapidement ; il recommande d’interdire directement la possibilité de régulariser les clandestins puis de mettre en place un référendum sur des quotas."
+        },
+        "extractive": [
+            {
+                "speaker": "XB",
+                "text": "Je le dis à Michel Barnier ne veux pas attendre trois à cinq ans pour régler le problème, dans les premiers jours, je demanderai à mon ministre de l'Intérieur de prendre une circulaire pour mettre un terme à celle de novembre 2012 et que plus personne rentré clandestinement en France ne puisse jamais avoir le droit à régularisation."
+            },
+            {
+                "speaker": "XB",
+                "text": "D'autre part, à l'automne 2012, il y aura un référendum, mais je ne demanderait pas seulement aux parlementaires, je demanderai aux Français de se prononcer pour dire si oui ou non, ils veulent mettre en place une politique de quotas migratoires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Juvin est d’accord avec Pécresse sur la négativité de l’expression « grand remplacement »."
+        },
+        "extractive": [
+            {
+                "speaker": "PJ",
+                "text": "Moi, je partage l'avis de Valérie Pécresse, utiliser cette expression laisse entendre qu'en fait, c'est fichu."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour lui, La France n’a pas assez d’emplois ni de logements pour accueillir des immigrés dans des conditions décentes."
+        },
+        "extractive": [
+            {
+                "speaker": "PJ",
+                "text": "Le vrai sujet de l'immigration, c'est notre capacité à agir, c'est notre capacité à accueillir, moi elle est la mon inquiétude, c'est qu'on n'a pas suffisamment de travail, il n'y a pas suffisamment de logements, et on continue à accueillir."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Barnier répond ensuite à Bertrand pour lui expliquer qu’il souhaite également prendre des mesures rapidement visant à limiter les étudiants étrangers, le regroupement familial et l’immigration de travail."
+        },
+        "extractive": [
+            {
+                "speaker": "MB",
+                "text": "On ne va pas attendre de 3 à 5 ans, cher Xavier, on va prendre des mesures tout de suite comme celle que tu as proposée et notamment sur les régularisations, elles seront interrompues immédiatement, le nombre d'étudiants sera ramené à 45.000 au lieu de 90.000 et le regroupement familial, sur la base d'idées qui sont évoquées ici, sera strictement limité, avec des conditions de ressources supplémentaires et l'apprentissage du français."
+            },
+            {
+                "speaker": "MB",
+                "text": "Et l'immigration de travail sera drastiquement diminuée au moins de moitié immédiatement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le moratoire reste néanmoins nécessaire à terme pour éviter que ces mesures soient contestées sur le plan juridique."
+        },
+        "extractive": [
+            {
+                "speaker": "MB",
+                "text": "Et pourquoi le moratoire de 3 à 5 ans après avoir pris des mesures immédiates?"
+            },
+            {
+                "speaker": "MB",
+                "text": "C'est pour ne pas être l'objet de contestation de la jurisprudence nationale."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pécresse souhaite elle établir un rapport de force avec les pays dont sont issus les clandestins ; elle souhaite 5 ans de résidence pour pouvoir toucher des aides et que les candidats à la naturalisation donnent des preuves de leur attachement à la France."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Ça veut dire que dans mon système, on peut, si on est en querelle ou en rapport de force avec le Mali, le Pakistan et l'Algérie, on peut dire Visa 0, Etudiants 0, regroupement familial 0, immigration de travail et ça, ça change tout."
+            },
+            {
+                "speaker": "VP",
+                "text": "Donc, c'est 5 ans de résidence régulière en France pour toucher les aides au logement, les prestations familiales il y a déjà 5 ans pour le RSA et pour le minimum vieillesse, mais on ira encore plus loin, et par ailleurs, le choix de la nationalité, il se fait à 18 ans, mais on donne des preuves pour un enfant né de parents étrangers en France."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Ciotti souhaite faire un référendum sur l’immigration, le droit du sang pour devenir français, la priorité nationale et une présence durable sur le sol français pour recevoir les allocations non contributives."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Convocation par l'article 11 d'un référendum dès le même jour que les élections législatives en juin."
+            },
+            {
+                "speaker": "EC",
+                "text": "Moi, je propose des mesures simples le droit du sang pour ne plus devenir français par hasard, la priorité nationale."
+            },
+            {
+                "speaker": "EC",
+                "text": "Moi je dis, pour les allocations non contributives, il faut une présence durable sur le terrain, allocations familiales le RSA, ça existe déjà."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Les immigrés devront parler le Français et montrer leur attachement aux valeurs de la République."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Avant d'accueillir quelqu'un Il faut vérifier qu'il parle notre langue, qu'il puisse avoir potentiellement un travail, qu'il adhère aux valeurs de la République."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Juvin souhaite non seulement faire pression sur les visas, mais aussi sur l’aide au développement, pour que les pays étrangers reprennent leurs ressortissants clandestins."
+        },
+        "extractive": [
+            {
+                "speaker": "PJ",
+                "text": "Comment obtient on des Etats d'origine qu'ils reprennent leurs ressortissants, il y a les visas, mais il y a aussi une arme qu'il faut que nous utilisions tous les ans, 15 milliards d'euros repartent de la France vers les pays d'origine par les travailleurs légaux, eh bien, ces 15 milliards doivent être taxés à hauteur de la non volonté des Etats de reprendre leurs ressortissants."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il est également favorable aux quotas, à expulser les criminels étrangers pour qu’ils purgent leur peine à l’étranger, à créer un nouvel espace Schengen avec les pays partageant sa vision de l’immigration et à faire un plan de développement du continent africain pour endiguer sa démographie."
+        },
+        "extractive": [
+            {
+                "speaker": "PJ",
+                "text": "Deuxième point, évidemment, les quotas."
+            },
+            {
+                "speaker": "PJ",
+                "text": "Troisième point il y a la question des condamnés définitifs et qui sont en prison en France, je souhaite non pas qu'ils soient renvoyés dans leur pays d'origine à l'issue de leur peine, je souhaite qu'ils soient renvoyés dans leur pays d'origine au début de leur peine parce que ça aura un effet extrêmement exemplaire."
+            },
+            {
+                "speaker": "PJ",
+                "text": "Oui, c'est pour ça que je suspend Schengen, et c'est pour ça que je veux un deuxième Schengen avec des pays qui se seront mis d'accord sur une même politique migratoire."
+            },
+            {
+                "speaker": "PJ",
+                "text": "Parce que je veux dire que ce que nous appelons la vague migratoire aujourd'hui, ce n'est rien par rapport à ce que nous verrons dans dix, vingt ou trente ans."
+            },
+            {
+                "speaker": "PJ",
+                "text": "La présidence française de l'Union, c'est une chance pour mettre ce plan européen et africain."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bertrand veut également être ferme sur les visas, en particulier avec l’Algérie, pays qui humilie la France ; il rejoint également Juvin sur le développement de l’Afrique."
+        },
+        "extractive": [
+            {
+                "speaker": "XB",
+                "text": "l'Algérie, c'est un pays qui a une relation très particulière, mais aujourd'hui, les dirigeants algériens ne nous respectent pas, ne nous respectent plus."
+            },
+            {
+                "speaker": "XB",
+                "text": "S'ils ne reprennent pas les délinquants, les criminels qui ont purgé une peine de prison ferme dans leur pays s'ils ne reprennent pas leurs ressortissants qui sont clandestins chez nous, plus personne ne rentre, plus personne, du chef de l'Etat aux dirigeants, aux entrepreneurs, aux touristes, aux étudiants."
+            },
+            {
+                "speaker": "XB",
+                "text": "Je veux garder l'aide au développement, je rejoins Philippe Juvin là dessus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pécresse défend ensuite le bilan de Sarkozy à l’époque duquel davantage d’OQTF étaient réalisées (44 % contre 12 % sous Macron)."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Nicolas Sarkozy, quand il était au pouvoir, c'était 44%, des obligations du territoire qui étaient exécutées, et on est à 12%  aujourd'hui, donc il faisait mieux que le gouvernement Macron 3 fois mieux."
+            },
+            {
+                "speaker": "VP",
+                "text": "Alors pourquoi je parle de charters, c'est parce que moi aussi, comme Xavier Bertrand, je veux engager un bras de fer avec les pays d'origine et leur demander de les obliger à reprendre leurs ressortissants."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle explique que les demandeurs d’asile doivent faire leur demande à la frontière."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Et sur les demandes d'asile, personne n'en a parlé, mais je revendique d'avoir un projet très spécifique où on demandera l'asile à la frontière."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Enfin, Barnier revient sur son moratoire, que ses camarades ne comprennent guère ; il ne s’agit pas d’avoir une immigration zéro mais de pérenniser les mesures prises sur le plan juridique."
+        },
+        "extractive": [
+            {
+                "speaker": "MB",
+                "text": "Puisque dans le moratoire qui justifie un référendum pour sécuriser les mesures que nous allons prendre, il y a dans le référendum que j'ai proposé."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il rejoint Bertrand et  Juvin  sur les visas et l’importance de l’aide au développement"
+        },
+        "extractive": [
+            {
+                "speaker": "MB",
+                "text": "Et je voudrais ajouter que dans cette proposition, il y a le temps dont nous avons besoin pour discuter avec les autres pays d'immigration et être extrêmement dur avec deux verrous qui sont les visas qu'on accorde non plus, et puis la négociation sur les crédits de développement."
+            }
+        ]
+    }
+]

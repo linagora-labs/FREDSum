@@ -1,0 +1,118 @@
+[
+    {
+        "abstractive": {
+            "text": "Ce débat est la conclusion de Ségolène Royal et Nicolas Sarkozy."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Que pensez-vous l'un de l'autre ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Nicolas Sarkozy explique respecter Ségolène Royal."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Ce n'est pas d'hier, et Mme Royal le sait bien, que je respecte son talent et sa compétence."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Ségolène Royal explique ne pas porter de jugement de personne sur Nicolas Sarkozy."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Je m'abstiens de jugement personnalisé, parce que le débat politique, c'est d'abord un débat d'idées."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Nicolas Sarkozy explique qu'il croit en l'action, et qu'il n'y a pas de fatalité."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Si on doit résumer les choses, qu'est-ce qui est important pour moi ?"
+            },
+            {
+                "speaker": "NS",
+                "text": "Je crois à l'action."
+            },
+            {
+                "speaker": "NS",
+                "text": "Je crois qu'il est très important de dire à nos compatriotes que la fatalité n'existe pas."
+            },
+            {
+                "speaker": "NS",
+                "text": "Il est venu le temps pour moi, à 52 ans, de tout lui rendre."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Nicolas Sarkozy explique vouloir faire que la france reste fidèle à son identité, rendre la dignité aux victimes, résoudre la crise morale française, et protéger les français face aux délocalisations."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Je veux faire en France les changements que d'autres ont fait dans d'autres pays pour que la France reste fidèle à son identité."
+            },
+            {
+                "speaker": "NS",
+                "text": "Je veux être le président de la République qui rendra la dignité aux victimes."
+            },
+            {
+                "speaker": "NS",
+                "text": "Je veux résoudre la crise morale française."
+            },
+            {
+                "speaker": "NS",
+                "text": "Je veux protéger les Français face aux délocalisations."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Nicolas Sarkozy explique qu'il portera le mérite comme sa valeure principale."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Je ne crois pas au nivellement, je ne crois pas à l'égalitarisme, je crois au mérite, à l'effort, à la récompense, à la promotion sociale et, plus que tout, au travail."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Ségolène Royal explique tenir à des valeurs fondamentales, la famille, l'école, la valeur travail, et la lutte contre les insécurité ainsi que le ressemblement social."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Je tiens à des valeurs fondamentales."
+            },
+            {
+                "speaker": "SR",
+                "text": "Je pense que tout se tient et que des familles qui fonctionneront bien, l'école qui reviendra au coeur du pacte républicain, la valeur travail qui sera défendue parce que le travail sera payé à sa juste valeur, la lutte contre toutes les formes d'insécurité, de violence et de précarité me permettront de construire une France paisible où l'on pourra réformer sans brutaliser, où jamais je ne dresserai les Français les uns contre les autres, les fonctionnaires contre les autres, ceux qui ont des heures supplémentaires contre ceux qui n'en ont pas, ceux qui ont des parachutes dorés et ceux qui sont licenciés."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Ségolène Royal explique qu'elle accordera l'accès à la santé et au service public partout sur le territoire."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Je garantirai partout sur le territoire l'accès à la santé et au service public, parce que je sais que c'est l'une des conditions de l'efficacité économique du pays"
+            }
+        ]
+    }
+]

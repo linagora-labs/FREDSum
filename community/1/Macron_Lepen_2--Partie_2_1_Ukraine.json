@@ -1,0 +1,119 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Marine le Pen et Emmanuel Macron discutent de la situation en Ukraine."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Le 24 février dernier, l'Ukraine pays indépendant et reconnu, pays européen a été envahi et agressé par la Russie, Que doit faire la France ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique que le rôle de la france et de l'europe est de soutenir l'ukraine face à l'invasion russe, en envoyant des équipements de défense, et qu'il souhaite intensifier cette ligne pour éviter une escalade."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Le rôle de la France et le rôle de l'Europe c'est comme nous l'avons fait dès le début, d'abord de soutenir l'Ukraine pour résister, de soutenir en aidant les Ukrainiens avec des équipements de défense et des équipements aussi pour combattre, pour ne pas que Kiev tombe, de soutenir l'Ukraine financièrement en l'aidant, ce que nous avons fait et ce que nous avons refait."
+            },
+            {
+                "speaker": "EM",
+                "text": "Donc je pense qu'il faut aujourd'hui intensifier et tenir cette ligne, avec beaucoup de force comme nous le faisons; en veillant comme je le fais depuis le début à ce que cette guerre n'aille pas dans une escalade, et qu'elle ne s'étende pas."
+            },
+            {
+                "speaker": "EM",
+                "text": "Et donc c'est pour ça que l'Europe est si importante, une Europe forte qui peut peser, une Europe avec des puissances défense fortes comme la France."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen débute en expliquant qu'Emmanuel Macron a bien géré cette crise et qu'elle est pour aider l'ukraine financièrement, humanitairement, et en matière de défense."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Et j'avoue que les efforts, que M. Macron vous avez développé pour tenter de trouver au nom de la France, les moyens, les voies de la paix méritent d'être soutenus."
+            },
+            {
+                "speaker": "MLP",
+                "text": "L'aide à l'Ukraine, oui bien sûr, l'aide humanitaire à l'Ukraine, oui bien sûr, l'aide financière à l'Ukraine, oui bien sûr, l'aide de matériel de défense, oui bien sûr."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique qu'elle a cependant des limites, qui est la livraison d'arme, et les sanctions sur le gaz et pétrole russe qui font plus de mal aux français qu'à la russie."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Les alertes que j'avais pu lancer étaient, la limite, et vous l'avez me semble-t-il trouvé entre l'aide et cobelligérance en matière de livraison d'armes, et l'autre limite étaient les sanctions."
+            },
+            {
+                "speaker": "MLP",
+                "text": "J'étais d'accord moi sur l'intégralité des sanctions qui ont été prises contre les oligarques, contre les banques, contre tout ça, la seule sanction contre lequel, avec laquelle je suis en désaccord c'est le blocage de l'importation du gaz et du pétrole russe."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Ça n'est pas ce qui fera du mal en réalité à la Russie et que surtout ça va faire énormément de mal au peuple français et que les conséquences de ce blocage, dont on nous annonce d'ailleurs qu'il serait négocié par l'Union européenne après l'élection présidentielle française auraient des conséquences cataclysmiques pas seulement d'ailleurs sur les particuliers mais également sur les entreprises."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique aussi craindre une alliance entre la Russie et la Chine."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "J'ai exprimé une crainte, qui est une crainte ancienne, une crainte ancienne de notre pays, ancienne d'autres grandes puissances du monde qui est de faire en sorte que la Russie et la Chine deviennent des alliés si étroits qu'ils constituent demain, Parce que c'est ça aussi gouverner c'est prévoir les dangers d'aujourd'hui et y répondre et les dangers de demain, une superpuissance, une superpuissance économique, une superpuissance monétaire, une superpuissance peut-être même militaire qui pourrait constituer un danger absolument majeur pour l'Occident, pour l'Europe et pour la France."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron accuse ensuite Marine le Pen d'être une alliée de la Russie, à travers un prêt qu'elle a fait pour financer sa campagne."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Emmanuel macron, le jour où cette guerre s'arrêtera, faudra-t-il lever immédiatement les sanctions contre la Russie ?"
+            },
+            {
+                "speaker": "EM",
+                "text": "Et c'est d'ailleurs, ce que vous venez de dire, complètement le contraire des positions que vous avez historiquement tenues."
+            },
+            {
+                "speaker": "EM",
+                "text": "Parce que quelques mois après avoir dit ça Mme Le Pen, vous avez contracté un prêt en 2015 auprès d'une banque russe, la First Check Russian Bank, proche du pouvoir, en septembre 2014 puis vous avez ensuite reboutiqué ce prêt auprès d'autres acteurs."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique qu'elle a du faire ce prêt car les banques françaises lui refusaient ce droit, et explique qu'Emmanuel Macron a aussi eu des positions favorables à la russie"
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "D'ailleurs Emmanuel Macron parce qu'il a accès à l'intégralité des informations des services français sait pertinemment que ce qu'il dit est faux."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Vous avez dit qu'il fallait faire l'Europe de Lisbonne à Vladivostok."
+            },
+            {
+                "speaker": "MLP",
+                "text": "C'est parce qu'aucune banque française n'a voulu m'accorder de prêt."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Et nous remboursons sous le contrôle de la Commission nationale des comptes de campagne"
+            }
+        ]
+    }
+]

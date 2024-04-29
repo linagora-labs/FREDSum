@@ -1,0 +1,72 @@
+[
+    {
+        "abstractive": {
+            "text": "Le présentateur commence par demander si il faut interdire aux groupes vivant de commandes publiques de posséder des médias."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Êtes favorable à une loi interdisant au grand groupe privé qui vivent des commandes de l'État de posséder des médias ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bayrou n’est pas d’accord."
+        },
+        "extractive": [
+            {
+                "speaker": "FB",
+                "text": "Je suis absolument opposé."
+            },
+            {
+                "speaker": "FB",
+                "text": "Ce débat a été difficile à organiser, comme si quelqu'un pouvait dans une démocratie interdire à des gens de parler ensemble au vu et au su de tout le monde."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Royale est plus nuancée."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Bien sûr, il faut des mesures anti-concentrations."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle pense qu’il faut prendre des mesures pour éviter la concentration des médias, laquelle n’est pas compatible avec la démocratie."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Mais la presse est concentrée parce que justement, elle est liée à un certain nombre de groupes financiers, de groupes industriels, donc il y a une incompatibilité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle entend laisser le parlement discuter de ces questions et définir les mesures à prendre."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Mais le Parlement en débattra et des décisions seront prises dans ce sens. Je crois que la liberté d'expression, le pluralisme des opinions, doivent absolument être garanties et déconnectées des puissants de l'argent."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bayrou rappelle son attachement à des médias libres, pour lui, ce n’est pas le cas aujourd’hui dans la mesure où les journalistes reçoivent des pressions, ce que reconnaît le présentateur"
+        },
+        "extractive": [
+            {
+                "speaker": "FB",
+                "text": "Personne ne devrait pouvoir intervenir sur les médias, comme ça se fait, vous le savez, tous les jours, en faisant craindre quelque chose aux journalistes, en faisant craindre quelque chose aux groupes en question."
+            }
+        ]
+    }
+]

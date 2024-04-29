@@ -1,0 +1,239 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans de débat, Jordan Bardella et Olivier Véran discutent du système de la santé française. "
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "On vient de traverser une pandémie historique, euh Jordan Bardella, pourquoi les français auraient-ils été mieux protégés avec vous et dans l'avenir, pourquoi le seraient-ils ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Jordan Bardella, Emmanuel Macron voit le service public comme une entreprise qui doit être rentabilisée. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Parce que nous n'avons pas la même conception euh qu'Emmanuel Macron du, du service public."
+            },
+            {
+                "speaker": "JB",
+                "text": "Euh pour euh monsieur Macron et son gouvernement les services publics sont des entreprises, euh où il faut tout miser sur la rentabilité, et ça n'est pas notre vision de la société."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour lui, il faut investir dans les services publics en augmentant les salaires des soignants et les moyens donnés aux hôpitaux en investissant 20 milliards d'euros sur le quinquennat. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Donc nous on a une vision radicalement différente, il faut mettre les moyens dans le service public et encore une fois il faut arrêter avec cette logique de rentabilité."
+            },
+            {
+                "speaker": "JB",
+                "text": "Ca veut dire augmentation des salaires pour les soignants, ça veut dire donner beaucoup plus de moyens à l'hôpital public, et nous portons une grande loi de d'investissement de vingt milliards d'euros sur le quinquennat, moitié dirigé vers l'augmentation des salaires et le personnel, et l'autre moitié vers le développement de la télé médecine,des infrastructures, et de la lutte notamment contre les déserts médicaux."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran défend son bilan, 19 milliards d'euros d'investissements ont été mobilisés pour sauver deds hôpitaux et des EHPAD, et 10 milliards pour augmenter les salaires des soignants; des investissements contre lesquelles Marine le pen a voté. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Jordan Bardella, euh, au cours de la dernière année nous avons mis en place vingt milliards, dix-neuf milliards d'euros d'investissements pour sauvegarder trois mille hôpitaux et EHPAD sur tout le territoire."
+            },
+            {
+                "speaker": "OV",
+                "text": "Dix milliards d'euros pour deux millions de soignants, quatre-vingt-cinq pour cent de femmes, nous l'avons fait."
+            },
+            {
+                "speaker": "OV",
+                "text": "Madame le Pen, qui était députée rassemblement national, a voté contre, pourquoi est-ce qu'elle ferait demain, ce que nous avons déjà fait dans la mesure où en plus elle a eu l'occasion de soutenir au moins ce point-là, en disant on va donner un signal à nos soignants à nos hôpitaux, et qu'elle ne l'a pas fait."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Jordan Bardella, ce vote est naturel, le rassemblement national ne voulant pas être la caution du gouvernement. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Moi je ne veux pas être caution de votre gouvernement donc je vais pas me lancer lancer des anathèmes ce soir."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose de débureaucratiser l'hôpital public en mettant en place une gestion bicéphales des hôpitaux, gestion qui est déjà mise en place d'après Olivier Véran, qui, lui, préconise davantage de médecins et d'infirmières, de numérique, ainsi que la suppression du numerus clausus. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Je vous ai parlé de cette dépense de vingt milliards, je pense que il faut aussi débureaucratiser l'hôpital public, et vous savez que nous soutenons notamment une gestion bicéphale de l'hôpital."
+            },
+            {
+                "speaker": "OV",
+                "text": "Ca s'appelle un directeur d'hôpital et un président de commission médicale d'établissement c'est ce qui est déjà en place."
+            },
+            {
+                "speaker": "OV",
+                "text": "Ce qu'il faut, c'est davantage de médecins, c'est davantage d'infirmières, davantage d'aide soignant, davantage de numérique, en santé nous avons en deux mille dix-huit, pardon je vais être un petit peu pointilleux là-dessus et un peu insistant, mais c'est important, en deux mille dix-huit, nous avons pris la décision nécessaire, nous avons arrêté d'empêcher des jeunes étudiants français d'apprendre et d'exercer la médecine en france, nous avons supprimé le numerus clausus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran veut lutter contre les déserts médicaux, et déplore la décision de Marine Le Pen de supprimer les prestations sociales aux étrangers dans un pays où le personnel soignant est fait de tant d'étrangers. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "On va continuer de progresser pour pouvoir lutter pied à pied contre les déserts médicaux."
+            },
+            {
+                "speaker": "OV",
+                "text": "Il faudra leur expliquer que si Madame Le Pen gagne, à partir de lundi prochain, ces étrangers la, ils n'auront plus les prestations sociales, et ils n'auront plus le droit au logement social quand ils arriveront avec leur famille en France."
+            },
+            {
+                "speaker": "OV",
+                "text": "Dix pour cent des médecins qui exercent dans notre pays sont des médecins diplômés à l'étranger à qui il va falloir expliquer qu'ils n'auront pas de prestations sociales."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose ensuite la mise en place de la possibilité pour les médecins d'être salariés tout en ayant une activité libérale en complément. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Et, et, et, ce maire me disait, ce médecin, on a mis en place un système où à la fois, on le salarie pour une partie de son activité, et à la fois il exerce en libéral."
+            },
+            {
+                "speaker": "OV",
+                "text": "C'est ce que nous allons mettre en place avec les états généraux de la santé."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Jordan Bardella, la mise à pied des 15 000 soignants non vaccinés est plus importante, le gouvernement d'Olivier Véran a fermé des lits et renvoyé des soignants pendant la crise covid, et a mis en place des mesures cruelles. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Quand vous mettez euh à pied quinze mille soignant, sans salaire, euh parfois des mères et des pères de famille, qui euh se retrouvent du jour au lendemain sans le moindre salaire, et que vous mettez à pied en pleine crise sanitaire, c'est indigne et inhumain."
+            },
+            {
+                "speaker": "JB",
+                "text": "Fermer des lits en pleine crise sanitaire c'est indigne et euh euh inhumain, euh tout ce que vous avez fait contre les soignants durant cette crise sanitaire a été extrêmement mal vécu par le personnel soignant quand, pendant la crise sanitaire, pendant le confinement, vous refusez à des familles d'aller rendre visite à leurs proches qui sont malades, et nous avons d'ailleurs défendu à l'assemblée nationale ce droit opposables et inconditionnel aux visites."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella réitère donc son souhaite de débureaucratisation et de création de postes. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Donc oui il faut mettre des moyens oui il faut il faut débureaucratiser."
+            },
+            {
+                "speaker": "JB",
+                "text": "Il faut plus de personnel, nous allons ouvrir également dix mille postes de formation pour permettre d'augmenter le nombre de soignants."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Olivier Véran, la politique se doit d'être composée de choix difficiles, les soignants seront réintégrés. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Et quelqu'un qui est à la hauteur de la mission qui lui est confié, comme le président la république Emmanuel Macron, c'est quelqu'un qui est capable d'assumer de prendre et d'expliquer des décisions difficiles parce que la crise le nécessite."
+            },
+            {
+                "speaker": "OV",
+                "text": "Nous réintégrons bien sûr lorsque nous le pouvons les soignants, bien sûr lorsque nous pourrons envisager des soignant lorsqu'ils sont, lorsque la situation épidémique le permettra."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il fustige cependant Marine Le Pen, qui a critiquée les vaccins ARN messages, puis expliquée qu'il fallait des vaccins russes. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Vous savez la candidate que vous soutenez, la candidate que vous soutenez, ce soir sur ce plateau encore, est la candidate qui nous expliquait début décembre deux mille vingt, que les vaccins ARN messager, c'était pas des bons vaccins."
+            },
+            {
+                "speaker": "OV",
+                "text": "Qui trois semaines plus tard nous reprochait de ne pas utiliser suffisamment vite et tôt, les vaccins ARN messager, qui quinze jours plus tard nous expliquait qu'il fallait utiliser le vaccin russe pardon hein."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur ce sujet, Jordan Bardella déplore l'absence de vaccin français. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Il est où le vaccin français monsieur Veran, parce que vous vous jetez beaucoup de fleurs et moi je ne pleurerai pas sur les responsabilités, sur le poids des responsabilités qui sont les votres."
+            },
+            {
+                "speaker": "JB",
+                "text": "La vérité est que vous avez tiers mondisé notre système de santé."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il critique les mesures de restrictions de libertés mise en place par le gouvernement, ainsi que l'utilisation des cabinets de conseil comme Mckinsey pour la gestion de la crise COVID. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Il y a des start-up française comme valneva la start-up nantaise qui avait proposé de produire un vaccin, de fournir un vaccin euh au peuple français, vous avez refusé d'investir dans valneva."
+            },
+            {
+                "speaker": "JB",
+                "text": "Vous avez infligé à tout le monde, sans le, sans la moindre mesure, sans la moindre rationalité, des restrictions de liberté, et notamment aux jeunes que vous avez enfermé des mois durant, alors qu'on sait que, et on le savait dès le début, qu'ils contractaient des formes peu grave, du euh du COVID dix-neuf."
+            },
+            {
+                "speaker": "JB",
+                "text": "Comment se fait-il que le cabinet Mckinsey, qui vous a conseillé sur la politique vaccinale, et à qui, depuis le début de ce quinquennat, vous avez donné des fortunes, des millions d'euros d'argent public, après que ces mêmes personnes aient conseillé Emmanuel Macron bénévolement, dans le cadre de sa réélection, Mckinsey a conseillé en même temps, en même temps, Pfeizer, et le gouvernement français pour des résultats qui étaient pitoyable."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran se défend, l'aide est présente, il faut l'utiliser."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Les cabinets de conseil, je j'ai déjà entendu ça plusieurs fois, j'imagine que si ça s'appelait pas mckinsey, mais je ne sais pas moi, Moscou Conseil, vous feriez peut-être moins de difficultés."
+            },
+            {
+                "speaker": "OV",
+                "text": "Faut arrêter avec cette démagogie, y a de l'aide qui est existante, on la prend quand on en a besoin."
+            },
+            {
+                "speaker": "OV",
+                "text": "Deuxièmement qu'un cabinet de conseil privé, qui a conseillé Emmanuel Macron en 2017 bénévolement, qui lui a permit d'être élu bénévolement, et à qui vous lui donnez des marchés publics qui sont aussi attribués au principal prestataire à qui vous achetez des vaccins, je suis désolé mais si vous voyez pas le problème, j'ai du souci à me faire pour la démocratie française"
+            }
+        ]
+    }
+]

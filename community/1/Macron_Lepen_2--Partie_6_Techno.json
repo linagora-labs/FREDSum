@@ -1,0 +1,137 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Emmanuel Macron et Marine Le Pen discutent de la technologie et son impact sur l'économie française."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Mais, il y a un sujet : l'attractivité de la France, un sujet sur lequel nous sommes en retard sur les nouvelles technologies et notamment l'économie numérique : Amazon, Apple Google sont aujourd'hui Américains, Tiktok est chinois."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine le pen explique que l'Union Européenne devrait lancer un programme pour améliorer la technologie au niveau européen similaire à Airbus et Ariane, ainsi qu'une politique de protection des données."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Parce que vous voyez autant l'Union européenne se mêle d'absolument tout, y compris de ce qui ne la regarde pas et impose parfois des directives qui sont contraires à nos intérêts vitaux, contraire à notre sécurité, contraire même à nos intérêts économiques, autant là le google européen ça fait des années qu'en réalité il aurait dû être lancé."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Ça fait des années qu'on aurait dû avoir une réflexion sur comment est-ce qu'on met en place le moyen de conserver les données sur le territoire européen, sur comment est-ce qu'on arrive à créer, je sais que ce n'est pas non plus donné, ils ont pris beaucoup d'avance sur nous."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Moi je pense qu'il faut qu'on crée, au niveau européen, de la même manière qu'on a créé, comment dire, une politique spatiale, on a fait airbus, on a fait Ariane, il faudrait qu'on fasse évidemment un Google européen et qu'au moins on mette en place le moyen de préserver nos données, mais pour l'instant les tentatives, en tout cas, n'ont pas été couronnées de succès."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique que la france est le pays avec le plus de start-ups, mais que des projets massifs sont plus rare qu'en chine et aux états-unis car le marché est beaucoup plus petit, d'où l'intérêt de s'ouvrir au marché de l'union européenne."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Alors d'abord, je veux défendre la force de la France, de nos entrepreneurs parce que notre pays est celui qui produit le plus de start-ups en Europe, qui en développe le plus."
+            },
+            {
+                "speaker": "EM",
+                "text": "Simplement, la différence qu'il y a entre la Chine, les États-Unis et nous, on en revient à notre vision différente, c'est que la France n'est pas l'Europe."
+            },
+            {
+                "speaker": "EM",
+                "text": "Et que les États-Unis c'est un marché de près de 400 millions de personnes, La Chine c'est un marché d'un milliard, La France c'est un marché de 65 millions d'habitants."
+            },
+            {
+                "speaker": "EM",
+                "text": "Si on veut faire des champions, il faut que le marché domestique tout de suite, ce soit le marché de l'Union européenne."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique aussi que ces politiques doivent être faite à l'échelle des entrepreneurs."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Google n'a pas été créé par un gouvernement, ça a été créé par des entrepreneurs."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique qu'il a mit en place la politique du RGPD pour la protection des données, et qu'il souhaite bâtir une france et une europe de l'innovation d'ici 2030, en mettant l'accent sur l'excellence académique et la recherche."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "La deuxième chose, il faut protéger nos citoyens, l'Europe là aussi a créé les premiers standards pour nos données individuelles, le RGPD, pour donner l'acronyme, mais qui est le règlement général pour la protection, justement, des données sur nos vies privées."
+            },
+            {
+                "speaker": "EM",
+                "text": "Et donc, moi je crois complètement à la possibilité de bâtir une France 2030, une Europe 2030 de l'innovation, de la transformation par le numérique, mais on ne décrètera pas ces champions."
+            },
+            {
+                "speaker": "EM",
+                "text": "Il faut bien les former, c'est pour ça que nous en France, il faut avoir une politique de formation, d'excellence académique et d'investissement dans la recherche, comme on a commencé à le faire, dans laquelle je veux investir sur 10 ans."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron souhaite aussi réguler les compétiteurs pour éviter la concurrence déloyale."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Après il faut pouvoir réguler les compétiteurs, il faut aussi une politique européenne qui se bat contre la concurrence déloyale."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine le Pen explique que l'europe se justifie aussi sans avoir recours à l'union européenne."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Là il se trouve que sur ce sujet-là, oui bien entendu, l'Europe est l'espace qui se justifie, mais en l'espèce ce n'est pas l'Union européenne."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Parce que si vous voulez le problème c'est que, aujourd'hui le problème de notre économie, me semble-t-il et qui est aussi le problème de financement de nos retraites d'après ce que dit le Conseil d'orientation des retraites, c'est le problème de l'absence de hausse de productivité dont je parlais tout à l'heure."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine le Pen explique qu'il y a un problème d'absence de productivité à cause de l'ubérisation de la société qui ne crée pas de richesse."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Parce qu'en fait on est dans une économie qui est en train de s'ubériser."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Et je pense que c'est une erreur fondamentale et qu'avec des emplois comme ça, par définition on ne crée pas de richesse."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine le pen conclue en expliquant qu'il faut aussi travailler pour développer la couverture numérique sur l'ensemble du territoire français"
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "On parle de choses, de Google européen, etc mais il y a des gens qui nous regardent, ils sont toujours dans un espace où ils n'ont pas la fibre, où ils n'ont pas de couverture numérique, donc je pense que ça pourrait peut-être être la première des priorités car en plus nous aurons besoin de cette couverture numérique parfaite sur le territoire, parce que, si on veut faire de la télémédecine, si on veut faire de la téléconsultation, si on veut faire toutes ces choses-là qui sont des nouvelles technologies, on ne pourra jamais le faire si on est encore des espaces où la couverture numérique est pour le moins défaillante"
+            }
+        ]
+    }
+]

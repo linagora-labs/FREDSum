@@ -1,0 +1,258 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Olivier Véran et Jordan Bardella débattent de leur vision pour les prestations sociales Françaises. "
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Alors ce que vous proposez pour le quinquennat à venir, ça s'appelle la solidarité à la source, mais est-ce que c'est cela vraiment qui peut faire la solidaritée en france ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran débute en explicitant son bilan; le versement automatique de la pension alimentaire, le remboursement intégral des prothèses auditives, dentaires et de lunettes, les chèques pour les étudiants, le dédoublement des classes dans les quartiers populaires et les petits déjeuners gratuits à l'école. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Rien qu'au cours de la dernière année pour les femmes qui sont avec des enfants, qui touchaient pas la pension alimentaire, c'est le versement automatique, Marine Le Pen a voté contre."
+            },
+            {
+                "speaker": "OV",
+                "text": "Pour plus de dix millions de français déjà, qui ont bénéficié de prothèses auditives dentaires de lunettes, il n'y a plus de reste à charge."
+            },
+            {
+                "speaker": "OV",
+                "text": "Nous avons protégés les plus fragiles pendant la crise sanitaire en envoyant des chèques aux étudiants, parce qu'il pouvait plus avoir les petits boulots."
+            },
+            {
+                "speaker": "OV",
+                "text": "Nous avons mis en place la stratégie pauvreté, avec le dédoublement des classes dans les quartiers populaires, les petits déj gratuits à l'école."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour la suite, il propose de mettre en place le versement automatique des prestations sociales. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Nous allons éradiquer le non recours aux prestations sociales."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella fustige ce bilan, il rappelle qu'un français sur quatre ne mange pas à sa faim car le prix de l'alimentation est trop haut, et qu'un français sur cinq renonce à se chauffer. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "euh Il y a un français sur quatre aujourd'hui qui ne mange plus à sa fin, ou qui est contraint de sauter des repas parce que le prix de l'alimentation est devenu exorbitant."
+            },
+            {
+                "speaker": "JB",
+                "text": "euh Il y a un français sur cinq qui renonce à se chauffer, qui a renoncé à se chauffer l'hiver dernier, parce que parce que là encore les factures de gaz et électricité sont devenues exorbitantes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose l'abaissement de la tva sur les énergies, le dédoublement des aides aux familles monoparentales et la déconjugalisation de l'allocation adulte handicapé. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Le premier engagement que nous prenons est notamment, vous le savez, l'abaissement de la tva de vingt pour cent à cinq virgule cinq pour cent sur l'ensemble des énergies, le carburant, l'électricité, le gaz, le fioul pour redonner du pouvoir d'achat aux français."
+            },
+            {
+                "speaker": "JB",
+                "text": "Nous doublerons également les aides aux familles monoparentales."
+            },
+            {
+                "speaker": "JB",
+                "text": "Nous déconjugaliserons pardon, euh le le le le l'allocation adulte handicapé pour permettre que le calcul ne soit plus fait sur le couple, mais directement de manière euh individuel parce que je pense que c'est une vraie mesure de justice sociale."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran l'attaque; Jordan Bardella souhaite retirer les prestations sociales aux étrangers, ce qui va à l'encontre de l'esprit de la sécurité sociale pensée par Ambroise Croizat. Jordan Bardella explique que les aides sociales seront conditionnées à cinq ans de travail sur le territoire pour les étrangers. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "D'abord euh on parlera peut-être de pouvoir d'achat tout à l'heure, mais sur les prestations sociales que vous voulez retirer aux étrangers."
+            },
+            {
+                "speaker": "OV",
+                "text": "La sécurité sociale elle a été fondé au lendemain de la deuxième guerre mondiale par un communiste, Ambroise Croizat."
+            },
+            {
+                "speaker": "OV",
+                "text": "Quelqu'un qui était plutôt de droite Pierre Laroque, sous l'égide du général de gaulle avec un principe intangible, construit depuis tout le temps, qui est, je cotise en fonction de mes moyens et je reçois en fonction de mes besoins."
+            },
+            {
+                "speaker": "OV",
+                "text": "Avec la mesure que propose Marine Le Pen, pour des étrangers qui sont en situation régulière, et qui travaille, c’est : je cotise en fonction de mes moyens et je ne reçois plus rien."
+            },
+            {
+                "speaker": "JB",
+                "text": "Nous, nous conditionnerons, non pas cinq ans sur le territoire mais à cinq ans dans le monde du travail."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Olivier Véran, c'est une erreur, l'immigration économique est fondamentale pour la france, et cette proposition est contraire à la déclaration des droits de l'homme. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "L'immigration économique est fondamentale, l'immigration liée à la à la recherche aussi."
+            },
+            {
+                "speaker": "OV",
+                "text": "Donc Jordan Bardella, cette proposition elle est non seulement injuste, elle est contraire à la déclaration des droits de l'homme."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que le pays souffre une crise économique trop grave pour se permettre d'être altruiste. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Mais quand on a dans un pays, pardon, mais c'est aussi votre bilan, et je l'ai dit tout à l'heure, dix millions de pauvres, six millions de chômeurs, et un français sur quatre qui n'arrive plus à se nourrir correctement, qui est contraint de sauter des repas, et bien pardon de penser d'abord aux familles françaises avant de me penser un altruisme qui dépasse les frontières et qui viserait à prendre en charge la misère du monde entier."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose en outre un référendum sur l'immigration, qui posera la question de la priorité nationale, qui visera à donner priorité d'accès aux citoyens français à l'emploi et au logement. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Et je vais même vous dire, dès les premiers mois du quinquennat, nous allons faire voter, encore une fois par le peuple français, un grand référendum sur la question de l'immigration."
+            },
+            {
+                "speaker": "JB",
+                "text": "Dans ce projet de loi que nous allons soumettre aux français, il y aura la priorité nationale."
+            },
+            {
+                "speaker": "JB",
+                "text": "Cette priorité nationale que nous voulons intégrer dans la constitution, elle vise à donner une priorité d'accès aux citoyens français, aux citoyens français, sans aucune autre distinction à l'emploi ou à l'accès au logement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sans expulsion, cette proposition n'aura pas de valeur avant une vingtaine d'années explique Olivier Véran. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Ou vous expulsez les étrangers qui occupent ces logements, et il faut m'expliquer ce que vous en faites, est-ce que c'est des bidonvilles ou des charters, mais c'est pas six cent mille personnes,  c'est six cent mille familles."
+            },
+            {
+                "speaker": "OV",
+                "text": "Mais j'ai entendu Madame Le Pen, encore aujourd'hui, dire on expulsera personne, on attend qu’ils partent et on récupère leur logement qu'on donne à des français."
+            },
+            {
+                "speaker": "OV",
+                "text": "Vingt ans Jordan Bardella, il vous faudrait vingt ans sans expulsion pour avoir des résultats d’une des propositions phare de Marine le Pen pas du tout vous voyez que le front national la page pas du rassemblement national a pas changé."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "C'est pour cela que Jordan Bardella souhaite faire des HLM un logement temporaire. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "La différence entre vous et moi, c'est que le HLM ça doit être temporaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique qu'il faut favoriser l'assimilation, et qu'à ces fins, il souhaite améliorer les conditions d'éducation dans les banlieues. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Nous on propose de dédoubler les classes, pour que les petits quand ils ont deux ans ou trois ans, qui sont nés pas sous la meilleure étoile en france, dans le contexte qu'on connaît aujourd'hui, eh bien ils puissent avoir accès à l'éducation, pour qu'ils puissent demain avoir un emploi, et on monte en compétences, et on monte en gamme."
+            },
+            {
+                "speaker": "OV",
+                "text": "Oui, on assure un logement aux familles pour que les petits puissent grandir et que demain ils puissent devenir des citoyens."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella critique cette idée, dans les banlieues, l'éducation nationale est submergée, et les agressions trop communes; c'est pour cela qu'il souhaite combattre l'immigration. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Euh le problème de ces quartiers-là, et allons parlons clairement des choses, le problème des banlieues, de ce que vous appelez vous les quartiers populaires, même si moi je ne résume pas le peuple à ces territoires, c'est pas le coup de peinture sur les immeubles, c'est pas le dédoublement des classes, c'est pas la cantine à un euro, c'est que il y a dans des écoles de seine-saint-denis parfois vingt-cinq nationalités différentes, et que aujourd'hui l'éducation nationale est complètement submergée, complètement dépassée."
+            },
+            {
+                "speaker": "JB",
+                "text": "C'est que euh les les moyens de l'état là-bas sont complètement inutile, que ce soit les infrastructures, que ce soit la police, que ce soit les infrastructures de santé à l'hôpital delafontaine à saint-denis où tous les jours, toutes les semaines, tous les mois, il y a des soignants qui sont agressés par un climat d'impunité où on voit se passer là-bas des choses qu'on voit dans aucun autre département."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il critique de plus le bilan du gouvernement, qui n'a réussi à faire exécuter que 10% des oqtf. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "D'abord, j'arrête l'immigration; j'arrête l'immigration parce que voyez-vous, y a beaucoup de gens dans ces quartiers-là qui, quand ils sont arrivés dans les années soixante, soixante-dix ont fait cet effort exigeant, ma famille en fait partie, d'aimer la france, de s'assimiler, de s'intégrer, de respecter les institutions."
+            },
+            {
+                "speaker": "JB",
+                "text": "Quatre-vingt dix pour cent des obligations de quitter le territoire français ne sont pas exécutée."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "De son côté, Olivier Véran défend le bilan du gouvernement, le budget de la police a été augmenté de 10 milliards, et l'immigration clandestine a été diminuée. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "On a augmenté de dix milliards le budget de la police, on va créer deux cents unités de mobiles de gendarmerie supplémentaires dans le prochain mandat, quinze milliards de plus c'est-à-dire plus que ce qui est dans votre propre programme pour la sécurité."
+            },
+            {
+                "speaker": "OV",
+                "text": "Donc on on a diminué l'immigration clandestine."
+            },
+            {
+                "speaker": "OV",
+                "text": "Ce qui a augmenté notre pays, car il y a une partie de l'immigration qui a augmenté dans notre pays depuis deux ans, c'est l'immigration économique, et l'immigration universitaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose aussi la mise en place de teste de maîtrise de la langue pour les titres de séjours long."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Ce que propose emmanuel macron c'est qu'il y aura plus de titres de long séjour accordés s'il n'y a pas la maîtrise la langue, et s'il n'y a pas un emploi pour pourvoir à ses besoins"
+            }
+        ]
+    }
+]

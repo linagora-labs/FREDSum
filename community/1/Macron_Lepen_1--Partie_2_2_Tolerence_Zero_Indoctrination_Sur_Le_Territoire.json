@@ -1,0 +1,212 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Marine le pen et Emmanuel Macron discutent de la radicalisation des jeunes et de la tolérence zéro."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Emmanuel Macron et Marine Le Pen, s’il vous plaît, justement, que fait-on des jeunes Français qui se radicalisent sur notre territoire ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique que la france a sa part de responsabilité dans la radicalisation des jeunes, avec les djihadistes."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Quand des jeunes Français ou des jeunes Françaises qui sont nés en France, qui ont grandi en France, qui ont été élevés dans notre pays, suivent des fanatiques et détruisent nos propres enfants, on doit s’interroger, et j’ai dit : nous avons notre part de responsabilité."
+            },
+            {
+                "speaker": "EM",
+                "text": "Ce n’est pas la première cause, la cause première ce sont les djihadistes, ce sont les terroristes."
+            },
+            {
+                "speaker": "EM",
+                "text": "C’est savoir comment des enfants qui sont nés dans la République en arrivent là, ça veut dire qu’il y a des malades psychiatriques et qu’on ne les suit plus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron souhaite travailler sur les malades psychiatrique et donner une place à chacun, ce qui n'est plus le cas pour lui dans la république française."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Et, la deuxième chose c’est que notre République doit donner une place à chacune et chacun et c’est fondamental."
+            },
+            {
+                "speaker": "EM",
+                "text": "Or, notre République, elle ne donne plus une place à tous nos jeunes, elle enclave, elle assigne à résidence des jeunes, par l’échec scolaire, par l’échec économique et social."
+            },
+            {
+                "speaker": "EM",
+                "text": "Et c’est là où, pour moi, c’est le plus important en tant que chef des armées, en tant que responsable de la sécurité, je serai intraitable et je mènerai la lutte sur tous les plans contre le terrorisme islamiste."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine le pen accuse Emmanuel Macron d'avoir une part de responsabilité dans la haine des jeunes à l'égard de la france quand il a accusé la france de crime contre l'humanité à l'encontre de l'algérie."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Vous ne croyez pas que vous avez, vous, une part de responsabilité dans la haine qui se développe chez un certain nombre de Jeunes à l’égard de la France quand vous allez en Algérie pour accuser la France de crime contre l’humanité, crime contre l’humanité, c'est-à-dire le crime le plus grave qui puisse exister, vous êtes allé, vous qui voulez être président de la République en Algérie, à l’étranger donc, pour aller dire la France a commis un crime contre l’humanité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique qu'il faut que les tribunaux gèrent la radicalisation, et souhaite fermer toutes les associations sportives, locales et culturelles qui se sont développées."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "La radicalisation doit-être gérée par les tribunaux."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Alors, encore une fois, on arrête toutes les associations sportives, locales, culturelles, qui en réalité se sont développées partout sur nos territoires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour la tolérence zéro, Marine le pen explique qu'elle veut qu'une sanction soit appliquée pour chaque crime, en supprimant la loi taubira."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Est-ce que vous pouvez nous dire concrètement, parce que tous les deux vous dites la même chose : la tolérance zéro, la tolérance zéro Marine Le Pen c’est quoi pour vous ?"
+            },
+            {
+                "speaker": "MLP",
+                "text": "La tolérance zéro c’est qu’à chaque crime ou à chaque délit il y a une sanction qui s’applique."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Aujourd’hui avec les lois Taubira d’ailleurs, en grande partie, et bien des peines peuvent se voir se substituer, un certain nombre de mesures, alors ça va être, du bracelet, à venir une fois de temps en temps voir le juge."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique que pour cela, il faut que la chaîne pénale suive, avec des instructions aux magistrats et le retour des peines planchers, ainsi que le renvoi des étrangers condamnés dans leur pays d'origine."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Mais pour cela, encore une fois, il faut que l’intégralité de la chaîne pénale joue le jeu."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Il faut que les magistrats reçoivent un certain nombre d’instructions, notamment sur le retour des peines planchers, par exemple, sur notamment le renvoi dans leur pays des étrangers condamnés, parce que la double peine, ça a été supprimé, il y a un certain nombre d’années."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen souhaite plus de magistrats, de greffiers et de places de prisons."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Mais pour ça il faut plus de magistrats, je suis désolée, ça aussi ça va faire des dépenses, Monsieur Macron, mais je les assume ces dépenses."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Plus de magistrats, plus de greffiers, et surtout plus de places de prisons."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique vouloir créer dix mille postes de policiers et de gendarmes, ainsi que de les équiper."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "C’est d’abord dix-mille postes de policiers et de gendarmes en plus sur le territoire."
+            },
+            {
+                "speaker": "EM",
+                "text": "On a besoin d’équiper comme il se doit nos forces de l’ordre, que ce soit les forces d’intervention ou les forces de sécurité quotidienne."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron souhaite mettre en place une délinquance zéro sur les crimes du quotidien, en donnant le pouvoir d'amende aux policiers."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Ensuite, sur le terrain je veux la tolérance zéro à l’égard de la délinquance du quotidien."
+            },
+            {
+                "speaker": "EM",
+                "text": "Donc je veux recréer une police de sécurité quotidienne qui connaît le terrain, qui est déployée sur le terrain en permanence, qui utilise justement ces nouveaux moyens, et à laquelle je donne deux pouvoirs, qui aujourd’hui n’existent pas et qui sont décisifs à mes yeux : un pouvoir d'amende d’abord, il faut que sur des délits du quotidien, qui n’ont pas de réponse pénale aujourdhui, ils sont à 80%, classés sans suite"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Marine Le Pen explique que personne n'ira chercher le montant des amendes dans les zones de non droit."
+        },
+        "extractive": [
+            {
+                "speaker": "MLP",
+                "text": "Qui va aller chercher le montant de l’amende, parce que dans les zones de non droit, que votre gouvernement a laissé se développer sur le territoire français, où les pompiers ne rentrent plus, où les policiers ne rentrent plus, est-ce que vous croyez que les huissiers vont rentrer pour venir chercher le paiement de l’amende qui aura été donnée ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique que si les amendes ne sont pas réglées, il y aura une procédure pénale."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Donc il y aura le pouvoir d’amende avec, si l’amende n’est pas réglée, à ce moment-là une vraie procédure pénale avec des contraintes et la possibilité également d’éloigner les jeunes avant même le délit du territoire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique qu'il faut créer des procédures accélérées de 48h, ce qui représente une injonction civile, qui n'est possible que si ordonnée par un juge, rappelle Marine le Pen."
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Il faut que nos forces de police puissent, avec l’autorisation du juge, dans une procédure très accélérée de 48 heures, les enjoindre de ne pas rester là."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Ça s 'appelle l’injonction civile, c’est une peine, ça peut donc être appliqué que par un juge."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Emmanuel Macron explique aussi qu'il souhaite que toute peines prononcée soit exécutée, et il reviendra sur la loi taubira"
+        },
+        "extractive": [
+            {
+                "speaker": "EM",
+                "text": "Alors, outre ces moyens, outre cette police de sécurité quotidienne, outre ces nouveaux moyens de coercition, parce que nos policiers en ont besoin, je veux que notre justice soit intraitable, c’est pour cela qu’avec moi toute peine prononcée sera exécutée, et, je reviendrai sur la loi qui a fait que pour toutes les peines de moins de deux ans, il n’y a pas d’exécution de peine."
+            },
+            {
+                "speaker": "MLP",
+                "text": "Vous reviendrez sur la loi Taubira ?"
+            },
+            {
+                "speaker": "EM",
+                "text": "J’y reviendrai totalement Madame"
+            }
+        ]
+    }
+]

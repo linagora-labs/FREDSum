@@ -1,0 +1,114 @@
+[
+    {
+        "abstractive": {
+            "text": "Pour Gérald Darmanin, cette mesure est une mesure d'injustice sociale, des trader et footballer très riche seront exonérés d'impôts, alors que français plus précaires plus vieux devront en payer. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "C’est que le problème du front national, parce que le cadre financier qui travaille chez mckinsey, peut-être, qui aura moins de trente ans, lui paiera pas d'impôt sur le revenu, parce que le problème de Madame le pen c’est qu’à moins de trente ans on paie pas d’impôt."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que c'est une position assumée, afin de convaincre les élites françaises de rester en France. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Oui, c’est tout pour les jeunes, pour la jeunesse, et va exonérer d'impôt sur le revenu les jeunes de moins de trente ans pour garder les élites, même si généralement ils votent plus pour vous."
+            },
+            {
+                "speaker": "GD",
+                "text": "Mais il y a vraiment une injustice sociale très forte à penser que le cadre bancaire de vingt-huit ans, le jeune trader de vingt-huit ans, le footballeur de vingt-huit ans, qui gagne beaucoup d'argent, et tant mieux pour lui, avec vous il paiera plus d’impôts."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il rappelle que les jeunes les plus riches devront toujours payer l'ISF, qui a été supprimée par Gérald Darmanin. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Il paiera l'impôt sur la fortune financière"
+            },
+            {
+                "speaker": "JB",
+                "text": "C’est vous qui avez supprimé l’ISF, c'est vous qui avez fait la flat taxe"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Gérald Darmanin et Jordan Bardella discutent de la proposition du rassemblement national sur l'éxonération d'impôts sur le revenus des moins de trente ans. "
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Pas d'impôts, zéro impôt sur le revenu, pour tous les moins de trente ans ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella propose aussi de supprimer l'impôt sur les sociétés pendant cinq ans pour tous les jeunes de moins de trente ans qui montent leur entreprise en france."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Oui,  parceque, vous voyez, on veut pas qu'il y ait cent soixante mille jeunes, c'est un chiffre qui a été donné par les échos, soient contraints de partir à l'étranger chaque années parce qu'il ne trouvent pas en france le cadre pour vivre."
+            },
+            {
+                "speaker": "JB",
+                "text": "On va exonérer d'impôt sur les sociétés pendant cinq ans tous jeune de moins de trente ans qui monte son entreprise en france."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Cette mesure est symbolique pour Gérald Darmanin, très peu de jeunes ont une entreprise assez lucrative à leur création pour devoir payer l'impôt sur les sociétés, et si tant est qu'elle devraient le payer, il serait normal de le faire. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "Non mais monsieur Bardella, d'abord, vous m’accorderez que des jeunes de moins trente ans qui créent une entreprise, qui, tout de suite, payent l'impôt sur les sociétés, je pense, euh, qu'il y en a moins que les habitants d'une commune de cent habitants."
+            },
+            {
+                "speaker": "GD",
+                "text": "L'impôt sur les société ça se paie quand vous commencez à avoir un chiffre d’affaires important."
+            },
+            {
+                "speaker": "GD",
+                "text": "Un entrepreneur de moins de trente ans qui a créé une entreprise qui paie l'impôt sur les sociétés parce qu'il gagne beaucoup d'argent, moi, je trouve ça normal qu’il paye l'impôt sur les sociétés."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella critique Gérald Darmanin sur la justice sociale, rappellant la baisse des APL et les queues devant les banques alimentaires pendant le covid. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "C’est vrai que c’est mieux de baisser les apl et de faire que les jeunes font la queue devant les banques alimentaires pendant le covid."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il soutient les classes populaires, et rappelle que les actifs immobiliers seront toujours taxés."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Donc nous faisons des choix fiscaux pour les classes populaires et les jeunes de france."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et sur ses actifs immobiliers"
+            }
+        ]
+    }
+]

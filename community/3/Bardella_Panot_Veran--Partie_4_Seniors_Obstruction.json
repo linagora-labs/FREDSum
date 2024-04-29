@@ -1,0 +1,298 @@
+[
+    {
+        "abstractive": {
+            "text": " Pour Mathilde Panot, des infirmières devront travailler jusqu'à 67 ans; des cas extrêmement rares d'après Olivier Véran, d'autant plus que le congé parental reste inchangé. "
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "Donc vous, vous êtes d'accord pour vivre dans un pays dans lequel vous aurez une infirmière qui vous piquera à 67 ans, dans lequel vous aurez des atsem avec des enfants infirmières qu'elles doivent porter à 67 ans."
+            },
+            {
+                "speaker": "OV",
+                "text": "D'accord, donc c'est quelqu'un qui a commencé comme infirmière, Mme Pannot, à 24 ans, ou alors c'est quelqu'un qui a commencé à 20 ans et qui a eu 4 ans d'interruption complète d'activité, qui n'est pas liée à de la maternité."
+            },
+            {
+                "speaker": "OV",
+                "text": "Les 8 trimestres par enfants restent."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella contextualise, l'augmentation de deux ans de travail annule le bénéfice du congé parental."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Le sujet, c'est pas le congé parental, le fait de travailler plus longtemps annule le bénéfice que vous avez, mais ne forcez pas les gens à travailler 2 ans supplémentaires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " D'autres avancées sociales sont cependant mise en place d'après Olivier Véran, comme le congé proche aidant; une avancée sociale que Mathilde Panot ne souhaite pas voter si elle est liée à l'augmentation de l'âge de départ à la retraite. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Le congé proche aidant, c'est-à-dire qu'on considère que quelqu'un s'occupe d'un enfant ou d'un proche, d'un parent malade, d'accord, en situation de handicap, et qui, du coup, ne peut pas bosser; jusqu'ici, ce n'était pas compté, là, on va lui dire, c'est compté, ce n'est pas du temps perdu, et on ne va pas vous forcer à bosser plus tard, c'est bien ou c'est pas bien?"
+            },
+            {
+                "speaker": "MP",
+                "text": "Bah non, dans ces conditions la, non."
+            },
+            {
+                "speaker": "MP",
+                "text": "Mais si vous faisiez une loi juste sur le congé proche aidant, on la voterait, mais là, vous forcez tout le monde à travailler 2 ans de plus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella continue en citant Emmanuel Macron, qui a lui même dit qu'il était déjà difficile d'arriver à la retraite à 62 ans en bonne santé. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Emmanuel Macron en 2019, il disait, je veux dire que quand on est peu qualifié, quand on vit dans une région qui est en difficulté industrielle, quand on a une carrière fracturée, bon courage déjà pour arriver à 62 ans, c'est cela la réalité de notre pays."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour lui, les gens ne pourront pas suivre l'augmentation de l'âge de départ à la retraite, et devront partir avec une décote. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "C'est parce que vous pouvez repousser Ad vitam eternam l'âge de départ à la retraite, sauf que les gens ne suivront pas et qu'il y a beaucoup qui ont gravis les échelons à l'intérieur de leur entreprise et qui ne pourront pas aller à l'âge de départ légal et qui vont donc être contraints de partir beaucoup plus tôt avec une décote."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella rappelle que les jobs qui ont été créés depuis 2017 sont des travails à faible valeur ajoutée, et qu'il faut donc travailler sur la natalité et la productivité, en créant des emplois de qualités qui rapportent des cotisations. "
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Il parlait de repousser l'âge légal de départ à la retraite tant qu'on n'a pas réglé le problème du chômage."
+            },
+            {
+                "speaker": "JB",
+                "text": "Les jobs qu'on a créés depuis 2017 sont des jobs à faible valeur ajoutée."
+            },
+            {
+                "speaker": "JB",
+                "text": "Deux pistes absolument essentielles pour assurer la pérennité de notre système de retraite, c'est la natalité, on en reparlera, mais c'est d'abord et avant tout, la productivité."
+            },
+            {
+                "speaker": "JB",
+                "text": "C'est créer des emplois de qualité, c'est faire monter en gamme notre économie, c'est faire en sorte qu'on crée des emplois qui rapportent beaucoup plus de cotisations que les livreurs Uber eat ou Deliveroo, qui sont des jobs qui sont créés massivement par le gouvernement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Olivier Véran, de nombreux emplois ont été créés, et beaucoup d'autres sont à pourvoirs; une affirmation contestée par Mathilde Panot. "
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "Non, mais monsieur le ministre, pourquoi vous vouliez le début de la phrase, vous pensez que vous avez réglé le problème du chômage, c'est ça?"
+            },
+            {
+                "speaker": "OV",
+                "text": "En fait, on a effectivement créé beaucoup d'emplois, en fait, depuis 4 ans dans le pays, beaucoup."
+            },
+            {
+                "speaker": "MP",
+                "text": "Le fameux argument des emplois non pourvus, qui sont à peu près 400 000 , 6 millions de chômeurs, vous comprenez qu'il y a un problème quand même là-dedans?"
+            },
+            {
+                "speaker": "MP",
+                "text": "Je vais vous dire ce que va créer votre réforme, elle va créer une fabrique à RSA, une fabrique à chômage, une fabrique à trappe à pauvreté."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour elle, l'augmentation de l'âge de départ va augmenter la précarité dans le pays et coûter cher en aides sociales. "
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "Vous avez vu ce qu'a dit, alors là, ce ne sont pas les insoumis, donc peut-être que vous allez un peu le considérer, le président de la Fédération nationale de la mutualité française, que votre réforme allait coûter 10 milliards en invalidité, en incapacité de travail, que le coût social du report de départ à 64 ans, c'est plus 110 000 personnes au minima socio, notamment au RSA, à l'allocation spécifique de solidarité ou à l'allocation adulte handicapée."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran assure cependant que de nombreux dispositifs ont été mis en place pour s'assurer que ce ne sera pas le cas; notamment, le mécanisme d'invalidité reste inchangé, l'âge d'annulation de la décôte n'est pas augmenté, et le recul de l'âge de départ est progressif. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Je crois avoir compris que ces prévisions, elles sont basées sur l'impact de la réforme des retraites de 2010, qui avaient effectivement repoussé, décalé de 2 ans l'âge de départ à la retraite."
+            },
+            {
+                "speaker": "OV",
+                "text": "Et justement, parce qu'on est conscients de l'impact que ça a pu avoir en termes de précarité chez les seniors et qu'un certain nombre de bénéficiaires de RSA supplémentaires, on n'a pas fait les mêmes erreurs qu'en 2010."
+            },
+            {
+                "speaker": "OV",
+                "text": "Je vous donne juste 3 éléments."
+            },
+            {
+                "speaker": "OV",
+                "text": "Par exemple, on ne touche à rien, on ne touche en rien au mécanisme, on ne touche en rien au mécanisme d'invalidité, je le disais tout à l'heure."
+            },
+            {
+                "speaker": "OV",
+                "text": "Deuxième, on ne bouge pas sur l'âge des 67 ans, qui est le fameux âge d'annulation de la décote, alors qu'en 2010, il l'avait bougé de 2 ans."
+            },
+            {
+                "speaker": "OV",
+                "text": "Et ensuite, en 2010, ça a été assez rapide, si vous voulez comme montée en charge sur les deux ans, là, on est dans un recul qui est progressif sur près de 10 ans."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mathilde Panot continuant en mettant en cause l'efficacité de l'index senior, qui n'est lié à aucune sanction, et qui n'aura donc aucun effet bénéfique sur l'emploi des personnes âgées. "
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "Alors, l'index sur les seniors, et vous prenez souvent en référence ce qui a été fait sur l'index sur l'égalité salariale femme-homme, en disant que ça a eu un effet incroyable, c'est faux, Il y a toujours 22 % de différence entre les salaires des femmes et des hommes, et 40 % en moyenne sur les pensions des femmes par rapport à celles des hommes."
+            },
+            {
+                "speaker": "MP",
+                "text": "Votre index, il n'est pas contraignant dans le sens que vous avez 92 % des entreprises qui sont en dehors de toutes sanctions, parce qu'elles ont atteint alors un score que vous avez fixé à 100, 75 sur 100."
+            },
+            {
+                "speaker": "MP",
+                "text": "On va créer un index senior qui ne sera pas contraignant, la seule chose qui est contraignante sur lequel il y a une sanction, c'est le fait de l'afficher."
+            },
+            {
+                "speaker": "MP",
+                "text": "Et si c'est la même chose que votre index d'égalité salarial femme homme, c'est un échec absolument incroyable."
+            },
+            {
+                "speaker": "MP",
+                "text": "Donc, ce que vous faites avec cette réforme en mettant l'âge à 64 ans, c'est augmenter la pauvreté dans ce pays."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran accorde qu'il y a du travail à faire sur l'emploi des seniors, il rappelle qu'une amende est mise en place pour les entreprises qui ne publient pas leur index, et qu'il est prêt à aller plus loin si il n'y a pas d'obstruction parlementaire, bien qu'il n'explicite pas d'autre pistes. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Ça va peut-être vous surprendre, mais je considère que sur la question de l'index senior, ça fait partie des sujets pour lesquels on pourrait peut-être aller plus loin."
+            },
+            {
+                "speaker": "OV",
+                "text": "Si elle ne le fait pas, elle a une amende qui correspond quand même à 1% de la masse salariale."
+            },
+            {
+                "speaker": "OV",
+                "text": "Et donc, on le dit, le débat parlementaire qui va s'ouvrir, doit pouvoir permettre d'aborder, et c'est pour ça que j'espère qu'il y aura un vrai débat, qu'il n'y aura pas de l'obstruction parlementaire."
+            },
+            {
+                "speaker": "P1",
+                "text": "Est-ce que ça veut dire, par exemple, que vous pourriez imposer des quotas aux entreprises d'embaucher des seniors ?"
+            },
+            {
+                "speaker": "OV",
+                "text": "Je ne peux pas aller plus loin que ce que je vous ai dit."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "De son côté, Jordan Bardella montre que la réforme des retraites va motiver les jeunes à rentrer dans le monde du travail le plus tard possible; la réforme avantage les personnes qui commencent à travailler plus tard. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "On parle beaucoup de l'économie française, on parle beaucoup du taux d'activité des seniors, mais on pourrait aussi parler du taux d'activité des juniors, parce qu'en réalité, la réforme du gouvernement est là aussi, où j'ai un point de désaccord avec vous sur le report de l'âge légal, c'est qu'en réalité, votre réforme, elle va inciter à rentrer le plus tard possible sur le marché du travail."
+            },
+            {
+                "speaker": "JB",
+                "text": "Donc la France que vous allez pénaliser, je disais la France qui se lève tôt, c'est la France des BTS, c'est la France des bacs professionnels, c'est la France de tous ceux qui aiment ces métiers manuels professionnels exigeants qui sont généralement exercés avec passion, et qui en réalité se disent, mais à quoi bon m'engager dans cette voie, déjà les métiers manuels sont dévalorisés dans le cursus classique, à quoi bon, alors même que je vais devoir travailler plus longtemps, que si je rentre sur le marché du travail à 24 ou 25 ans, après avoir fait un bac plus 5 et être allé me balader pendant 2 ans à Singapour."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose une réforme qui permettrait aux personones qui ont commencé à travailler entre 17 et 20 ans de pouvoir partir à la retraite à 60 ans avec 40 annuiés, avec une progressivité qui ne dépassera pas les 42 annuités et les 62 ans. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Donc en réalité, notre réforme et notre projet, qui est un système progressif qui vise à dire entre 17 et 20 ans, vous partez à la retraite avec 60 ans et 40 annuités, ça coûte 9 milliards d'euros par an, mais je pense que c'est un choix de société."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et au-delà, il y a une progressivité qui se met en place normalement jusqu'à 42 annuités et 62 ans de départ à l'âge légal."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur les sanctions pour les entreprises qui licencient les seniors, Mathilde Panot explique être ouverte à voter des lois, mais pas dans le cadre de la réforme des retraites, qui augmenterait le RSA et le chômage. "
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Est-ce qu'à ce moment-là, si ça va encore plus loin, s'il s'agit de sanctionner les entreprises qui licencient les seniors, est-ce que là, vous vous dites, oui, on pourrait voter?"
+            },
+            {
+                "speaker": "MP",
+                "text": "Mais dans une loi, il ne forcerait pas des millions de personnes à travailler deux ans de plus."
+            },
+            {
+                "speaker": "MP",
+                "text": "Oui, mais parce que là, on est en train de nous expliquer ce que monsieur Véran est en train d'admettre, c'est qu'effectivement plus de RSA, plus de chômage, et du coup, plus de malheur."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran continue en expliquant que le programme du rassemblement national créera trop de dette, rajoutant un coût au déficit déjà en place, qui reviendrait à augmenter de 50% l'impôt sur le revenu. "
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Votre programme, il coûte 26 milliards d'euros."
+            },
+            {
+                "speaker": "OV",
+                "text": "36 à 45 milliards d'euros, c'est 26 plus le trou que vous n'arrivez pas à combler, puisque vous ne faites pas votre réforme."
+            },
+            {
+                "speaker": "OV",
+                "text": "Si vous aviez été élu, les Français qui commençaient entre 17 et 20 ans pour repartir à 60 ans, j'ai oublié de dire que la totalité des Français aurait l'équivalent d'une augmentation de 50% de leur impôt sur le revenu."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella ironise sur ce chiffre, et rappelle que le gouvernement d'Olivier Véran a créé 600 milliards d'euros de dettes, tout en effondrant le système de la santé, de la police et de la justice."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Oh bah oui, de 800% même."
+            },
+            {
+                "speaker": "JB",
+                "text": "On vous a présenté comme les Mozart de la finance, qui viennent aujourd'hui, après avoir laissé un pays avec 600 milliards d'euros de dettes, après avoir fait voter un budget de l'Etat avec des déficits comme jamais de 160 milliards d'euros, après avoir laissé filer l'inflation, après avoir organisé l'effondrement de la santé, de la police, de la justice, de notre énergie, après avoir fermé nos centrales, vous venez me dire à moi, ça coûte 10 milliards d'euros, ça coûte cher"
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat Autain, Attal et Bardella discutent de la question de l’éducation nationale."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Donc, quand on, revenons sur l'école, et d'ailleurs, les enseignants nous parlent très peu de leur salaire, parce qu'ils sont, en fait, ils voudraient surtout pouvoir travailler dans des conditions dignes, mais moi, je pense que la question du salaire des enseignants est très importante."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Autain, les mesures du gouvernement sont insuffisantes et les enseignants se sont considérablement appauvris sur les 20 dernières années."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "C'est pour ça que je dis que la question du dégel du point d'indice globalement est fondamentale, et nous voulons le relever de 10 points."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Elle souhaite donc un dégel du point d’indice et sa hausse de 10 points, financés par une augmentation des impôts pour les 10 % les plus riches."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Et vous inquiétez pas, on a tout à fait de quoi les financer, on sait combien ça coûte et on augmente les impôts pour les 10 % les plus riches."
+            },
+            {
+                "speaker": "CA",
+                "text": "Il y a le fait que le bilan global se résume en 2 chiffres, c'est que vous avez les 500 familles les plus riches de France qui ont doublé leur patrimoine en 5 ans, et vous avez 400 000 pauvres en plus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bardella propose également d’augmenter les salaires des enseignant."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Et donc, il faut évidemment mettre des moyens, augmenter les salaires, et je rappellerai sur ce qui a été dit sur les salaires, les enseignants aujourd'hui sont payés 25% de moins que tous les autres fonctionnaires de catégorie A."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il fustige la nomination par le gouvernement d’un ministre de l’éducation qui est un militant décolonialiste et indigéniste, éloigné donc des idées républicaines et laïques."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Moi, il y a quelque chose qui m'a, s'agissant de l'école, qui m'a beaucoup inquiété depuis le début de ce quinquennat, c'est la nomination d'un ministre de l'Education nationale, qui aurait pu d'ailleurs être nommé par Jean-Luc Mélenchon, puisqu'il partage l'essentiel de ces thèse, qui est un anti-blanquer."
+            },
+            {
+                "speaker": "JB",
+                "text": "S'inquiéter de la nomination d'un militant communautariste, indigéniste, en charge de l'éducation de nos enfants."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Attal défend Pap Ndiayes, le présentant comme un grand républicain."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Je vais vous dire que Pap Ndiaye est un grand républicain, sur tous les sujets, y compris sur un certain nombre de sujets portés par d'autres intellectuels."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il mentionne ensuite le bilan du gouvernement : les classes dédoublées, les primes pour les enseignants et les petits déjeuners gratuits."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Vous avez aujourd'hui 400 000 enfants qui font leur rentrée chaque année dans une classe dédoublée, c'est-à-dire une classe à 12 élèves."
+            },
+            {
+                "speaker": "GA",
+                "text": "On a augmenté les primes, qui sont versées aux enseignants, qui vont exercer dans ces quartiers."
+            },
+            {
+                "speaker": "GA",
+                "text": "On a mis en place, ça aussi, c'est le cas chez vous, je crois, Clémentine Autain, des petits déjeuners gratuits dans les écoles primaires pour les enfants de ces quartiers, parce qu'on sait que c'est beaucoup plus difficile d'apprendre avec le ventre vide."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il défend aussi une hausse de la rémunération des enseignants."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Maintenant, on veut avoir une action sur l'ensemble de notre système éducatif, en augmentant la rémunération des enseignants."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bardella termine en se plaignant du manque d’attractivité des métiers de l’enseignant."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Vous voyez la conséquence du manque de fonctionnaires aujourd'hui, et du fait que les emplois, notamment dans la fonction publique et chez les enseignants, soient moins attractifs."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il rappelle qu’il faut avant tout se concentrer sur les savoirs fondamentaux, c’est-à-dire les mathématiques et la maîtrise du français"
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Il y a trop de jeunes qui arrivent aux lycées, qui arrivent aux collèges et qui ne maîtrisent pas la langue, qui ne maîtrisent pas les savoirs fondamentaux, donc il faut augmenter le temps d'enseignement du français, lire, écrire, compter des mathématiques et mettre le paquet sur les fondamentaux plutôt que sur les thèses indigénistes que vous voulez faire rentrer à l'éducation nationale"
+            }
+        ]
+    }
+]

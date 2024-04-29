@@ -1,0 +1,237 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Olivier Véran et Jordan Bardella discutent de la réforme des retraites."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "La retraite à  soixante-cinq ans c'était le projet euh initial, et puis tout d'un coup on a une clause de revoyure, alors est-ce que ce projet est toujours valable, c’est soixante-cinq ans, c’est soixante-quatre ans, dans quel sens ça va ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique qu'il faut augmenter l'âge des retraites afin de financer des dépenses sociales, notamment pour aider les gens à vieillir chez eux."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Nous disons aux français que nous devons travailler un petit peu plus pour financer davantage les dépenses sociales, notamment dans le champ du grand âge de la perte d'autonomie."
+            },
+            {
+                "speaker": "OV",
+                "text": "Marine Le Pen propose par exemple cent mille places d’ehpad, formidable"
+            },
+            {
+                "speaker": "OV",
+                "text": "Non ce qu’ils veulent c’est vieillir chez eux le plus longtemps possible, et ça coûte cher, il faut des accompagnants familiaux, il faut des aides à domicile, il faut du temps supplémentaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique que l'âge de la retraite va augmenter de quatre mois par ans, jusqu'à soixante quatre ans, voir soixante cinq."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "La règle, c’est quatre mois sur une année d'augmentation de la durée de cotisation, avec effectivement une clause de revoyure dans quelques années, quand on sera à soixante-quatre ans, pour se dire est-ce que notre système est désormais équilibré, ou est-ce qu'il ne l'est pas."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique qu'en retour, les pensions seront d'au minimum mille cent euros."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "En retour, en plus de dépenses sociales nouvelles dont j'ai parlé dans le champ de l'autonomie, nous assurons un minimum de mille cent euros de pension de retraite pour tous les français."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que la retraite est un choix de société, et qu'il ne veut pas augmenter l'âge de départ à la retraite alors que l'espérance de vie en bonne santé stagne depuis dix ans."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Je pense que la retraite euh, c'est pas seulement de la comptabilité, je pense que c'est un choix de société, c'est une vision qu'on a de l'homme."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et euh il est inenvisageable de notre point de vue de faire travailler les français jusqu'à soixante-cinq ans, parce que l'espérance de vie en bonne santé dans notre pays elle stagne depuis dix ans, et notamment pour les femmes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique qu'il souhaite laisser les gens qui ont commencés à travailler tôt prendre leur retraite à soixante ans avec quarante annuités de cotisations, avec une progressivité qui ira au maximum à soixante deux ans et quarante deux annuités."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Euh pour tous ceux qui commenceront à travailler entre dix-sept et vingt ans, les français pourront partir à la retraite avec Marine Le Pen, s'ils font le choix de Marine Le Pen, à soixante ans avec quarante annuités de cotisation."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et au-delà de ça, il y aura une progressivité qui se mettra en place et qui ne dépassera pas les soixante-deux ans et les quarante-deux annuités."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique qu'avec la réforme d'Olivier Véran, une infirmière libérale devra travailler plus longtemps qu'un cadre."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Moi la question que je voudrais vous poser, c’est soixante-cinq ans, puisque personne, aucun ministre ne dit la même chose, avec combien d'annuités monsieur véran ?"
+            },
+            {
+                "speaker": "OV",
+                "text": "Quarante-trois."
+            },
+            {
+                "speaker": "JB",
+                "text": "Pas une infirmière d'état je sais qu'il y a une différence, une infirmière libérale va partir plus tard qu’un cadre qui a un bac plus cinq et qui commence à travailler a vingt trois ans"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique que les catégories actives resteront inchangées, et seulement les régimes spéciaux seront réformés."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Nous voulons assurer un niveau de pension optimales à tous les français, donc il faut pas mentir aux gens."
+            },
+            {
+                "speaker": "OV",
+                "text": "Les policiers, les pompiers, les aides-soignants, ils partent à la retraite à cinquante-sept ans, c'est les catégories actives, ne faites pas croire qu’ils partent à soixante-cinq ans."
+            },
+            {
+                "speaker": "JB",
+                "text": "Qui a voulu supprimer les régimes spéciaux ?"
+            },
+            {
+                "speaker": "JB",
+                "text": "Parce que, vous voyez,je conçois pas qu'un policier, qu’un marin pêcheur ou militaire travaille jusqu’à soixante-cinq ans."
+            },
+            {
+                "speaker": "JB",
+                "text": "Donc ces catégories active nous les maintenons évidemment."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella critique l'augmentation des pensions proposée par Olivier Véran dont le gouvernement a désindexé les pensions sur l'inflation."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Qu'est ce qu'on fait pour les personnes qui sont, qui sont bénéficiaires de pensions d'invalidité ou de handicap, aujourd'hui, ils partent à la retraite à cinquante-cinq ans, vous n'en dites rien dans votre projet."
+            },
+            {
+                "speaker": "JB",
+                "text": "Mais parce que nous n'y touchons pas monsieur véran."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique qu'avec sa réforme, les pensions seront au minimum de mille euros, et indexées."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Donc si marine le pen est élue, il n'y aura pas une seule pension de retraite, une seule pension de retraite en dessous de mille euros."
+            },
+            {
+                "speaker": "JB",
+                "text": "Vous arrivez avec les mille cent euros parce que ça fait beau d'arriver après nous et de faire proposition un peu plus étincelante, sauf que vous les avez désindexé des pensions de retraite."
+            },
+            {
+                "speaker": "JB",
+                "text": "Les nôtres seront indexée sur les pensions de retraite, et on ira plus loin."
+            },
+            {
+                "speaker": "JB",
+                "text": "Bien sur qu’il y aura un changement, il y aura pas une seule pension de retraite sous mille euros."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique que la réforme de Jordan Bardella ne change rien, car les gens auront trop de décotes pour partir à la retraite."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Moi je travaillerai peut-être vous aussi jusqu'à soixante-sept ans ça ne bougera pas avec votre réforme, dirais que celles qu'on va mettre en place c'est le plafond qu'on a fixé au-delà duquel on a plus de décote."
+            },
+            {
+                "speaker": "OV",
+                "text": "Mais le niveau de pension vous n'en parlez jamais."
+            },
+            {
+                "speaker": "OV",
+                "text": "C’est formidable je suis à la retraite à soixante ans en gagnant vingt pour cent de moins que vous pourrez gagner en partant à soixante-quatre ou soixante-cinq ans."
+            },
+            {
+                "speaker": "OV",
+                "text": "Avec vos quarante, avec vos quarante annuités, ou vos quarante-deux annuités."
+            },
+            {
+                "speaker": "OV",
+                "text": "'est la règle avec les réformes actuelles, les réformes passées, les réformes à venir, Ils ne partiront pas à soixante ans, Sinon ils auront une décote par rapport à, par rapport à la pension de retraite actuel dans le système."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que l'augmentation de l'âge de la retraite n'est pas positif car les gens arrivent au chômage à l'âge de la retraite, et que ce serait équivalent à payer des chômeurs plus longtemps."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Juste un coup sur les financements parce que parce que c'est le reproche qu'on entends le plus pour vous Jordan Bardella."
+            },
+            {
+                "speaker": "JB",
+                "text": "Quarante-deux pour cent des gens qui arrivent aujourd'hui à la retraite sont au chômage donc en vérité leurs modèles ça consiste à payer des chômeurs"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique que augmenter l'âge de la retraite avantagera l'emploi des seniors, car si l'âge de départ augmente, les entreprises investiront dans les personnes âgées"
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "C'est factuellement absolument faux, et il se fait euh pardon y a une erreur d'un rapport un à quatre, ce qui est pas une petite erreur, c'est important."
+            },
+            {
+                "speaker": "OV",
+                "text": "Ensuite, y a un vrai sujet c'est le chômage des seniors, c'est vrai, qu'il a des gens qui a cinquante-cinq ans, ils vont perdre leur boulot."
+            },
+            {
+                "speaker": "OV",
+                "text": "Pour qu'on continue comme ça, mais y a un fait c'est que des gens à cinquante-cinq ans quand ils perdent leur boulot, etben on va pas investir, les entreprises investissent pas sur eux, en disant, ils sont trop près de la retraite."
+            },
+            {
+                "speaker": "OV",
+                "text": "En reculant l'âge de départ à la retraite, il va y avoir une conséquence c'est quand il vous reste, sept, huit, ou neuf ans de carrière active potentielle devant vous, on va davantage investir dans la formation."
+            },
+            {
+                "speaker": "OV",
+                "text": "Donc l'un des corollaires, ça saute pas aux yeux mais je vous garantis que c'est le cas est, c’est ce que disent les économistes, l'un des corollaires de cette réforme est aussi qu'on va investir davantage dans l’emploi des seniors"
+            }
+        ]
+    }
+]

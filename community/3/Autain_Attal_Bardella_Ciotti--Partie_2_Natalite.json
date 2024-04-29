@@ -1,0 +1,244 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Autain, Attal, Bardella et Ciotti évoquent la question de la natalité dans le cadre du débat sur la réforme des retraites. "
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "On va rajouter une voix à ce tour de table, celle de Frédéric Souillot, secrétaire général de FO."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Un intervenant extérieur rappelle que le gouvernement manque d’empathie dans les explications fournies et que le problème de financement peut être résolu par l’augmentation du taux d’emploi des seniors. "
+        },
+        "extractive": [
+            {
+                "speaker": "SY",
+                "text": "Le manque d'empathie dans la tentative d'explication de la réforme."
+            },
+            {
+                "speaker": "SY",
+                "text": "Et contrairement à ce que vient de dire le ministre Gabriel Attal, il n'y a pas de problème de financement, si on augmente de 10 points le taux d'emploi des seniors, c'est 50 milliards en 2032."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Or, selon Attal, ce taux a déjà augmenté."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "L'emploi des seniors a progressé ces dernières années de plus de 10 points pour reprendre les chiffres qui étaient évoqués."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Selon Bardella, le discours du gouvernement sur le financement est totalement oiseux dans la mesure où il est responsable de 600 milliards de dettes depuis 2017. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "C'est très intéressant parce qu'en réalité, le gouvernement est en train de gérer une pénurie qu'ils ont eux-mêmes organisés."
+            },
+            {
+                "speaker": "JB",
+                "text": "Parce que c'est eux qui ont fait 600 milliards d'euros de dette depuis 2017."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il rappelle ensuite les incohérences de Macron, lequel affirmait en 2019 ne pas revenir sur l’âge de la retraite. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Pendant un peu plus de trois ans, 2019, lors des dernières élections européennes, il donnait une conférence de presse dans laquelle il disait mais jamais je ne reviendrai sur l'âge de départ à la retraite parce que ça serait, je vais vous lire sa phrase, je veux dire que quand on est peu qualifié, quand on vit dans une région qui est en difficulté industrielle, quand on a une carrière fracturée, bon courage déjà pour arriver à 62 ans, c'est ça la réalité dans notre pays."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour conserver le système des retraites, Bardella explique vouloir relancer l’emploi et la natalité en France. Toutefois, d’après Autain, on ne peut exiger des femmes de faire plus d’enfants ; elle fustige le RN, lequel cherche à faire des économies sur l’immigration. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Donc il faut relancer l'emploi, il faut soutenir la natalité et il faut recréer des emplois qui amènent des cotisations."
+            },
+            {
+                "speaker": "CA",
+                "text": "Je vous dis juste que la solution pour le système des retraites c'est d'expliquer que les femmes doivent faire des enfants."
+            },
+            {
+                "speaker": "CA",
+                "text": "Vos amendements pour régler le problème, il s'agit d'aller chercher de l'argent sur le dos des immigrés."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bardella défend alors la politique familiale de son parti, avec l’octroi d’une deuxième part pleine fiscale dès le deuxième enfant, et la mise en place de prêts, à destination des famille, accordés par l’État. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Oui, on avait proposé pendant la campagne présidentielle, d'octroyer une deuxième part pleine, fiscale, dès le deuxième enfant, par exemple."
+            },
+            {
+                "speaker": "JB",
+                "text": "On avait proposé notamment de faire des prêts, de 100 000 euros, qui étaient faits par l'État, aux jeunes familles françaises."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Attal répond que le gouvernement a justement déjà aidé les familles en proposant un service public à la petite enfance et en rehaussant le plafond du crédit d'impôt pour la garde des enfants. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "On propose le service public de la petite enfance."
+            },
+            {
+                "speaker": "GA",
+                "text": "On prend des mesures aussi fiscales très concrètes, je vous donne un exemple parce qu'il me tient à cœur, parce que ça a été voté dans le dernier budget, on réhausse le plafond du crédit d'impôt pour la garde de l'enfant."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Selon lui, l’autre alternative à la réforme est la hausse des impôts, ce qui ne correspond pas à sa ligne. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "La proposition alternative à la nôtre qui émerge, c'est l'augmentation massive des impôts."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le journaliste rappelle ensuite que le COR explique que les dépenses sont maîtrisées ; il nuance néanmoins en reprenant une affirmation de Bayrou selon laquelle les régimes spéciaux et retraites des fonctionnaires ne sont pas pris en compte par l’organisme. "
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Eric Ciotti, vous pouvez convaincre que c'est éventuellement nécessaire, puisqu'on l'a vu avec les questions posées par Caroline, il y a effectivement le cor qui dit les dépenses sont maîtrisées, sans s'intéresser particulièrement aux recettes."
+            },
+            {
+                "speaker": "P2",
+                "text": "Il y a François Bayrou qui dit attention, c'est vrai, sauf qu'il faut prendre en compte les versements de l'Etat pour les retraites et les régimes spéciaux et la retraite des fonctionnaires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Néanmoins, Ciotti affirme que les retraites vont baisser malgré la maîtrise de la trajectoire, d’où nécessité de réformer le système."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Le président du cor, qui est intervenu à l'Assemblée nationale, dit oui, les dépenses sont tenables, mais il rajoute dans la phrase d'après, qui n'est jamais passée d'ailleurs, en disant, mais les retraites vont baisser."
+            },
+            {
+                "speaker": "EC",
+                "text": "Donc moi, je pense aussi au maintien de cet équilibre."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Il assume son entretien avec Borne et pense avoir obtenu une réforme moins brutale, avec une revalorisation des petites retraites à 1200 euros et une limite à 43 annuités dans la durée de cotisation maximum. "
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Mais j'assume d'être allé voir Mme Borne, parce que quand on a vu Mme Borne, on a obtenu que la retraite, la réforme, soit moins brutale, 64 ans."
+            },
+            {
+                "speaker": "EC",
+                "text": "Nous avons fait en sorte qu'il y ait une revalorisation à 1 200 euros des petites retraites."
+            },
+            {
+                "speaker": "EC",
+                "text": "Et là, nous sommes en train d'obtenir qu'il y ait 43 annuités et pas plus pour tous ceux qui ont commencé à travailler."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Enfin, il se dit favorable à la suppression des régimes spéciaux. "
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Nous, nous voulons, la droite l'a toujours dit, la suppression des régimes spéciaux."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bardella le considère donc comme un soutien du gouvernement, et non comme un véritable opposant. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "On a compris que vous étiez membre de la majorité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Autain explique de son côté que la réforme va paupériser les retraités, car beaucoup ne peuvent déjà plus travailler après 55 ans. "
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Parce que travailler plus longtemps, alors que nous savons que déjà, c'est très compliqué quand on a plus de 55 ans sur le marché du travail, sans compter l'usure physique."
+            },
+            {
+                "speaker": "CA",
+                "text": "Et on va paupériser, on va paupériser les retraites."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Au contraire, pour Attal, cette réforme va lutter contre la pauvreté en préservant des pensions aujourd’hui menacées par le déséquilibre des comptes. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Et la première cause de précarité chez les retraités, ce sera d'avoir un effondrement des pensions de retraite, comme on l'a vu dans des pays qui n'ont pas fait les réformes pour éviter d'en arriver à cette situation."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Ce déséquilibre n’est pas nié par la nupes selon lui, dans la mesure où la formation propose 110 milliards d’impôts supplémentaires. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Si vous proposez des recettes supplémentaires, 110 milliards d'euros d'impôts en plus sur les Français, c'est bien que vous reconnaissez qu'il n'y a pas d'équilibre."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mais lui entend augmenter l’âge de la retraite plutôt que de dévaloriser brutalement les pensions. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Je ne veux pas qu'on se retrouve comme certains pays européens qui ont dû, brutalement, ni devant le fait accompli, baisser massivement les pensions de retraite"
+            }
+        ]
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Clémentine Autain, Gabriel Attal et Jordan Bardella discutent de l'augmentation d'appartition de tenue religieuse à l'école."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Une question encore sur l'éducation, question qui revenait à l'une de l'actualité cette semaine, avec une alerte lancée par plusieurs acteurs de l'éducation nationale et qui concerne certains établissements dans lesquels sont apparus ces derniers temps de plus en plus de tenues à caractère religieuse."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella déplore le féminisme de la france insoumise, qui ne défend les femmes que si cela ne touche pas l'islam."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "C'est-ce que défend les féministes de la France insoumise qui ne trouve pas de problème à défendre le burkini plutôt que de parler de pouvoir d'achat lors des élections législatives, par exemple."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et moi, je pense à toutes ces femmes qui, dans les quartiers, aujourd'hui, vivent sous la pression, et que la gauche a totalement abandonné aux islamistes et aux communautaristes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine Autain explique trouver ça extraordinaire, car l'extrême droite, qui tient des positions conservatrices, n'est pas un parti féministe."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Non, mais. C'est quand même extraordinaire d'entendre l'extrême droite qui, à peu près, sur tout sujet globalement qui concerne les droits des femmes, toujours sur les positions ultra conservatrices, pour ne pas dire rétrograde, et qui est là, en train de me faire des leçons de féminisme."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine Autain explique que l'extrême droite est contre l'allongement de la durée de l'avortement, citant Emmanuel Ménard."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Sur l'avortement d'avoir, en votre sein, des militants qui sont opposés, et même dans le débat."
+            },
+            {
+                "speaker": "CA",
+                "text": "Il me semble que ce sont des questions qui sont déjà tranchées par la loi dans l’état dans lequel nous sommes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella rappelle que Emmanuel Ménard n'est pas du rassemblement national."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Quand vous avez une démographie dont le compte à rebour est déclenché, quand vous accueillez des centaines de milliers de personnes chaque année dans votre pays, ces personnes-là viennent aussi avec leurs mœurs, leur coutume, leur mode de vie"
+            },
+            {
+                "speaker": "JB",
+                "text": "Il y a des années, pardon, on ne parlait pas du burkini, il y a des années, on ne parlait pas du voile, il y a des années, on n'avait pas ces débats hallucinants sur les tenues islamiques qu'on pourrait avoir sur des chaînes, peut-être sur des chaînes en Arabie saoudite ou à l'étranger."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella accuse la france insoumise d'avoir des relations avec les islamiste."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Quand vous soutenez la candidature de madame Garrido, qui nous a parlé de réconciliation avec les terroristes du Bataclan, eh bien la France insoumise de la France islamiste."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal explique que l'ancien ministre de l'éducation a mis en place des systèmes pour faire remonter les signalements des atteintes à la laïcité à l'école, ainsi que la mise en place d'équipes pour gérer ces situations"
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Une des premières choses qu'a fait Jean-Michel Blanquer, après sa nomination à l'éducation nationale, ça a été de mettre en place une remontée systématique de tous les signalements de ce type d'atteinte à la République et à la laïcité, et de mettre en place un système avec des équipes formées pour réagir face à ces situations, dans chaque rectorat, pour se déplacer dans les établissements scolaires pour trouver des solutions avec les familles."
+            }
+        ]
+    }
+]

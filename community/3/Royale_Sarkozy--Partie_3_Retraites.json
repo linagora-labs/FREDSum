@@ -1,0 +1,195 @@
+[
+    {
+        "abstractive": {
+            "text": "Sarkozy défend la réforme de Fillon, laquelle permet un financement des retraites jusqu’en 2020 et établit un équilibre entre les public et privé."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Les lois François Fillon ont permis de rééquilibrer l'égalité entre salariés du public et salariés du privé, qui cotisent quarante ans, jusqu'en 2020, on n'a pas de souci majeur à avoir quant au financement de nos retraites."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Il souhaite par ailleurs réformer les régimes spéciaux et utiliser les gains pour augmenter de 25 % les petites retraites."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Je réformerai les régimes spéciaux par souci d'égalité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Il entend également créer un crédit d’impôt sur les intérêts des emprunts des ménages pour faciliter l’accession au logement et mettre en place un plan contre la maladie d’Alzheimer."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Il y a 3 millions de petites retraites, c'est-à-dire 3 millions de personnes qui sont en dessous du minimum vieillesse, j'augmenterai de 25 % les petites retraites et je les ferai financer, car on aura récupéré sur la réforme des régimes spéciaux."
+            },
+            {
+                "speaker": "NS",
+                "text": "Dès l'été 2007, je créerai un crédit d'impôts permettant, pour ceux qui payent l'impôt sur le revenu, de déduire les intérêts de l'emprunt pour acheter leur appartement, et pour ceux qui ne le paient pas, un crédit d'impôt, c'est l'Etat qui remboursera."
+            },
+            {
+                "speaker": "NS",
+                "text": "Je veux engager un plan contre Alzheimer, 890 000 Français sont touchés par Alzheimer aujourd'hui."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Royal craint cependant que l’augmentation des petites retraites arrivent tardivement, car elle nécessite dans un premier de faire la réforme des régimes spéciaux ; elle entend donc les revaloriser directement."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Quand vous dites que vous allez financer l'augmentation des petites retraites par la réforme des régimes spéciaux, vous savez que cette réforme va prendre un certain temps."
+            },
+            {
+                "speaker": "SR",
+                "text": "Moi, je veux revaloriser tout de suite dès mon élection les petites retraites."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Pour cela, elle souhaite établir une taxe sur les revenus boursiers et espère obtenir de la croissance ; malgré l’insistance de Sarkozy, elle ne donne pas de chiffres précis sur les gains de ces mesures."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Je mets des fonds supplémentaires au fonds de réserve de retraite."
+            },
+            {
+                "speaker": "SR",
+                "text": "Par une taxe sur le revenu boursier."
+            },
+            {
+                "speaker": "NS",
+                "text": "Vous créez une taxe sans dire son montant et l'espérance de recette ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Elle désire par ailleurs indexer les retraites sur les prix, changer la réforme Fillon pour la rendre plus juste pour les femmes, et prendre en compte la pénibilité du travail dans la durée de cotisation."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Je veux que l'indexation des retraites suive vraiment la consommation des personnes âgées."
+            },
+            {
+                "speaker": "SR",
+                "text": "Non, je remets à plat les lois Fillon ne serait-ce que pour cette question de l'injustice faite aux femmes."
+            },
+            {
+                "speaker": "SR",
+                "text": "Deuxièmement, nous prendrons en compte la pénibilité des tâches."
+            },
+            {
+                "speaker": "SR",
+                "text": "Là aussi, il y a des réserves de croissance si on lutte contre les accidents du travail et contre les maladies professionnelles."
+            },
+            {
+                "speaker": "SR",
+                "text": "En effet, j'espère que, par la relance de la croissance, nous aurons des recettes au niveau des cotisations."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Sarkozy lui rétorque alors que la pénibilité est déjà considérée dans la loi Fillon ; pour lui, l’augmentation de l’espérance de vie induit de travailler plus pour ne pas avoir à augmenter les cotisations ou à baisser les pensions."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "La pénibilité du travail est déjà prise en compte dans les lois Fillon."
+            },
+            {
+                "speaker": "NS",
+                "text": "Nous vivons plus longtemps, il va falloir cotiser plus longtemps."
+            },
+            {
+                "speaker": "SR",
+                "text": "Le financement n'est pas résolu."
+            },
+            {
+                "speaker": "NS",
+                "text": "Il est résolu jusqu'en 2020."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Sarkozy et Royal sont tous deux d’accord pour réformer le régime spécial des parlementaires."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Vous ne parlez jamais du régime spécial des parlementaires, je le remettrai à plat."
+            },
+            {
+                "speaker": "NS",
+                "text": "Très bien, vous le ferez, il n'y a aucun problème et je serai d'accord avec vous."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Royal entend par ailleurs organiser de grandes discussions avec les partenaires sociaux pour définir les modalités de financement de sa réforme des retraites."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Je vous l'ai dit, ce sont d'abord les partenaires sociaux qui vont discuter, avec l'Etat bien sûr, il y aura des réunions tripartites."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Sarkozy termine le débat en expliquant que l’impôt est trop élevé en France ; il faut réduire le train de vie de l’État et gagner en productivité."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Comme je garde les lois Fillon, je n'ai pas besoin d'une recette supplémentaire."
+            },
+            {
+                "speaker": "NS",
+                "text": "Vous en avez besoin parce que vous démantelez les lois Fillon."
+            },
+            {
+                "speaker": "NS",
+                "text": "Nous sommes le pays de l'Europe qui avons les impôts les plus élevés."
+            },
+            {
+                "speaker": "NS",
+                "text": "Il faut, d'une manière ou d'une autre, réduire le train de vie de l'Etat, les dépenses publiques, être plus productifs, faire mieux avec moins pour alléger le poids de la fiscalité tel qu'il pèse aujourd'hui sur le travail."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Il entend taxer les importations, ne pas remplacer un départ sur deux dans la fonction publique et évaluer les politiques publiques."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "C'est pourquoi je propose que l'on taxe les importations pour qu'elles financent la protection sociale des Français."
+            },
+            {
+                "speaker": "NS",
+                "text": "C'est pourquoi j'ai proposé de ne pas remplacer un départ sur deux à la retraite des fonctionnaires, que j'ai proposé de supprimer tous les organismes qui ne servent à rien."
+            },
+            {
+                "speaker": "NS",
+                "text": "J'ai proposé, si je suis élu président de la République, la mise en place systématique d'une politique d'évaluation de toutes les politiques publiques."
+            }
+        ]
+    }
+]

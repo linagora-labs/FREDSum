@@ -1,0 +1,108 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Jordan Bardella et Gérald Darmanin discutent de la conférence de presse de marine le pen d'où une militante écologiste s'est faite expulser. "
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Cet après-midi, il y a eu cette conférence de presse de marine le pen, pendant cette conférence de presse, une militante écologiste, qui voulait dénoncer la proximité de marine le pen avec vladimir poutine a été expulsée de manière plutôt musclée."
+            },
+            {
+                "speaker": "P2",
+                "text": "Marine le pen dit que ce sont eux, les hommes de darmanin dit-elle, c'est-à-dire, vous, qui auriez donner, peut-être, l'ordre de l'expulser."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gerald Darmanin commence en expliquant que la violence a été commise par un membre du service d'ordre du rassemblement national, et accuse Marine le Pen d'avoir été trop prompte à accuser la police, elle qui prétend être toujours du côté de la police. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "La personne qui est traînée par terre n'est pas, euh, traînée par un policier, mais par un membre du service d'ordre du rassemblement national."
+            },
+            {
+                "speaker": "GD",
+                "text": "D'abord, c’est les policiers de la république, des policiers de services de protection des personnalités, qui protègent, tous les jours, tous les candidats d'ailleurs, c'est la grandeur de la république."
+            },
+            {
+                "speaker": "GD",
+                "text": "Quel mépris a eu madame le pen pour ces policiers qui la protègent, au risque de leur propre vie ?"
+            },
+            {
+                "speaker": "P2",
+                "text": "Et dans un deuxième temps, alors, c'est un membre du rassemblement national qui la traîne ?"
+            },
+            {
+                "speaker": "GD",
+                "text": "La personne qui traîne par les bras, et qui le traîne contre le marbre de cette conférence de presse, n'est pas un policier."
+            },
+            {
+                "speaker": "GD",
+                "text": "Donc, tout ça, c’est scandaleux, si je me permets quelques instants, parce qu'on peut aimer les policiers en général, mais, quand y a un problème, je constate que Madame le pen se permet de les montrer du doigt."
+            },
+            {
+                "speaker": "GD",
+                "text": "Ce sont les policiers de la république, ils font leur métier, et, lorsque les choses se passent mal, on n'ose même pas dire que c'est un membre de son propre service d'ordre privé."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique qu'il y a une différence dans la manière dont les faits sont traités lorsqu'ils touchent son parti. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Je dis juste qu’il y a une petite différence de traitement dans les éditos et les commentaires qui commence à se faire ressentir depuis quelque temps."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il justifie l'action de la police et du membre de l'ordre de son parti, expliquant qu'il y a déjà eu des tentatives d'attentat dans les meeting du rassemblement national, et que, sans savoir les intentions de la manifestante, une action devait être prise, Il ne nie pas non plus que c'est un membre de son service d'ordre qui a traîné la manifestante au sol. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Vous savez pertinemment que dans ce genre de de meeting, vous savez que nous avons été visés en deux mille dix-sept, sur la fin de campagne, par une tentative d'attentat."
+            },
+            {
+                "speaker": "JB",
+                "text": "évidemment que lorsque cette dame se lève, personne ne sait si elle, est armée, personne ne connaît ses intentions, et donc, elle est évacuée avec l'aide, parfois, c'est vrai, des policiers du ministre de l'intérieur."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Gérald Darmanin, Marine Le Pen devrait s'excuser de la manière dont elle a traitée les policiers. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "J'ai commenté quand madame le pen a, nommément, nommément, désigné les policiers comme étant responsables de cette situation, alors que c'est son service d'ordre."
+            },
+            {
+                "speaker": "GD",
+                "text": "Comment voulez-vous être une présidente de la république, qui dit protéger des français si dès qu'il y a un problème, elle dit, ce sont les policiers, et, en plus, c'est pas eux."
+            },
+            {
+                "speaker": "GD",
+                "text": "Aussi. Je vous dis juste, monsieur Bardella, que quand on est un parti qui prône l'ordre et le respect des policiers, et dès qu'il y a un problème, on en est à montrer du doigt des policiers, alors que c'est même pas eux qui l'ont fait, je trouve franchement que c'est pas faire grand cas de l’honneur des policiers de la république."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "De son côté, Jordan Bardella rappelle que le parti de Gérald Darmanin est le premier à jeter du discrédit sur les forces de l'ordre en parlant de violences policières."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Euh, vous avez passé cinq ans à jeter le discrédit sur les forces, le président de la république qui l'a fait dans une interview à brut, parler de violences policières, et à poser un genoux à terre devant les traoré."
+            }
+        ]
+    }
+]

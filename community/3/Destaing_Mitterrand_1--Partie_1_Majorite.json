@@ -1,0 +1,205 @@
+[
+    {
+        "abstractive": {
+            "text": "Pour Valéry Giscard d'Estaing, François Mitterrand n'as pas de majorité à l'assemblée nationale, contrairement à lui."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Naturellement, dans le déroulement de la campagne présidentielle, on est amené, quelquefois à évoquer toutes sortes de sujets, et, à propos de ces sujets, l’attention se disperse, mais c'est un choix fondamental, car, suivant que l'un ou l'autre sera désigné, la france et les français ne vivront pas de la même manière pendant les sept prochaines années."
+            },
+            {
+                "speaker": "VG",
+                "text": "Si je suis élu président de la république, que ferais-je ?"
+            },
+            {
+                "speaker": "VG",
+                "text": "D'abord, je déciderai d’un premier ministre."
+            },
+            {
+                "speaker": "VG",
+                "text": "J'attends de connaître le résultat de l'élection pour choisir le premier ministre."
+            },
+            {
+                "speaker": "VG",
+                "text": "Ce gouvernement sera composé, pour l'essentiel, d'hommes nouveaux, d'hommes jeunes, et il devra comporter également un certain nombre de femmes, et ce gouvernement se mettra au travail tout de suite."
+            },
+            {
+                "speaker": "VG",
+                "text": "Il travaillera, avec la majorité parlementaire."
+            },
+            {
+                "speaker": "VG",
+                "text": "J'ai fait le compte des députés qui soutiennent la candidature, monsieur françois mitterrand, de ceux qui soutiennent la mienne, et, à l'heure actuelle, la majorité, dans le cadre de mon élection, représente à peu près trois cents députés, contre environ cent quatre-vingts députés pour monsieur françois mitterrand."
+            },
+            {
+                "speaker": "VG",
+                "text": "Si je suis élu président de la république, la france aura un gouvernement dans la semaine qui suivra l'élection présidentielle."
+            },
+            {
+                "speaker": "VG",
+                "text": "Ce gouvernement aura une majorité, parce que je ne répudie pas la majorité actuelle, et je compte travailler avec elle."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il conjecture que Mitterrand devra dissoudre l'assemblée nationale, et ne pourra donc pas mettre en place son programme avant un certain temps, contrairement à lui."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Donc, pas besoin de dissolution, la majorité sera en place, nous pourrons gouverner tout de suite, et je demanderai au gouvernement de proposer, dans le courant du mois de juin, un programme économique et social, garantissant l'emploi, organisant le développement économiques, et traduisant, dans les faits, les premières décisions de justice sociale et de réformes sociales, que nous avons annoncé au cours de cette campagne présidentielle."
+            },
+            {
+                "speaker": "VG",
+                "text": "Si je suis élu président de la république, dans la semaine qui suivra, la France aura un gouvernement, et ce gouvernement, disposant d'une majorité à l'assemblée nationale, pourra travailler tout de suite."
+            },
+            {
+                "speaker": "VG",
+                "text": "S'il est élu président de la république, à quelle date la France aura-t-elle à la fois un gouvernement et une majorité permettant à ce gouvernement de travailler ?"
+            },
+            {
+                "speaker": "VG",
+                "text": "C'est ça que nous attendions, parce que il est certain que l'assemblée nationale ne pourra pas soutenir le programme que vous proposerez."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Mitterrand, lui, explique avoir déjà décidé qu'il aura un premier ministre socialiste, et qu'il consituera un gouvernement basé sur la majorité présidentielle qui l'aura soutenu au deuxième tour du scrutin."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "J'ai déjà dit, plus avancé que vous dans cette affaire, que je choisirais un député socialiste."
+            },
+            {
+                "speaker": "FM",
+                "text": "Ce gouvernement sera constitué sur la base de la majorité présidentielle, c'est-à-dire de toutes les forces politiques qui auront soutenu ma candidature au deuxième tour de scrutin."
+            },
+            {
+                "speaker": "FM",
+                "text": "Essentiellement, puisque nous serons, euh, à la fin du mois de mai, il conviendra de s'attaquer d'abord à ce que monsieur giscard d'estaing, a jusqu'ici beaucoup négligé, je veux dire, à l'inflation, à la hausse des prix."
+            },
+            {
+                "speaker": "FM",
+                "text": "Les députés accepteront, ou refuseront, la majorité que je présenterai, la composition du gouvernement, qui aura été pratiquement admise par le premier ministre et par moi-même."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Mitterrand nuance, le gouvernement ne soutiendra pas forcément Valéry giscard d'Estaing; il n'y a plus de majoroité pour personne à l'assemblée."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "En vérité, le trouble qui, consécutif à la mort du président pompidou, les disputes, euh, très profonde, de la majorité, entre monsieur giscard d'estaing et monsieur chaban-delmas, notamment, euh, les séquelles, enfin, ce qui reste, ce sont des cicatrices mal fermée."
+            },
+            {
+                "speaker": "FM",
+                "text": "Cela signifie que il n'y a plus véritablement de majorité pour personne dans cette assemblée nationale."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose cependant de dissoudre l'assemblée si elle ne viendrait pas à soutenir son programme."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "Il est évident que, si l'assemblée nationale ne devait pas accepter ces propositions, elle serait dissoute."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valéry Giscard d'Estaing rappelle que François mitterrand souhaite nommer sept ministres communistes et mettre en place le programme commun, qui ne trouvera pas de majorité."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Il se trouve que, en venant ici, j'écoutais la radio dans mon auto, et monsieur marchais parlait très clairement, et indiquait qu'il y aurait selon lui sept ministres communistes dans votre gouvernement."
+            },
+            {
+                "speaker": "VG",
+                "text": "Si vous avez l'intention de faire approuver ce programme commun par l'actuelle majorité, aucun français ne le croira."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour lui, François Mitterrand est contraint de dissoudre, et ne pourra pas commencer à combattre l'inflation avant la fin du mois de juillet."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Vous serez conduits à demander la dissolution de l'assemblée nationale."
+            },
+            {
+                "speaker": "VG",
+                "text": "Un gouvernement avec sept ministres communistes et une dissolution, voulant dire qu'il ne pourra y avoir de travail parlementaire, et, donc, de programmes de lutte contre l'inflation, monsieur mitterrand, qu'au plus tôt, à la fin du mois de juillet."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Ce n'est pas un problème pour françois mitterrand, dans l'optique où les français l'élisent, c'est qu'ils ne sont plus d'accord avec l'assemblée nationale, et les nouvelles élections lui rapporteraient la majorité."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "Demain, président de la république, cela voudrait dire que le peuple, que la masse des citoyens, n’ont pas changé d'opinion sur tout, mais ne supporte plus l'actuelle majorité, ses contradictions, ses méfaits."
+            },
+            {
+                "speaker": "FM",
+                "text": "Ce qui est certain, c'est qu'à partir de là, sur la base des orientations du programme commun, que j'ai traduite avec beaucoup de précision, dans un plan qui comporte trois étapes, et que j'ai présenté à la presse et à l'opinion publique, cela n'est pas nouveau, et, vous le savez, un plan de six mois, qui prétend, en effet, redresser les erreurs économiques et les drames financiers, que vous avez supporté, parce que, sans doute, désireux d'être candidat à la présidence de la république, vous n'avez pas voulu assumer vos responsabilités véritable de ministres des finances."
+            },
+            {
+                "speaker": "FM",
+                "text": "La première étape sera nécessaire pour compenser les dommages de votre politique, et, puis, ensuite, j'espère, bien, que nous nous attaquerons aux structures, afin de permettre une politique de progrès, celle qui n'a pas été faite pendant trop longtemps."
+            },
+            {
+                "speaker": "VG",
+                "text": "Vous avez dit que la représentation nationale ne correspondait plus à ce que vous souhaitiez ou à ce que souhaitait la majorité de l'opinion française ?"
+            },
+            {
+                "speaker": "FM",
+                "text": "Si je suis élu, ce sera évident."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Cela ne change pas le fait qu'il faudra attendre plusieurs mois pour mettre en place le programme de François Mitterrand pour Valéry Giscard d'Estaing, ce qui est déplorable car les français espèrent avoir des résolutions rapides."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Vous avez dit que je ne proposait pas de changement à cet égard, monsieur mitterrand, je l’ai dit dès le début de ma campagne électorale, que vous n'avez peut-être pas suivie non plus, que je proposait de faire participer à cette majorité le centre démocrate et les réformateurs, et j'ai donc étendu la majorité présidentielle française plus loin qu'elle n'a jamais été étendue jusqu'ici."
+            },
+            {
+                "speaker": "VG",
+                "text": "Le conflit entre le gouvernement et la majorité, tel que vous l'avez décrite, veut dire qu'il y aura de nouvelles élections, que ces nouvelles élections prennent, vous le savez, aux alentours d'un mois et demi, d'après nos textes constitutionnels, et, donc, on ne pourra se mettre au travail en france qu'à la fin du mois de juillet."
+            },
+            {
+                "speaker": "VG",
+                "text": "Concernant le programme de lutte contre l’inflation, il contient deux séries de dispositions."
+            },
+            {
+                "speaker": "VG",
+                "text": "Certaines de ces dispositions devraient être législatives, donc, il fallait les faire voter par le parlement."
+            },
+            {
+                "speaker": "VG",
+                "text": "Elle consistait à passer un certain nombre de contrats avec des organisations représentant les producteurs, ou avec les organisations représentant les distributeurs, de façon à modérer la hausse des prix."
+            },
+            {
+                "speaker": "VG",
+                "text": "Et bien, ces négociations, ces conversations, ont eu lieu, ces accords ont été passés, ou sont en train d'être passés."
+            }
+        ]
+    }
+]

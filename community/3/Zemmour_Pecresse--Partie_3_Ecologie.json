@@ -1,0 +1,62 @@
+[
+    {
+        "abstractive": {
+            "text": " Tous deux sont d’accord pour poursuivre le nucléaire, mais Pécresse veut également développer les énergies renouvelables (solaire, biogaz et éoliennes). "
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Moi, ce que je souhaite, c'est zéro carbone en deux mille cinquante. Ça ne peut être atteint qu'avec le nucléaire, c'est obligatoirement aussi, avec des renouvelables. Avec des éoliennes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Zemmour souligne la performance environnementale actuelle de la France et souhaite également prolonger la durée de vie des centrales. "
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Moi, je pense qu'il faut jamais oublier que nous sommes le pays qui émet le moins de CO2. Donc, euh, moi je propose d'abord un grand programme du nucléaire."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Et je suis pour le prolongement des centrales nucléaires jusqu'à soixante ans, car ça va mettre du temps d'en construire d'autres."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Pécresse et Zemmour discutent de la politique énergétique de la France et de la souveraineté industrielle."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Je propose aussi la fin du programme de monsieur macron qui a prévu la fermeture de douze centrale nucléaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pécresse souhaite aussi une souveraineté agricole et numérique, avec le développement d’un cloud français ; Zemmour est d’accord là-dessus."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "De la même façon, on a un problème sur la souverainetée cyber."
+            },
+            {
+                "speaker": "VP",
+                "text": "Les données des français peuvent pas être envoyées sans appels d'offres à microsoft et aux gafam."
+            },
+            {
+                "speaker": "VP",
+                "text": "Nous devons bâtir ensemble, brique par brique, un cloud souverain français."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Je suis tout à fait d'accord avec vous."
+            }
+        ]
+    }
+]

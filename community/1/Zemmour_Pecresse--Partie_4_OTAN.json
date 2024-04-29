@@ -1,0 +1,76 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Eric Zemmour et Valérie Pécresse discutent de la place de la france dans l'OTAN."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Euh, est-ce que vous, vous considérez que, euh, l’otan est indispensable, et l'union européenne, aujourd'hui, est indispensable dans notre crise ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valérie Pécresse pense que la France doit collaborer avec l'otan et l'union européenne pour créer une défense européenne."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Eric Zemmour, il s'est trompé sur l’otan, et il s'est trompé sur l'europe, sur l’otan, parce que, oui, il faut que la france reste dans le commandement intégré de l'otan, parce qu'il faut qu'on pèse dans l'otan, et, parce qu'il nous faut maintenant un pilier européen de défense stratégique, dans l'otan, et il faut aussi une europe de la défense, parce que, si on n'est pas au niveau européen, alors on n'arrivera pas à se défendre."
+            },
+            {
+                "speaker": "VP",
+                "text": "Eh bien, aujourd'hui, on est à un moment charnière pour l'Europe."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valérie Pécresse estime que la france ne peut être souveraine sans l'europe."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "C'est ça ma conviction, une france souveraine, sans l'europe, monsieur zemmour, vous n'y arriverez pas"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Zemmour souhaite quitter le commandement intégré de l'OTAN, qui est une soumission aux états unis."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Vous êtes pour le pilier européen de l'otan, c'est-à-dire que vous voulez vous soumettre aux etats-unis dans le cadre de l'europe."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Zemmour considère aussi la défense européenne comme étant une chimère."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "La défense européenne, c'est une chimère."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Quand monsieur macron en a parlé, le ministre allemand de la défense lui a dit que c'était une chimère, et que, pour elle, la défense européenne, c'était l'otan, c'est-à-dire les etats-unis d'amérique pour tous les pays européens."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valérie Pécresse pense que la france est incapable de se défendre sans industrie de défense européenn"
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Si l'europe ne prend pas son destin en main, vous le savez très bien, nous ne serons pas en capacité de nous défendre, et nous avons besoin d'une industrie de défense européenne"
+            }
+        ]
+    }
+]

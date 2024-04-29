@@ -1,0 +1,149 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Olivier Véran et Jordan Bardella parlent de l'interdiction du port du voile et de l'islamisme en france."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Il y a un thème qui est apparu justement sur l'apaisement de la société, euh c'est l'interdiction du voile de la euh dans la rue."
+            },
+            {
+                "speaker": "P1",
+                "text": "Marine Le Pen le propose, euh dans son programme, emmanuel macron s’y oppose, et là-dessus on a un petit peu de doute parce que, est-ce que d'abord c'est une mesure qui apaise la société Jordan Bardella, et puis apparemment on voit que vous-même vous avez des doutes là-dessus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique qu'il est pour l'interdiction du voile en france, qui est utilisé comme un outil militant pour les fondamentalistes islamistes."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "C’est à dire, le voile est devenu aujourd'hui un outil militant pour les fondamentalistes islamistes, euh j'ai grandi avec beaucoup de jeunes femmes en seine-saint-denis de confession musulmane, avec qui j'étais à l'école au collège, au lycée, et pour qui porter le voile en rentrant chez soi le soir dans la cité c'était le moyen d'être tranquille."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que le voile est une contestation de l'égalité entre les hommes et les femmes."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Je pense que le voile est une contestation de l'égalité entre les hommes et les femmes, et je pense comme monsieur blanquer, peut-être un deuxième point d'accord, comme monsieur macron d'ailleurs l'avait-il déclaré en mars deux mille dix-huit à vos confrères de bfm tv, que le voile n'est pas souhaitable dans la société française."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que ce n'est pas la priorité sur l'islamisme, et qu'il faut commencer par fermer les mosquées radicales et expulser les gens radicalisés, ainsi que de maîtriser l'immigration, ce qui n'a pas été fait par le gouvernement de Olivier Véran."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Je veux dire, c’est pas la priorité sur l'islamisme, la priorité, c'est de fermer les mosquées radicales, c'est d'expulser les gens radicalisés, rien de tout cela n'a été fait par le gouvernement, et c'est de maîtriser notre immigration."
+            },
+            {
+                "speaker": "JB",
+                "text": "Je pense qu’il y a d'autres priorités, notamment sur la sécurité, sur le pouvoir d'achat, et sur le contrôle de l'immigration."
+            },
+            {
+                "speaker": "JB",
+                "text": "Il y a des urgences aujourd'hui parce que beaucoup de chefs d'entreprise, notamment dans l'entreprise, notamment les administrations publiques, les mairies, bâtiments publics, sont confrontés à des revendications politico-religieuses."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique qu'il est impossible d'interdire le voile et de demander aux policiers de verbaliser les femmes qui portent le voile."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Vous allez pas pouvoir ordonner aux policiers de courir après des gens qui portent le voile pour leur mettre des amendes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que la gestion du covid a montré qu'il était possible de le faire."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Vous leur avez bien fait courir après des gens pendant des mois pour vérifier si ils avaient bien coché sur l'attestations pour pouvoir sortir faire ses courses, pour pouvoir sortir respirer cinq minutes dans la rue."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique que son gouvernement a fait de nombreux contrôles de lieux de cultes, avec des fermetures, des expulsions, et des interdictions d'associations préchant la haine."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Plus de vingt mille contrôle de lieux de culte et d'enseignement, plus de sept cents fermetures , ça n'avait jamais été fait."
+            },
+            {
+                "speaker": "OV",
+                "text": "Plus de sept cents prédicateurs et personnes radicalisées ont été inscrit dans les fichiers et ont été expulsées."
+            },
+            {
+                "speaker": "OV",
+                "text": "Plusieurs dizaines d'associations qui prêchait la haine et la détestation de l'autre, qui ont été interdites."
+            },
+            {
+                "speaker": "OV",
+                "text": "Au conseil des ministres, il n'y a pas une semaine sans que gérald darmanin annonce la dissolution d'une association, où nous informe de fermetures."
+            },
+            {
+                "speaker": "OV",
+                "text": "Après il y a ce qu'on est capable de faire avec l'état de droit; ça vous embête l'état de droit, mais ça existe, c'est-à-dire qu'on ne peut pas juger les gens par avance sur la base de suppositions, il faut quand même qu'on ait quelques éléments tangibles"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran est cependant contre l'interdiction du port du voile qui n'est pas un problème qui entrave la vie en société."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Si ça n'entrave pas la vie en société, si ça ne me retire aucun droit, je ne vois pas lieu d'aller coller des amendes à des femmes qui portent des voiles."
+            },
+            {
+                "speaker": "OV",
+                "text": "Il m'a rendu un rapport qui est intéressant, on va faire signer la charte de la laïcité dans les hôpitaux, mais encore une fois les problèmes ne sont pas légion et pas le problème du quotidien des français."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que les gens suivront la loi, et qu'il n'y a pas eu assez d'expulsions"
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Les policiers appliqueront la loi et les français appliqueront la loi, c'est extrêmement insultant à l'égard de ces personnes que de considérer qu'elles ne vont pas respecter la loi."
+            },
+            {
+                "speaker": "JB",
+                "text": "Il y a déjà une loi en qui a été votée en deux mille dix par le gouvernement sarkozy qui, me semble-t-il, qui interdit euh le port du voile intégral dans l'espace public."
+            },
+            {
+                "speaker": "JB",
+                "text": "Y a quand même des études qui ont été faites, soixante-cinq pour cent d'après un sondage ifop des français, qui nous disent être favorables à l'interdiction du voile dans l'espace public."
+            },
+            {
+                "speaker": "JB",
+                "text": "Il y a quatre mille cinq cents individus étrangers qui sont fichés pour radicalisation, ils ne sont pas expulsés."
+            },
+            {
+                "speaker": "JB",
+                "text": "Il y a cinq cent quarante mosquées radicales, dont une grande partie sont détenus par les frères musulmans, par l'uoif qui est considérée comme organisation terroriste dans les émirats arabes unis, et qui d'ailleurs appellent à voter pour monsieur macron."
+            }
+        ]
+    }
+]

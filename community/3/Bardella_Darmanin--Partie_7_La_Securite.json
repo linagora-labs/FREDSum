@@ -1,0 +1,195 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Jordan Bardella et Gérald Darmanin discutent de la sécurité et des peines de prisons. "
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Précisément, ce que je vous propose, c'est qu'on passe au chapitre sur la sécurité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella débute en expliquant qu'à partir d'une peine de six mois de prison ferme, il n'y aura plus d'aménagement des peines, et une obligation d'exécuter au moins deux tiers de la peine, et ce, afin de réaffirmer la chaîne pénale; il souhaite ainsi supprimer les remises automatique de peine en rétablissant les peines planches. "
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Un homme condamné à six mois de prison ferme, aujourd'hui, la peine est aménagée, il n'est pas incarcéré, demain, si votre candidate est élue, cet homme va-t-il en prison ?"
+            },
+            {
+                "speaker": "JB",
+                "text": "Oui, à partir de six mois ferme, il n'y aura aucun aménagement, et il y aura même obligation, sur l'intégralité de la peine, d'exécuter deux tiers de la peine."
+            },
+            {
+                "speaker": "JB",
+                "text": "Donc il faut aujourd'hui réaffirmer la chaîne pénale, et vous savez que nous souhaitons même aller plus loin, en supprimant les remises automatiques de peine, et, euh, en rétablissant les peines plancher."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gérald Darmanin rappelle que les remises de peines automatiques ont déjà été supprimée, et explique qu'un large travail a été fait sur les travaux d'intérêts généraux; en effet, selon lui, une personne condamné à de la prison pour des crimes mineurs, comme avoir taggé un bâtiment public, devrait plutôt réparer ce qu'il a fait que passer du temps en prison. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "Oui, alors, d'abord, les remises de peines automatiques ont été supprimées par le garde des sceaux, eric dupond moretti, c'est passé, il y a un an."
+            },
+            {
+                "speaker": "GD",
+                "text": "On a beaucoup amélioré les travaux d'intérêt généraux, et, de mon expérience de maire, je sais que quelqu'un qui, par exemple, est condamné à quelques mois de prison parce qu'il a taggé un bâtiment public, et que par ailleurs, il a fait des dégradations, il vaut mieux qu'il puisse réparer ce qu'il a fait, que de passer trois mois en prison."
+            },
+            {
+                "speaker": "GD",
+                "text": "Les aménagements existent déjà, et je pense qu'il faut beaucoup mettre l'accent sur les travaux d'intérêt généraux."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour les peines de moins d'un an, Gérald Darmanin souhaite favoriser les amendes forfaitaires, qui seront saisies directement sur les prestations sociales ou le salaire. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "Pour les peines de moins d'un an, je veux qu'on puisse, pour tout ce qui n'est pas grave, comme c'était le cas dans la consommation de cannabis, où ça mérite d'être puni, mais ce n'est pas gravissime, je veux des amendes forfaitaires."
+            },
+            {
+                "speaker": "GD",
+                "text": "D'ailleurs, à la demande du président de la république, à partir de la fin de cette année, ce sera saisi directement sur le salaire ou sur les prestations sociales."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella questionne l'efficacité desd amendes forfaitaires sur l'explosion de la délinquance, lamentant l'augmentation des alternatives à la prison, symptomatique du surmenage des magistrats. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "On va combattre la, l'explosion, aujourd'hui, de la délinquance, sur tout le territoire français, avec des amendes forfaitaires ?"
+            },
+            {
+                "speaker": "JB",
+                "text": "Le problème, c'est que les alternatives, euh, à la prison, aujourd'hui, les alternatives à l'incarcération, sont devenues la norme, et l'incarcération, c'est devenue une exception, et c'est devenue une exception pourquoi ?"
+            },
+            {
+                "speaker": "JB",
+                "text": "Parce que les magistrats sont sous l’eau, parce qu'il n'y a pas assez de magistrats."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose donc d'augmenter le nombre de magistrats ainsi que de construire des nouvelles places de prisons pour pouvoir donner plus de moyens aux forces de l'ordre, soutenue en mettant en place la présomption de légitime défense. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "C'est la raison pour laquelle, vous l'avez rappelé, on propose le doublement du nombre de magistrats, et que nous souhaitons également construire de nouvelles places de prison, les portant de soixante mille à quatre-vingt-cinq mille."
+            },
+            {
+                "speaker": "JB",
+                "text": "Il faut donner beaucoup plus de moyens à nos forces de l'ordre, il faut les protéger par la présomption de légitime défense, que vous ne soutenez pas, et sur laquelle vous êtes, euh, opposé."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gérald Darmanin rappelle que la construction de place de prison, dont 7000 ont été faites pendant son mandat, est compliquée, car elle a besoin de l'accord des maires. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "On en a construit sept mille, on n'a pas pu construire les trois mille de plus parce que je vous rappelle que beaucoup de maires ne veulent pas accueillir des prisons."
+            },
+            {
+                "speaker": "GD",
+                "text": "Et, deuxièmement, si des maires avaient accepté, notamment au front national, monsieur le maire de fréjus, qui est de vos amis, qui a refusé par deux fois la proposition de construction de prison dans sa commune."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il questionne de plus l'explosion de la délinquance prétendue par Jordan Bardella, listant la baisse des chiffres de cambriolages et de vols, et justifiant l'augmentation des plaintes pour violences par la libération de la parole des femmes, qu'il présente comme une grande réussite de son mandat. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "Deuxièmement, elle n'existe pas, cette explosion de délinquance, monsieur Bardella, pour les biens, moins vingt-six pour cent de cambriolages en cinq ans, moins vingt-et-un pour cent de vols de véhicules, moins dix-sept pour cent de vol avec arme, moins trente-et-un pour cent de vol sans armes."
+            },
+            {
+                "speaker": "GD",
+                "text": "Parlons clairement, monsieur bardella, on est passé de deux cent trente-trois mille faits, c'est vrai, en deux mille dix-sept, à trois cent six mille, si je prends l'année, euh, deux mille vingt-et-un, c'est plus trente et un pour cent."
+            },
+            {
+                "speaker": "GD",
+                "text": "Mais, vous oubliez toujours de dire,  quatre-vingt-cinq pour cent de cette augmentation, c’est des violences conjugales, par le dépôt de plainte des femmes, c'est-à-dire que l'augmentation de la violence qu’essaie de nous présenter le front national, c’est quatre-vingt-cinq pour cent de plaintes, monsieur bardella."
+            },
+            {
+                "speaker": "GD",
+                "text": "Il faut bien comprendre que ces augmentations des violences aux personnes, à quatre-vingt-cinq pour cent, ce sont les plaintes que déposent désormais, depuis deux mille dix-sept, le grenelle des violences conjugales, et depuis tous ce que font les policiers, les gendarmes, les associations, les médias, pour que les femmes, aujourd'hui, déposent des plaintes lorsqu'elles sont violentées par leur mari ou leur compagnon, ce qu'elle ne faisaient pas, ou très peu, y a cinq, dix, quinze ou vingt ans."
+            },
+            {
+                "speaker": "GD",
+                "text": "Mais arrêtez de faire croire que la violence aurait explosé."
+            },
+            {
+                "speaker": "GD",
+                "text": "Elle a très largement baissé sur les biens, et elle a augmenté sur les personnes parce que, pour quatre-vingt-cinq pour cent d'entre eux, de ces pourcentages là, ce sont les femmes qui déposent plainte."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella consteste ces chiffres, les cambriolages ont baissés à cause du confinement et de l'absence de la prise en compte des résidence secondaire."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "En matière de cambriolages, mais, euh, vous avez sorti les résidences secondaires, ce qui est quand même assez simple, comme l'avait fait, d'ailleurs le gouvernement sarkozy que vous aviez soutenu à l'époque, qui avait complètement trafiqué les chiffres de la cour des comptes."
+            },
+            {
+                "speaker": "JB",
+                "text": "Vous arrivez à faire baisser les cambriolages, sur l'année du confinement, bravo, félicitations, même en excluant les résidences secondaires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Pour Jordan Bardella, il faut protéger la police, c'est pourquoi il propose la présomption de légitime défense pour les policiers, qui forceraient aux personnes qui ont subies les violences de démontrer que la police n'était pas dans son droit. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "D'abord on va protéger ceux qui nous protègent, Je l'ai dit, avec la présomption d’innocence."
+            },
+            {
+                "speaker": "JB",
+                "text": "La présomption de légitime défense, c'est qu'à partir du moment où un policier est pris à partie, à partir du moment un policier est attaqué, agressé, qu'il fait usage de la force, il est présumé comme en état de légitime défense."
+            },
+            {
+                "speaker": "JB",
+                "text": "C'est à la personne qui a subi, qui a absorbé la force de démontrer que le policier n'était pas dans son droit, et je vais vous dire, ça change beaucoup de choses, parce que c'est un soutien moral, pas seulement juridique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gérald Darmanin questionne le soutien du rassemblement national aux forces de l'ordre, les accusant d'être les premiers à les mettres en causes quand les choses tournent mal."
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "Deuxièmement, cette euh idée de légitime défense, ça veut dire que vous soutiendrez les policiers, dites-le vous, moralement, ça commence mal."
+            },
+            {
+                "speaker": "GD",
+                "text": "Rien qu'aujourd'hui, on a vu que madame le pen était capable de trouver un bouc émissaire facile qui étaient les policiers quand ça ne se passait pas bien"
+            }
+        ]
+    }
+]

@@ -1,0 +1,139 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Mélenchon et Zemmour donnent leur vision de la France en 2050, suite à une question d’un journaliste."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "éric zemmour je commence avec vous, après tout ce que vous nous avez dit ce soir, comment imaginez-vous la france en deux mille cinquante ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Zemmour estime que les communautés finiront par s’opposer , entraînant dans leur sillage la pauvreté, la misère, le vice et la ruine."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "C'est-à-dire tout simplement, un pays où il y aura à peu près euh des communautés qui euh comme l'a dit euh l'ancien ministre de l'intérieur monsieur collomb, étaient côte à côte et seront face à face."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il rappelle que l’islamisation de la France avance, au point que les renseignements de plusieurs pays extérieurs prévoient le phénomène qu’il décrit."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Il y aura plus de pauvreté, plus de misère, et surtout plus de désordre et plus de violence comme ce qui se passe actuellement."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Et vous savez que c'est déjà, réalisé dans les études des agences de renseignement américaine, l'islamisation de la france."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il souhaite se dresser face à cette fatalité en permettant aux Français de mettre fin à cette colonisation qu’ils subissent."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Nous devons permettre au peuple français de ne plus se sentir colonisé, envahit exproprié de son propre peuple, sur son propre territoire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Mélenchon, l’enjeu de la France future n’est pas l’immigration, mais le changement climatique."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Un million de français seront inondés chaque année."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Inondation, sécheresse et hausse des températures frapperont le territoire."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Vous aurez quatre mois de sécheresse par ans, vous aurez des pics de température à cinquante-cinq degrés, et la question fondamentale du cycle de l'eau, c'est-à-dire, l'accès à une eau potable, va être compromis un peu partout dans le pays."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique également que le libre-échange continuera de détruire la société, entraînant un saccage social et écologique."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Naturellement que nous allons être soumis à des chocs le premier choc sera social, parce que la pression du libre-échange va continuer à détruire la société, à la pulvériser, et vous aurez encore des énergumènes comme monsieur macron pour trouver ça bien et amplifier le désastre, en disant ma foi plus la compétition est la, plus nous aurons de bons résultats."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Devant ce constat alarmant, il propose néanmoins des solutions : ne plus prendre à la nature davantage que ce qu’elle nous offre et respecter la souveraineté des Français en changeant la constitution."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Il tient en deux points, premièrement la règle verte : ne plus prendre à la nature davantage que ce qu'elle peut reconstituer."
+            },
+            {
+                "speaker": "JLM",
+                "text": "Deuxième règle, il faut que le peuple français soit souverain, qu'il décide et que donc il ait une constitution qui lui rend possible fait de prendre des décisions et de les voir appliquer."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il préconise par ailleurs une société de solidarité et d’entraide, afin de faire face aux temps difficiles qui s’annoncent."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Il nous faut donc une société d'entraide, et dans cette société d'entraide, il n'y a pas y avoir de discrimination, il ne doit pas y avoir d'a priori, il ne doit pas y avoir de racisme."
+            },
+            {
+                "speaker": "JLM",
+                "text": "Voyez-vous, le problème a toujours une solution, et quel que soit le problème, la solution c’est le peuple."
+            },
+            {
+                "speaker": "JLM",
+                "text": "Je vous dis d'un mot, je suis un optimiste dans la vie, je ne crois pas que tout est perdu, tout est noir."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Cependant, pour Zemmour, cette solidarité ne marche pas si les personnes n’appartiennent pas au même peuple."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Il n'y a pas de solidarité, entre des gens qui ne sont pas du même peuple, qui ne défendent pas la même culture."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il s’amuse que l’on trouve sa vision apocalyptique, estimant celle décrite par Mélenchon absolument pire."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Non mais je constate, je constate, que monsieur mélenchon me reproche d'être apocalyptique, et il l’est tout autant avec euh l'écologie et le grand réchauffement"
+            }
+        ]
+    }
+]

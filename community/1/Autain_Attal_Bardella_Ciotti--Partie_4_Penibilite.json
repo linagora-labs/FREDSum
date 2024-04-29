@@ -1,0 +1,327 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Gabriel Attal, Clémentine Autain, Jordan Bardella et Eric Ciotti discutent des critères de pénibilité. "
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Oui, je voudrais qu'on parle du sujet de la pénibilité, parce que ça fait partie des préoccupations avec les carrières longues, des choses les plus importantes pour les travailleurs, est-ce que vous trouvez que c'est suffisant, alors Caroline a expliqué tout à l'heure, et a posé la question à Elizabeth Borne en disant qu'il y avait des critères qui avaient été enlevés, notamment ce qui est le port de poids lourd, est-ce que vous considérez que là, je n'ai pas dit pas qu'il y en a quatre, c'est pour gagner du temps, est-ce que vous considérez qu'il est suffisamment fait, ou est-ce que par exemple le fameux cas du déménageur qui aurait, c'est suffisant d'attendre une visite médicale à 61 ans, où on ne pourrait pas vous dire que vous êtes fatigué, est-ce que le compte y est sur la pénibilité?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Ciotti explique préférer un système de pénibilité plutôt qu'un système individualisé. "
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Moi, par principe, je préfère le système qui est proposé avec toutes ces imperfections sur un traitement individuel fait sur une évaluation médicale, le médecin traitant et le médecin de la sécurité sociale."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Ciotti explique que les métiers les plus difficiles sont réalisés par les personnes avec les carrières les plus longues, et qu'il faut donc prendre en compte les dispositifs de carrières longues. "
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Ensuite, sur la pénibilité qui doit être prise en compte, parce que pour les métiers les plus difficiles, c'est, je comprends l'inquiétude, la crainte de partir plus tard, mais on constate qu'à peu près 40% ou quasiment la moitié des métiers pénibles aujourd'hui, sont portés par des salariés qui ont commencé le plus tôt."
+            },
+            {
+                "speaker": "EC",
+                "text": "Donc, on rejoint le débat sur les carrières longues, d'où notre volonté aux républicains d'avoir, dans nos demandes très fortes, nos exigences même auprès du gouvernement, souhaiter que ceux qui ont commencé à travailler le plus tôt, notamment de 16 à 20 ans, voire 21 ans, puissent ne pas subir de façon plus lourde cette réforme."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal explique qu'un des des enjeux collectifs et l'amélioration des conditions de travail pénible, et propose des investissements afin de réduire la pénibilité, qui seraient discutés avec les syndicats. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Et je pense que le premier enjeu collectif qu'on a, c'est de réduire au maximum les conditions de travail pénibles en investissant et en soutenant le secteur professionnel pour leur permettre de réduire cette pénibilité."
+            },
+            {
+                "speaker": "GA",
+                "text": "Aujourd'hui, on dépense 40 millions d'euros par an pour réduire les conditions de pénibilité au travail, on va passer à 200 millions d'euros par an."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal propose aussi la mise en place de systèmes qui permettraient aux gens qui ont eu un métier pénible et qui ont commencé à travailler tôt de ne pas avoir à travailler jusqu'à 64 ans. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "On se met autour de la table avec les syndicats, ils regardent secteur par secteur, et au sein de ces secteurs, quelles sont les métiers les plus pénibles et quelles sont les équipements dont il y a besoin."
+            },
+            {
+                "speaker": "GA",
+                "text": "Ensuite, on propose un système précisément pour que des gens qui ont eu un métier pénible qui ont commencé à travailler tôt, évidemment n'aillent pas jusqu'à 64 ans."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal explique qu'il y aura un système d'évaluation avec des visites médicales obligatoires, ainsi que l'élargissement des critères existant de pénibilité pour permettre à plus de gens de partir plus tôt à la retraite que l'âge légal, ainsi qu'en mettant en place des congés de reconversion. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "La deuxième chose, c'est qu'évidemment, qu'il y aura aussi ce système d'évaluation avec deux visites médicales obligatoires, une à 45 ans, une à 61 ans, pour permettre à davantage de Français de partir plus tôt sur le compte pénibilité, on élargit les critères qui existent aujourd'hui."
+            },
+            {
+                "speaker": "GA",
+                "text": "Donc on élargit les critères pour que davantage de Français puissent partir plus tôt à la retraite que l'âge légal."
+            },
+            {
+                "speaker": "GA",
+                "text": "S'il souhaite se reconvertir, on crée un congé pour reconversion, pour aller vers un métier moins pénible, parce que pour certains métiers, y compris à 61, 62 ans, c'est difficile."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal rappelle que Jordan Bardella propose la suppression des critères de pénibilités et le maintien des régimes spéciaux. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Jordan Bardella, son groupe au Parlement, à l'Assemblée nationale, a proposé pendant la campagne présidentielle, de supprimer le compte pénibilité."
+            },
+            {
+                "speaker": "GA",
+                "text": "Quand vous parlez de justice et que vous parlez d'égalité, vous défendez, vos députés à l'Assemblée nationale le maintien des régimes spéciaux."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique être pour la clause du grand-père sur les régimes spéciaux, et explique que les policiers travailleront plus longtemps. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Non, mais sur les régimes spéciaux, c'est très simple, je suis pour la clause du grand-père."
+            },
+            {
+                "speaker": "JB",
+                "text": "Les policiers vont travailler plus longtemps, oui ou non?"
+            },
+            {
+                "speaker": "CA",
+                "text": "Même en catégorie active, ils vont travailler plus longtemps."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal nuance en expliquant qu'ils partiront toujours plus tôt que les autres. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Ils partiront toujours 5 ans avant les autres."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que des professions où il est très difficile de recruter sont attaquées. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Je vous dis que vous vous attaquez à des professions où on a déjà énormément de mal à recruter."
+            },
+            {
+                "speaker": "JB",
+                "text": "Donc il y a des difficultés à prendre en compte ces différents critères de pénibilité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique qu'il considère que les gens qui commencent à travailler tôt ont des métiers plus difficiles, et que les carrières longues prennent en compte la pénibilité. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Je pense que quand vous avez commencé à travailler très tôt, vous avez un métier qui est plus difficile, et donc vous devez partir plus tôt."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et c'est la raison pour laquelle nous avons défendu pendant la campagne présidentielle un départ à 60 ans et 40 annuités pour ceux qui ont commencé à travailler entre 17 et 20 ans."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur le système de visite chez le médecin, Jordan Bardella explique que les professionnels de la santé sont incapables de le faire avec leurs équipements, et que c'est un élément d'habillage. "
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Vous êtes pour ou contre le système avec le médecin par exemple."
+            },
+            {
+                "speaker": "JB",
+                "text": "D'abord, aller discuter avec des professionnels de la médecine de la santé, ils vont vous dire aujourd'hui, à l'état actuel des choses, nous n'avons pas les moyens de faire ces visites médicales."
+            },
+            {
+                "speaker": "JB",
+                "text": "Premièrement, deuxièmement, les Français qui nous regardent, ils doivent savoir que l'ensemble de ces éléments, là dont on parle depuis un quart d'heure, sont des éléments d'habillage."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que le point important est le fait que cette réforme demande plus de travail aux français, tout en baissant leur pensions. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "C'est à la fois la hausse des efforts pour les Français qui font partis de la France qui se lève tôt, de la France qui travaille, de la France qui a dit, c'est en même temps, et en même temps, la baisse des pensions."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal explique que les autres candidats mentent, et qu'ils ne pourront pas faire ce qu'ils proposent sans augmenter les impôts. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Et vous, la différence entre vous et nous, c'est que vous, vous leur mentez à ces gens."
+            },
+            {
+                "speaker": "GA",
+                "text": "Vous leur faites croire à ces gens qui pourront bénéficier d'une retraite digne dans le modèle que vous proposez, qui va les appauvrir, comme on l'a vu en Grèce, comme on l'a vu au Portugal, dans certains pays qui ont baissé les pensions de retraite."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal explique que les personnes pourront partir plus tôt si ils ont commencé assez tôt, et si ils sont dans des catégories actives. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Un, de l'âge auquel elle a commencé à travailler, deux, de si elle est catégorie active ou pas, parce qu'il y a eu un droit d'option."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le présentateur pose la question du rapport au travail. "
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Est-ce que vous considérez les uns et les autres, puisqu'on parle de la réforme des retraites, qu'on dit aux gens qu'il va falloir travailler plus longtemps, qu'il faut se reposer la question de ce qu'est le travail dans nos vies, du rapport au travail."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal explique qu'il a essayé de mettre en place la semaine de quatre jours, ainsi que le télétravail. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "D'abord, je remercie d'avoir posé cette question aux Français, puisque j'ai annoncé il y a deux jours une expérimentation dans l'administration que je dirige, avec Bruno Le Maire."
+            },
+            {
+                "speaker": "GA",
+                "text": "Il y a aujourd'hui beaucoup de Français qui télétravail plusieurs jours par semaine."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal explique qu'il est important pour l'équilibre entre la vie familiale et professionnelle de revoir le rapport au travail. "
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Je pense que c'est intéressant pour l'équilibre entre la vie familiale, la vie professionnelle, sur les questions des temps de transport et dans les retours que vous font en certaines entreprises qui se sont lancées dans ce nouveau modèle."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que les entreprises devraient être libre de s'organiser. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Ce que je voudrais dire, c'est qu'on peut laisser la liberté aux entreprises de s'organiser."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella rappelle que l'espérance de vie en France stagne depuis dix ans, notamment chez les classes populaires et chez les femmes, et que l'espérance de vie des plus pauvres est dix ans inférieure à celle des plus riche. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "L'espérance de vie, puisqu'on parle du travail, l'espérance de vie en bonne santé dans notre pays, parce que personne n'en a parlé ce soir, elle stagne dans notre société et elle stagne dans notre pays depuis dix ans."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et elle stagne notamment chez les classes populaires, chez les Français les plus modestes et notamment chez les femmes."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et on sait qu'il y a dix années d'espérance de vie, d'écart entre l'espérance de vie de dix années, entre les revenus les plus hauts et les revenus les plus bas dans notre société."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que la retraite est un choix de sciété plutôt qu'un choix comptable, et que les français nés dans les années soixantes ont eu quatre années de travail supplémentaire imposées, et qu'ils n'ont pas gagné quatre années d'espérance de vie, pour lui, il faut intégrer la pénibilité à l'âge. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Donc je pense qu'on ne doit pas s'en tenir uniquement un débat de comptabilité ce soir, et que la question qui se pose, c'est un choix de société."
+            },
+            {
+                "speaker": "JB",
+                "text": "Ça veut dire que quand vous êtes né, dans les années soixante, vous avez pris quatre années de travail supplémentaire, pour autant, vous n'avez pas pris quatre années d'espérance de vie supplémentaire."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et je pense que la solution, la meilleure, c'est d'intégrer la pénibilité à l'âge."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine Autain explique qu'une majorité des français sont pour la semaine de quatre jours, et contre la réforme des retraites. "
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "70% des Français qui sont pour la semaine de quatre jours, on sait aussi que c'est 68% des Français qui sont pour la retraite à 60 ans et qu'effectivement, la question est celle de la place du travail et du sens du travail dans la vie."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine autain explique qu'il suffit de regarder les dividendes pour trouver de l'argent en france."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Est-ce qu'on décide de continuer à faire en sorte qu'il y ait des milliards, comme l'année dernière, vous savez, 80 milliards d'euros ont été reversés en dividendes de nos actionnaires ou on décide que les gens sont mieux payés et travaillent moins en partageant le temps de travail"
+            }
+        ]
+    }
+]

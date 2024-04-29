@@ -1,0 +1,242 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Nicolas Sarkozy et Ségolène Royale débattent de leur point de vue sur la fiscalité française."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "On parle des impôts, sur la fiscalité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Ségolène Royale explique que sa priorité est la baisse de la fiscalité sur l'écologie, en négociant une TVA tendant vers zéro au niveau européen pour développer les énergies renouvelables et travailler sur les éco-matériaux pour lancer un plan massif d'isolation des logements."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Sur la fiscalité, ma priorité sera la baisse de la fiscalité sur l'écologie."
+            },
+            {
+                "speaker": "SR",
+                "text": "Je veux une réforme fiscale très importante sur tout ce qui a de près ou de loin une relation avec la construction des emploi dans le domaine de l'environnement et de l'écologie et je veux négocier avec les autres pays européens une TVA tendant vers zéro pour développer les énergies renouvelables, les éco-matériaux pour lancer un plan massif d'isolation des logements déjà construits puisque dans ces domaines et notamment dans les métiers du bâtiment, dans l'agriculture, dans les technologies liées à l'eau, au sol, au paysage et dans les énergies renouvelables, si nous avons une fiscalité très encourageante, nous pouvons développer plusieurs centaines de milliers d'emplois."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Ségolène Royale explique vouloir diviser par deux l'impôt sur les société pour les PME qui réinvestissent leurs bénéfices dans l'entreprise."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Je l'ai dit tout à l'heure, pour les PME qui réinvestiront leurs bénéfices dans l'entreprise, l'impôt sur les sociétés sera divisé par deux, car c'est là que se trouve le ressort de la croissance économique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Ségolène Royale souhaite la justice fiscale, critiquant le bouclier fiscal de nicolas sarkozy."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Quand je vois que le bouclier fiscal que vous venez instaurer vient d'autoriser une ristourne de 7 millions d'euros à une personne qui a dû être même très surprise d'ailleurs de les recevoir au nom du bouclier fiscal, je dis en effet qu'il faut faire attention aux injustices fiscales et à la façon dont vous voulez exonérer un certain nombre de patrimoines élevés."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Ségolène Royale souhaite construire des logements sociaux, qui pourront être acquis par les locataires qui ont payés leur loyers pendant 15 ans."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Demain, l'Etat prendra ses responsabilités et construira les logements sociaux dans les communes telles que la vôtre qui ne respecte pas la loi, car lorsque l'on est candidat à la présidence de la République, on doit montrer l'exemple et appliquer la loi dans l'exercice de ses fonctions exécutives notamment sur le territoire dont on a la charge."
+            },
+            {
+                "speaker": "SR",
+                "text": "Je ferai aussi en sorte que dans les logements sociaux, les locataires qui payent leur loyer et leurs charges régulièrement, pendant 15 ans, puissent devenir propriétaires de leur logement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Ségolène Royale souhaite créer un service public de la caution pour aider les jeunes et les petits salariés à accéder au logement."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "Enfin, je créerai le service public de la caution, car on voit beaucoup de petits salariés ou de jeunes ou ceux qui subissent des discriminations qui n'arrivent pas à accéder au logement locatif, car il faut sortir trois mois de loyer de sa poche."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Nicolas Sarkozy explique que le bouclier fiscal a pour but de ne pas prélever plus de la moitié de ce qu'a gagné un français dans l'année."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Un mot sur une expression que les Français ont peut-être mal compris, c'est le bouclier fiscal, si je suis président de la République, j'en fixerai un à 50 %."
+            },
+            {
+                "speaker": "NS",
+                "text": "Mon idée est que nul en France ne doit se voir prélever plus de la moitié de ce qu'il a gagné dans l'année."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Nicolas Sarkozy souhaite baisser la fiscalité sur les produits propres, et baisser la TVA sur les bâtiments à haute qualité environnementale."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Je demanderai à nos partenaires européens que sur tous les produits propres, on ait une fiscalité à taux réduit."
+            },
+            {
+                "speaker": "NS",
+                "text": "Pareil pour le bâtiment, je proposerai la TVA à taux réduit à 5 % pour tous les bâtiments HQE (haute qualité environnementale)."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Nicolas Sarkozy souhaite créer une taxe carbone pour les importations qui ne respectent pas le protocole de kyoto, et créer une taxe sur les poids lourds étrangers."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Deuxième élément, je trouve scandaleux que l'on importe en France des produits qui viennent de pays qui ne respectent pas le protocole de Kyoto, c'est-à-dire cette fameuse histoire des gaz à effet de serre, il faut créer la taxe carbone pour rééquilibrer la concurrence avec nos propres industriels, car nous on fabrique des produits qui respecte le protocole de Kyoto et on fait venir des produits qui ne le respecte pas."
+            },
+            {
+                "speaker": "NS",
+                "text": "Troisième chose, je souhaite que l'on crée une taxe sur les poids lourds étrangers."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Nicolas Sarkozy explique être pour le nucléaire, mais aussi pour développer les énergies renouvelables."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "S'agissant de l'environnement, si je suis président de la République, je confirmerai le choix du nucléaire."
+            },
+            {
+                "speaker": "NS",
+                "text": "Nous devons développer les énergies renouvelables, l'éolien, encore que l'on ne peut pas couvrir la France d'éoliennes, quand vous les voyez, on sait que cela pose aussi des questions sur le paysage ; le solaire, les bio carburants dont j'ai proposé la défiscalisation à 100 %, car je crois à l'agriculture française."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Nicolas Sarkozy explique ne pas vouloir construire trop de logements sociaux, préférant favoriser une politique qui aide les français à devenir propriétaires."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "S'agissant des logements sociaux, je dirai un mot, c'est important, mais pour moi, il est plus important de permettre aux Français de devenir propriétaires de leur logement."
+            },
+            {
+                "speaker": "NS",
+                "text": "Dans les logements sociaux, comme on n'arrive pas à être propriétaire, car c'est trop cher, on reste dans son HLM, le taux de rotation est insuffisant et ceux qui doivent avoir une HLM n’y parviennent pas, car il n'y a pas ce taux de rotation."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Nicolas Sarkozy souhaite supprimer les droits de succession et de donation."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Enfin, c'est sûrement un point de désaccord entre nous, quand on a travaillé toute sa vie, je considère qu'il n'y a rien de plus beau que de laisser à ses enfants le fruit d'une vie de travail, je propose que pour toutes les successions petites ou moyennes, on supprime les droits de succession et les droits de donation, car je crois beaucoup à la famille et au travail."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Ségolène Royale explique vouloir faire de la france le pays de l'excellence écologique, en travaillant sur les geste individuels d'économies d'énergie, une modification des structures d'aide à l'agriculture, et en investissant dans les filières de développement industriel."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "J'entends faire de la France le pays de l'excellence écologique."
+            },
+            {
+                "speaker": "SR",
+                "text": "Je l'ai exprimé tout à l'heure, je crois que c'est à la fois des gestes individuels de chacun, notamment sur les économies d'énergie, d'eau, sur une modification profonde des structures d'aide à l'agriculture afin que l'agriculture durable soit davantage, si ce n'est au moins autant, aidée que l'agriculture intensive, que celle qui irrigue."
+            },
+            {
+                "speaker": "SR",
+                "text": "Il y a des filières de développement industriel à développer, le véhicule propre à mettre en mouvement."
+            },
+            {
+                "speaker": "SR",
+                "text": "Je souhaite que les industries automobiles françaises, au lieu de licencier comme elles le font aujourd'hui, mettent leurs laboratoires de recherche en commun pour mettre au point le véhicule propre qui, demain, en effet, se verra ouvrir un marché mondial."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Ségolène Royale souhaite continuer le nucléaire mais suspends l'EPR, elle souhaite augmenter la part des énergies renouvelables."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Continuons-nous le choix du nucléaire ou l'arrête-t-on?"
+            },
+            {
+                "speaker": "SR",
+                "text": "On augmente la part des énergies renouvelables."
+            },
+            {
+                "speaker": "SR",
+                "text": "Je suspends l'EPR dès que je suis élue."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Nicolas Sarkozy critique le choix sur l'EPR qui la forcera à faire fonctionner des vieilles centrales plus longtemps, et car l'EPR a déjà été vendu au Finlandais."
+        },
+        "extractive": [
+            {
+                "speaker": "NS",
+                "text": "Si vous revenez sur le choix de l'EPR, Madame, vous serez obligée pour respecter votre parole de garder le même pourcentage du nucléaire, de faire fonctionner les vieilles centrales plus longtemps."
+            },
+            {
+                "speaker": "NS",
+                "text": "Cela veut dire que vous prendriez la responsabilité de faire fonctionner des vieilles centrales plus longtemps par refus du choix du progrès qui sont les centrales de la dernière génération."
+            },
+            {
+                "speaker": "NS",
+                "text": "La position des Finlandais consistait à nous dire, je connais le dossier : c'est bien beau que vous nous vendiez ce prototype, mais vous les Français, allez-vous le prendre, comment AREVA pourra construire des EPR en Finlande avec vous Présidente de la République qui expliquerait aux Finlandais que l'EPR est bien pour eux, mais qu'en France, on va continuer à réfléchir."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": " Ségolène Royale explique préférer travailler sur la prochaine génération de nucléaire, car l'uranium disparaîtra, elle souhaite investir dans la recherche sur le nucléaire, et augmenter la part d'énergies renouvelables dans le bouquet énergétique."
+        },
+        "extractive": [
+            {
+                "speaker": "SR",
+                "text": "La question est de savoir s'il n'est pas plus intelligent de coopérer entre différents pays et de passer tout de suite à un investissement sur la quatrième génération."
+            },
+            {
+                "speaker": "SR",
+                "text": "Je choisis de maintenir le nucléaire, mais d'augmenter la part des énergies renouvelables dans le bouquet énergétique."
+            },
+            {
+                "speaker": "SR",
+                "text": "Ce qui est prometteur aujourd'hui, au moment où la question des déchets nucléaires n'a pas été résolue, c'est sans doute d'investir dans le recyclage des déchets nucléaires qui pourraient peut-être devenir justement demain le nouveau combustible avec les restes d'uranium, le nouveau combustible qui permettra justement de passer ce cap de la pénurie d'uranium."
+            }
+        ]
+    }
+]

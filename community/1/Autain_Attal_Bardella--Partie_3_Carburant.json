@@ -1,0 +1,160 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Clémentine Autain, Gabriel Attal et Jordan Bardella discutent du pouvoir d'achat des français."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "C'était le premier grand thème de cette émission, c'est maintenant ça a été un thème de friction ces derniers jours, quelle mesure pour protéger le pouvoir d'achat des français ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal débute en expliquant que la france a su garder une inflation plus faible que le reste de l'europe, à l'aide des blocage du prix du gaz et de l'électricité et la réduction du prix du carburant."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "D'abord merci de rappeler qu'on a beaucoup agi pour limiter l'envoler des prix dans notre pays il y a aujourd'hui une inflation qui est élevée trop élevée en France, au-dessus de 5% mais qui reste la plus faible de la zone euro."
+            },
+            {
+                "speaker": "GA",
+                "text": "On a dès le mois de novembre dernier 2021, bloqué les prix du gaz, bloqué les prix de l'électricité, ce qui fait que contrairement à ce que nous voyons autour de nous, notamment en Espagne et en Italie, ou encore en Allemagne, il n'y a pas eu d'envolée de la facture d'électricité puisque les prix ont été bloqués."
+            },
+            {
+                "speaker": "GA",
+                "text": "On a mis en place des mesures avec notamment la ristourne carburant que vous évoquez, à laquelle va succéder un dispositif de soutien encore plus massif et ciblé pour ce qu'on appelle, j'aime pas trop ce terme les gros rouleurs, mais on pourrait dire les gros bosseurs, c'est-à-dire ceux qui doivent utiliser leur voiture pour aller travailler, faire un certain nombre de kilomètres, et ont une rémunération qui fait que l'augmentation du prix de l'essence ça les impacte énormément dans leur pouvoir d'achat."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique vouloir mettre en place quatre grande mesures, la baisse de la tva de vingt à cinq virgule cinq pourcent sur l'énergie, le blocage des prix sur un panier de cent produits de première nécessité, la réindexation des pensions de retraite sur l'inflation, et l'augmentation des salaires, en supprimant les charges sur les augmentations à échelle de 10% d'augmentation."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "écoutez sur les carburants il y a 60% de taxes, donc on peut si vous voulez donner de la main droite, pour reprendre le double de la main gauche, mais ça ne fonctionne pas."
+            },
+            {
+                "speaker": "JB",
+                "text": "Nous proposons nous 4 grandes mesures, la première grande mesure c'est la baisse de la TVA de 20% à 5,5% sur l'énergie, l'électricité, le gaz, le fuel on baisse la TVA de 20 à 5,5%, c'est en train de devenir aujourd'hui se chauffer comme se déplacer un produit de luxe."
+            },
+            {
+                "speaker": "JB",
+                "text": "Deuxième mesure d'urgence un panier de 100 produits de première nécessité qui soit totalement exempté de TVA, le riz, les couches pour bébé, les pâtes, les produits hygiéniques pour les femmes, on sort complètement la TVA tant que l'inflation sera d'un point supérieur à la croissance."
+            },
+            {
+                "speaker": "JB",
+                "text": "Troisièmement on réindexe les pensions de retrait sur l'inflation, parce que depuis 2013 les pensions de retrait sont sous indexés, désindexés de l'inflation, merci Emmanuel Macron qui avant d'être président était ministre de l'économie, et enfin il faut évidemment augmenter les salaires, parce que tout augmente sauf les salaires, et nous souhaitons notamment passer un deal gagnant-gagnant avec les chefs d'entreprise, vous augmentez de 10% tous vos salaires, ces dix pourcents sont exemptés de charges."
+            },
+            {
+                "speaker": "JB",
+                "text": "Il y a 3 fois depuis 1960 où le pouvoir d'achat a baissé, en 1960, en 2013, avec les mesures de François Hollande, et cette année avec Emmanuel Macron."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal explique qu'il souhaite aussi augmenter de 4% les pensions de retraite pour atteindre le taux de l'inflation."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Je veux juste réagir parce qu'on parlait de la question du carburant, et Jordan Bardella a élargi, donc je veux élargir aussi, nous avons une loi sur le pouvoir d'achat qui est prête à être votée après les élections législatives, qui prévoit que les pensions de nos retraités seront revalorisées de 4% dès le mois de juillet."
+            },
+            {
+                "speaker": "GA",
+                "text": "Il y a des mesures de pouvoir d'achat pour les Français qui travaillent avec des baisses d'impôts, la suppression de la redevance audiovisuelle en garantissant bien sûr l'indépendance et les moyens du service public, des mesures pour les travailleurs indépendants, les commerçants, les artisans, les agriculteurs qui sont au niveau du SMIC gagneront 550€ de plus par an grâce aux baisses de cotisation."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal explique que la nupes souhaite augmenter les impôts."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "En face de ça vous avez des projets d'augmentation d'impôts, vous avez un projet celui notamment de la Nupes qui écrit noir sur blanc qui vont augmenter massivement les impôts sur les Français, et notamment sur les classes moyennes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine autain défend son programme en expliquant qu'elle souhaite créer de nouvelles tranches d'impôt sur le revenu, et que tous ceux qui gagnent moins de 4000 euros s'en sortent gagnants."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Mais si c'est un mensonge vous parlez de la fiscalité, on veut faire 14 tranches, vous parlez pas que de l'impôt sur le revenu, moi je vous parle de ça, 14 tranches que nous voulons faire d'impôt, qui fait que tous ceux qui vont gagner moins de 4000 euros par personne vont sortir gagnants de ce nouveau système."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine Autain souhaite aussi taxer les super profits et les grands opérateurs pétroliers."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Nous ce qu'on veut c'est faire payer les profiteurs de crise, c'est-à-dire taxer à la source là où justement pendant la crise Covid alors que nous avons la crise Covid alors que nous avons la guerre en Ukraine, on a des opérateurs comme Total qui sont capables d'engranger des profits historiques jusqu'à reverser 8 milliards de dividendes tout récemment pendant que à la pompe vous avez des gens qui ont besoin de 100 euros pour faire le plein."
+            },
+            {
+                "speaker": "CA",
+                "text": "Et les surtaxes que nous voulons ce sont des surtaxes qui sont déjà mises en œuvre, vous parliez tout à l'heure de l'Italie, de l'Espagne, ou du Royaume-Uni, tout récemment et bien voilà trois pays qui ont décidé de voter une surtaxe pour les opérateurs pétroliers."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine autain souhaite aussi le blocage des prix, la taxation des dividentes, et l'augmentation du SMIC de 15%."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Ensuite ce que nous voulons c'est bloquer les prix, nous l'avons dit, nous le redisons c'est très facile à faire c'est même un décret puisque l'article L410-2 du code du commerce nous permet de le faire, Emmanuel Macron l'avait fait au moment du gel hydroalcoolique et des masques, ça a déjà été fait en 1991 par Rocard donc on bloque les prix des produits de première nécessité."
+            },
+            {
+                "speaker": "CA",
+                "text": "Donc je dis faire payer, taxer les dividendes, bloquer les prix et ensuite augmenter les salaires donc le SMIC, plus 15% ce qui le porte immédiatement à 1 500€, augmenter les minimas sociaux pour que personne, je dis bien personne."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine Autain explique que les PME auront un carnet de commande mieux rempli grâce aux autres réformes de la france insoumise."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Donc ça c'est la première chose et la deuxième, les TPE, les PME ça nous a pas échappé, mais elles ont un autre sujet c'est le carnet de commande, hors quand vous avez des salaires comprimés de la majorité des Français, de ceux dont les dépenses sont des dépenses qu'on ne met pas en près dans un coin, qu'on ne met pas pour accumuler du patrimoine, mais qu'on dépense justement pour de la consommation qui répond aux besoins, et bien les petites entreprises et les moyennes entreprises elles ont besoin que ces carnet de commande soient augmentés."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine autain explique qu'elle souhaite supprimer le quotient familial qu'elle considère comme injuste, car elle baisse les impôts d'un taux fixe, avantageant les gens qui sont plus riches et qui paient plus d'impôts"
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Vous supprimez le quotient conjugal et le quotient familial, comment est-ce que vous expliquez que leurs impôts n’augmentent pas ?"
+            },
+            {
+                "speaker": "CA",
+                "text": "Je vous dis que le quotient familial n'a un impact que pour ceux qui paient des impôts."
+            },
+            {
+                "speaker": "CA",
+                "text": "Vous avez beaucoup de Français parmi les plus pauvres et les plus impactés puisqu'on parlait du pouvoir d'achat sont des gens qui ne paient pas d'impôts parcequ’il ne gagnent pas assez."
+            },
+            {
+                "speaker": "CA",
+                "text": "Sauf que vous voyez bien quand vous gagnez plus d'argent ça vous diminue plus les impôts que quand vous gagnez moins d’argent, donc c’est un système qui n'est pas juste"
+            }
+        ]
+    }
+]

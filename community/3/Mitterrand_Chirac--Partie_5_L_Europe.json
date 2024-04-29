@@ -1,0 +1,204 @@
+[
+    {
+        "abstractive": {
+            "text": "Le journaliste demande ce qui rapproche les deux candidats sur cette question, et sur ce qui les sépare. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. VANNIER",
+                "text": "Nous avons envie de vous demander ce qui, aujourd'hui, au plan européen, vous sépare et vous rapproche ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mitterrand rappelle son engagement en faveur de l’Europe ; il fut l’un des premiers fondateurs des institutions européennes, après la guerre ; déjà alors, il admirait la figure des pères de l’Europe. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERAND",
+                "text": "Pour ce qui me concerne, c'est un engagement très ancien, certains diront \"trop ancien\" car j'ai été l'un des premiers fondateurs, à la Deuxième Guerre mondiale, des institutions européennes, à cela près que j'étais un modeste député très jeune et que je regardais, en les admirant, agir des hommes comme Monnet, Schumann, Adenauer, Gaspéri et quelques autres."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il estime que son adversaire a été un adversaire de la construction européenne, jusqu’à très récemment. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERAND",
+                "text": "En fait, le Premier ministre a été jusqu'à une époque récente toujours contre tout ce qui concernait le développement de l'Europe."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Face à lui, Chirac défend une Europe des nations composées de pays indépendants dans le sillage de la vision du général De Gaulle ; cette Europe n’avance que trop lentement à son goût. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "L'Europe qui est l'Europe des nations, aujourd'hui, celle d'ailleurs qu'avait envisagée le général de Gaulle, à laquelle j'ai toujours souscrit, cette Europe progresse difficilement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il souhaite principalement réformer la France sur le plan économique pour la rendre compétitive dans le cadre de l’ouverture du marché commun qui aura lieu en 1992. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Ce que je veux, maintenant, c'est qu'en 92, au moment de l'ouverture de ce marché commun, la France soit suffisamment forte, soit suffisamment compétitive, comme on dit aujourd'hui, grâce au travail de ses travailleurs et de ses entreprises pour affronter cette concurrence nouvelle."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mitterrand pense de son côté avoir déjà beaucoup fait pour l’Europe, contrairement à ce qu’affirme Chirac ; en effet, il a toujours approuvé les mesures en faveur du développement de l’Europe accomplies par Giscard d’Estaing, alors même qu’il était en désaccord avec sa ligne politique générale. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERAND",
+                "text": "Peut-être avez-vous un jugement injuste, même sûrement, lorsque vous dites, \"on n'a rien fait pendant ces 5 années-là\" alors que, succédant à M. Giscard d'Estaing qui avait accompli des réformes très importantes que j'avais approuvées alors que je condamnais généralement le reste de sa politique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il mentionne également l’élargissement de l’union qu’il a impulsé, avec l’intégration de l’Espagne et du Portugal. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERAND",
+                "text": "Sous mon autorité, la France a procédé à l'élargissement de la Communauté, à l'Espagne et au Portugal."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Chirac admet alors avoir évolué sur la question, en proposant notamment un instrument monétaire commun. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Nous avons progressé, depuis deux ans, c'est vrai, et nous avons fait des propositions concrètes, notamment, celle de M. Balladur sur un instrument monétaire commun."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il a également résolu un certains nombres de problèmes financiers, entraînant par là l’émergence d’Airbus et le développement de l’Europe spatiale. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "De même, nous avons permis à l'Europe de régler ce problème financier qu'elle traînait depuis longtemps, lancer, en matière de technologie, le programme Airbus, le programme de l'Europe spatiale, ce qui va conditionner notre temps et qui est un grand défi pour la jeunesse de l'Europe et de la France."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il accuse la politique étatiste socialiste d’avoir défavorisé l’économie française. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "La situation s'est ensuite dégradée parce que nos entreprises, nos travailleurs se sont vus, au titre d'une certaine conception de la politique étatiste, surchargés de toutes sortes d'entraves bureaucratiques ou fiscales."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mitterrand est d’accord avec Chirac sur les grands groupes européens, se réjouissant particulièrement de l’Europe de l’espace. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERAND",
+                "text": "Je vous entendais avec plaisir, tout à l'heure, évoquer cette magnifique perspective, qui n'est pas un mirage, d'un homme dans l'espace, d'un homme européen dans l'espace, avec un matériel européen."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur l’économie en revanche, il se montre particulièrement virulent avec lui, rendant sa politique responsable de la dégradation des finances publiques. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERAND",
+                "text": "J'ai moins tendance à sourire lorsque vous parlez de la réussite de votre politique économique et lorsque vous parlez des exportations."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique que le déficit de produits industriels n’a jamais été aussi élevé qu’en 1987, et ce depuis 1969. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERAND",
+                "text": "Or, en 1985, nous avons eu un excédent de 90 milliards de produits manufacturés et, en 1987,ce sont les derniers Comptes annuels de la nation qui viennent de le dire, document officiel, vous avez atteint, avec moins 11 milliards, le plus grave déficit de produits industriels ou manufacturés depuis 1969."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur l’inflation, même si la situation actuelle est positive, il évoque l’échec de son adversaire en 1976 ; Chirac avait été en conséquence jugé sévèrement par Barre. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERAND",
+                "text": "Rappelez-vous que vous avez dû quitter, vous-même, le pouvoir en 1976, vous avez cédé la place à M. Barre parce que vous aviez échoué dans votre lutte contre l'inflation et M. Barre vous avait condamné, à cette époque, très sévèrement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Face à ses attaques, Chirac se défend en justifiant la hausse des importations : sa politique a donné davantage de moyens aux entreprises, lesquelles ont pu investir, notamment en achetant le matériel dont elles ont besoin à l’étranger. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Aujourd'hui, depuis 1986, nous avons, Dieu soit loué, engagé une politique qui a rendu à nos entreprises le moyen d'investir, c'est-à-dire de préparer l'avenir, de préparer cette échéance 92, et cela est capital, naturellement !"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il donne ensuite les grandes lignes de sa politique : liberté des échanges, des prix, du crédit et réduction du chômage. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Naturellement, qu'est-ce que cela a pour conséquences, c'est que nous importons davantage, ce sont des importations saines et que nous exportons moins parce que nous consommons davantage, notamment les machines-outils que nous produisons, pas assez d'ailleurs, mais c'est un autre problème."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Moi, j'ai fait une politique depuis 86, on la connaît : liberté des échanges, des prix, liberté du crédit, investissements, lutte contre le chômage, réussite dans ce domaine."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Cependant, pour Mitterrand, les arguments de son adversaire sont oiseux : actuellement, les exportations industrielles ont chuté de 100 milliards. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERAND",
+                "text": "Ceci veut dire qu'en l'espace de trois ans, nous avons une chute de 100 milliards dans nos produits manufacturés avec 100 milliards de moins à payer sur le plan énergétique, c'est-à-dire sur le plan pétrolier."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il le rejoint néanmoins sur l’acceptation des principes de concurrence portés par le marché commun ; sa politique permettra au pays de gagner la compétition qui s’engage. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. MITTERAND",
+                "text": "Voilà ma politique : je veux engager la France dans l'Europe, en acceptant la concurrence et la compétition avec, bien entendu, la volonté de la gagner"
+            }
+        ]
+    }
+]

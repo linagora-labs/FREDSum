@@ -1,0 +1,94 @@
+[
+    {
+        "abstractive": {
+            "text": "Le présentateur débute en demandant quelles mesures pourraient être mise en place pour y rendre le calme. "
+        },
+        "extractive": [
+            {
+                "speaker": "Mme. COTTA",
+                "text": "Si vous êtes d'accord, nous décomptons ces deux fois deux minutes, la question est que la situation en Nouvelle-Calédonie est particulièrement préoccupante en ce moment."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Miterrand explique que ce qui compte est la libération des gendarmes et du magistrat retenus en otage, et qu'il souhaite le dialogue. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. VANNIER",
+                "text": "Acceptez-vous, tous les deux, cette convocation d'un Conseil des ministres et cette dissolution du FLNKS ?"
+            },
+            {
+                "speaker": "M. VANNIER",
+                "text": "On parle aussi, nous dit-on, sur place, de la nomination d'un nouveau médiateur et le nom de M. Pisani a été cité, là encore, permettez-nous de vous interroger sur ce point."
+            },
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Personne ne m'a parlé d'un médiateur, ce n'est pas une mauvaise idée."
+            },
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Pas davantage, il ne m'a saisi d'une dissolution éventuelle du mouvement indépendantiste des Canaques, de telle sorte que ce sont deux questions auxquelles je ne puis répondre."
+            },
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Ce qui compte, aujourd'hui, je veux dire à la minute où je m'exprime, c'est la libération des gendarmes et du magistrat qui sont, aujourd'hui, retenus en otage, ce qui n'est pas, pour nous, supportable."
+            },
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "On a oublié que le dialogue était la règle de la République, il faut retourner au dialogue avec toutes les parties prenantes de la Nouvelle-Calédonie."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jacques Chirac explique que les faits en nouvelle calédonie ne vient pas de la population générale, mais d'un groupe terroriste. "
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Il y a, en réalité, une action qui a été conduite et amplifiée de dialogue et qui fait qu'une très large partie des Mélanésiens sont, aujourd'hui, en faveur de la solution qui consiste à rester dans la République et ils l'ont exprimé clairement lors du dernier référendum."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Tjibaou disait, il y a quelque temps, que \"la France nous dise combien elle veut de morts ?\" et si je ne m'abuse, dans votre Lettre aux Français, vous disiez : \"depuis 7 ans que je le rencontre, M. Tjibaou ne varie pas, c'est un homme que je respecte\"."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Moi, je ne respecte pas quelqu'un qui est devenu un terroriste et je ferai tout pour que ce groupe terroriste soit réduit comme j'ai tout fait pour qu'il soit réduit ailleurs."
+            },
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Vous auriez vu que je considérais, moi aussi, qu'il ne fallait rejeter ni les uns ni les autres et que c'était la République française qui pouvait et qui devait être l'arbitre dans ce conflit que votre politique a malheureusement aiguisé et aggravé par son injustice et son intolérance."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique que depuis qu'il est arrivé au pouvoir, le calme y est revenu, et que le référendum a tranché sur la position de la nouvelle calédonie pour rester dans la france."
+        },
+        "extractive": [
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Pendant qu'il y a eu les gouvernements socialistes, nous avons eu l'exaspération, nous avons 32 morts, des centaines de gens blessés, des maisons incendiées, des femmes violées."
+            },
+            {
+                "speaker": "M. MITTERAND",
+                "text": "Je veux dire très rapidement que la Nouvelle-Calédonie en l'espace d'un siècle a connu de nombreuses crises dont certaines ont été plus tragiques encore que celles que nous vivons actuellement."
+            },
+            {
+                "speaker": "M. MITTERRAND",
+                "text": "Il faut que chacun, là-bas, se sente en sécurité, il faut que la culture d'origine soit respectée, il faut que les terres ne soient pas confisquées au bénéfice de quelques-uns."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Vous dites, \"les terres\", les terres, pendant les cinq ans de gouvernement socialiste, pas un hectare a été redistribué."
+            },
+            {
+                "speaker": "M. CHIRAC",
+                "text": "Vous parlez de la coutume, monsieur Mitterrand, mon gouvernement a créé l'assemblée culturelle dans son nouveau statut."
+            }
+        ]
+    }
+]

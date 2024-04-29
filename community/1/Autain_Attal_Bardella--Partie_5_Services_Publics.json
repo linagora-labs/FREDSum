@@ -1,0 +1,148 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Gabriel Attal, Clémentine Autain et Jordan Bardella discutent de l'hôpital français."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Vous êtes tous les trois, quand on regarde les programmes, d'accord sur un point, pour recruter plus d'infirmiers, pour recruter plus d'aides soignantes, pour aider l'hôpital, pour revaloriser ces métiers."
+            },
+            {
+                "speaker": "P1",
+                "text": "Comment fait-on Clémentine Autain ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine Autain explique qu'il faut changer de politique, parlant du burn out des fonctionnaires dans les hôpitaux depuis le gel du point d'indice."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Et les fonctionnaires, on n'a pas eu le temps d'en parler aussi sur la question du pouvoir d'achat, vous savez qu'ils subissent le gel du point d'indice depuis fort longtemps."
+            },
+            {
+                "speaker": "CA",
+                "text": "Donc remettre de l'humain, faire en sorte que les services publics soient respectés, que les personnels puissent travailler dans des conditions dignes, revaloriser leurs salaires et former massivement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine Autain explique qu'il faut réouvrir des lits, pour cela il faut investir dans la formation de personnel et l'augmentation des salaires."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Donc, ce qu'il faut pour ouvrir des lits, c'est former des personnels, mieux rémunérer, augmenter les salaires."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Clémentine autain propose une augmentation immédiate de 200 euros des salaires des infirmières."
+        },
+        "extractive": [
+            {
+                "speaker": "CA",
+                "text": "Ce qu'on propose, par exemple, c'est que pour les infirmières qui démarrent, il y a immédiatement 200 euros de plus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal explique que son gouvernement a mis en place des chantiers de modernisation et d'augmentation des salaires avec notamment le ségur de la santé, auquel clémentine autain s'est opposée."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "Des grands chantiers de modernisation, la facturation électronique entre les entreprises, la prescription, la carte vitale et une maîtrise des dépenses dans les secteurs où c'est possible."
+            },
+            {
+                "speaker": "GA",
+                "text": "Et ce qu'il faut, c'est renforcer l'attractivité des postes à l'hôpital."
+            },
+            {
+                "speaker": "GA",
+                "text": "Pourquoi est-ce que vous avez voté contre une augmentation de près de 200 euros net pour tous ceux qui travaillent à l'hôpital, alors que vous la réclamez ici?"
+            },
+            {
+                "speaker": "GA",
+                "text": "Il y a 3000 hôpitaux et EHPAD en France et notamment des petits hôpitaux, des hôpitaux de proximité. On arrête de financer uniquement les grands CHU, des grandes métropoles qui vont être soit rénovés, soit intégralement reconstruits."
+            },
+            {
+                "speaker": "GA",
+                "text": "Et le troisième chantier, et je terminerai par là, j'avais un peu de retard sur le temps de parole, le troisième chantier, c'est celui du fonctionnement dans l'hôpital, des conditions de travail dans l'hôpital."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gabriel Attal parle aussi de la suppression du numérus clausus afin de pouvoir former plus de médecins."
+        },
+        "extractive": [
+            {
+                "speaker": "GA",
+                "text": "On a fait le ségur de la santé au moins 183 euros net par mois."
+            },
+            {
+                "speaker": "GA",
+                "text": "En plus du fait, je le rappelle, qu'on a supprimé le numérus clausus, ce qui fait qu'on aura dans quelques années davantage de médecins qui arriveront dans nos hôpitaux et sur le terrain."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella souhaite revaloriser les salaires des fonctionnaires qui travaillent dans l'hôpital."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Ils s'estiment maltraités parce que voyez-vous, ils sont paix 10 % de moins que la moyenne de l'OCDE."
+            },
+            {
+                "speaker": "JB",
+                "text": "Vous avez détruit l'hôpital public parce que vous avez supprimé 27 milliers à l'hôpital public depuis 2013 et que vous avez continué à fermer des lits pendant la crise sanitaire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique qu'il souhaite un moratoire sur la fermeture de lits dans les hôpitaux d'île de france."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Donc, il faut un moratoire sur les fermetures de l'île premièrement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella souhaite mettre en place une direction bicéphale des hôpitaux entre soigneurs et administratif."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Deuxièmement, il faut arrêter de gérer l'hôpital comme on gère une entreprise."
+            },
+            {
+                "speaker": "JB",
+                "text": "Donc, nous on propose une direction bicéphale entre les soignants et des gens qui gèrent l'administration, mais on ne peut pas remettre entre les mains de gens qui se comportent comme des chefs d'entreprise le service public."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella souhaite investir vingt milliards dans les hôpitaux, dix milliards pour les infrastructures, et dix milliards pour l'augmentation des rémunérations"
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Nous, on propose 20 milliards, 10 milliards pour investir dans les infrastructures de santé, et 10 milliards pour augmenter significativement les salaires"
+            }
+        ]
+    }
+]

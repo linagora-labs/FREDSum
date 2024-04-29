@@ -1,0 +1,353 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Jordan Bardella et Olivier Véran discutent de leur vision de la solidarité."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "On a eu le sentiment de la part des électeurs de gauche, Olivier Véran me cite Marine Le Pen, que le quinquennat n'aurait pas tenu ses promesses en matière de solidarité sociale."
+            },
+            {
+                "speaker": "P1",
+                "text": "Alors ce que vous proposez pour le quinquennat à venir, ça s'appelle la solidarité à la source, mais est-ce que c'est cela vraiment qui peut faire la solidaritée en france ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique que son gouvernement a déjà mis en place le versement automatique de la pension alimentaire pour les femmes, le remboursement intégral des  prothèses auditives et de lunettes, la prise en charge des plus fragiles avec les chèques étudiants pendant la crise sanitaire, le dédoublement des classes dans les quartiers populaires ainsi que les petits déjeuners gratuits à l'école."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Bon, c'est pas moi qui pourrais vous dire autre chose, en matière de solidarité on ne fera jamais assez."
+            },
+            {
+                "speaker": "OV",
+                "text": "En matière de bilan, on a pas à rougir de ce qu'on a fait."
+            },
+            {
+                "speaker": "OV",
+                "text": "Rien qu'au cours de la dernière année pour les femmes qui sont avec des enfants, qui touchaient pas la pension alimentaire, c'est le versement automatique, Marine Le Pen a voté contre."
+            },
+            {
+                "speaker": "OV",
+                "text": "Pour plus de dix millions de français déjà, qui ont bénéficié de prothèses auditives dentaires de lunettes, il n'y a plus de reste à charge."
+            },
+            {
+                "speaker": "OV",
+                "text": "Nous avons protégés les plus fragiles pendant la crise sanitaire en envoyant des chèques aux étudiants, parce qu'il pouvait plus avoir les petits boulots."
+            },
+            {
+                "speaker": "OV",
+                "text": "Nous avons mis en place la stratégie pauvreté, avec le dédoublement des classes dans les quartiers populaires, les petits déj gratuits à l'école."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique que dans le futur, son gouvernement souhaite éradiquer le non recours aux prestations sociales."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Nous allons éradiquer le non recours aux prestations sociales."
+            },
+            {
+                "speaker": "OV",
+                "text": "ça concerne potentiellement vingt millions de français, ça veut dire que de la même manière qu'il est simple, automatique, et peu tatillon aujourd'hui de déclarer et payer ses impôts, c'est directement prélevé d'ailleurs à la source, demain ce sera simple de recevoir les prestations sociales les aides au logement, les aides familiales, les aides sociales et les aides sanitaires auxquelles les familles peuvent prétendre lorsqu'elles sont avec des niveaux de revenus qui sont insuffisants."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que les français n'ont plus les moyens de se nourrir et de se chauffer, et qu'il représente la candidate du pouvoir d'achat."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "euh Il y a un français sur quatre aujourd'hui qui ne mange plus à sa fin, ou qui est contraint de sauter des repas parce que le prix de l'alimentation est devenu exorbitant."
+            },
+            {
+                "speaker": "JB",
+                "text": "euh Il y a un français sur cinq qui renonce à se chauffer, qui a renoncé à se chauffer l'hiver dernier, parce que parce que là encore les factures de gaz et électricité sont devenues exorbitantes."
+            },
+            {
+                "speaker": "JB",
+                "text": "Marine Le Pen a fait le choix d'être la candidate du pouvoir d'achat et d'une solidarité que l'on souhaite nationale."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique qu'il souhaite mettre en place la solidarité nationale des aides sociales."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Vous avez raison de rappeler que euh nous ne considérons pas euh la solidarité nationale, comme une solidarité internationale, et que nous souhaitons réserver les prestations sociales aux français, parce que nous avons, et c'est l'héritage que vous laissez, un pays avec euh dix millions de pauvres."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique qu'il souhaite baisser la tva de vingt à 5,5 pour cent sur l'ensemble des énergies, doubler les aides aux familles monoparentales et déconjugaliser l'allocation adulte handicapé."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Le premier engagement que nous prenons est notamment, vous le savez, l'abaissement de la tva de vingt pour cent à cinq virgule cinq pour cent sur l'ensemble des énergies, le carburant, l'électricité, le gaz, le fioul pour redonner du pouvoir d'achat aux français."
+            },
+            {
+                "speaker": "JB",
+                "text": "Nous doublerons également les aides aux familles monoparentales."
+            },
+            {
+                "speaker": "JB",
+                "text": "Nous déconjugaliserons pardon, euh le le le le l'allocation adulte handicapé pour permettre que le calcul ne soit plus fait sur le couple, mais directement de manière euh individuel parce que je pense que c'est une vraie mesure de justice sociale."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran condamne la préférence nationale sur les prestations sociales qui font que les étrangers ne pourront plus profiter de ce qu'ils cotisent."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "D'abord euh on parlera peut-être de pouvoir d'achat tout à l'heure, mais sur les prestations sociales que vous voulez retirer aux étrangers."
+            },
+            {
+                "speaker": "OV",
+                "text": "Avec la mesure que propose Marine Le Pen, pour des étrangers qui sont en situation régulière, et qui travaille, c’est : je cotise en fonction de mes moyens et je ne reçois plus rien."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que les aides sociales aux étrangers seront conditionnées à cinq ans de travail."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Nous, nous conditionnerons, non pas cinq ans sur le territoire mais à cinq ans dans le monde du travail."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique que les étrangers partiront et qu'il sera impossible de trouver des travailleurs."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Vous cotisez pour des prestations que vous ne recevez pas."
+            },
+            {
+                "speaker": "OV",
+                "text": "L'immigration économique est fondamentale, l'immigration liée à la à la recherche aussi."
+            },
+            {
+                "speaker": "OV",
+                "text": "Si vous n'avez plus euh demain, de travailleurs euh dans la dans la manufacture, vous n'avez plus d'ouvriers, vous n'avez plus de chauffeurs, de livreur, de femmes de ménage, ce sont nos villes qui ne, qui ne survivent plus si vous voulez."
+            },
+            {
+                "speaker": "OV",
+                "text": "Et puis les médecins étrangers, les infirmier, les aides-soignantes, ce sont nos vies qui ne vont plus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que la france n'a pas à prendre en charge les gens du monde entier."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Mais euh, voyez-vous, nous ne sommes pas missionné par le peuple français pour euh nous occuper euh de familles libanaises que je respecte parfaitement, mais pour nous occuper en priorité du peuple français."
+            },
+            {
+                "speaker": "JB",
+                "text": "Alors s'il y a de la place pour accueillir des gens qui viennent dans notre pays pour travailler, pour aimer notre langue, pour participer à cette même communauté de destin, eh bien ils pourront venir."
+            },
+            {
+                "speaker": "JB",
+                "text": "Mais quand on a dans un pays, pardon, mais c'est aussi votre bilan, et je l'ai dit tout à l'heure, dix millions de pauvres, six millions de chômeurs, et un français sur quatre qui n'arrive plus à se nourrir correctement, qui est contraint de sauter des repas, et bien pardon de penser d'abord aux familles françaises avant de me penser un altruisme qui dépasse les frontières et qui viserait à prendre en charge la misère du monde entier."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique qu'il souhaite mettre en place la préférence nationale pour les logements sociaux."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Oui exactement, pour bénéficier de prestations sociales, il faudra justifier de cinq ans de travail à temps plein sur le territoire national."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et je vais même vous dire, dès les premiers mois du quinquennat, nous allons faire voter, encore une fois par le peuple français, un grand référendum sur la question de l'immigration."
+            },
+            {
+                "speaker": "JB",
+                "text": "Dans ce projet de loi que nous allons soumettre aux français, il y aura la priorité nationale."
+            },
+            {
+                "speaker": "JB",
+                "text": "Cette priorité nationale que nous voulons intégrer dans la constitution, elle vise à donner une priorité d'accès aux citoyens français, aux citoyens français, sans aucune autre distinction à l'emploi ou à l'accès au logement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique que cela ne ferait aucun résultat sans expulsions."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Ou vous expulsez les étrangers qui occupent ces logements, et il faut m'expliquer ce que vous en faites, est-ce que c'est des bidonvilles ou des charters, mais c'est pas six cent mille personnes,  c'est six cent mille familles."
+            },
+            {
+                "speaker": "OV",
+                "text": "Mais j'ai entendu Madame Le Pen, encore aujourd'hui, dire on expulsera personne, on attend qu’ils partent et on récupère leur logement qu'on donne à des français."
+            },
+            {
+                "speaker": "OV",
+                "text": "Mais est-ce que vous avez une idée du taux de renouvellement du parc hlm par exemple en ile-de-france ?"
+            },
+            {
+                "speaker": "OV",
+                "text": "Vingt ans Jordan Bardella, il vous faudrait vingt ans sans expulsion pour avoir des résultats d’une des propositions phare de Marine le Pen pas du tout vous voyez que le front national la page pas du rassemblement national a pas changé."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique qu'il souhaite faire du HLM un logement de transition."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "C'est qu'on ne doit pas passer sa vie dans un hlm."
+            },
+            {
+                "speaker": "JB",
+                "text": "Parce que y a beaucoup de familles françaises qui sont dans le besoin, qui utilisent un hlm parce que le hlm est une aide sociale, et c'est donc bien normal, qu'il soit donné en priorité aux français."
+            },
+            {
+                "speaker": "JB",
+                "text": "Mais le but est pas de rester toute sa vie dans un hlm, il faut recréer un parcours résidentiel au niveau du logement intermédiaire, il faut permettre euh là encore euh à ces familles de pouvoir s'élever par la méritocratie républicaine là où vous avez déclassé les classes populaires, et que vous continuez à déclasser les classes moyennes."
+            },
+            {
+                "speaker": "JB",
+                "text": "Trente-et-un pour cent des immigrés, selon l'insee, occupe aujourd'hui un hlm, donc oui je pense que y a une préférence étrangère et je pense que parce que le logement est une aide social il doit être réservée aux familles françaises."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique que les logements sociaux sont aussi donnés aux étrangers pour assurer l'assimilation des enfants, tout comme les autres aides faites aux écoles."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Vous avez une façon qui consiste à dire, on va rénover, c'est ce que nous voulons faire, tout le bâtiment urbain, pour casser ces tours pour permettre de créer la mixité sociale, parce que on croit qu'un modèle est possible, ou moi avec quelqu'un qui ait l'éducation catho peut vivre à côté de quelqu'un qui a une autre religion et qui a d'autres origines."
+            },
+            {
+                "speaker": "OV",
+                "text": "Je vous demande ce que vous faites des six cent mille familles qui vont évacuer les logements sociaux."
+            },
+            {
+                "speaker": "OV",
+                "text": "Oui, on assure un logement aux familles pour que les petits puissent grandir et que demain ils puissent devenir des citoyens."
+            },
+            {
+                "speaker": "OV",
+                "text": "On se bat jordan Bardella, pour avoir la capacité d'intégrer les gens en mettant le paquet sur l'éducation."
+            },
+            {
+                "speaker": "OV",
+                "text": "Je sais très bien ce que c'est que le statut de victime, je sais très bien ce que c'est que le statut de bourreau, je sais la lenteur parfois la justice, et je sais les difficultés que peuvent rencontrer les victimes."
+            },
+            {
+                "speaker": "OV",
+                "text": "Donc la lutte contre l'insécurité c'est de tous les instants, et vous trouverez pas chez moi un discours béni-oui-oui c'est pas parce que je viens de gauche, vous savez, que la sécurité ne compterait pas."
+            },
+            {
+                "speaker": "OV",
+                "text": "On fait en sorte que les gamins n'arrivent pas le ventre vide à l'école; on fait en sorte que quand ils puissent pas payer la cantine on la mette à un euro."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que le problème d'assimilation ne vient pas de toutes les aides faites ou non, mais d'une trop grande mixité, et qu'il faut arrêter l'immigration."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "l y a pas de mixité dans ces quartiers, c'est parce que ces quartiers sont submergés, sont submergés par l'insécurité, sont submergés par les violences, sont submergés par les trafics de drogue; et je connais très bien ces quartiers parce que j'ai grandi dans une cité hlm et y a beaucoup de gens qui vivent dans ces quartiers qui rêvent que d'une chose, c'est d'en partir."
+            },
+            {
+                "speaker": "JB",
+                "text": "Euh le problème de ces quartiers-là, et allons parlons clairement des choses, le problème des banlieues, de ce que vous appelez vous les quartiers populaires, même si moi je ne résume pas le peuple à ces territoires, c'est pas le coup de peinture sur les immeubles, c'est pas le dédoublement des classes, c'est pas la cantine à un euro, c'est que il y a dans des écoles de seine-saint-denis parfois vingt-cinq nationalités différentes, et que aujourd'hui l'éducation nationale est complètement submergée, complètement dépassée."
+            },
+            {
+                "speaker": "JB",
+                "text": "C'est que euh les les moyens de l'état là-bas sont complètement inutile, que ce soit les infrastructures, que ce soit la police, que ce soit les infrastructures de santé à l'hôpital delafontaine à saint-denis où tous les jours, toutes les semaines, tous les mois, il y a des soignants qui sont agressés par un climat d'impunité où on voit se passer là-bas des choses qu'on voit dans aucun autre département."
+            },
+            {
+                "speaker": "JB",
+                "text": "D'abord, j'arrête l'immigration; j'arrête l'immigration parce que voyez-vous, y a beaucoup de gens dans ces quartiers-là qui, quand ils sont arrivés dans les années soixante, soixante-dix ont fait cet effort exigeant, ma famille en fait partie, d'aimer la france, de s'assimiler, de s'intégrer, de respecter les institutions."
+            },
+            {
+                "speaker": "JB",
+                "text": "Donc la situation migratoire est tellement hors de contrôle dans ces quartiers aujourd'hui l'état est lui-même incapable de déterminer le nombre d'habitants."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique que son gouvernement souhaite plus faire pour la sécurité que celui proposé par Jordan Bardella, et qu'ils ont fait baisser l'immigration clandestine en échange d'une augmentation de l'immigration universitaire et économique."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Vous avez parlé de sécurité, on a dix mille agents de sécurité en plus sur le territoire."
+            },
+            {
+                "speaker": "OV",
+                "text": "On a augmenté de dix milliards le budget de la police, on va créer deux cents unités de mobiles de gendarmerie supplémentaires dans le prochain mandat, quinze milliards de plus c'est-à-dire plus que ce qui est dans votre propre programme pour la sécurité."
+            },
+            {
+                "speaker": "OV",
+                "text": "Donc on on a diminué l'immigration clandestine."
+            },
+            {
+                "speaker": "OV",
+                "text": "Ce qui a augmenté notre pays, car il y a une partie de l'immigration qui a augmenté dans notre pays depuis deux ans, c'est l'immigration économique, et l'immigration universitaire."
+            },
+            {
+                "speaker": "OV",
+                "text": "Ce que propose emmanuel macron c'est qu'il y aura plus de titres de long séjour accordés s'il n'y a pas la maîtrise la langue, et s'il n'y a pas un emploi pour pourvoir à ses besoins."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella conteste cela, demandant une ccellule de fact checking, avant d'expliquer que 90% des oqtf ne sont pas exécutées."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Mais vous, vous êtes en train de nous dire que vous avez fait baisser l'immigration clandestine, je suis désolé mais enfin ça aura été une fois ou le fact checking aurait été utile."
+            },
+            {
+                "speaker": "JB",
+                "text": "Quatre-vingt-dix pour cent des obligations de quitter le territoire français ne sont pas exécutées, vous avez le record européen de la faiblesse à l'égard de l'immigration clandestine où vous n'arrivez à expulser personne"
+            }
+        ]
+    }
+]

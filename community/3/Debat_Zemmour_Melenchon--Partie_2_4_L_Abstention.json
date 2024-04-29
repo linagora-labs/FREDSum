@@ -1,0 +1,195 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Mélenchon et Zemmour débattent de la question de l’abstention et de la constitution."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Après la crise des gilets jaunes, après ce que nous venons de vivre avec l'épidémie de de COVID, les mouvements qu'on a vu ces derniers jours, anti vax, euh antipass sanitaires, euh et avec une crainte que beaucoup ont en tête pour la prochaine présidentielle dans sept mois, c'est la crainte de l'abstention."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le journaliste commence par demander aux candidats s’ils ne redoutent pas l’abstention pour l’élection présidentielle."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Je pense que les français considèrent de plus en plus, qu'il ne sert à rien de voter."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Tout cela depuis le fameux traité de maastricht, contre lesquels il était, et pour lequel monsieur mélenchon a voté oui, mais il va me dire que là aussi il a changé d'avis."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Zemmour explique ce phénomène par l’inutilité du vote, en prenant exemple sur le traité de 2005."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "En deux mille cinq, écoutez petit bonhomme, dans le traité de deux mille cinq,"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Selon lui, droite et gauche se sont trop longtemps ressemblé ; cette symétrie a débouché sur Emmanuel Macron, hériter du centre français."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Donc, l'abstention, parce que je ça c'est la première chose, c'est que les politiques de droite et de gauche se sont ressemblés, d'ailleurs le le point d'orgue de de cette ressemblance c’est emmanuel macron, qui est l'enfant de valéry giscard d'estaing et de michel rocard."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Ca c'est vraiment une chose fondamentale, je pense que c'est cela, pour cela que les français ne votent plus."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "De plus, les politiques ne mettent pas en place les mesures que souhaiterait le peuple ; ainsi le peuple est-il massivement contre l’immigration, or, rien n’est fait de la part des politiques sur cette question."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "C'est que, euh les français considèrent qu'on ne prend pas en compte leur peur existentielle de disparaître."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Moi je suis au milieu du peuple français, des soixante-dix pour cent du peuple français, qui pense effectivement qu'on est plus en france, en france."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mélenchon est d’accord sur le scandale démocratique que fut le traité de 2005, dont le résultat ne fut pas respecté."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Alors y a un point qui est en effet centrale, c'est l'expérience qu'on fait des gens, cruels, que quoiqu'il vote le résultat est le même, et, l'exemple le plus spectaculaire, ce fut deux mille cinq."
+            },
+            {
+                "speaker": "JLM",
+                "text": "Il ne faut pas prendre les gens pour des imbéciles ils se sont dit, ils se foutent de nous."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il affirme que les traités européens contraignent les politiques, au point que ceux-ci ne peuvent appliquer leur programme, leurs marges étant trop faibles."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Et le fait est que nous sommes enfermés dans des traités européens qui font que, ceux qui gouvernent n’ont plus aucune marge, c'est pourquoi moi je veux sortir de ces traités, et qu'en tous cas je."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il souhaite donc ne pas appliquer les traités lorsque cela s’avère nécessaire, mais aussi changer la constitution en établissant une assemblée constituante ; en effet, la Vème Républiques accorde trop de pouvoir au Président, ce qui n’est guère démocratique."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Et quand ça ne correspond pas aux traités européens, je ferai opt out comme on dit, c'est-à-dire la règle ne s'appliquera pas à la france."
+            },
+            {
+                "speaker": "JLM",
+                "text": "Ce pays est gouverné par un homme, tout seul, il y a plus de gouvernement, il se réunit dans son conseil de défense, le premier ministre, qui d'après l'article vingt de la constitution dirige et conduit la politique de la nation, je sais même pas si il dirige et conduit sa propre automobile."
+            },
+            {
+                "speaker": "JLM",
+                "text": "C'est la raison pour laquelle je suis pour qu'il y ait une assemblée constituante."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Enfin, il désire établir des référendums révocatoires."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Et il faut donner une garantie aux gens, j'achève là-dessus, que la stabilité des institutions que nous imaginerons sera compensée par une possibilité à tout moment pour le peuple d'intervenir dans des référendums d'initiative citoyenne, et surtout de chasser s'il le décide quelques élus que ce soit, du conseiller municipal jusqu'au président de la république, par des référendum révocatoire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Zemmour est en accord sur la critique de l’Europe que dresse son rival."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Nous partons des mêmes présupposés, nous n'arrivons pas forcément aux mêmes conséquences, je suis tout à fait d'accord, on a dit la même chose sur évidemment l'europe, je suis d'accord aussi sur le fait que, euh il faudra multiplier les clauses de sortie, par exemple sur la concurrence sur euh sur le, sur l'immigration sur schengen évidemment."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Cependant, il défend la Vème République telle que pensée par de Gaulle ; il faut néanmoins remettre le référendum au cœur des décisions."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Et la cinquième république a remis, à la fois par l'élection du président de république au suffrage universel, et par le référendum, l'usage de référendum que le général de gaulle a utilisé à de nombreuses reprises, et que ses successeurs utilisent de moins en moins et depuis deux mille cinq il y a plus de référendum."
+            },
+            {
+                "speaker": "EZ",
+                "text": "Il faut restaurer un usage massif du référendum."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Surtout, il faut diminuer l’influence des juges, lesquels gouvernent contre le pouvoir exécutif, légitimement élu, en vertu de leur propre idéologie."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "C'est-à-dire que au nom de l'état de droit qui est une évidemment un bon principe au départ, on a des juges qui s'appellent le conseil constitutionnel, qui s'appellent le conseil d'état, qui s'appellent la cour européenne des droits de l'homme, qui s'appellent la cour de justice euh de l'union européenne, qui imposent leur vision idéologique et leur politique."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il fera donc une réforme constitutionnelle pour diminuer le pouvoir des juges."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Donc je pense qu'il faut aujourd'hui reprendre le pouvoir aux juges, et par le référendum, et par une réforme constitutionnelle, et c'est pour ça que euh monsieur mélenchon tout à l'heure m'asticotait sur les droits de l'homme."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Enfin, il critique l’approche constitutionnelle de Mélenchon, estimant que ce serait un retour à la IV ème République, ce qui créerait de l’instabilité politique."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Non monsieur mélenchon, comme toute la gauche d'ailleurs, n'a jamais digéré la disparition de la quatrième république, et il veut nous la remettre sous couvert de souveraineté populaire, et d'abattre la monarchie républicaine."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mélenchon lui rétorque que l’on peut tout à fait créer un régime qui soit parlementaire et stable, comme en Allemagne."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Mon modèle ce n'est pas l'impuissance parlementaire y a il y a des régimes d'assemblée qui sont stables."
+            }
+        ]
+    }
+]

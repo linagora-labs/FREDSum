@@ -1,0 +1,154 @@
+[
+    {
+        "abstractive": {
+            "text": "Hollande rappelle que son rival n’a jamais envisagé de se maintenir longtemps en Afghanistan."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "En 2007, quand, Nicolas SARKOZY, vous vous êtes présenté au suffrage, vous aviez dit que vous n'envisagiez pas de maintenir très longtemps les troupes en Afghanistan."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il estime que l’armée française ne doit pas rester plus longtemps là-bas, c’est pourquoi il retirera les troupes du pays d’ici fin 2012."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Je considère que maintenant, et cela aurait dû être fait beaucoup plus tôt, les troupes françaises n'ont pas à rester plus longtemps en Afghanistan."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Je considère, sans prendre le moindre risque pour nos troupes, et j'y serai très attentif, qu'il convient de retirer les troupes combattantes fin 2012."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sarkozy salue le travail des militaires français en Afghanistan ; il aurait pris la même décision d’intervenir à la place de Jospin et Chirac."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "En Afghanistan, nos soldats ont fait un travail absolument extraordinaire, j'aurais été à la place de Lionel Jospin et de Jacques Chirac à l'époque, j'aurais pris la même décision."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il explique que le départ des troupes a progressivement lieu, mais que les engagements de la France empêche un départ en 2012 ; ce serait trahir la parole du pays."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Progressivement, nous nous désengageons, mais en bon ordre."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "La France partira avec ses alliés en 2013."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Partir en 2012, ce serait parjure par rapport à l'engagement avec nos partenaires qui nous demandent que nous partions ensemble en 2013."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Or, pour Hollande, les Etats-Unis quitteront le pays en 2014 ; donc même Sarkozy partirait avant les Etat-unis, quoique si cela soit en accord avec eux."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "j'ajoute qu'en 2014, les Américains envisagent de se retirer, mais partiellement."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "C'est en accord avec eux mais la décision que vous avez prise, c'est de vous retirer avant eux."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sarkozy clôt le sujet en affirmant qu’après tant de sacrifices humains, il convient de terminer le travail là-bas."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Et je n'ai pas l'intention d'accepter que l'armée française, après tous ses sacrifices, parte avant que le travail ne soit terminé."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur les otages français dans le monde, Hollande n’a pas d’informations sur la question ; cela relève des prérogatives du chef de l’État, on ne peut vraiment en parler ici."
+        },
+        "extractive": [
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Nous avons neuf compatriotes qui sont retenus comme otages."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Je n'ai pas les informations que peut-être Monsieur Sarkozy peut nous livrer."
+            },
+            {
+                "speaker": "François HOLLANDE",
+                "text": "Je ne lui demanderai rien là-dessus, parce que je considère que ça fait partie des prérogatives du chef de l'Etat et des autorités publiques, de savoir qu'est-ce qu'il est possible de faire pour la libération des otages."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sarkozy rappelle que le Mali doit organiser des élections démocratiques car nous avons besoin de ce dans la région."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "La première priorité, c'est que nos amis maliens comprennent qu'ils doivent organiser l'élection présidentielle démocratique."
+            },
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Et on a besoin du Mali, qui est un pays considérable, et qui est miné à la fois par la rébellion touareg et par le problème d'Aqmi."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il doit donc suivre l’exemple du Niger et de la Mauritanie, au sein desquels les élections se sont bien déroulées."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "s'agissant de la Mauritanie et du Niger, les élections s'y sont déroulées de façon parfaitement transparente."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Bref, avec l’aide de la France, ces pays doivent travailler ensemble pour sécuriser la région."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "Mais il faut pousser ces pays, l'Algérie, Niger, Mali, Mauritanie, Sénégal à travailler ensemble, et que la France et d'autres pays les aident matériellement et techniquement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Sur les otages, il rejoint Hollande : on ne peut aborder ce sujet ici."
+        },
+        "extractive": [
+            {
+                "speaker": "Nicolas SARKOZY",
+                "text": "s'agissant de nos otages, comme l'a dit Monsieur Hollande, on ne peut pas en parler dans une émission de cette nature"
+            }
+        ]
+    }
+]

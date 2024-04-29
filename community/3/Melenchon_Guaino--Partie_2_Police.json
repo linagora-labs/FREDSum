@@ -1,0 +1,147 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Mélenchon et Guaino discutent de la question des violences policières."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Les gendarmes ont su immédiatement que le jeune manifestant était mort alors qu’ils avaient envoyé une grenade dans sa direction."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Un manifestant ayant été tué par la police au cours d’une manifestation, Mélenchon appelle à la démission du ministre de l’intérieur Bernard Cazeneuve."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Jean luc mélenchon, un ministre de l'Intérieur doit-il démissionner dès lors qu'il y a un mort dans une manifestation ?"
+            },
+            {
+                "speaker": "JLM",
+                "text": "Oui."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Selon lui, le policier ayant lancé la grenade ne souhaitait pas tuer le manifestant car il a simplement agi sur ordre."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "D'abord, je commence par dire une chose, je suis persuadé que le gendarme qui a lancé cette le grenade n’avait pas l'intention de tuer ce jeune homme."
+            },
+            {
+                "speaker": "JLM",
+                "text": "Car c'est sur ordre qu'il tire cette grenade."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il rappelle que l’autorité n’est acceptée que lorsqu’elle est consentie, d’où l’exigence de responsabilité de la part des gouvernants."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Vous devez répliquer avec technique et sans irresponsabilité."
+            },
+            {
+                "speaker": "JLM",
+                "text": "Je termine en disant que l'ordre et l'autorité de l'État n’est accepté que quand il est consenti, et on ne peut pas consentir à un ordre irresponsable."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Cette attitude exige que Cazeneuve démissionne, comme Devaquet en son temps, mis en cause dans une affaire similaire."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Sous le gouvernement de Jacques Chirac, le ministre qui avait provoqué toute cette histoire monsieur Devaquet avait démissionné après la mort de Malik."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Guaino partage l’avis de Mélenchon sur l’importance du consentement à l’autorité de la République."
+        },
+        "extractive": [
+            {
+                "speaker": "HG",
+                "text": "Je suis d'accord pour dire que l'autorité de la République, l'autorité de l'État n'est ne peut valoir que si elle est acceptée."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le crime est terrible, mais il rappelle que pareil accident est très rare et que les forces de l’ordre font preuves d’un grand professionnalisme et de beaucoup de courage."
+        },
+        "extractive": [
+            {
+                "speaker": "HG",
+                "text": "Mais quand on rentre mais moi je suis terrifiée par le fait est extrêmement bouleversé par le fait qu'un jeune homme de 20 ans ou 21 ans puisse mourir dans ces conditions, c'est terrible."
+            },
+            {
+                "speaker": "HG",
+                "text": "Mais je crois vraiment qu'il faut se dire que à partir du moment où éclate la violence, un accident peut arriver, et il en arrive très peu."
+            },
+            {
+                "speaker": "HG",
+                "text": "Parce que le jour où il y a plus de forces de l'ordre où elles sont plus capables de faire leur travail, il y a plus d’état."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mélenchon explique ensuite que l’affrontement a été voulu et mis en scène par le gouvernement, d’où responsabilité totale du ministre de l’intérieur."
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "Mais on a dit en quelques sorts, j'estime qu'on a organisé, mis en scène les conditions pour qu'il y ait des affrontements, et je trouve ça très condamnable."
+            },
+            {
+                "speaker": "JLM",
+                "text": "Donc moi je dis la responsabilité politique de Bernard Cazeneuve est entière, et pour que la société aille au calme à l'apaisement, il faut qu'il démissionne, c'est-à-dire que la société assume sa responsabilité, et qu’elle dise, dans les manifs, personne ne meurt."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Guaino estime de son côté que des casseurs peuvent semer le trouble en manifestation, ce qui explique que des accidents peuvent se produire."
+        },
+        "extractive": [
+            {
+                "speaker": "HG",
+                "text": "Ca c’est poser comme axiome qu’il ne peut pas y avoir d’accident, il peut y avoir des accidents."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Enfin, selon lui, le ministre n’a pas donné l’ordre de tirer la grenade ayant provoqué l’accident."
+        },
+        "extractive": [
+            {
+                "speaker": "HG",
+                "text": "Le ministre de l’intérieur a pas donné l'ordre de jeter une grenade sur sur un groupe particulier."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mélenchon n’est pas d’accord car c’est le ministre qui a donné la consigne d’agir fermement et qui a armé les policiers avec des grenades"
+        },
+        "extractive": [
+            {
+                "speaker": "JLM",
+                "text": "J'entends bien, mais la décision d’extrême fermeté, c'est bien quelqu'un qui l'a décidé, c'est pas le gendarme ni le préfet, ni le colonel de gendarmerie"
+            }
+        ]
+    }
+]

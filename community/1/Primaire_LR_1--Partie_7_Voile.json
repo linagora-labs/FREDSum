@@ -1,0 +1,122 @@
+[
+    {
+        "abstractive": {
+            "text": "Le présentateur commence en demandant à Eric Ciotti comment faire respecter l'interdiction du port du voile pour les mineures."
+        },
+        "extractive": [
+            {
+                "speaker": "P1",
+                "text": "Eric Ciotti, vous êtes pour l'interdiction du port du voile, pour les mineures, pour les filles mineures, ainsi qu'à l'université ou par les maires lors des sorties scolaires, alors, sans préjuger du bien fondé ou pas de votre proposition, du point de vue de l'applicabilité, est ce que vous imaginez le nombre de contrôles d'identité qu'il faudrait pour appliquer cette mesure là?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Eric Ciotti explique qu'il a été possible d'interdir le port du voile à l'école, et que le sénat est pour cette interdiction."
+        },
+        "extractive": [
+            {
+                "speaker": "EC",
+                "text": "Vous savez, c'est les mêmes réserves qui avaient été opposé à Jacques Chirac quand, en 2002, il a fait cette grande loi interdisant le port du voile à l'école."
+            },
+            {
+                "speaker": "EC",
+                "text": "Il n'y a pas que moi qui veut son interdiction, le Sénat de la République avait voté un amendement dans ce sens."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Dans ce débat, les candidats à la présidence de LR discutent de l'interdiction du port du voile dans l'espace public."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Je vous propose donc de réagir, c'est à dire de nous dire si vous êtes d'accord avec l'interdiction du port du voile pour les mineurs à l'université ou par les maires lors des sorties scolaires, je voudrais bien un petit tour de table."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valérie pécresse explique que le voile est un instrument de soumission, et qu'elle souhaite qu'il n'y ait pas de port de voile forcé, mais qu'elle est contre l'interdiction du port du voile."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Alors Je le dis, je ne reculerait pas parce que sur ces sujets là, il n'y a pas de raison qu'on change."
+            },
+            {
+                "speaker": "VP",
+                "text": "Je le dis sur le voile, je ne considère pas que c'est un vêtement comme les autres, je considère que c'est un instrument de soumission et ce que je souhaite, c'est qu'il n'y ait plus de port du voile forcé en France."
+            },
+            {
+                "speaker": "VP",
+                "text": "Mon pays est un pays de liberté, si on souhaite se soumettre, on peut se soumettre."
+            },
+            {
+                "speaker": "VP",
+                "text": "Si on souhaite pas se soumettre, on a, on ne peut pas vous forcer, et ça veut dire qu'on pourrait avoir des recours contre une obligation de porter le voile pour des jeunes femmes de 14 ou 15 ans qu'on obligerait dans leur famille à porter le voile."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Michel Barnier est pour l'interdiction du port du voile dans les université et pour les accompagnants de sorties scolaires."
+        },
+        "extractive": [
+            {
+                "speaker": "MB",
+                "text": "S'agissant des universités, comme s'agissant des accompagnants de sorties scolaires, je pense qu'il faut en effet interdire le voile."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pierre Juvin est pour l'interdiction du port du voile sur les sorties scolaires, mais contre en général."
+        },
+        "extractive": [
+            {
+                "speaker": "PJ",
+                "text": "Sur les sorties scolaires, oui, on est dans un cadre scolaire."
+            },
+            {
+                "speaker": "PJ",
+                "text": "Sinon, je pense que c'est quand même très difficile en démocratie d'organiser un code vestimentaire qui soit régulé par la loi."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Philippe Juvin explique que la priorité est plutôt d'inculquer l'amour de la france à l'école pour apprendre à s'habiller comme des français, et explique qu'il faut occuper l'espace public."
+        },
+        "extractive": [
+            {
+                "speaker": "PJ",
+                "text": "À l'école, il faut réapprendre à aimer la France, sa culture, son histoire, sa manière, sa manière de vivre, l'école doit cesser de faire détester la France."
+            },
+            {
+                "speaker": "PJ",
+                "text": "Quand vous faites aimer la France, ses use ses coutumes, sa manière de vivre, et bien logiquement, un jour, vous aurez une génération de femmes qui diront oui, je veux m'habiller ainsi parce que je suis dans un pays qui a telle culture et tel use et coutumes."
+            },
+            {
+                "speaker": "PJ",
+                "text": "Le deuxième point sont, et on y revient toujours, il faut occuper l'espace public."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Xavier Bertrand est pour l'interdiction du port du voile des fillettes, et la fermeture des mosquées salafiste"
+        },
+        "extractive": [
+            {
+                "speaker": "XB",
+                "text": "Je l'ai dit tout à l'heure sur la question des fillettes, je suis pour."
+            },
+            {
+                "speaker": "XB",
+                "text": "J'ai proposé notamment que les mosquées salafistes, là où on prêche la haine, là où on dit que la loi religieuse est supérieure à la loi de la République, que la femme n'est pas l'égale de l'homme, eh bien, je le dis, ces mosquées salafistes, on les ferme tout de suite en renforçant la loi."
+            }
+        ]
+    }
+]

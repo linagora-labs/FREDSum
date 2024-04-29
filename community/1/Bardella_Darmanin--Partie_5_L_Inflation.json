@@ -1,0 +1,213 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Jordan Bardella et Gérald darmanin discutent des mesures pour endiguer l'inflation et la dette. "
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Il faut vraiment qu’on parle de l’inflation."
+            },
+            {
+                "speaker": "P1",
+                "text": "Qu’est ce qui change à la caisse Gérald Darmanin, si votre candidat Emmanuel Macron est élu, le vingt-quatre avril."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gérald Darmanin explique que la france est le pays dans lequel l'inflation est la plus basse grâce aux mesures de son gouvernement comme le blocage du prix du gaz, le blocage de l'augmentation des prix de l'électricité et la remise à la pompe."
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "D'abord, je constate que il y a une inflation très forte en france, à peu près quatre à quatre et demi pour cent, mais que partout autour de nous cette inflation elle est quasiment du double."
+            },
+            {
+                "speaker": "GD",
+                "text": "Et pourquoi nous, c'est deux fois moins ?"
+            },
+            {
+                "speaker": "GD",
+                "text": "Parce qu'on a pris déjà des mesures extrêmement coûteuses pour les finances publiques, vingt milliards d'euros, on a bloqué le prix du gaz, on a quasiment bloqué à quatre pour cent l'augmentation des prix de l'électricité, on a fait la remise à la pompe de quinze centimes."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gérald Darmanin explique vouloir réévaluer les retraites. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "Pour les retraités c'est la réévaluation de la retraite dès le premier juillet."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gérald Darmanin explique que pour aider les salariés, ils augmenteront la prime macron, et mettront en place le dividende salarié qui forcera les patron à verser des intéressement aux salariés des entreprises qui versent des dividendes. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "Pour les salariés, c'est toujours faire le pari du travail, la prime, euh, macron, exonérée de charges fiscales et sociales jusqu'à six mille euros qui a très bien fonctionné dans les années précédentes."
+            },
+            {
+                "speaker": "GD",
+                "text": "Le dividende salarié, plus aucun patron ne pourra verser des bénéfices, hum, ou, euh, euh, voilà, le retour sur le capital, sans verser à ses salariés un intéressement à l'entreprise de façon obligatoire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gérald Darmanin explique qu'ils continueront à faire du travail sur les chèques inflation. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "Et puis bien évidemment, ce qui est, euh, important aujourd'hui, c'est de continuer le travail qu'on essaye de faire avec le chèque inflation qui a été fait par le premier ministre de cent euros par mois."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour le futur, Gérald Darmanin explique que les baisses de TVA n'aident pas à baisser les prix, en prenant l'exemple de la baisse de la TVA des restaurateurs. "
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Euh, est-ce que quelque chose qui va changer, en plus de toutes les mesures que vous avez déjà prises ?"
+            },
+            {
+                "speaker": "GD",
+                "text": "Nous, nous pensons que la proposition qui est faite de baisser la tva qui est déjà très basse, de cinq pour cent à zéro, ne marchera pas, pour la bonne et simple raison qu'on a déjà baissé la tva précédemment sur certains métiers, comme les restaurateurs, et qu'on n'a pas là vu baisser les prix."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique qu'il y a trop de français qui n'arrivent plus à vivre correctement, et qu'il représente la candidate du pouvoir d'achat. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Il y a des millions de français qui, euh, n'arrivent pas à payer les factures, qui n'arrivent plus à payer les factures de gaz, qui n'arrivent pas à payer les factures d'électricité, qui sont contraints de sauter des repas, il y a un français sur cinq qui l'an dernier a souffert du froid, qui est parfois obligé de mettre des pulls plutôt que d'allumer le chauffage."
+            },
+            {
+                "speaker": "JB",
+                "text": "Marine le pen a été durant cette campagne, je crois, la candidate du pouvoir d'achat."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella propose de baisser la tva sur les carburants, d'annuler les hausses de TICPE, ainsi que la création d'un panier de cent produits de premières nécéssités dont la tva sera baissée. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Nous proposons beaucoup de mesures, la mesure la plus emblématique que nous avons formulée durant cette campagne, vous le savez, vous avez abordé la question de la tva, est celle de déclarer l'énergie, les carburants, l'électricité, le gaz, le fioul, comme des produits de première nécessité."
+            },
+            {
+                "speaker": "JB",
+                "text": "Se chauffer, se déplacer, c'est un bien commun, c'est un bien de première nécessité, et nous abaissons notamment la tva de vingt pour cent à cinq virgule cinq pour cent."
+            },
+            {
+                "speaker": "JB",
+                "text": "Nous souhaitons annuler toutes les hausses de TICPE, ce sont les taxes sur les carburants qui ont été décidées par emmanuel macron entre deux mille quinze et deux mille dix-huit, puisqu'avant d'être président, il était ministre de l'économie, et l'ensemble de ce, de ce choc fiscal qu'on souhaite faire sur l'énergie ça, permet, par exemple, sur un plein d'essence, pour être concret, de gagner quinze, à trente euros, sur le, sur le litre."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et donc, l'une des premières mesures que nous ferons voter, c'est la baisse de la tva de vingt a cinq cinq, sur l'alimentation."
+            },
+            {
+                "speaker": "JB",
+                "text": "Nous souhaitons constituer un panier de cent produits de première nécessité, et supprimer la tva sur ces produits."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que cette suppression de la tva restera tant que l'inflation est d'un point supérieur à la croissance. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "C'est un dispositif non pas pérenne, comme la baisse de la tva de vingt à cinq cinq, mais un dispositif d'urgence qui s'active à chaque fois que l'inflation et d'un point supérieur à la croissance."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gérald Darmanin explique que le programme de Jordan bardella n'est pas financé, et qu'ils devront augmenter les impôts. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "Je pense que l'élection de madame le pen va entraîner la ruine des, des petites gens, les petits retraités, des, des petits épargnants, de, de ceux qui ne pourront pas, euh, accepter, euh, une grande partie de l'effondrement de l'économie française."
+            },
+            {
+                "speaker": "GD",
+                "text": "D'abord, j’ai compté, depuis tout à l'heure, euh, à monsieur Bardella, j'en suis déjà à cinquante-cinq milliards d'euros de dépenses."
+            },
+            {
+                "speaker": "GD",
+                "text": "Il faudra bien payer cela, quand on est pas capable de tenir sa promesse, et qu'on fait filer, malheureusement, l'argent, sans aucune mesure d'économie, puisque, il est surtout pas possible de demander aux français de travailler plus à la retraite, on l'a vu il y a quelques instants, et qu'on fait des baisses d'impôts général, euh, les taux d'intérêt augmentent, notre dette coûte plus cher, et vous la paierez comment ?"
+            },
+            {
+                "speaker": "GD",
+                "text": "Bah vous la paierez en augmentant les impôts des français, et c'est toujours comme ça que ça se passe."
+            },
+            {
+                "speaker": "GD",
+                "text": "C'est toujours comme ça que ça se passe, et même si vous faites payer un peu les plus riches, ça ne paiera jamais l'essentiel des dépenses que vous faites."
+            },
+            {
+                "speaker": "GD",
+                "text": "Et, donc, on finira par augmenter la tva, on finira, évidemment par avoir plus de chômage, puisqu'on va décourager le monde de l'entreprise, alors que nous avons recréé un million d'emplois en cinq ans."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Gérald Darmanin explique que le taux de chômage est au plus bas depuis quinze ans car son gouvernement valorise le travail. "
+        },
+        "extractive": [
+            {
+                "speaker": "GD",
+                "text": "Je rappelle quand même que le président de la république, c'est le président qui a fait le taux de chômage des plus jeunes le plus bas depuis quarante ans, que le taux de chômage d'aujourd'hui est le plus bas depuis quinze ans, malgré le covid, malgré la guerre en ukraine, malgré la crise des gilets jaunes, et que aujourd'hui il y a tous les jours des entreprises qui ouvrent en france par les investissements étrangers et par la création d'entreprise, et que nous pensons, nous, c'est plus difficile à dire, c'est un peu moins démagogique que ce qu'a dit monsieur Bardella à l'instant, que c'est par le travail qu'on y arrive le mieux."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que le gouvernement de gérald Darmanin a baissé les aides pour les plus pauvres, et a augmenté le pouvoir d'achats des plus riches. "
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Quand on laisse un pays, monsieur darmanin, euh, avec des retraités qui vivent avec huit euros par jour, des jeunes à qui vous avez baissé l'apl, des pensions pensions de retraites que vous avez desindexées de l'inflation, un français sur quatre qui ne mange plus à sa fin, ou qui est obligé de sauter des repas parce que le prix de l'alimentation est trop cher, des millions d'automobilistes qui n'arrivent plus à remplir le plein de leur voiture, franchement, un peu d'humilité."
+            },
+            {
+                "speaker": "JB",
+                "text": "Il y a un sondage odoxa, qui est sorti au mois d'octobre, qui nous dit que soixante-quinze pour cent des français, soixante-quinze pour cent des français considèrent que leur pouvoir d'achat a baissé, euh, en un an."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et je vous ramène à ce rapport de l'institut des politiques publiques qui dit qu'avec les mesures qui ont été prises sur le quinquennat, euh, le pouvoir d'achat des un pourcent les plus riches a augmenté de trois pour cent quand celui des plus pauvres a baissé d’autant."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique qu'il financera ses propositions en faisant des économies sur les dépenses de l'état dans l'immigration, la lutte contre la fraude, l'utilisation de cabinets de conseils privés, et sur la cotisation à l'union européenne."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Alors, nous ferons du pouvoir d'achat une priorité, nous ferons des économies dans les mauvaises dépenses de l'état, dans l'immigration, dans la lutte contre la fraude, dans les cabinets de conseil privé à qui vous donnez des millions d'euros, dans le coût de la décentralisation, dans, euh, la cotisation, euh, à l'union européenne, qui est votée tous les ans par l'assemblée nationale, et dont nous allons diminuer, euh, le montant."
+            }
+        ]
+    }
+]

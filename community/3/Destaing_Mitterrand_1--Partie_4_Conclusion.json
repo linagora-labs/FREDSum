@@ -1,0 +1,358 @@
+[
+    {
+        "abstractive": {
+            "text": "Pour Valéry Giscard d'Estaing, il faut se tourner vers l'avenir."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Le changement, avec moi, c'est que, si je suis élu président de la république, on cessera de parler du passé, y compris avec vous-même, que j'aurais, j'espère, le plaisir de rencontrer, et qu'on parlera des problèmes d'avenir de la France."
+            },
+            {
+                "speaker": "VG",
+                "text": "Alors, lorsque je dis le changement sans risque, qu'est ce que je veux dire ?"
+            },
+            {
+                "speaker": "VG",
+                "text": "Mais, au lieu d'ouvrir ces nouvelles perspectives par le renversement de la société française, par le bouleversement de la société française, nous devons le faire en donnant une nouvelle dimension à ce qui a été entrepris."
+            },
+            {
+                "speaker": "VG",
+                "text": "Vous ne l'avez même pas relevé le propos, vous n'avez pas répondu sur ce sujet. c'est-à-dire, les grands changements que vous vous proposez d'introduire."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il accuse Mitterrand de ne rien proposer de nouveau, seulement de donner plus d'argent."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "C’est simplement vous contenter de dire que vous auriez fait un peu plus de smic que nous, ou un peu plus de développement de telle ou telle prestations ou allocations sociales."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour lui, la france souhaite une nouvelle dimension de son progrès économique et social, et que ça ne pourra pas se passer avec des vagues de nationalisations et de bureaucratie, qui vont à l'encontre d'une économie moderne."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Je crois que la france souhaite une nouvelle dimension de son progrès économique et social."
+            },
+            {
+                "speaker": "VG",
+                "text": "Que cette nouvelle dimension, cela veut dire d'abord, que l'on continue la croissance de la france, et on ne continuera pas la croissance de la france, en lui faisant subir une vague de nationalisations et de bureaucratie."
+            },
+            {
+                "speaker": "VG",
+                "text": "D'ailleurs, les grands pays socialistes voisins l'ont parfaitement compris, puisqu'ils ont rayé de leur programme, partout, euh, ces objectifs."
+            },
+            {
+                "speaker": "VG",
+                "text": "Parce que vous savez très bien que dans une économie moderne, ouverte, européenne, la nationalisation ou la bureaucratisation ne font pas progresser l'économie ou le progrès social, vous le savez autant que moi."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il rappelle que la france était en retard à cause de l'entre-deux  guerres, et que la france est maintenant un pays avec une économie vigoureuse qui permet d'ouvrir la dimension du prgrès social."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Nous avions un pays dont le niveau de vie, dont les ressources, dont l'industrie, était du fait de la guerre le fait du retard accumulé, de l'entre-deux guerres."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il souhaite de plus développer l'égalité des chances pour les jeunes."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Euh, un pays ou une économies faibles, et nous avons mis, à l'heure actuelle, sur un pied, euh, plus vigoureux, l'économie française, ce qui permet d'ouvrir la dimension, euh, du croix, du, euh, du progrès social et de l'humanisation de notre société."
+            },
+            {
+                "speaker": "VG",
+                "text": "Ce qui m'intéresse, moi, c'est de dire ceci, c'est que il est fondamental, par exemple, de développer l'égalité des chances pour les jeunes français."
+            },
+            {
+                "speaker": "FM",
+                "text": "Donc il faut faire une politique de justice sociale."
+            },
+            {
+                "speaker": "VG",
+                "text": "Donc, c'est de développer l'égalité des chances pour les jeunes français, ce qui veut dire que le problème de l'éducation, le problème de la formation, par exemple, sera au centre des préoccupations du futur président de la république si je suis élu."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il propose la mise en place de droit à l'erreur pour les premiers emplois."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Vous avez parlé du problème de l'emploi des jeunes, problème fondamental, et j'ai proposé un certain nombre de mesures concernant, précisément, le statut à donner aux jeunes pour ce qui est de leur premier emploi, et, je dirais, même, de leur premiers emplois, parce que, je, je crois, qu'il est normal de reconnaître une sorte de droit au risque, de droit à erreur pour quelqu'un qui prend un premier emploi."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il veut de plus développer la liberté d'initiative et d'établissement, et fustige le programme commun, qui propose de revenir sur le quotient familial et sur la retraite des cadres."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Je crois également, qu'il faut maintenir en france, et développer la liberté d'initiative et d'établissement."
+            },
+            {
+                "speaker": "VG",
+                "text": "Je note que, dans le programme commun, sur deux sujets qui touchent les cadres, et qui sont, pour, euh, je dirais, vitaux, qui sont le problème du quotient familial, vous proposez de revenir sur le quotient familial et sur le problème de la retraite des cadres, et de l'autonomie de la retraite des cadres."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Mitterrand rappelle que la cinquième république a donné à la france sa structure industrielle, mais que c'est grâce au sacrifice des travailleurs, qui ont eu des salaires bas avec une progression lente, que la france a pu arriver jusqu'à là."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "La cinquième république, sur ces bases, a cherché à donner à la France sa structure industrielle."
+            },
+            {
+                "speaker": "FM",
+                "text": "Elle n'a pu le faire, indépendamment des qualités de chacun, que par un formidable mouvement de travail et de grands sacrifices, supportés par ceux qui ont accompli ce travail."
+            },
+            {
+                "speaker": "FM",
+                "text": "Des salaires, euh, assez bas, une progression très lente, une hausse des prix très vive, un nombre d'heures de travail très long, des logements sociaux, en trop petit nombre."
+            },
+            {
+                "speaker": "FM",
+                "text": "Des écoles, fournir à des enfants, paysans, ouvriers, ou de la petite bourgeoisie, de bourgs ruraux, dans des conditions très rares, je pense surtout à l'école maternelle."
+            },
+            {
+                "speaker": "FM",
+                "text": "Cependant, on a bâti tout ça."
+            },
+            {
+                "speaker": "FM",
+                "text": "Encore faut-il donner un sens humain à cette notion de croissance, c'est-à-dire que la France est devenue plus riche, et la France est devenue plus riche, parce que, on peut le dire, là, c'est pas de la polémique entre nous, on s'y est tous mis."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il est donc maintenant le moment de partager la richesse, pour lui, il est inacceptable d'avoir une petite catégorie de privilégiés."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "Le moment est venu, monsieur Giscard d'estaing, depuis longtemps, où il aurait fallu utiliser cette richesse, créée par tous, afin que le plus grand nombre vivent."
+            },
+            {
+                "speaker": "FM",
+                "text": "Il est pas acceptable qu'il y ait une petite catégorie de privilégiés, qui sont, qui sont servies par  toute vouloir, en particulier par vouloir fiscale, qui se tirent de tout, qui reçoivent des, des jetons de présence, des tantièmes, des bénéfices dans les conseils d'administration, des sommes énormes et scandaleuse que la plupart des des, des grandes sociétés, et des bénéfices sans comparaison possible avec qui que ce soit d'autre, tandis que tant de millions de gens vivent difficilement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valéry Giscard d'Estaing reproche à Mitterrand de vouloir briser l'instrument de production à cause de l'alliance avec le parti communiste."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Alors, le reproche que je vous fais, c'est, à l'heure actuelle, à cause de votre alliance avec le parti communiste, vous êtes si discret sur tous ces sujets, c'est de proposer aux français de briser l'instrument."
+            },
+            {
+                "speaker": "VG",
+                "text": "Si vous disiez, l'instrument, on s'en est bien servi pour la croissance, mais on pouvait peut-être aller plus vite dans la correction des inégalités sociales, je dirais que c'est une querelle historique."
+            },
+            {
+                "speaker": "VG",
+                "text": "C'est une discussion qu'on pouvait avoir, mais, à l'heure actuelle, ce que je propose de faire, c’est de servir les mêmes objectifs de justice sociale que vous."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour lui, il est questionnable de savoir si la france aurait pu être plus juste, mais pour lui, les personnes âgées, les travailleurs au smic et les jeunes ne seront pas mieux servi avec François Mitterrand qu'avec lui."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Je suis convaincu que si je suis élu président de la république, les personnes âgées, les travailleurs au smic, euh, les, euh, jeunes, en ce qui concerne la formation scolaire, rurale ou citadine, monsieur mitterrand, ils connaîtront exactement les mêmes réalisations que celle que vous ambitionnez de faire, selon moi."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Le progrès social est conditionné au développement d'une économie moderne."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Il n'y a pas de progrès social en france, si nous ne continuons pas à développer une économie moderne."
+            },
+            {
+                "speaker": "VG",
+                "text": "L'erreur fondamentale, c'est de briser l'instrument, c'est à dire de proposer aux français un programme de gestion économique dont aucun pays comparables ne veut."
+            },
+            {
+                "speaker": "VG",
+                "text": "Mon ambition, c'est de servir la justice monsieur mitterrand."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour François Mitterrand, le gouvernement de Valéry Giscard d'Estaing n'a pas aidé avec l' inflation."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "Il est vrai que vous aviez vous-même beaucoup de choses à faire, car vous auriez observé que j'ai été le seul, parmi les candidats, outre monsieur monsieur chaban-delmas qui s’y est essayé, à avoir présenté un plan, un plan anti-inflation."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Valéry critique cependant cette annonce en expliquant que François Mitterrand ne pourra pas bloquer les prix alimentaires agricoles, et que l'effet ne sera pas grand sur les français."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Alors, vous avez dit, dans votre plan pour stopper l'inflation, un blocage temporaire des prix, auquel aucun gouvernement ne peut échapper."
+            },
+            {
+                "speaker": "VG",
+                "text": "Est-ce que ce blocage temporaire des prix comporte le blocage des prix alimentaires ?"
+            },
+            {
+                "speaker": "FM",
+                "text": "Vous savez bien, parce que, je l'ai précisé que Il n'y avait pas de blocage des prix agricoles."
+            },
+            {
+                "speaker": "FM",
+                "text": "Cela fait partie de mes déclarations publiques, que ce blocage serait sélectif, qu'il serait temporaire, et qu'après tout, j'aurais pu m'inspirer de la façon dont monsieur debré s'était comporté, avant que vous ne reveniez au ministère des finances, lors de la généralisation de la tva, et, là, à ce moment-là, appliqué des dispositions quant au contrôle des prix, qui ont été très efficace."
+            },
+            {
+                "speaker": "VG",
+                "text": "Mais vous savez très bien, pour les ménagères, et pour les françaises, auxquelles vous dites que ça ne concerne pas les prix alimentaires, dès à présent, votre programme de lutte contre l'inflation est singulièrement écornée, parce que, pour les prix industriels, vous proposer de mettre en oeuvre, pratiquement, la politique que nous pratiquons."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Il critique aussi la baisse de la tva, qui crée une perte de recette fiscales, et fait apparaître un déficit budgétaire, ce qui créera de l'inflation."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Ensuite, vous proposez une réduction du taux de tva, c'est-à-dire une perte de recettes fiscales."
+            },
+            {
+                "speaker": "VG",
+                "text": "Donc, dans votre plan de six mois, il y a des dépenses, c'est-à-dire un déficit budgétaire, l'apparition d'un déficit budgétaire, dont tous les français savent, qu'ils soient économistes, ou qu'ils ne le soient pas, que c'est un facteur d'accélération de l'inflation."
+            },
+            {
+                "speaker": "VG",
+                "text": "Alors, vous accélérez l'inflation à l'intérieur, par l'apparition d'un déficit budgétaire, et vous organisez, ce qui est tout à fait surprenant, la déflation extérieure, par la réévaluation du franc."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Mitterrand rappelle cependant que ses annonces sont financées par l'excédant du budget du gouvernement."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "Vous avez des sommes, monsieur chaban-delmas me les a confirmé, aux alentours de quatorze milliards, qui représente, à l'heure actuelle, un excédent utilisable."
+            },
+            {
+                "speaker": "FM",
+                "text": "Je continue de préciser, que le programme, que j'ai présenté, anti- inflation, atteint neuf milliards de francs et reste intérieur à l'excédent budgétaire, que je limite, par prudence, à environ dix milliards, selon les informations que je possède, qui viennent de votre ministère."
+            },
+            {
+                "speaker": "FM",
+                "text": "J'ajoute qu'en vérité, la diminution de la tva atteint trois milliards, et non point douze, comme vous l'aviez prétendu dans un précédent débat, puisque vous aviez compté parmi les produits de première nécessité, le homard, et le caviar."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "François Mitterrand continue sur les ministres communistes; pour lui, il faut rassembler les français, et il fustige les accusations de Giscard d'Estaing sur les communistes."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "Vous m'avez parlé tout à l'heure, des ministres communistes, et je ne voudrais pas vous laisser le sentiment que c'est une discussion que je fuis."
+            },
+            {
+                "speaker": "FM",
+                "text": "J'ai fait beaucoup de réunions publiques, beaucoup de déclarations publiques, plus qu'il aurait fallu, sans doute, au cours de ces euh, quatre dernières semaines, et j'ai toujours dit, très clairement, que la majorité présidentielle que je représenterai, qui se serait rassemblée derrière moi, non seulement le cinq, mais aussi le dix-neuf mai, comprendrait toutes les formations politiques qui m'ont soutenu, en particulier le parti communiste."
+            },
+            {
+                "speaker": "FM",
+                "text": "Je trouve que s'adresser aux français en leur disant, je veux être le président de tous, je veux réaliser l'unité nationale, et exclure, à priori, cinq millions d'entre eux, simplement parce qu'ils votent communiste, tandis qu'il existe un grand parti, qui s'appelle le parti communiste, qui n'est pas le mien, que je combats sur bien des points, mais que j'ai estimé nécessaire de contribuer à réintégrer dans la vie nationale, parce qu'il représente une puissante force du travail, de production et des valeurs patriotiques, que l'histoire a montré."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "De nombreux autres pays ont des ministres communistes sans problèmes."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "Le problème est de savoir s'il est interdit, aujourd'hui, de faire, en france, ce qui est fait en finlande, ce qui est fait en islande, ce qui est fait par le général de gaulle, je l'ai déjà très souvent répété, en france, en mille neuf cent quarante-quatre mille neuf cent quarante-cinq, ce qui a été fait en italie, en belgique, au danemark en hollande."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Valéry Giscard d'Estaing, le parti communiste n'est pas un parti comme les autres, et qu'aucun pays du marché commun n'a de ministres communistes, ce qui est un grand risque."
+        },
+        "extractive": [
+            {
+                "speaker": "VG",
+                "text": "Pourquoi voulez-vous que cet homme, une fois élu, si c'est vous, monsieur mitterrand, ou si c'est moi, ait l'idée qu'il lui faut, couper la france en deux, je pense que ce sera un homme de réconciliation."
+            },
+            {
+                "speaker": "VG",
+                "text": "Mais, je l'ai dit, le parti communiste, ça n'est pas un parti comme les autres."
+            },
+            {
+                "speaker": "VG",
+                "text": "Mais je répète qu’aucun pays, qu'aucun pays du marché commun, même élargi, n'a, à l'heure actuelle, de communistes au gouvernement, même, un pays dans lequel le parti communiste est très actif et très influents, comme l'Italie, n'a jamais eu de ministres communistes au gouvernement."
+            },
+            {
+                "speaker": "VG",
+                "text": "Installer pendant cinq ans en france, à la tête des grandes administrations nationales, sept ministres communistes, c'est, à mon avis, un risque qu'un homme d'état français ne peut pas prendre."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mitterrand nuance cependant en rappellant que le général de gaulle avait des ministres communistes."
+        },
+        "extractive": [
+            {
+                "speaker": "FM",
+                "text": "C’est le risque qu'a pris le général de gaulle."
+            },
+            {
+                "speaker": "VG",
+                "text": "Dans une circonstance nationale complètement différente."
+            }
+        ]
+    }
+]

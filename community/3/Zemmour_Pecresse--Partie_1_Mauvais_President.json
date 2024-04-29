@@ -1,0 +1,79 @@
+[
+    {
+        "abstractive": {
+            "text": "Pécresse se revendique du général de l’esprit gaulliste qui défend la démocratie et la liberté."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "L'esprit gaulliste, c'est défendre la liberté, la démocratie, c'est prendre des sanctions très dures vis-à-vis, euh, de, euh, vladimir poutine, accepter les conséquences, pour le peuple français, de cette guerre."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pécresse attaque Zemmour pour ses positions sur la Russie."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Alors, moi, je vous le dit, mme elkrief, euh, quand on est sous influence de poutine, on peut pas se dire patriote, et c'est pour cela, monsieur zemmour, que vous êtes décrédibilisé pour présider la france."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Zemmour estime qu’il faut continuer à entretenir des relations avec la Russie malgré la guerre."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Madame pécresse, le général de gaulle, en mille neuf cent soixante-huit, a continué à avoir des relations avec l'urss communiste, alors que les russes était rentrés en tchécoslovaquie."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pour Zemmour cela correspond à l’esprit gaulliste."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "La tradition gaulliste, c'est justement le rapprochement avec la russie."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Zemmour attaque ensuite sa rivale sur ses changements de positions, notamment sur le grand remplacement et le mariage homosexuel."
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Un jour, vous êtes pour lutter contre le grand remplacement, le lendemain, vous dites que le grand remplacement n'existe pas."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Chacun récuse les propos de l’autre"
+        },
+        "extractive": [
+            {
+                "speaker": "EZ",
+                "text": "Vous avez quitté le parti LR parce qu'il était trop à droite, au temps de monsieur wauquiez, et, maintenant, vous dites, vous êtes, dans votre discours, plus à droite que lui."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Pécresse dénonce aussi les changements de positions de son adversaire, évoquant le cannabis, le mariage homosexuel et son engagement pour Mitterrand dans sa jeunesse."
+        },
+        "extractive": [
+            {
+                "speaker": "VP",
+                "text": "Entendre de la part d'eric zemmour qu'il est fidèle à ses convictions, c'est un oxymore, des fariboles."
+            }
+        ]
+    }
+]

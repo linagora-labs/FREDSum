@@ -1,0 +1,281 @@
+[
+    {
+        "abstractive": {
+            "text": "Dans ce débat, Jordan Bardella, Mathilde Panot, et Olivier Véran discutent de la nécéssité de la réforme des retraites."
+        },
+        "extractive": [
+            {
+                "speaker": "P2",
+                "text": "Le passage de l'âge légal, de 62 à 64 ans, en quoi était-ce nécessaire ?"
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique qu'il n'y a plus assez de côtisans en France par rappoort aux nombres de retraités, et que le système n'est plus équilibrés."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Or, et là c'est factuel, on va quand même s'entendre sur un certain nombre de faits ce soir, je pense que c'est important pour la clarté du débat, nous sommes à 1,7 pour 1,7 cotisant pour 1 retraité et nous allons bientôt baisser à 1,6 puis 1,5 cotisant par retraité."
+            },
+            {
+                "speaker": "OV",
+                "text": "Ce qui veut dire que le système n'est plus équilibré."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique que pour contrebalancer ce déficit, il faut soit augmenter les cotisations des salariés, baisser les pensions des retraites, ou faire travailler plus longtemps, qui est le choix qu'il préfère."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "D'autres vous diront, il suffit d'augmenter les cotisations de ceux qui travaillent, des salariés, c'est-à-dire baisser les salaires, puisqu'on enlève de l'argent sur votre salaire pour équilibrer."
+            },
+            {
+                "speaker": "OV",
+                "text": "Ou alors vous pouvez dire, on va baisser les pensions des retraités."
+            },
+            {
+                "speaker": "OV",
+                "text": "Ça veut dire qu'il reste comme option pour équilibrer le système, dès lors qu'on est dans la position responsable qui consiste à dire, on doit équilibrer ce système, à allonger la durée de travail, de manière à ce qu'on cotise un peu plus longtemps, ce qui nous permettra malgré tout de rester le pays européen dans lequel la durée de vie en bonne santé à la retraite sera la plus élevée, et le niveau de vie des retraités par rapport aux actifs sera l'un des plus élevés d'Europe."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mathilde Panot explique que même avec moins de côtisans, les français sont beaucoup plus productifs qu'avant, et qu'il n'y a pas de déficit des retraites d'après le conseil d'orientation des retraites, et que le déficit futur ne dépassera pas 12 milliards."
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "C'est que nous sommes 3 fois plus productifs aujourd'hui, un travailleur est 3 fois plus productifs que ce qu'il était dans les années 70. Vous savez, si on regarde le 20e siècle, vous avez divisé le temps de travail par 2, en termes d'heures de travail dans l'année et dans le siècle, et la productivité a été multipliée par 40, monsieur le ministre."
+            },
+            {
+                "speaker": "MP",
+                "text": "La 2e chose, il vous dit, regardez, il y a un déficit, c'est horrible, bon, pas de chance pour vous, monsieur le ministre, pour une fois, le Conseil d'orientation des retraites fait un rapport dans lequel il dément toute dynamique non contrôlée des dépenses de retraites."
+            },
+            {
+                "speaker": "MP",
+                "text": "Et puis, si vraiment, on prend le déficit temporaire qu'il y a à un moment, même si dans tous les scénarios, on revient à l'équilibre en 2050, vous avez ici le déficit de 12 milliards sur lequel pleure le gouvernement."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mathilde Panot explique qu'il est facile de trouver cet argent en taxant les plus riches."
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "Ensuite, vous pouvez voir, à côté, les aides qui sont données aux entreprises chaque année, de 165 milliards, vous pouvez voir la fortune des 24 milliards d'aires."
+            },
+            {
+                "speaker": "MP",
+                "text": "Non, non, l'argent n'est pas magique, il est à chercher dans les bonnes poches."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran rappelle que Jean Luc Mélenchon considérait que le problème du vieillissement de la population serait résolu grâce à la natalité, ce qui n'est pas arrivé, et que les autres pays qui ont augmenté l'âge des retraites retourneront en arrière, ce qui n'est pas arrivé."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "En 2010, d'abord, il a dit, le problème du vieillissement de la population, qui était déjà annoncé, parce que c'est pas d'aujourd'hui qu'on sait que la population vieillit, ce n'en est pas un, puisque le dynamisme de la natalité française fait qu'il n'y aura aucun problème démographique et d'équilibre."
+            },
+            {
+                "speaker": "OV",
+                "text": "Puis, 12 ans plus tard, on se rend compte que ce n'est pas le cas et d'ailleurs, la politique nataliste, s'est plutôt effondrée en France comme elle s'est effondrée en Europe, donc, il y a un déséquilibre."
+            },
+            {
+                "speaker": "OV",
+                "text": "Et ensuite, en 2012, il disait, face à certains pays, c'est-à-dire quasiment tous les pays qui nous entourent en Europe, de gauche comme de droite, de gauche comme de droite, qui repoussait l'âge de départ à la retraite pour anticiper les déséquilibres, eh bien, il disait, vous verrez, ils vont tous revenir en arrière dans les 10 prochaines années; à nouveau, 10 ans plus tard, non seulement aucun des revenus en arrière, mais c'est plutôt la tendance inverse, c'est-à-dire que, je le redis, parce que la répétition est utile, la France conservera, même après la réforme, l'un des départs de la retraite parmi les plus tôt."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran rappelle que le COR a dit que dans toutes les hypothèses, il y aura toujours un déséquilibre financier à combler."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Le cor, il y a quand même une phrase qui est à la page 11 du rapport que vous avez lu et qui me semble être assez limpide, puisque le cor écrit dans tous les scénarios et quelle que soit la convention étudiée, je passe sur ce que c'est que la convention, sinon, c'est très, très, très long et pénible pour les gens, mais quel que soit le scénario et les conventions utilisées, il y aura dans les 25 prochaines années un déséquilibre financier qui va nous falloir combler."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que le système des retraites n'est pas en faillite, et que le problème de recette peut être résolu en travaillant sur l'emploi, la natalité et la productivité."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "D'abord, cette retraite, cette réforme, elle est bâtie sur un mensonge, le système des retraites français n'est pas en faillite."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et nous avons un problème de recette parce que dans un système où ceux qui travaillent paient la  retraite, de ceux qui ne travaillent pas, quand vous avez 6 millions de chômeurs, c'est 6 millions d'occasions en moins de faire rentrer des cotisations dans les caisses de retraite."
+            },
+            {
+                "speaker": "JB",
+                "text": "Ces débats, c'est la natalité et la productivité."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que les pays qui ont augmenté l'âge de la retraite ont subi une paupérisation des retraités."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Monsieur Véran vous dit, mais regardez partout en Europe, comment c'est formidable, regardez partout en Europe, tous les pays européens ont passé la retraite à 63, 64, 65, 67 ans."
+            },
+            {
+                "speaker": "JB",
+                "text": "Très bien en Allemagne, il y a deux fois plus de retraites pauvres qu'en France; très bien en Suède, regardez la Suède, cette semaine, l'ancien directeur général de la Sécu, de la Sécurité sociale suédoise, a pris la parole sur BFM TV, Il a dit à Emmanuel Macron, ne faites pas ça."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que cette réforme est une exigence de l'union européenne, et que l'espérance de vie en bonne santé stagne en France."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "C'est que si on en vient faire la réforme des retraites aujourd'hui, alors que le président de la République y était totalement opposé il y a encore 2 ou 3 ans, on aura l'occasion de revenir sur ces déclarations, c'est parce que c'est une exigence de la Commission européenne et que c'est une exigence que de réformer notre système de retraite qui est formulé par l'Union européenne et qui était la contrepartie du plan de relance qui a été octroyé à la France par les institutions européennes après la crise sanitaire."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et troisièmement, permettez-moi de vous rappeler que l'espérance de vie dans notre pays, elle stagne et que l'espérance de vie en bonne santé, elle stagne d'autant plus chez les classes populaires et notamment chez les femmes qui vont être les premières victimes de votre réforme."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mathilde Panot rappelle que le parti d'Olivier Véran a déjà essayé de supprimer le système par répartition, et que le cor a dit que les dépenses des retraites diminuent à long terme."
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "Vous avez essayé de casser le système par répartition en 2019-2020, parce que vous avez introduit de la capitalisation, et notamment, je vous rappelle, la loi Pacte, qui défiscalisait des mesures de capitalisation, à tel point que la capitalisation depuis 2019, depuis votre loi, a augmenté de 20 % dans notre pays."
+            },
+            {
+                "speaker": "MP",
+                "text": "Je vous lis ce que disait le cor lors de l'audition qui avait été demandé par le président de la Commission des Finances, Éric Coquerel, Le président du corps, les dépenses de retraite ne dérapent pas, elles sont relativement maîtrisées dans la plupart des hypothèses, elles diminuent plutôt à terme."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran explique qu'elles atteindrons 20 milliards par an."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "Moi, je considère que 12 milliards de déficits par an qui vont passer à 20 milliards par an, c'est irresponsable."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella explique que la retraite est le patrimoine des gens qui ont travaillé, et que la réforme créé une double peine, qui est la baisse des pensions et la hausse de l'effort pour les gens qui ont commencé à travailler le plus tôt."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "La retraite, c'est le patrimoine de ceux qui ont travaillé."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et là où j'évoquais le caractère injuste de cette réforme, c'est parce que les Français en réalité vont subir la double peine, ils vont subir à la fois la baisse des pensions et à la fois la hausse de l'effort."
+            },
+            {
+                "speaker": "JB",
+                "text": "Et deuxièmement, c'est l'injuste répartition de l'effort."
+            },
+            {
+                "speaker": "JB",
+                "text": "La réforme du gouvernement, ça va donc permettre à un cadre qui est entré sur le marché du travail à 24 ans, aujourd'hui de partir à 67 ans, demain avec la réforme de partir à 67 ans, en ayant cotisé pendant 43 ans."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Olivier Véran nuance en expliquant qu'il y aura des dispositifs de carrières longues et de carrières hachées."
+        },
+        "extractive": [
+            {
+                "speaker": "OV",
+                "text": "D'abord, vous avez des dispositifs de carrière longue, des dispositifs pour les carrières hachées qui font qu'il y a des français qui partiront plus tôt."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Jordan Bardella répond qu'il y a eu une suppression d'une partie des critères de pénibilité, et que la réforme pénalisera les femmes."
+        },
+        "extractive": [
+            {
+                "speaker": "JB",
+                "text": "Monsieur Macron a retiré 4 des 10 critères de pénibilité."
+            },
+            {
+                "speaker": "JB",
+                "text": "Monsieur Riester qui a dit, cette réforme va pénaliser les femmes, les femmes seront un peu pénalisées. Oui, avec eux, un peu pénalisées, les femmes seront un peu pénalisées, et pour une raison très simple, c'est que les femmes comparées aux hommes ont des carrières beaucoup plus hachées."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mathilde panot explique que la réforme est faite pour des raisons financières, créées par d'autres aides d'emmanuel macron."
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "On est en train de donner 2 ans fermes aux gens."
+            },
+            {
+                "speaker": "MP",
+                "text": "Et pourquoi est-ce qu'on nous force à faire cette réforme-là ?"
+            },
+            {
+                "speaker": "MP",
+                "text": "Pour des raisons financières."
+            },
+            {
+                "speaker": "MP",
+                "text": "Monsieur Véran, qui n'a pas répondu à ma question, sur combien ont coûté les primes Macron à l'assurance vieillesse, j'aimerais savoir."
+            },
+            {
+                "speaker": "MP",
+                "text": "Dans le projet de loi finance 2023, vous avez écrit noir sur blanc, que vous faisiez cette réforme des retraites pour compenser les cadeaux qui étaient faits au plus riche et à la baisse des impôts de production."
+            }
+        ]
+    },
+    {
+        "abstractive": {
+            "text": "Mathilde Panot explique aussi que le Rassemblement national souhaite augmenter les salaires sans les cotisations, ce qui n'aiderait pas la situation finanicère, et qu'il suffit simplement d'augmenter les salaires pour avoir plus de cotisations supplémentaires"
+        },
+        "extractive": [
+            {
+                "speaker": "MP",
+                "text": "Et monsieur Bardella, ça, c'est la proposition loi que vous avez déposée avec le Rassemblement national lors de votre journée réservée du 12 janvier."
+            },
+            {
+                "speaker": "MP",
+                "text": "lle propose d'augmenter les salaires, non pas en augmentant le SMIC, vous avez tous les deux votés contre, non pas en augmentant le SMIC, mais en enlevant des cotisations patronales, donc en créant un trou dans l'assurance vieillesse."
+            },
+            {
+                "speaker": "MP",
+                "text": "Si nous augmentions les salaires dans ce pays, alors, on aurait des cotisations supplémentaires"
+            }
+        ]
+    }
+]
