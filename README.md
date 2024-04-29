@@ -36,6 +36,13 @@ The dataset is organized as follows:
 - `FREDSum_test.json`: a list of the names of the test files.
 
 
+### Versions 
+
+- [v0.1-emnlp-2023](https://github.com/linagora-labs/FREDSum/releases/tag/v0.1-emnlp-2023): the original transcripts and summaries used in the paper "FREDSum: A Dialogue Summarization Corpus for French Political Debates"
+- the current version contains:
+    - standardized speaker tags (e.g. "GA" -> "Gabriel Attal")
+	- corrected text for abstractive summaries (1-3)
+
 
 ## Acknowledgement
 
