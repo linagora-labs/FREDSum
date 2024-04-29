@@ -16,11 +16,11 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Première décision c'est signer un décret de convocation par référendum au titre de l'article 11."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Modifier l'article 55, qui pose aujourd'hui la suprématie des traités européens, notamment sur le droit interne, c'est faire en sorte que la France retrouve le cours de son destin en matière de sécurité et en matière de politique migratoire."
             }
         ]
@@ -31,7 +31,7 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Premier déplacement La cité des Flamands à Marseille, vous avez vu cette barrière qui a été posée par des dealers qui aujourd'hui tiennent ce quartier comme ils tiennent 500 quartiers en France?"
             }
         ]
@@ -42,11 +42,11 @@
         },
         "extractive": [
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "Donc, j'invite les chefs d'Etat et de gouvernement européens à Paris, et je mets sur la table un nouveau traité européen."
             },
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "Des sujets immenses l'immigration, le réchauffement climatique, tout ça, ça doit se gérer au niveau européen."
             }
         ]
@@ -57,7 +57,7 @@
         },
         "extractive": [
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "J'irai en Corse, j'irai en Corse où j'ai mes racines, dans un petit village de montagne, à ucciani."
             }
         ]
@@ -68,7 +68,7 @@
         },
         "extractive": [
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Ma première décision sera de faire un message aux armées françaises, à tous nos soldats en métropole et dans le monde entier, outre mer, qui sont en charge de notre sécurité, qui sont aussi héritiers et acteurs d'une grande histoire dont nous sommes fiers et dont je ne m'excuserai jamais."
             }
         ]
@@ -79,11 +79,11 @@
         },
         "extractive": [
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Ma première visite sera pour un grand bassin industriel et agricole."
             },
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Et ce sera pour moi l'occasion de dire depuis ce bassin un message à toutes les régions de France pour porter ensemble une grande ambition, celle que la France devienne ou redevienne la première puissance industrielle et agricole d'Europe."
             }
         ]
@@ -94,11 +94,11 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Alors ma première décision, elle, sera très symbolique, ce sera le 10 novembre de déclarer un jour des héros qui font la France dans toutes les écoles."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "On étudiera ce jour là la biographie et les œuvres de nos grands hommes et de nos grandes femmes d'hier et d'aujourd'hui, de Vercingétorix à Marie Curie, des poilus de la Grande Guerre au colonel Arnaud Beltrame, de Pasteur aux soignants de la crise covid je veux donner à nos enfants des modèles."
             }
         ]
@@ -109,7 +109,7 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Et mon premier déplacement, ce sera aussi pour recoudre la nation quand on recoud la nation, on considère chaque Français dans sa différence et ses fragilités, donc, j'irais à la Fondation Jacques Chirac à s'installer sur le plateau de Millevaches, qui accueille des adultes autistes."
             }
         ]
@@ -120,7 +120,7 @@
         },
         "extractive": [
             {
-                "speaker": "XB",
+                "speaker": "Xavier Bertrand",
                 "text": "La première décision, ce sera d'ordonner au président d'EDF de lancer la construction de dix nouveaux réacteurs nucléaires."
             }
         ]
@@ -131,7 +131,7 @@
         },
         "extractive": [
             {
-                "speaker": "XB",
+                "speaker": "Xavier Bertrand",
                 "text": "Je veux très clairement relancer le nucléaire dans notre pays et le premier déplacement, je me rendrai, avec mon ministre de l'Intérieur dans les quartiers nord de Marseille, là où monsieur Macron est allé, là où il a échoué."
             }
         ]

@@ -16,11 +16,11 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "Ce qui se passe avec cette canicule, c’est qu’elle nous rappelle une chose importante c'est que quand on parle du réchauffement climatique, on ne parle pas seulement de l'impact qu'il aura sur les générations à venir, on parle de l'impact qu'il a déjà sur les populations aujourd'hui."
             },
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "Nous avons fixé un objectif que je veux rappeler c'est être le premier grand pays au monde à sortir des énergies fossiles, sortir du gas, sortir du pétrole, du charbon, ça ne sera pas du jour au lendemain mais c'est possible si on investit massivement."
             }
         ]
@@ -31,7 +31,7 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "J'ai face à moi deux personnalités politiques qui soutiennent des candidats à la présidentielle qui nous expliquent qu'on pourrait se priver soit du nucléaire pour madame Autain, soit des énergies renouvelables pour monsieur Bardella, alors qu'on sait qu'on a besoin des deux."
             }
         ]
@@ -42,11 +42,11 @@
         },
         "extractive": [
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Il y a les mesures immédiates d’urgence car on va être de plus en plus confrontés à ces vagues de canicule, il faut savoir que par exemple chez les jeunes générations ceux qui naissent là dans les années 2020, ils vont connaître probablement 7 fois plus d'épisodes de canicule que ce que nous avons connu."
             },
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Or les politiques publiques pour les avoir suivis à l'Assemblée nationale depuis 5 ans, elles sont marquées par l'incapacité à changer en profondeur notre modèle de développement, c'est à dire qu'il faut pas simplement une mesure dans un coin, bien sûr qu'il y a des mesures phares, il faut arrêter de subventionner les énergies fossiles, mais il faut investir dans la transition de notre modèle de développement."
             }
         ]
@@ -57,7 +57,7 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Nous n'avons pas de planète de rechange, ce qui crée aujourd'hui les conditions d'un dégâts sur l'environnement et de dégâts planétaires c'est ce modèle économique qui est basé sur fabrication de produits en Chine, à l'Est, en Asie une consommation en Europe et un recyclage en Afrique."
             }
         ]
@@ -68,7 +68,7 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Je pense qu’il faut changer de modèle économique, il faut faire le localisme, il faut développer les circuits courts, il faut développer la proximité, il faut faire le patriotisme économique, il faut faire en sorte que plus vous allez vous fournir près du territoire près de votre ville près de votre métropole moins le produit est cher."
             }
         ]

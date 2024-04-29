@@ -5,7 +5,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Mon projet pour l'école est de concentrer les moyens sur l'école primaire."
             }
         ]
@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Donc je la porterai de plusieurs manières, d'abord en rétablissant les heures d'enseignement, dont le français qui ont été retirées ces dernières années, en rétablissant les classes bilingues, l'enseignement du latin au collège, les travaux dirigés, essentielle parce que dans une famille nombreuse, une famille modeste et bien les inégalités se recréent quand on vient à la maison donc le travail dirigé est essentiel."
             }
         ]
@@ -27,7 +27,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Et, dans ces zones d'éducation prioritaire où la pauvreté se concentre, je veux qu'on réduise le nombre d'élèves par classe en CP et CE1 parce que c'est là qu'on fait l'apprentissage de la langue et des fondamentaux donc on ramènera à 12 élèves par classe."
             }
         ]
@@ -38,11 +38,11 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Ensuite il y a l'effort en manière d'orientation que je veux faire, à la fin du collège comme à la fin du lycée où l'on doit mettre davantage les entreprises, les formations universitaires, ce qu'on appelle le post baccalauréat, présents dans l'entreprise pour expliquer quels sont les débouchés."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Car le dernier point c'est de développer l'apprentissage, parce que beaucoup de nos Jeunes ne vont pas réussir à travers des formations académiques et pour qu'ils aient un emploi, une place dans la société, l'apprentissage est indispensable."
             }
         ]
@@ -53,7 +53,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "L'école a été saccagée par les socialistes, voilà faut quand même le dire."
             }
         ]
@@ -64,7 +64,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "On a, au lieu d'apprendre le français et réserver, comme je le souhaite, 50% à la langue française, parce que c'est quand même la base de tout et de manière générale aux savoirs fondamentaux."
             }
         ]
@@ -75,7 +75,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Il faut aussi valoriser considérablement les filières professionnelles."
             }
         ]
@@ -86,7 +86,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Je veux qu'à l'université le critère soit le mérite et ne soit pas le tirage au sort comme les socialistes viennent de le décider, ce que je trouve le plus injuste en réalité."
             }
         ]
@@ -97,7 +97,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Moi je suis très opposée, évidement au voile à l'université, comme je suis très opposés à tous les signes ostensibles dans l'espace public ainsi que dans l'entreprise."
             }
         ]

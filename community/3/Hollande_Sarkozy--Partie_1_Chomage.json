@@ -5,7 +5,7 @@
         },
         "extractive": [
             {
-                "speaker": "Laurence FERRARI",
+                "speaker": "Laurence Ferrari",
                 "text": "Comment peut-on relancer l'emploi en France ?"
             }
         ]
@@ -16,15 +16,15 @@
         },
         "extractive": [
             {
-                "speaker": "François HOLLANDE",
+                "speaker": "François Hollande",
                 "text": "Le chômage a augmenté si on prend l'ensemble des personnes inscrites d'un million, c'est-à-dire 4 millions personnes sont inscrites mêmes si elles n'ont pas chacune aucune activité."
             },
             {
-                "speaker": "François HOLLANDE",
+                "speaker": "François Hollande",
                 "text": "Donc, Nicolas Sarkozy vous aviez dit, c'était en 2007, que si le chômage ne tombait pas à 5 % de la population active, vous considéreriez que c'est un échec."
             },
             {
-                "speaker": "François HOLLANDE",
+                "speaker": "François Hollande",
                 "text": "Personne ne la conteste mais enfin le chômage a plus augmenté en France qu'il n'a augmenté en Allemagne."
             }
         ]
@@ -35,7 +35,7 @@
         },
         "extractive": [
             {
-                "speaker": "François HOLLANDE",
+                "speaker": "François Hollande",
                 "text": "Il faut de la croissance et j'y reviendrai, aussi bien en Europe qu'en France."
             }
         ]
@@ -46,7 +46,7 @@
         },
         "extractive": [
             {
-                "speaker": "François HOLLANDE",
+                "speaker": "François Hollande",
                 "text": "Je créerai une banque publique d'investissement pour accompagner le développement des entreprises."
             }
         ]
@@ -57,11 +57,11 @@
         },
         "extractive": [
             {
-                "speaker": "François HOLLANDE",
+                "speaker": "François Hollande",
                 "text": "Je modifierai la fiscalité des entreprises pour que le bénéficie qui est réinvesti dans la société soit moins fiscalisé que le bénéfice qui est distribué aux actionnaires."
             },
             {
-                "speaker": "François HOLLANDE",
+                "speaker": "François Hollande",
                 "text": "Donc la proposition que j'ai faite c'est que l'employeur qui gardera le senior le temps qu'il puisse partir à la retraite et donc avec ses droits qui lui donneront une pension à taux plein,  et qui embauchera un jeune avec un contrat à durée indéterminée, cet employeur-là ne paiera plus de cotisations sociales sur les deux emplois, celui du senior, celui du jeune."
             }
         ]
@@ -72,7 +72,7 @@
         },
         "extractive": [
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Nous avons un taux de chômage qui a augmenté deux fois moins que nos partenaires de la zone euro."
             }
         ]
@@ -83,11 +83,11 @@
         },
         "extractive": [
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Il est vrai qu'en Allemagne il a moins augmenté."
             },
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Parce que dans le même temps, il y a 10 ans, nous faisions seuls contre le reste du monde, les 35 heures, le chancelier Schröder, qui a par ailleurs soutenu ma candidature, faisait les accords compétitivité emploi, la TVA de localisation et toutes les réformes qu'aujourd'hui vous refusez."
             }
         ]
@@ -98,15 +98,15 @@
         },
         "extractive": [
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Vous allez créer une banque publique."
             },
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Formidable, elle existe déjà."
             },
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Voilà donc que vous allez mobiliser des fonds publics pour exonérer de cotisations sociales patronales des emplois qui existent."
             }
         ]
@@ -117,7 +117,7 @@
         },
         "extractive": [
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Premièrement, il y a un gigantesque problème de coût du travail."
             }
         ]
@@ -128,7 +128,7 @@
         },
         "extractive": [
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "C'est la raison pour laquelle j'ai proposé d'exonérer toutes les entreprises des 5,4 % de cotisations familiales pour que le travail coûte moins cher et que nous puissions le garder."
             }
         ]
@@ -139,11 +139,11 @@
         },
         "extractive": [
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Deuxième remarque, un gigantesque effort de formation pour que les chômeurs d'aujourd'hui soient formés pour les emplois de demain et pas pour les emplois d'hier."
             },
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Ce que nous avons fait avec le crédit impôt recherche et l'emprunt de 36 milliards d'euros pour favoriser l'investissement et les investissements d'avenir, l'innovation dans toutes nos entreprises."
             }
         ]
@@ -154,7 +154,7 @@
         },
         "extractive": [
             {
-                "speaker": "François HOLLANDE",
+                "speaker": "François Hollande",
                 "text": "TVA sociale : 13 milliards d'euros, qui va d'ailleurs être prélevée sur tous les Français, 300 euros de moins sur leur pouvoir d'achat, ce qui va bien entendu dégrader la croissance."
             }
         ]
@@ -165,7 +165,7 @@
         },
         "extractive": [
             {
-                "speaker": "François HOLLANDE",
+                "speaker": "François Hollande",
                 "text": "Qu'avez-vous fait depuis 5 ans pour les laisser sans formation et sans qualification ?"
             }
         ]
@@ -176,11 +176,11 @@
         },
         "extractive": [
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "L'Allemagne a fait la TVA anti-délocalisation que je propose, trois points, vous la refusez."
             },
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Troisième point, elle fait les accords compétitivité emploi que vous refusez, c'est-à-dire la possibilité pour les salariés et les chefs d'entreprise de discuter de la durée de travail et salaire dans l'entreprise."
             }
         ]
@@ -191,15 +191,15 @@
         },
         "extractive": [
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Savez-vous pour combien pèse l'énergie fossile dans les 70 milliards de déficit ?"
             },
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Si vous le savez, vous le dites : c'est 63 milliards."
             },
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je pense d'ailleurs qu'il est totalement irresponsable, dans la situation où 63 milliards de notre déficit pèsent sur le coût de l'énergie qui est de plus en plus cher, de vouloir casser la filière nucléaire."
             }
         ]
@@ -210,7 +210,7 @@
         },
         "extractive": [
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Enfin, deux dernières remarques sur la TVA : la TVA pèsera sur les importations."
             }
         ]
@@ -221,11 +221,11 @@
         },
         "extractive": [
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Mais je vais vous donner deux chiffres : avec ce que je propose et qui entrera en vigueur au 1er octobre, 94 % des employés agricoles, 94 % , auront 1 800 euros de cotisations en moins."
             },
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "65 % des employés de l'industrie, 78 % des ouvriers de l'industrie automobile."
             }
         ]
@@ -236,7 +236,7 @@
         },
         "extractive": [
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je pense qu'il faut un changement considérable, pour que la formation aille à ceux qui en ont besoin, notamment aux chômeurs."
             }
         ]
@@ -247,7 +247,7 @@
         },
         "extractive": [
             {
-                "speaker": "François HOLLANDE",
+                "speaker": "François Hollande",
                 "text": "Ce n'est jamais de votre faute."
             }
         ]
@@ -258,11 +258,11 @@
         },
         "extractive": [
             {
-                "speaker": "François HOLLANDE",
+                "speaker": "François Hollande",
                 "text": "Vous nous dites : « les accords compétitivité emploi », la belle idée que vous avez lancée."
             },
             {
-                "speaker": "François HOLLANDE",
+                "speaker": "François Hollande",
                 "text": "Sauf qu'en conséquence, il n'y aura plus de durée légale du travail puisqu'employeurs et partenaires sociaux  qui se mettront d'accord, j'en conviens, dans une entreprise en considérant qu'il n'y a plus de durée légale du travail."
             }
         ]
@@ -273,7 +273,7 @@
         },
         "extractive": [
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Si la TVA anti-délocalisation était une si mauvaise idée, on se demande bien pourquoi votre propre porte-parole, Manuel Valls, en a fait le thème de sa campagne dans les primaires socialistes."
             }
         ]
@@ -284,7 +284,7 @@
         },
         "extractive": [
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "L'idée, c'est de garder une loi : à partir de 35 heures, ce seront des heures supplémentaires."
             }
         ]
@@ -295,7 +295,7 @@
         },
         "extractive": [
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Mais si dans l'entreprise, salariés et chefs d'entreprise se mettent d'accord pour augmenter les salaires, pour augmenter la durée du travail ou au contraire pour réduire la durée de travail parce que le carnet de commandes ne va pas, l'accord dans l'Entreprise prime sur la loi et sur le contrat individuel."
             }
         ]
@@ -306,7 +306,7 @@
         },
         "extractive": [
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Sur l'innovation, pourquoi avez-vous voté contre le Grand Emprunt et la Commission Rocard-Juppé ?"
             }
         ]
@@ -317,7 +317,7 @@
         },
         "extractive": [
             {
-                "speaker": "François HOLLANDE",
+                "speaker": "François Hollande",
                 "text": "Si vous permettez : les États-Unis ont fait mieux que nous en termes de croissance, l'Allemagne a fait mieux en termes de croissance."
             }
         ]
@@ -328,7 +328,7 @@
         },
         "extractive": [
             {
-                "speaker": "Nicolas SARKOZY",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Sur l'ensemble de la période, c'est certain mais depuis 2009, la France est le seul pays qui n'ait pas connu un trimestre de récession."
             }
         ]
@@ -339,15 +339,15 @@
         },
         "extractive": [
             {
-                "speaker": "François HOLLANDE",
+                "speaker": "François Hollande",
                 "text": "C'est qu'en Allemagne, il y a des partenaires sociaux."
             },
             {
-                "speaker": "François HOLLANDE",
+                "speaker": "François Hollande",
                 "text": "Et il y a une capacité à permettre l'assouplissement de la vie de l'entreprise et notamment grâce à un chômage partiel qui a empêché bien des licenciements."
             },
             {
-                "speaker": "François HOLLANDE",
+                "speaker": "François Hollande",
                 "text": "Et quand l'Allemagne met plusieurs milliards pour l'aide au chômage partiel, nous en France, nous avons attendu pour mettre en place un mécanisme de chômage partiel"
             }
         ]

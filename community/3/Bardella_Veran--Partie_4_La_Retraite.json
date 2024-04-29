@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "Nous disons aux français que nous devons travailler un petit peu plus pour financer davantage les dépenses sociales, notamment dans le champ du grand âge de la perte d'autonomie."
             }
         ]
@@ -27,11 +27,11 @@
         },
         "extractive": [
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "Marine Le Pen propose par exemple cent mille places d’ehpad, formidable."
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "Non ce qu’ils veulent c’est vieillir chez eux le plus longtemps possible, et ça coûte cher, il faut des accompagnants familiaux, il faut des aides à domicile, il faut du temps supplémentaire."
             }
         ]
@@ -42,11 +42,11 @@
         },
         "extractive": [
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "La règle, c’est quatre mois sur une année d'augmentation de la durée de cotisation, avec effectivement une clause de revoyure dans quelques années, quand on sera à soixante-quatre ans, pour se dire est-ce que notre système est désormais équilibré, ou est-ce qu'il ne l'est pas."
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "En retour, en plus de dépenses sociales nouvelles dont j'ai parlé dans le champ de l'autonomie, nous assurons un minimum de mille cent euros de pension de retraite pour tous les français."
             }
         ]
@@ -57,11 +57,11 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Je pense que la retraite euh, c'est pas seulement de la comptabilité, je pense que c'est un choix de société, c'est une vision qu'on a de l'homme."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Et euh il est inenvisageable de notre point de vue de faire travailler les français jusqu'à soixante-cinq ans, parce que l'espérance de vie en bonne santé dans notre pays elle stagne depuis dix ans, et notamment pour les femmes."
             }
         ]
@@ -72,11 +72,11 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Euh pour tous ceux qui commenceront à travailler entre dix-sept et vingt ans, les français pourront partir à la retraite avec Marine Le Pen, s'ils font le choix de Marine Le Pen, à soixante ans avec quarante annuités de cotisation."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Et au-delà de ça, il y aura une progressivité qui se mettra en place et qui ne dépassera pas les soixante-deux ans et les quarante-deux annuités."
             }
         ]
@@ -87,23 +87,23 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Moi la question que je voudrais vous poser, c’est soixante-cinq ans, puisque personne, aucun ministre ne dit la même chose, avec combien d'annuités monsieur véran ?"
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "quarante-trois."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Non mais là, le reproche que je vous fais monsieur, on pourrait discuter de la, de la, de la viabilité de cette réforme, c'est que avec vous dans ce modèle-là à soixante-cinq ans et quarante-trois annuités, une ouvrière qui euh enchaîne les petits boulots, qui rentre sur le marché du travail à vingt-et-un ans, va devoir cotiser quarante-quatre ans pour pouvoir partir à taux plein à la retraite."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Un cadre qui travaille par exemple chez Mckinsey qui aurait un bac plus cinq qui commence à travailler à vingt-trois ans, si vous faites le calcul, va devoir cotiser quarante-trois ans pour pouvoir partir à la retraite à taux plein."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Donc dans la france d'emmanuel macron dans le choix qui va se poser dimanche, le vote pour emmanuel macron, c’est faire travailler plus longtemps une ouvrière ou une infirmière libérale, par exemple."
             }
         ]
@@ -114,19 +114,19 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Donc si marine le pen est élue, il n'y aura pas une seule pension de retraite, une seule pension de retraite en dessous de mille euros."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Les nôtres seront indexée sur les pensions de retraite, et on ira plus loin."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Bien sur qu’il y aura un changement, il y aura pas une seule pension de retraite sous mille euros."
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "C'est la règle avec les réformes actuelles, les réformes passées, les réformes à venir, Ils ne partiront pas à soixante ans, Sinon ils auront une décote par rapport à, par rapport à la pension de retraite actuel dans le système."
             }
         ]
@@ -137,11 +137,11 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Si vous commencez à travailler entre dix-sept et vingt ans, vous partez à quarante annuités avec soixante ans avec un minimum de retraite de mille euros."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Quarante-deux pour cent des gens qui arrivent aujourd'hui à la retraite sont au chômage donc en vérité leurs modèles ça consiste à payer des chômeur."
             }
         ]
@@ -152,15 +152,15 @@
         },
         "extractive": [
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "C'est factuellement absolument faux, et il se fait euh pardon y a une erreur d'un rapport un à quatre, ce qui est pas une petite erreur, c'est important."
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "En reculant l'âge de départ à la retraite, il va y avoir une conséquence c'est quand il vous reste, sept, huit, ou neuf ans de carrière active potentielle devant vous, on va davantage investir dans la formation."
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "Donc l'un des corollaires, ça saute pas aux yeux mais je vous garantis que c'est le cas est, c’est ce que disent les économistes, l'un des corollaires de cette réforme est aussi qu'on va investir davantage dans l’emploi des seniors"
             }
         ]

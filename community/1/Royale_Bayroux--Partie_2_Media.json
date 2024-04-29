@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "FB",
+                "speaker": "François Bayrou",
                 "text": "Je suis absolument opposé au verrouillage médiatique."
             }
         ]
@@ -27,7 +27,7 @@
         },
         "extractive": [
             {
-                "speaker": "FB",
+                "speaker": "François Bayrou",
                 "text": "Ce débat a été difficile à organiser, comme si quelqu'un pouvait dans une démocratie interdire à des gens de parler ensemble au vu et au su de tout le monde."
             }
         ]
@@ -38,15 +38,15 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Oui, c'est d'ailleurs dans le pacte présidentiel que je propose."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Il y a des collusions d'intérêts qui ne sont pas celles d'une démocratie."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Mais le Parlement en débattra et des décisions seront prises dans ce sens. Je crois que la liberté d'expression, le pluralisme des opinions, doivent absolument être garanties et déconnectées des puissants de l'argent"
             }
         ]

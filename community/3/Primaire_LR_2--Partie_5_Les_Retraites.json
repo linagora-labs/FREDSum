@@ -16,15 +16,15 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Première chose, garantir le pouvoir d'achat demain à nos retraités."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Et moi, je suis favorable à actionner les deux leviers."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Le levier du report de l'âge, autour de 64 ans, et le levier aussi de la durée de cotisation."
             }
         ]
@@ -35,11 +35,11 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Deuxième chose, faire comme dans le service public, avoir un minimum garanti de 1 200 euros."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Et enfin, une allocation, une reversion pour les enfants handicapés pour qu'après la mort du papa et de la maman, il puisse y avoir une reversion de la pension."
             }
         ]
@@ -54,11 +54,11 @@
                 "text": "Aurélien Pradier, vous ne souhaitez pas le report de l'âge légal de départ à la retraite, qui est une proposition que la droite fait depuis des années, et on vient encore de l'entendre."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Celui qui a commencé à travailler tôt, finit tôt."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Celui qui a commencé à travailler tard, finit plus tard."
             }
         ]
@@ -69,11 +69,11 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Qu'on fasse le ménage dans l'aide médicale d'État, un milliard d'euros par an."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Dans le rapprochement entre les régimes du public et du privé, dans les 20 milliards que coûtent chaque année les agences de l'État, dans les 400 000 emplois vacants que nous avons aujourd'hui qui pourraient être autant de cotisants."
             }
         ]
@@ -84,11 +84,11 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "La France, les Français travaillent beaucoup moins sur la durée d'une vie que dans tous les pays européens et chez tous nos grands concurrents."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Et chaque personne qui va aller à la retraite, qui va ouvrir ses droits à la retraite choisit, soit il part à 65 ans, soit il part quand il a 45 ans d'annuité."
             }
         ]
@@ -99,11 +99,11 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Mais, longues carrières,ça veut dire que quand vous avez cotisé 4 trimestres avant votre 20e année, vous pouvez partir à 60 ans."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Vous voyez bien que 45 ans, c'est très violent."
             }
         ]
@@ -114,15 +114,15 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Je ne ferai pas la courte échelle à Emmanuel Macron sur la réforme des retraites."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Si la réforme des retraites qui nous est proposée correspond à ce qu'on a toujours souhaité, il n'y a aucune raison que je ne la vote pas."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Donc si ça sauve le système de retraite et si ça protège les retraités d'aujourd'hui et de demain, je la voterai."
             }
         ]

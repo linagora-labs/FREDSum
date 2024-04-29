@@ -16,19 +16,19 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Mais bien sûr que oui parce que sinon je ne me présenterai pas pour être présidente de la République."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Voyez, je considère qu'avec le pouvoir d'achat, la sécurité est un des éléments absolument essentiels et une demande parfaitement légitime d'ailleurs des Français."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "D'abord, il faut régler le problème de l'immigration anarchique et massive."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Car je le dis très clairement l'immigration anarchique et massive contribue à l'aggravation de l'insécurité dans notre pays."
             }
         ]
@@ -39,11 +39,11 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "C'est la raison pour laquelle je vais proposer un référendum aux Français."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Nous aurons sûrement l'occasion d'en parler tout à l'heure qui vise à changer la politique d'immigration pour que, enfin simplement les Français décident qui vient, qui se maintient et qui doit partir et qu'on fasse respecter la loi notamment en renvoyant chez eux non seulement les clandestins mais également évidemment en renvoyant chez eux les délinquants et les criminels."
             }
         ]
@@ -54,11 +54,11 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Et dans le domaine de la justice, les Français ont le sentiment que c'est devenu le laxisme le plus total."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Il faut donc réarmer les policiers moralement d'abord, et je suis, vous savez, pour la présomption de légitime défense."
             }
         ]
@@ -69,15 +69,15 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Il faut arrêter avec les aménagements de peine."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Mais tout cela n'est possible que si évidemment on construit des places de prison."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Donc il faut construire des places de prison, et notamment en l'espèce 25 000 qui sont absolument nécessaires."
             }
         ]
@@ -88,11 +88,11 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Penser à nos policiers, c'est y penser chaque jour et ce n'est pas les abandonner dès qu'il y a un coup de grisou, Mme Le Pen comme vous l'avez fait il y a quelques jours devant les policiers de Darmanin quand il y avait un problème dans un de vos événements, vous savez."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Moi durant ce quinquennat, j'ai tenu mes engagements, 10 000 postes de policiers et de gendarmes ont été créés."
             }
         ]
@@ -103,11 +103,11 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Et à côté de ça, on a augmenté les moyens de la justice de 30% ces deux dernières années."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Ce qui fait qu'il y a d'ailleurs des résultats puisque la délinquance sur les biens en particulier a fortement diminué et les chiffres sont aussi là qui est le fruit de l'implication de nos policiers, de nos gendarmes, de nos services de renseignement."
             }
         ]
@@ -118,7 +118,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Des résultats aussi sur la lutte contre le terrorisme et je veux saluer ce qu'a fait le gouvernement, ce qu'ont fait l'ensemble des services, avec plus d'une trentaine d'attentat déjoués."
             }
         ]
@@ -129,11 +129,11 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Moi il y a quatre choses, si je devais les sortir, si je puis dire, les isoler sur lesquelles je veux pouvoir agir fort de ce que j'ai fait pendant ces cinq années, de ce que nous avons bâti."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Le premier ce sont les féminicides."
             }
         ]
@@ -144,15 +144,15 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Si les chiffres des violences au personne augmentent c'est à plus de 80 % des violences intrafamiliales, parce qu'il y eut une fin d'omerta, et je suis fier de ça."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "On a mis en place les bracelets, ils ne sont pas encore tous donnés."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "La deuxième c'est dans la ruralité, grâce aux moyens que nous avons dégagé et aussi aux réformes que nous avons en fait, en particulier, sur le temps de travail et la loi d'orientation et de programmation du ministère de l'intérieur qui est prête, on pourra créer 200 brigades de gendarmerie dans nos campagnes."
             }
         ]
@@ -163,11 +163,11 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "La troisième chose dont vous n'avez pas du tout parlé mais qui va être, malgré tout."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "C'est le cyber, parce que vous savez beaucoup des risques et de l'insécurité vont être les attaques cyber contre les hôpitaux, contre les services publics, les rançonneurs privés, les terroristes, les agresseurs utilisent et utiliseront de plus en plus ces moyens."
             }
         ]
@@ -178,11 +178,11 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Et puis le dernier point c'est la justice évidemment."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Et moi, je ne partage vos propos sur les très courtes peines parce que je pense que mettre un délinquant léger dans une prison où il va fréquenter des délinquants plus lourds, c'est une absurdité."
             }
         ]
@@ -193,15 +193,15 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Pour les mineurs on a fait la réforme de l'ordonnance qui permet une justice qui passe beaucoup plus vite."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Il faut le permettre d'avoir de la rétention soit dans un environnement militaire, ce qui est une de mes propositions, soit des travaux d'intérêts généraux sous contrôle pour en particulier les plus petits délinquants."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Et je veux d'ores et déjà créer 8 500 postes de justice, magistrats, greffiers, personnels administratifs qui vont permettre d'alléger la charge de nos magistrats et de répondre beaucoup plus vite"
             }
         ]

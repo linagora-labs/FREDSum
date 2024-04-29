@@ -5,7 +5,7 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Expliquez-moi pourquoi le groupe socialiste n'a pas voté les créations de la loi de programmation de 2002 ?"
             }
         ]
@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Car ce n'était pas suffisant et qu'il n'y avait pas assez d'équilibre avec la justice qui elle aussi est en situation de diminution d'effectif."
             }
         ]
@@ -27,19 +27,19 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je propose d'abord qu'il n'y ait plus un seul délinquant sexuel et vous savez parfaitement, madame."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je veux que tous les délinquants s'engagent à suivre un traitement et sans être obligés de pointer au commissariat ou à la gendarmerie de son domicile toutes les semaines."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Autre proposition que je fais s'agissant des récidivistes, 50 % des crimes et délits sont le fait de 5 % de délinquants multirécidivistes, je propose d'instaurer des peines planchers."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Troisième élément, il faut résoudre le problème des mineurs, l'impunité des mineurs est catastrophique, il faut réformer l'ordonnance pénale de 45 et, si je suis élu Président de la République, je proposerai qu'un mineur multirécidiviste entre 16 et 18 ans soit puni comme un majeur."
             }
         ]
@@ -50,7 +50,7 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Ce sont les 35 heures qui ont mis à bas l'hôpital public français."
             }
         ]
@@ -61,7 +61,7 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Oui, il va falloir créer des postes dans la fonction publique hospitalière."
             }
         ]
@@ -72,7 +72,7 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "C'est la raison pour laquelle nous ne pourrons pas diminuer le nombre de fonctionnaires."
             }
         ]
@@ -83,7 +83,7 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Je demande que les pédophiles, en particulier, ne soient pas relâchés tant que la commission spéciale qui aurait dû être mise en place dans les prisons n'a pas formellement dit par expertise qu'ils sont désormais non nocifs."
             }
         ]
@@ -94,7 +94,7 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "J'ai parlé de l'encadrement militaire pour les mineurs et je le mettrai en place."
             }
         ]
@@ -105,11 +105,11 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Les centres éducatifs renforcés seront effectivement créés, des peines adaptées, bien évidemment, au premier délit seront exécutées, car on sait bien que s'il y a une réponse au premier acte de délinquance, dans 70 % des cas, il n'y a pas de récidive."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Tout est à repenser dans ce domaine, en particulier ma priorité sera sur la prévention et sur la sanction au premier acte de délinquance, parce que je crois que c'est comme cela que nous réussirons à freiner la montée vers la délinquance de masse."
             }
         ]
@@ -120,19 +120,19 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Je dis que la compétitivité économique n'est pas incompatible avec le progrès social, bien au contraire."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Les trois piliers du développement économique demain seront la compétitivité des PME, celles qui ne dépendent pas des fonds de pension, c'est sur elles que je concentrerai les 63 milliards d'euros d'aide publique, qui, aujourd'hui, sont distribués de façon uniforme à toutes les entreprises."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Le deuxième axe de la relance de la croissance est la qualité du dialogue social, on sait que tous les pays du Nord de l'Europe qui ont réussi à relancer la croissance sont les pays qui ont mis en place un dialogue social de qualité, qui permet aux syndicats de faire des compromis sociaux et d'anticiper, c'est-à-dire d'être informés en amont des stratégies de l'entreprise pour y contribuer, pour y participer, pour faire les efforts de formation professionnelle, là où se trouvent des trésors de valeur ajoutée."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Enfin, je mettrai en mouvement le levier écologique, parce que je pense que c'est dans cette filière du développement écologique et des éco-industries que la France a des emplois à conquérir, sans doute plusieurs centaines de milliers d'emplois, à conquérir dans ce domaine."
             }
         ]
@@ -143,7 +143,7 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Il me semble que, s'agissant de la réduction de la dette, vous n'avez fixé aucune piste d'économies."
             }
         ]
@@ -154,19 +154,19 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Le problème de la France est qu'il y a 1 % de croissance de moins que les grandes démocraties, les grandes économies qui progressent dans le monde."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Pourquoi ?"
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Parce qu'on travaille moins que les autres."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Tout est fait aujourd'hui pour décourager l'obtention des heures supplémentaires, toute entreprise qui donnera des heures supplémentaires ne paiera pas de charge dessus, tout salarié qui fera, sur la base du volontariat, des heures supplémentaires ne paiera pas d'impôt dessus, quand on est au Smic et qu'on travaille cinquante minutes de plus par jour, c'est 15 % d'augmentation de salaire."
             }
         ]
@@ -177,7 +177,7 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je mettrai un terme aux préretraites, cinq milliards d'euros chaque année, pour que des quinquagénaires pleins de jeunesse, peut-être comme nous, soient obligés de partir en retraite alors qu'ils veulent continuer à travailler."
             }
         ]
@@ -188,7 +188,7 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Je remettrai de la clarté dans les responsabilités et la fonction publique sera mieux répartie entre la fonction publique de l'Etat, la fonction publique hospitalière et les fonctions publiques territoriales."
             }
         ]
@@ -199,19 +199,19 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Si vous exonérez les heures supplémentaires, un employeur aura davantage intérêt à donner des heures supplémentaires à un salarié qu'à recruter un nouveau salarié."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Or, nous sommes le pays qui subit à la fois le taux de chômage des jeunes le plus élevé et celui des seniors le plus élevé."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "C'est pourquoi je propose de créer, sur les 5 années, les 500 000 emplois tremplins pour les jeunes."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Votre décision d'exonérer les heures supplémentaires coûte 5 milliards d'euros."
             }
         ]
@@ -222,11 +222,11 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Les emplois tremplins, cela marche et cela ne coûte rien."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Parce que c'est le recyclage des fonds de la formation professionnelle et des dépenses d'indemnisation du chômage."
             }
         ]

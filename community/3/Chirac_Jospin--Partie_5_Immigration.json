@@ -5,7 +5,7 @@
         },
         "extractive": [
             {
-                "speaker": "CHIRAC",
+                "speaker": "Jacques Chirac",
                 "text": "On aurait pu ne pas la régulariser, notamment en 81."
             }
         ]
@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "JOSPIN",
+                "speaker": "Lionel Jospin",
                 "text": "Cela a concerné 150000 personnes qui, de toute façon, seraient restées sur le territoire national pour celles-là et, ensuite, cela n'a pas été fait une deuxième fois."
             }
         ]
@@ -27,11 +27,11 @@
         },
         "extractive": [
             {
-                "speaker": "JOSPIN",
+                "speaker": "Lionel Jospin",
                 "text": "On n'a pas d'autres solutions que de faire les vérifications aux frontières, d'une part, que ce soit à nos frontières ou que ce soit aux nouvelles frontières des 7 Etats de Schengen, en s'assurant naturellement qu'ils font leur travail comme nous faisons le nôtre."
             },
             {
-                "speaker": "JOSPIN",
+                "speaker": "Lionel Jospin",
                 "text": "Et puis, par ailleurs, par des reconduites à la frontière pour ceux qui sont constatés en situation irrégulière."
             }
         ]
@@ -42,11 +42,11 @@
         },
         "extractive": [
             {
-                "speaker": "CHIRAC",
+                "speaker": "Jacques Chirac",
                 "text": "Je suis de l'avis de M. Jospin, mais je constate qu'en 1992, puisque c'est la date que vous souhaitez retenir, le taux d'exécution des reconduites aux frontières était de 16 % par rapport aux décisions de justice."
             },
             {
-                "speaker": "CHIRAC",
+                "speaker": "Jacques Chirac",
                 "text": "Vous ne mettez pas en cause les lois sur les entrées et le séjour des étrangers ?"
             }
         ]
@@ -57,7 +57,7 @@
         },
         "extractive": [
             {
-                "speaker": "JOSPIN",
+                "speaker": "Lionel Jospin",
                 "text": "C'est-à-dire que la loi officialise, ce sont des cas peu nombreux, j'en conviens, mais la symbolique est claire,le cas d'hommes et de femmes qui sont à la fois inexpulsables, non susceptibles d'avoir un titre de séjour régulier et sont en situation irrégulière."
             }
         ]
@@ -68,7 +68,7 @@
         },
         "extractive": [
             {
-                "speaker": "JOSPIN",
+                "speaker": "Lionel Jospin",
                 "text": "Je voudrais également changer, par exemple, les conditions pratiques et juridiques dans lesquelles on fait des contrôles d'identité."
             }
         ]
@@ -79,11 +79,11 @@
         },
         "extractive": [
             {
-                "speaker": "CHIRAC",
+                "speaker": "Jacques Chirac",
                 "text": "Et la réforme du Code de la Nationalité, c'est tout simplement la nécessité pour un jeune, entre 16 et 21 ans, qui veut devenir Français de le demander."
             },
             {
-                "speaker": "CHIRAC",
+                "speaker": "Jacques Chirac",
                 "text": "L'intégration est le fait, d'abord, de manifester la volonté de s'intégrer, c'est tout, quand on est un étranger ou qu'on a vocation à l'être."
             }
         ]
@@ -94,7 +94,7 @@
         },
         "extractive": [
             {
-                "speaker": "CHIRAC",
+                "speaker": "Jacques Chirac",
                 "text": "Pour permettre de renvoyer les clandestins, que l'on découvre, chez eux, cela pose des problèmes pratiques, matériels, il faut que tous les pays avec lesquels nous avons des accords de coopération, et qu'en clair nous aidons, par ailleurs, à leur développement, acceptent de signer avec nous des critères de réinsertion de leurs propres immigrés et que nous ne nous trouvions pas trop souvent dans la situation où ils refusent de les reprendre."
             }
         ]

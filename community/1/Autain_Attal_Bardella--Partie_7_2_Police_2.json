@@ -16,11 +16,11 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "Les policiers, encore une fois, je pense que ce dont ils ont besoin, c'est d'être soutenus, qu'on ne remette pas en cause, en permanence, ce qu'ils font."
             },
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "S'il y a légitime défense, vous avez une justice qui est capable d'établir les faits."
             }
         ]
@@ -31,7 +31,7 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Et les policiers, ils ont le sentiment que l'autorité, l'autorité médiatique, l'autorité politique, elle est toujours du côté des délinquants et des voyous, la présomption de légitime défense, c'est justement un soutien moral."
             }
         ]
@@ -42,15 +42,15 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Ça ne fait pas la présomption de légitime défense, Ça ne fait pas fi de l'enquête."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Ça veut juste dire que le policier, quand on menace de lui rouler dessus et qu'il est contraint de faire usage de la force, il ne se retrouve pas avec les menottes en garde à vue dans l'heure."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Il y a une enquête qui établit des responsabilités."
             }
         ]
@@ -61,7 +61,7 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Donc il faut un tournant en matière pénale, il faut mettre fin aux remises automatiques de peine, il faut rétablir des peines planchers,  il faut expulser les délinquants et criminels étrangers."
             }
         ]
@@ -72,11 +72,11 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Je vous rappelle qu'il y a 25% de détenus dans les prisons alors qu'on n'a plus de place dans les prisons et qu'il y a 100 000 peines de prison qui ne sont pas appliquées chaque année, manque de place, qui sont étrangers."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "C’est à dire on fait venir des gens, on a crime les délits et en plus, ils sont à nos frais."
             }
         ]
@@ -87,7 +87,7 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Et je pense que lorsqu'il y a une carence éducative qui est visible, manifeste, jugée, alors on doit supprimer les aides sociales en cas de récidive."
             }
         ]
@@ -98,11 +98,11 @@
         },
         "extractive": [
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Mais la réalité que n'a pas l'air de connaître, c'est que la majorité des agressions sexuelles et des viols à l'encontre des femmes sont intrafamiliales."
             },
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Mais je pointe simplement un problème majeur, c'est que c’est parfois à la maison que la sécurité n'est pas assurée."
             }
         ]
@@ -113,7 +113,7 @@
         },
         "extractive": [
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Et là, pour le coup, je dirais que le gouvernement qui est censé avoir, encore une fois, la grande cause nationale contre la lutte faite, contre les violences faites aux femmes, qui était la grande cause du quinquennat depuis 5 ans, qui a tellement bien marché que c'est à nouveau promis comme la prochaine grande cause du quinquennat."
             }
         ]
@@ -124,11 +124,11 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "On forme désormais tous les policiers en école à la question de la libération de la parole, de la prise des dépôts de plainte."
             },
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "Ils attendent de nous qu'on les soutienne, qu'on reconnaisse effectivement la difficulté de leur condition de travail."
             }
         ]
@@ -139,7 +139,7 @@
         },
         "extractive": [
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Oui, mais je pense que la responsabilité du ministre de l'Intérieur, c'est aussi de faire cesser l'impunité qui existe aujourd'hui et qui ne protège pas les policiers, non plus."
             }
         ]
@@ -154,7 +154,7 @@
                 "text": "Sur la sécurité, oui ou non, faut-il construire en France plus de places de prison ?"
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Oui, mais on peut faire de la place dès demain en expulsant les délinquants étrangers qui sont dans les prisons."
             }
         ]
@@ -165,7 +165,7 @@
         },
         "extractive": [
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Non, c'est pas la priorité de construire des places en prison, je pense qu'il y a des alternatives pour un certain nombre de peines possibles."
             }
         ]
@@ -176,11 +176,11 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "Oui, on a engagé un plan de 15 000 créations de places de prison, 8 000 qui ont été livrées dans le quinquennat qui vient de s'écouler, 7 000 qui sont programmées qui seront livrées prochainement."
             },
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "Il faut aussi des peines alternatives"
             }
         ]

@@ -5,7 +5,7 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Ensuite, sur la pénibilité qui doit être prise en compte, parce que pour les métiers les plus difficiles, c'est, je comprends l'inquiétude, la crainte de partir plus tard, mais on constate qu'à peu près 40% ou quasiment la moitié des métiers pénibles aujourd'hui, sont portés par des salariés qui ont commencé le plus tôt."
             }
         ]
@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Donc, on rejoint le débat sur les carrières longues, d'où notre volonté aux républicains d'avoir, dans nos demandes très fortes, nos exigences même auprès du gouvernement, souhaiter que ceux qui ont commencé à travailler le plus tôt, notamment de 16 à 20 ans, voire 21 ans, puissent ne pas subir de façon plus lourde cette réforme."
             }
         ]
@@ -27,11 +27,11 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "Aujourd'hui, on dépense 40 millions d'euros par an pour réduire les conditions de pénibilité au travail, on va passer à 200 millions d'euros par an."
             },
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "On se met autour de la table avec les syndicats, ils regardent secteur par secteur, et au sein de ces secteurs, quelles sont les métiers les plus pénibles et quelles sont les équipements dont il y a besoin."
             }
         ]
@@ -42,7 +42,7 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "Ensuite, on propose un système précisément pour que des gens qui ont eu un métier pénible qui ont commencé à travailler tôt, évidemment n'aillent pas jusqu'à 64 ans."
             }
         ]
@@ -53,11 +53,11 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "La deuxième chose, c'est qu'évidemment, qu'il y aura aussi ce système d'évaluation avec deux visites médicales obligatoires, une à 45 ans, une à 61 ans, pour permettre à davantage de Français de partir plus tôt sur le compte pénibilité, on élargit les critères qui existent aujourd'hui."
             },
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "Jordan Bardella, son groupe au Parlement, à l'Assemblée nationale, a proposé pendant la campagne présidentielle, de supprimer le compte pénibilité."
             }
         ]
@@ -68,11 +68,11 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Non, mais sur les régimes spéciaux, c'est très simple, je suis pour la clause du grand-père."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Les policiers, vont-ils devoir, oui ou non, travailler plus longtemps?"
             }
         ]
@@ -83,7 +83,7 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "Comme les douaniers, comme d'autres professions, ils devront travailler deux ans de plus."
             }
         ]
@@ -94,7 +94,7 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "Parce qu'il est parisien, un chaufeur de bus parisien doit partir à la retraite 10 ans avant un chauffeur de bus de province."
             }
         ]
@@ -105,7 +105,7 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Je vous dis que vous vous attaquez à des professions où on a déjà énormément de mal à recruter."
             }
         ]
@@ -116,7 +116,7 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Donc il y a des difficultés à prendre en compte ces différents critères de pénibilité."
             }
         ]

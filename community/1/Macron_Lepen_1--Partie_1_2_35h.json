@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Moi je veux que les négociations aient lieu par branche, M. Macron veut que les négociations aient lieu par entreprise."
             }
         ]
@@ -27,7 +27,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "C’est fratricide parce qu’il est évident que la négociation par entreprise c’est jeter les entreprises les unes contre les autres."
             }
         ]
@@ -38,23 +38,23 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Vous savez très bien que, dans les branches, il y aura les grosses entreprises qui pourront moduler ce temps de travail et que les petites ne pourront pas et donc elles seront amenées à disparaître."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Mais cette dérégulation totale, cette casse du droit du travail, ça va être, évidemment, une politique de précarisation, ça ne va pas créer de l’emploi, ça va créer des chômeurs supplémentaires."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Et qu’il faut, enfin, faire une politique de protection des emplois et de développement des TPE, PME."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Les TPE, PME qu’est-ce qu’elles demandent, vous avez été voir les chefs d’entreprises, ils veulent quoi, plus de visibilité, ils veulent pouvoir qu’ils soient TPE, PME, entreprises de tailles intermédiaires."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Donc, il faut leur laisser la possibilité de négocier, pour certaines, un accord majoritaire d'entreprise."
             }
         ]
@@ -65,7 +65,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Donc vous partez du principe que c'est le code du travail qui crée, en réalité, du chômage."
             }
         ]

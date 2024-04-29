@@ -16,15 +16,15 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Avec les économies que je vais faire, je vais pouvoir baisser les impôts de production."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Je vais aussi débureaucratiser les normes."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Non, c'est comme ça qu'on permet à l'industrie, d'avoir beaucoup plus de, de, de facilités, pour se développer."
             }
         ]
@@ -35,7 +35,7 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Il faut un comité stratégique, et, il faut des fonds d'investissement stratégique."
             }
         ]
@@ -46,7 +46,7 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Et puis, il faut une taxe carbone aux frontières de l'europe, qui permette, une vraie taxe carbone, qui permettra de protéger, aujourd'hui, nos industries et notre agriculture, qui respecte des normes environnementales beaucoup plus forte que les autres."
             }
         ]
@@ -57,7 +57,7 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "D'abord, je voudrais dire que madame pécresse fait partie de ces élites gouvernementales, puisqu'elle a gouvernée, il y a maintenant quelques années, euh, qui ont bradée l'industrie française, en disant que l'industrie était dépassée, que les services étaient plus important, étaient l'avenir, et que le libre-échange allait tout résoudre."
             }
         ]
@@ -68,7 +68,7 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Le la première mesure, c'est effectivement, la baisse des charges, puisque nous sommes beaucoup trop imposés, nos entreprises sont beaucoup trop imposées, et, euh, nous n'arrivons pas à être compétitifs."
             }
         ]
@@ -79,11 +79,11 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Puisque l'épargne des français est très abondante, je vous propose un fonds souverain, qui pourra investir dans telle ou telle entreprise."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Par ailleurs, je propose également des zones, des zones, euh, de, euh, sans fiscalité, zones franche, dans des, justement, les zones où il y a eu une désindustrialisation importante, comme dans le nord, ou ailleurs."
             }
         ]
@@ -94,11 +94,11 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Par ailleurs, euh, euh, je pense, que, il nous faut, si vous voulez, contrôler beaucoup mieux les investissements étrangers."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Il y a une loi de prête, donc je dis pas que ça n'existe pas, je dis que bercy ne le fais pas."
             }
         ]
@@ -109,7 +109,7 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Cette mesure figure, évidemment dans mon programme, ça s'appelle le haut conseil économique et numérique."
             }
         ]
@@ -120,7 +120,7 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Si on veut industrialiser, il faut qu'on mette le paquet sur la recherche, et une recherche partenariale, entre les entreprises et les chercheurs, public privé"
             }
         ]

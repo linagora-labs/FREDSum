@@ -20,7 +20,7 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "La France doit faire plus pour la paix, toujours."
             }
         ]
@@ -31,15 +31,15 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Moi, ma position dans ce conflit, elle n'a qu'une référence, c'est la vision du général de Gaulle."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Notre voix s'est affaiblie, elle s'est presque éteinte."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Quelque part, je le disais dans mon introduction, du discrédit qui frappe notre pays à bien des égards, sa voix, elle ne porte plus, et c'est ça aussi, tout l'enjeu que nous devons porter ensemble collectivement pour redonner une crédibilité à notre pays."
             }
         ]
@@ -50,7 +50,7 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Non, c'est aux Ukrainiens de nous dire quand est-ce qu'ils devront négocier."
             }
         ]
@@ -61,15 +61,15 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Alors oui, je pense qu'il faut qu'on continue à les soutenir."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Je pense qu'il faut préserver le dialogue parce qu'à un moment ou à un autre, il faudra sortir de la guerre, il faudra trouver les moyens de la paix."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Et dans ce bras de fer, nous nous situons résolument aux côtés de l'Ukraine, face finalement à un Poutine qui ressuscite l'homme rouge, l'homme soviétique, avec les mêmes méthodes."
             }
         ]
@@ -84,7 +84,7 @@
                 "text": "Aurélien Pradié, on l'a entendu peut-être de certaines façons en sous-texte chez vos deux concurrents, le commandement intégré de l'OTAN, l'Atlantisme, le Suivisme, tout ça a été dénoncé."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "La première, c'est de dire que nous ne pouvons pas mener cette guerre-là, directement ou indirectement, sans être dans l'OTAN."
             }
         ]
@@ -95,7 +95,7 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "La deuxième chose à dire, et je le partage avec mes amis, c'est que la parole de la France aujourd'hui n'est plus entendue."
             }
         ]
@@ -106,23 +106,23 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Nous devons, nous, la nation française, aussi nous réarmer."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "C'est très insuffisant."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Je ne veux pas que nous bricolions sur des enjeux aussi essentiels."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Si cette loi de programmation militaire va au-delà de ce qui est prévu, et pour ma part, mon analyse, c'est plus 4 milliards d'euros par an en plus de la trajectoire qui est prévue, bien sûr."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "C'est ce que je demande depuis que je suis engagé dans la vie publique."
             }
         ]
@@ -148,7 +148,7 @@
                 "text": "Si cette trajectoire budgétaire se confirme, voterez-vous cette loi de programmation militaire ?"
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Donc, naturellement, je donnerai toujours les moyens pour que notre pays se protège mieux et ça va dans le bon sens, mais aujourd'hui, très clairement, c'est nettement insuffisant."
             }
         ]

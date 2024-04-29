@@ -16,11 +16,11 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "je pense que la retraite c'est pas simplement de la compta, je pense que c'est pas juste de la comptabilité, c'est une vision qu'on a de l'homme."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Je pense que les français ont le droit, les français qui travaillent durs, les français qui font des métiers manuels, les français qui commencent très tôt dans des conditions pénibles, ont le droit de partir à la retraite, alors s'ils commencent à travailler entre 17 et 20 ans, à 60 ans avec un départ à l'âge légal de 60 ans avec 40 annuités."
             }
         ]
@@ -31,7 +31,7 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Je vais même vous dire qu'il y a un français sur deux, qui quand il arrive à la retraite arrive au chômage, donc en vérité la retraite à 65 ans ça consiste à faire cotiser plus longtemps des chômeurs, donc à baisser, in fine le niveau de retraite, parce que quand vous cotisez votre retraite et que vous ne travaillez pas, évidemment que le niveau de votre retraite il est moindre."
             }
         ]
@@ -42,7 +42,7 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Et puis il faut garantir des pensions de retraite à 1000€."
             }
         ]
@@ -53,7 +53,7 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "La retraite c'est un temps important de la vie, et on veut que nos retraités puissent vivre plus dignement dans de meilleures conditions leur retraite, ça implique je l'ai dit tout à l'heure de revaloriser dès le mois de juillet les retraites de 4%, ça implique comme on le propose dans notre programme d'avoir deux heures en plus par semaine d'aide à domicile financée, ça implique comme on le propose aussi dans notre programme de mettre en place une aide à l'adaptation du logement pour les personnes âgées qui peuvent pas forcément financer la transformation d'une baignoire en douche, l'installation d'une rampe sur un escalier, on financera 70% des travaux pour des retraités qui ne peuvent pas financer cela."
             }
         ]
@@ -64,11 +64,11 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "On va mettre en place une réforme d'abord très progressivement sur 10 ans."
             },
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "Un maçon ou une aide soignante ne partira pas à la retraite à 65 ans dans notre système, évidemment qu'elle partira et qu'elle continuera à partir beaucoup plus tôt de la même manière qu'il y a aujourd'hui un âge anticipé de départ."
             }
         ]
@@ -79,7 +79,7 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Ce qui veut donc dire que dans votre modèle qui ne tient absolument pas la route en plus d'être injuste et brutal, un ouvrier va devoir cotiser plus longtemps qu'un cadre de la finance, ou qu'un cadre d'une grande boîte."
             }
         ]
@@ -90,15 +90,15 @@
         },
         "extractive": [
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Non on n'est pas d'accord avec Jordan Bardella, mais je peux vous dire mon projet, notre projet c'est en effet le départ à la retraite à 60 ans."
             },
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Pour deux raisons, la première c'est parce qu'on estime que vu l'espérance de vie en bonne santé qui est jusqu'à 63 ans, c'est bien d'avoir un départ qui permette de profiter des années à la retraite."
             },
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "C'est 60 ans avec 40 annuités, vous partez avec ça vous avez votre retraite avec le minimum qui est 1100 euros, mais la question est aussi celle de la décote, parce qu'avec vous vous avez des décotes."
             }
         ]
@@ -109,15 +109,15 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "C'est ce que vous dites, vous construisez un système ou vous pouvez toucher la même retraite sans travailler qu’en travaillant."
             },
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Ceux qui n'ont pas la carrière complète, d'une sorte de double peine, non seulement vous n'avez pas vos annuités mais en plus à chaque année que vous n'avez pas cotisé vous avez une décote."
             },
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Je termine juste d'un mot sur la logique que nous voulons, c'est de partir et vivre dignement de sa retraite et suffisamment tôt pour en profiter, et deuxièmement pouvoir partager le temps de travail, parce que vous avez beaucoup de jeunes qui aujourd'hui sont sur le carreau, vous avez les plus de 50 ans qui ont du mal à trouver du boulot, et qu'on a une urgence à répartir autrement ce travail ce temps dans l'emploi."
             }
         ]
@@ -128,7 +128,7 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "Dans votre projet sur les retraites, il est écrit qu'il sera financé au nom de 0,25 pour cent par ans."
             }
         ]
@@ -139,15 +139,15 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "Et donc ceux qui nous écoutent qui travaillent avec 2000 euros par mois gagneront 300 euros de moins sur l'année parce que leurs cotisations vont augmenter."
             },
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Les salaires vont augmenter, d'abord le SMIC, puisque nous allons faire en sorte que le SMIC soit à 1500 euros."
             },
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "La CRDS c'est 0,5, vous voyez, c'est plus que le 0,25 dont vous parliez à l'instant."
             }
         ]

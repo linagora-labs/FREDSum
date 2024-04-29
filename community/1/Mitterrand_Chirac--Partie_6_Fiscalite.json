@@ -5,7 +5,7 @@
         },
         "extractive": [
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "ne simple question, monsieur Mitterrand : vous parlez de l'Europe, avez-vous l'intention de poursuivre la politique de privatisation qui est conforme à ce qu'on fait dans toute l'Europe ou non ?"
             }
         ]
@@ -16,15 +16,15 @@
         },
         "extractive": [
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Non, sûrement pas !"
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Les entreprises nationalisées nous ont coûté très, très cher."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Les sociétés nationalisées par nous ont été reçues avec des pertes et nous les avons restituées avec des gains et vous les vendez trois fois plus cher."
             }
         ]
@@ -35,11 +35,11 @@
         },
         "extractive": [
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Je vous dis, moi, que l'ensemble du secteur public, 140 milliards de déficit, et cela représentait environ 1000 francs par an et par ménage."
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Si c'est mauvais, il faut poursuivre les dénationalisations, si, au contraire, votre conviction est que cela a si bien réussi, que c'est bon, il faut renationaliser."
             }
         ]
@@ -50,11 +50,11 @@
         },
         "extractive": [
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Je voudrais enfin dire un mot sur la fiscalité : pendant 5 ans, vous augmentez les impôts et vous en avez créé de nouveaux : depuis deux ans, j'ai diminué les impôts et je n'en ai créé aucun."
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "J'ai indiqué clairement ma volonté de poursuivre la diminution de la fiscalité en France qui est excessive par rapport à nos concurrents et j'ai dit comment je le ferai, je ne surprendrai personne."
             }
         ]
@@ -65,11 +65,11 @@
         },
         "extractive": [
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "En fait, parlons clair, les prélèvement obligatoires qui représentent la somme des impôts et des cotisations sociales ont constamment augmenté depuis 1974 de près de 1 % par an, jusqu'en 1985, date à laquelle il y a eu légère baisse,c'est la seule fois que cela s'est produit."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Eux savent ce qu'ils paient : impôts plus cotisations sociales ; près de 1 % de plus chaque année, il fallait casser cette infernale mécanique et je l'ai cassée en 1985."
             }
         ]
@@ -80,15 +80,15 @@
         },
         "extractive": [
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Malheureusement, elle a repris de plus belle après 86 puisque vous venez de battre le record absolu de la charge fiscale et sociale en 1987 avec le pourcentage par rapport au produit intérieur brut de 44,8."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Pour ce qui concerne les impôts, il est exact que vous les avez réduits mais vous n'avez pas réduit les charges que supportent les ménages, ce sont des charges qui restent très lourdes."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Et quant aux impôts, vous avez redistribué environ 50 milliards de francs : 15 de ces milliards sont allés vers les 120 à 130000 personnes les plus riches de France ; les 35 autres milliards sont allés aux 23 millions de foyers fiscaux qui vont des foyers importants jusqu'aux plus modestes."
             }
         ]
@@ -99,19 +99,19 @@
         },
         "extractive": [
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Comme ce sont les plus modestes qui ont payé des cotisations sociales, en fait, 120 à 130000 personnes ont reçu des cadeaux : suppression de l'impôt sur les grandes fortunes, avoir fiscal sur les dividendes porté à 69 %, tranche maximum de l'impôt sur le revenu baissée de 65 à 56 et quelques pour cent, que vous voulez d'ailleurs réduire encore à 50 %."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Toutes les autres, vous entendez, toutes les autres, en dépit de la réduction d'impôt, ont payé plus."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Donc, de ce point de vue, me parler des impôts sous forme d'allègements pour les individus, permettez-moi de vous dire que votre calcul n'est pas juste, les prélèvement obligatoires sont plus lourds qu'ils n'ont jamais été."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Mais personne ne pourra réduire de 1 % chaque année."
             }
         ]
@@ -122,15 +122,15 @@
         },
         "extractive": [
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "J'ai supprimé l'impôt sur le revenu pour 2 millions de personnes qui étaient les plus modestes."
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "J'ai diminué la TVA sur l'automobile, ça fait 3000 francs par automobile, 2000 francs par moto."
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Je l'ai diminuée,et je poursuivrai,sur les disques et les cassettes, aujourd'hui, vous savez, c'est 13 à la douzaine, on peut obtenir 13 disques pour le prix de 12, c'est un progrès."
             }
         ]
@@ -141,7 +141,7 @@
         },
         "extractive": [
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Ce que vous aviez fait, vous, j'ai la liste des impôts que vous aviez augmentés, c'est impressionnant jusqu'à y compris, et je vous en ai voulu à cette époque, non pas pour des raisons personnelles, en tant que maire de Paris, en tant qu'homme, en 1984 vous avez plus que doublé le taux de la TVA sur les aliments pour les chiens et les chats."
             }
         ]
@@ -152,15 +152,15 @@
         },
         "extractive": [
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Moi, je suis pour faire payer les riches, naturellement, mais dans des conditions qui soient conformes à nos intérêts."
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Aujourd'hui l'impôt sur le patrimoine, l'impôt sur les grandes fortunes est, en Allemagne, la moitié de ce qu'il est en France."
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Vous voulez créer ou recréer cet impôt, augmentant encore la différence."
             }
         ]
@@ -171,7 +171,7 @@
         },
         "extractive": [
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Que va-t-il se passer, alors, en 1992, lorsqu'il y a libre-circulation des capitaux ,eh bien, il y aura forcément transfert des capitaux en Allemagne et, donc, appauvrissement de la France, incapacité d'investir et qui paiera les pots cassés, comme toujours ?"
             }
         ]
@@ -182,19 +182,19 @@
         },
         "extractive": [
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Oui, d'abord, sur l'injustice fiscale, je ferai observer,exemple et contre-exemple,deux cas : un couple marié et deux enfants, patrimoine : 10 millions de francs, revenu 100000 francs par mois, le bilan, gain fiscal pour cette famille : 70000 francs."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Cas no 2, couple marié, deux enfants, son revenu n'est pas imposé. Il ne reçoit que 5000 francs par mois et ce contribuable là paiera 920 francs de plus."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Ce que je veux vous dire, c'est que ce n'est pas vrai, ce n'est pas exact que l'impôt sur les grandes fortunes soit plus cher qu'en Allemagne, il est nettement moindre."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Deuxièmement, il y a 5 pays de l'Europe, de la Communauté, qui ont un impôt du même ordre : l'Allemagne fédérale, nous en avons parlé, le Danemark, l'Espagne, le Luxembourg et les Pays-Bas, donc, nous ne sommes pas isolés."
             }
         ]
@@ -205,7 +205,7 @@
         },
         "extractive": [
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Mais lorsque la TVA a été effectivement augmentée par le gouvernement Mauroy, d'un point en moyenne, de 17 à 18,5, il y a eu baisse correspondante sur les produits alimentaires, c'est-à-dire les produits de première nécessité pour les humains."
             }
         ]
@@ -216,19 +216,19 @@
         },
         "extractive": [
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Deuxièmement, la moyenne européenne incluant l'Allemagne est de 40 % en-dessous de la France qui a l'impôt sur le capital le plus élevé de la Communauté, ce qui veut dire que notre problème sera de le diminuer si l'on veut être cohérent avec votre idée de l'Europe et non pas de l'augmenter."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "En somme, je propose un revenu minimum garanti pour les plus pauvres."
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Nous le proposons tous."
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Non, je propose une activité minimum d'insertion pour tous, car moi je crois que lorsqu'on tend un chèque à qui en a besoin, on doit aussi lui tendre le regard et la main"
             }
         ]

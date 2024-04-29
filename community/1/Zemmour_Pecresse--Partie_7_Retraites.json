@@ -28,15 +28,15 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Ce qu'on voit c’est que ce qu'emmanuel macron candidat promet, c’est tout ce que emmanuel macron président n'a pas fait."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Mais, sur les questions économiques, c'est quand même très important."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Euh, parce que je sais que pour éric zemmour, c'est totalement secondaire, puisque, lui, dans son programme, il a cent cinquante milliards de dépenses non financées."
             }
         ]
@@ -47,7 +47,7 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Aucune suppression de postes de fonctionnaires, pas de réforme de l'assurance chômage."
             },
             {
@@ -55,15 +55,15 @@
                 "text": "Dites vous aux français, moi présidente, la retraite sera à soixante cinq ans ?"
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Mais, moi, je l ai, j ai dit, déjà, je ferai cette réforme, jusqu'à soixante-cinq ans, sauf pour les français, qui, sont usés par leur travail, ont une carrière longue et pénible."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "J'ai dit que je ferai la réforme de l'assurance chômage, j'ai dit que je ferai la réforme de l'état."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "J'ai dit que je supprimerai deux cent mille postes de fonctionnaires."
             }
         ]
@@ -78,11 +78,11 @@
                 "text": "Mille cent euros de pension minimum dit, euh, emmanuel macron, candidat, vous vous dites mille euros."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Non, moi, je dis le smic net, parce que, avec cette réforme, je peux dégager des, des, des, des ressources, jusqu'au smic net, pour que il n'y ait plus un seul retraités qui partent à la retraite sans le smic net."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Et je propose de passer les pensions de reversion des veuves, de cinquante-quatre pour cent à soixante-quinze pour cent pour les veuves qui n'ont pas de carrière complète."
             }
         ]
@@ -97,7 +97,7 @@
                 "text": "On est pas dans une cour de récréation, alors, mais alors, éric zemmour répondez, alors, répondez, et valérie pécresse a dit que vous faisiez pas de réforme de fond, et que vos solution, c'est-à-dire, en gros, supprimer un certain nombre de dépenses liées à l'immigration, ne suffirait largement pas à euh, combler les déficits, et à faire des réformes de fonds."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Je dis, depuis des mois, euh, je parle de retarder l'âge de la retraite à soixante-quatre ans."
             }
         ]
@@ -108,15 +108,15 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Moi, je ne propose pas, effectivement, vous avez raison, j'annonce pas triomphalement, des réductions d'effectifs publics, parce que, euh, j'ai compris, avec la campagne de deux mille dix-sept, que tout ça, euh, n'était que paroles verbales."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Je dis, il ne faut pas promettre, il faut, quand on est au pouvoir, faire une évaluation stricte des besoins."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Il y a des secteurs, même madame pécresse le reconnaît, où il faudra embaucher, la justice, par exemple, la santé, vous êtes d'accord, au moins, là-dessus."
             }
         ]
@@ -127,11 +127,11 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Alors, je répète, pour les économies, des prestations sociales non contributives aux étrangers, non européens, c'est vingt milliards, pas quatre milliards, madame Pécresse."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Deuxièmement, enfin, il y a, il y a, il y a, la, la lutte contre la fraude sociale, qu'on peut évaluer à quinze milliards."
             }
         ]
@@ -142,15 +142,15 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Par ailleurs, nous avons un programme d'allègement économiques des charges, avec trente milliards de baisses d'impôts, de production, qui vont créer de la richesse."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Nous avons un, euh, un, un système de réduction de l'IS, de l'impôt sur les sociétés."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Euh, car nous augmentons le plafond, là, qui est aujourd'hui, à trente huit milles, jusqu'à trois cent mille"
             }
         ]

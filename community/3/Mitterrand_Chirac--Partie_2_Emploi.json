@@ -5,7 +5,7 @@
         },
         "extractive": [
             {
-                "speaker": "M. VANNIER",
+                "speaker": "Élie Vannier",
                 "text": "Que proposez-vous concrètement pour créer des emplois ?"
             }
         ]
@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "CHIRAC",
+                "speaker": "Jacques Chirac",
                 "text": "L'emploi ne sera créé que dans les entreprises et si l'on veut que celles-ci créent de l'emploi, il faut leur en donner les moyens."
             }
         ]
@@ -27,7 +27,7 @@
         },
         "extractive": [
             {
-                "speaker": "CHIRAC",
+                "speaker": "Jacques Chirac",
                 "text": "C'est que, depuis mars 1987, pour la première fois depuis 14 ans, le chômage a diminué, il a diminué de 5 %, très insuffisant ! mais c'est un début important et de 15 % pour les jeunes."
             }
         ]
@@ -38,7 +38,7 @@
         },
         "extractive": [
             {
-                "speaker": "CHIRAC",
+                "speaker": "Jacques Chirac",
                 "text": "Les trois quarts, à l'issue de leur stage, ont trouvé un emploi."
             }
         ]
@@ -49,23 +49,23 @@
         },
         "extractive": [
             {
-                "speaker": "MITTERRAND",
+                "speaker": "François Mitterrand",
                 "text": "Ce que je veux dire, c'est qu'il y a quatre manières de s'attaquer à ce problème et Dieu sait si nous sommes tous dans l'obligation absolue de pouvoir y répondre, quatre formes d'investissement : Premièrement, un investissement éducatif : vous ne moderniserez pas nos entreprises, elles ne deviendront pas plus compétitives, si vous ne formez pas davantage, si nous ne formons pas davantage, si la France ne forme pas mieux ses jeunes."
             },
             {
-                "speaker": "MITTERRAND",
+                "speaker": "François Mitterrand",
                 "text": "En même temps, si vous ne développez pas la recherche, c'est-à-dire si vous n'avez pas les moyens par la science et la technique de fabriquer l'instrument, c'est-à-dire les machines, capable de supporter la concurrence américaine ou japonaise ou bien de quelques autres pays."
             },
             {
-                "speaker": "MITTERRAND",
+                "speaker": "François Mitterrand",
                 "text": "Deuxièmement, un investissement économique."
             },
             {
-                "speaker": "MITTERRAND",
+                "speaker": "François Mitterrand",
                 "text": "Troisièmement, l'investissement social."
             },
             {
-                "speaker": "MITTERRAND",
+                "speaker": "François Mitterrand",
                 "text": "Quatrièmement, la dimension européenne"
             }
         ]

@@ -16,11 +16,11 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Vous savez, c'est les mêmes réserves qui avaient été opposé à Jacques Chirac quand, en 2002, il a fait cette grande loi interdisant le port du voile à l'école."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Il n'y a pas que moi qui veut son interdiction, le Sénat de la République avait voté un amendement dans ce sens."
             }
         ]
@@ -42,19 +42,19 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Alors Je le dis, je ne reculerait pas parce que sur ces sujets là, il n'y a pas de raison qu'on change."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Je le dis sur le voile, je ne considère pas que c'est un vêtement comme les autres, je considère que c'est un instrument de soumission et ce que je souhaite, c'est qu'il n'y ait plus de port du voile forcé en France."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Mon pays est un pays de liberté, si on souhaite se soumettre, on peut se soumettre."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Si on souhaite pas se soumettre, on a, on ne peut pas vous forcer, et ça veut dire qu'on pourrait avoir des recours contre une obligation de porter le voile pour des jeunes femmes de 14 ou 15 ans qu'on obligerait dans leur famille à porter le voile."
             }
         ]
@@ -65,7 +65,7 @@
         },
         "extractive": [
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "S'agissant des universités, comme s'agissant des accompagnants de sorties scolaires, je pense qu'il faut en effet interdire le voile."
             }
         ]
@@ -76,11 +76,11 @@
         },
         "extractive": [
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "Sur les sorties scolaires, oui, on est dans un cadre scolaire."
             },
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "Sinon, je pense que c'est quand même très difficile en démocratie d'organiser un code vestimentaire qui soit régulé par la loi."
             }
         ]
@@ -91,15 +91,15 @@
         },
         "extractive": [
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "À l'école, il faut réapprendre à aimer la France, sa culture, son histoire, sa manière, sa manière de vivre, l'école doit cesser de faire détester la France."
             },
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "Quand vous faites aimer la France, ses use ses coutumes, sa manière de vivre, et bien logiquement, un jour, vous aurez une génération de femmes qui diront oui, je veux m'habiller ainsi parce que je suis dans un pays qui a telle culture et tel use et coutumes."
             },
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "Le deuxième point sont, et on y revient toujours, il faut occuper l'espace public."
             }
         ]
@@ -110,11 +110,11 @@
         },
         "extractive": [
             {
-                "speaker": "XB",
+                "speaker": "Xavier Bertrand",
                 "text": "Je l'ai dit tout à l'heure sur la question des fillettes, je suis pour."
             },
             {
-                "speaker": "XB",
+                "speaker": "Xavier Bertrand",
                 "text": "J'ai proposé notamment que les mosquées salafistes, là où on prêche la haine, là où on dit que la loi religieuse est supérieure à la loi de la République, que la femme n'est pas l'égale de l'homme, eh bien, je le dis, ces mosquées salafistes, on les ferme tout de suite en renforçant la loi."
             }
         ]

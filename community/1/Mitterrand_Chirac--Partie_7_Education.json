@@ -16,19 +16,19 @@
         },
         "extractive": [
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Vous savez, cela revient souvent au même, il faut augmenter les crédits de l'éducation nationale, d'abord."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "J'ai prévu qu'en 1992, il devrait y avoir 15 à 16 milliards de plus consacrés à l'éducation nationale, étant entendu que la progression qui nous conduira de 1988 à 1992, représentera environ une quarantaine de milliards."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "C'est indispensable, c'est la priorité absolue aux trois destinations essentielles : la revalorisation de la fonction enseignante."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Il y a l'amélioration de l'instrument, nos écoles, nos universités sont souvent, souvent, pas toujours, souvent dans une situation matérielle très triste, Enfin l'essentiel, il faut diversifier les formes d'enseignement pour que toutes les technologies compétitives, pratiquées par le monde, puissent être enseignées à nos enfants."
             }
         ]
@@ -39,11 +39,11 @@
         },
         "extractive": [
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Sur ces problèmes au niveau général nous sommes tous d'accord, bien entendu et je souscris tout à fait à ces objectifs."
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "L'observation, c'est : depuis 25 ans, je suis de près les problèmes de l'éducation nationale et de son budget, le budget de l'éducation nationale a toujours augmenté, sauf pendant une période : de 1981 à 1985, où il est passé de 19 % du budget de l'Etat à 18 % naturellement il a augmenté en valeur absolue."
             }
         ]
@@ -54,7 +54,7 @@
         },
         "extractive": [
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Alors, ma question, c'est, parce que je n'ai pas bien compris votre position sur ce point et les Français y seront certainement sensibles, vous l'imaginez, avez-vous définitivement renoncé au grand service public laïc unifié, et acceptez-vous la parité et l'égalité, le droit pour chacun, de choisir sa forme d'école ou, au contraire, avez-vous l'intention de relancer cette querelle idéologique ?"
             }
         ]
@@ -65,15 +65,15 @@
         },
         "extractive": [
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Mais la liberté de choix n'a jamais été contestée par personne."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Les deux traditions sont toutes les deux respectables et l'enseignement public se sentait offensé par la manière dont il était traité en face de l'enseignement privé, d'où cette réaction et ces exigences."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Mais cette revendication n'est pas majoritaire et, en 1984, j'ai, avec le ministre Jean-Pierre Chevènement, apaisé le conflit, assez de temps, en tout cas, pour qu'il ne connaisse aucun rebondissement depuis cette époque"
             }
         ]

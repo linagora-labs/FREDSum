@@ -16,11 +16,11 @@
         },
         "extractive": [
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "Nous sommes un pays qui produit beaucoup de richesses et dans la période récente les inégalités se sont creusées d'une manière absolument incroyable, telle que, tout profite au système et aux puissants."
             },
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "Pendant la crise, les inégalités se creusent, entre ceux qui ont le plus et un ruissellement vers le haut est organisé."
             }
         ]
@@ -31,7 +31,7 @@
         },
         "extractive": [
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "D'abord, en augmentant les moyens de vivre, et donc les salaire quand on augmente le smic, on augmente mécaniquement et assez rapidement tous les autres salaires."
             }
         ]
@@ -42,11 +42,11 @@
         },
         "extractive": [
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "Si on partage le temps de travail, on travaillera tous, et on travaillera mieux."
             },
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "Réduire le temps de travail ça veut dire dans la semaine, ça veut dire dans l'année, et ça veut dire dans la vie, c'est la raison pour laquelle je défends la thèse de la retraite à soixante ans."
             }
         ]
@@ -57,7 +57,7 @@
         },
         "extractive": [
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "Mais pour l'immédiat, pardon, je termine là-dessus, je suis partisan du blocage d'un certain nombre de prix de première nécessité, l'alimentation, l'énergie, l'eau."
             }
         ]
@@ -68,11 +68,11 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Je ne crois pas que nous soyons un pays si riche, je pense que nous sommes un pays en voie de déclin, d'appauvrissement, de tiers-mondisation."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Aujourd'hui, quarante ans plus tard, nous avons un pib par habitant inférieur de quinze pour cent, de celui des allemands, et de quarante pour cent, de celui des américains."
             }
         ]
@@ -83,7 +83,7 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Selon moi, d'abord parce que le le l'entrée de la chine en deux mille un, dans l'omc a ravagé les industries de main-d'oeuvre en france, et donc nous avons perdu un million d'emplois."
             }
         ]
@@ -94,11 +94,11 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Et puis parce que nous avons un modèle social, un état providence, qui est devenu obèse."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "C'est très raisonnable, on a des coefficient de gini; comme on dit; un des plus faibles du monde occidental."
             }
         ]
@@ -109,7 +109,7 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Donc en vérité, notre problème n'est pas les inégalités, notre problème c'est la baisse de la production française."
             }
         ]
@@ -120,7 +120,7 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Notre modèle social est obèse parce que il a renoncé à ces deux principes, le premier qui est de lier les contributions au travail, nous avons de plus en plus de prestations sociales qui ne dépendent pas du travail mais qui dépendent euh de l'assistanat."
             }
         ]
@@ -131,27 +131,27 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Deuxièmement, nous sommes sortis d'un modèle de solidarité nationale, je dis bien national, à un modèle de solidarité universel."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "J’ai fini et on les charges sociales pour les entreprises à délocaliser, et donc on perd encore en emploi."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Et donc les préconisations, vous m'avez demandé, il faut absolument réduire, réduire ces charges sociales, il faut réduire les impôts, il faut supprimer les impôts de production, il faut réduire les charges sociales, parce que, il faut, à partir d'aujourd'hui, il faudrait, euh que la solidarité nationale soit de nouveau nationale."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Et que nous ne donnions plus les allocations logement, les allocations familiales, le rsa, aux étrangers."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Nous devons le limiter aux français."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Ca nous réduira considérablement nos charges sociales, sans compter la fraude sociale."
             }
         ]
@@ -162,7 +162,7 @@
         },
         "extractive": [
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "L'évaluation du pib des etats-unis, maintenant et dans les années soixante-dix ça n'a rien à voir."
             }
         ]
@@ -173,15 +173,15 @@
         },
         "extractive": [
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "Parce que entre-temps ils se sont donnés le privilège de battre monnaie sans contrepartie, et donc ils impriment du dollars autant qu'ils veulent."
             },
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "Et attendez, vous allez voir, et par conséquent dans l'évaluation du pib américain, y a ce qui s’appelle les services."
             },
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "Tout ça ne produit absolument rien."
             }
         ]
@@ -192,7 +192,7 @@
         },
         "extractive": [
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "Tout le monde se met d'accord pour dire bon, etben se payer dans notre monnaie nationale plutôt qu'en dollars, voilà pourquoi ils sont si inquiets est en déclin."
             }
         ]
@@ -203,7 +203,7 @@
         },
         "extractive": [
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "Ils ont obtenu d'une manière incroyable, pendant des années, le privilège, en europe d'échanger eux, leurs machines-outils et leurs voitures, et de sacrifier dans tous les échanges commerciaux la place et les productions de la france, qui est des productions moyenne."
             }
         ]
@@ -214,7 +214,7 @@
         },
         "extractive": [
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "Vous dites ils ont intégré la chine et la catastrophe a commencée là, elle a pas commencée la, elle a commencée quand on a créé l'union européenne des traités actuels qui prévoient, qu'en toutes circonstances, et dans toutes les directions du monde, l'union européenne pratique la concurrence libre et non faussée."
             }
         ]
@@ -225,7 +225,7 @@
         },
         "extractive": [
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "C'est ça la cause fondamentale, la contre, la contre-mesures, ça s'appelle le protectionnisme, et je suis partisan d'installer un protectionnisme écologique, c'est-à-dire, qui va dire, tout ce qui est produit dans des conditions inacceptables par la france, par exemple des produits pourris au glyphosate, ça ne rentre plus en france."
             }
         ]
@@ -236,7 +236,7 @@
         },
         "extractive": [
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "Tout ce que vous avez dit c'est l'ancien temps, la croissance sans fin, alors c'est des ressources sans fin, mais la planète n'a pas des ressources sans fin."
             }
         ]
@@ -247,7 +247,7 @@
         },
         "extractive": [
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "Et pour faire tout ça, il faut planifier."
             }
         ]
@@ -258,7 +258,7 @@
         },
         "extractive": [
             {
-                "speaker": "JLM",
+                "speaker": "Jean Luc Mélenchon",
                 "text": "Quant aux immigrés, votre Maroc, sachez que leur consommation de prestations sociales, elle existe, elle est en relation avec leur propre contribution au travail du pays."
             }
         ]

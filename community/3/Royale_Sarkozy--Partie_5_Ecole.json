@@ -5,11 +5,11 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je veux une école du respect, de l'autorité, de l'exigence, du mérite où les enfants des familles modestes accèdent aux grands auteurs et où, comme Jules Ferry, on a de l'ambition pour les enfants."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Une école qui transmet un savoir, qui n'a pas peur d'enseigner le civisme, qui transmet une morale commune, une école où les maîtres sont respectés, où lorsque le maître entre dans la classe les élèves se lèvent en signe de respect."
             }
         ]
@@ -20,11 +20,11 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je propose une révolution pour toutes les femmes en France, c'est que tous les enfants, si je suis élu Président de la République, pourront au collège et au lycée rester en étude surveillée après la fin des cours pour rentrer à la maison avec les devoirs faits."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "J'ajoute que cela permettrait de résoudre le problème du pouvoir d'achat des enseignants, car cela leur permettrait de faire ces études encadrées, sur la base du volontariat, pour être davantage rémunérés."
             }
         ]
@@ -35,7 +35,7 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je considère qu'il est scandaleux qu'un enfant ayant un handicap ne puisse pas être scolarisé dans une école \"normale\", c'est important pour l'enfant ayant un handicap et pour les autres enfants qui n'ont pas de handicap, qui au contact de cet enfant différent apprendront que la différence est une richesse."
             }
         ]
@@ -46,7 +46,7 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Qu'une famille au bout de cinq ans, à qui on refuserait une place dans une école, pourrait aller devant le tribunal en disant : la République m'a promis un droit."
             }
         ]
@@ -57,11 +57,11 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Lorsque j'étais Ministre de l'enseignement scolaire, c'est moi qui ai créé le plan handiscole qui a demandé à toutes les écoles d'accueillir tous les enfants handicapés."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "C'est votre gouvernement qui a supprimé non seulement le plan handiscole, qui a supprimé les aides éducateurs, qui fait qu'aujourd'hui, moins d'un enfant sur deux qui était accueilli il y a cinq ans dans l'école de la République ne le sont plus aujourd'hui"
             }
         ]
@@ -72,11 +72,11 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Tout n'est pas possible dans la vie politique, ce discours, cet écart entre le discours et les actes, surtout lorsqu'il s'agit d'enfant handicapé, ce n'est pas acceptable."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "C'est votre action que je mets en cause."
             }
         ]
@@ -87,11 +87,11 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "J'ai le droit d'être sincère dans mon engagement et d'être bouleversé par la situation d'enfants qui aimeraient être scolarisés."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Il faut garder son calme et ses nerfs et utiliser des mots qui ne blessent pas."
             }
         ]

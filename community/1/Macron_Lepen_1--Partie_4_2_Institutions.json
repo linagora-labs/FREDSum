@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Oui, aux deux questions, je suis favorable à une baisse du nombre de parlementaires."
             }
         ]
@@ -27,7 +27,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Les baisser d'environ un tiers à l'Assemblée comme au Sénat."
             }
         ]
@@ -38,7 +38,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Non, il faut une réforme qui a des contraintes constitutionnelles comme vous le savez et je n'exclus pas d'aller devant le peuple s'il y avait un blocage des Assemblées."
             }
         ]
@@ -49,11 +49,11 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Je souhaite également une dose de proportionnelle pour les élections, y compris les élections parlementaires, ce ne sera pas possible pour celles qui arrivent par définition mais je souhaite que les choses soient claires au moment de cette élection pour la suite."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Sur le cumul des mandats je suis évidemment favorable au maintien de la loi qui a été votée durant ce quinquennat qui empêche le cumul de plusieurs mandats concomitants et je veux ajouter à cela un non-cumul des mandats dans le temps limité à trois mandats."
             }
         ]
@@ -64,7 +64,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Moi je suis pour le référendum d'initiative populaire"
             }
         ]

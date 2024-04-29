@@ -24,7 +24,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Nous sommes dans le chômage de masse depuis 30 ans, nous sommes le seul pays d'Europe qui n'a pas réussi à endiguer cela."
             }
         ]
@@ -35,15 +35,15 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Face à cela, il faut donner, en particulier à nos petites et moyennes entreprises, la possibilité de créer davantage d'emplois, d'être plus agile, de s'adapter aux cycles économiques."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "C'est pour cela que moi, je veux de la simplicité, d'abord en créant un droit à l'erreur pour tous les acteurs économiques dès cet été."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Ensuite, c'est supprimer le RSI pour les commerçants et les artisans, fondamental là aussi pour pouvoir croître et embaucher."
             }
         ]
@@ -54,11 +54,11 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Et enfin, c'est davoir un droit du travail qui n'est pas, comme aujourd'hui, déterminé partout, pour tout, toutes les catégories, tous les secteurs dans une loi qui est devenue trop rigide ; mais qui puisse renvoyer à des accords majoritaires d'entreprise ou des accords majoritaires de branche."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "C'est pour cela que, à cette réforme, j'accole une réforme de l'assurance chômage, de la formation professionnelle pour que l'on protège vraiment les gens au milieu de tous ces changements."
             }
         ]
@@ -69,7 +69,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "C'est quand même la seule vraie question qu'on doit poser parce que vous avez eu les mains libres pour mettre en oeuvre cette politique, et cette politique a été catastrophique parce que vous avez fait la seule chose que vous savez faire : vous avez aidé les grands groupes, comme d'habitude, le CICE, vous l'avez accordé en priorité aux grands groupes, les TPE et PME qui réclamaient qu'on aille leur alléger leurs difficultés, leur donner de l'oxygène, vous avez fait comme s'ils n'existaient pas."
             }
         ]
@@ -80,19 +80,19 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Parce que vous avez refusé de supprimer la directive détachement des travailleurs et qu'aujourdhui ce sont 300 000 à 500 000 emplois qui ne sont pas accessibles à nos compatriotes français parce qu'ils sont remplis par des travailleurs détachés, soit qui fraudent soit qui fraudent pas, parce que ceux qui fraudent sont quasiment aussi nombreux en l'occurrence que ceux qui fraudent pas."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Vous n'avez pas baissé les charges des TPE, PME, vous n'avez pas mis en oeuvre des délais de paiement pour les TPE, PME ; pas de guichet unique ; pas de simplification administrative ; pas de patriotisme économique, ça vous horrifie car vous êtes un européiste convaincu."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Tout ce qui vise à donner un avantage dans la commande publique à nos entreprises françaises, vous êtes contre parce qu'il faut se soumettre."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Je vous ai dit, baisse des charges des TPE, PME, baisse de la fiscalité, je vous ai tout donné Monsieur Macron."
             }
         ]
@@ -103,19 +103,19 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Madame Le Pen, c'est pour cela que le projet que je porte, il propose de baisser de 6 points les charges des TPE, PME, c'est pour cela que je propose de baisser l'impôt sur les sociétés à 25%."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Pour toutes les entreprises y compris pour les grosses, alors que moi je donne une priorité totale aux TPE, PME."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Moi, ce que je dis, c'est que ce dont nous avons besoin aujourd'hui, je l'ai dit c'est de la simplicité pour les TPE, PME."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "On a besoin d'avoir beaucoup plus de pragmatisme et on a besoin d'avoir une politique en faveur de l'investissement privé et public."
             }
         ]

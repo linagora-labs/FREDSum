@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Ce n'est pas d'hier, et Mme Royal le sait bien, que je respecte son talent et sa compétence."
             }
         ]
@@ -27,7 +27,7 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Je m'abstiens de jugement personnalisé, parce que le débat politique, c'est d'abord un débat d'idées."
             }
         ]
@@ -38,19 +38,19 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Si on doit résumer les choses, qu'est-ce qui est important pour moi ?"
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je crois à l'action."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je crois qu'il est très important de dire à nos compatriotes que la fatalité n'existe pas."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Il est venu le temps pour moi, à 52 ans, de tout lui rendre."
             }
         ]
@@ -61,19 +61,19 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je veux faire en France les changements que d'autres ont fait dans d'autres pays pour que la France reste fidèle à son identité."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je veux être le président de la République qui rendra la dignité aux victimes."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je veux résoudre la crise morale française."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je veux protéger les Français face aux délocalisations."
             }
         ]
@@ -84,7 +84,7 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je ne crois pas au nivellement, je ne crois pas à l'égalitarisme, je crois au mérite, à l'effort, à la récompense, à la promotion sociale et, plus que tout, au travail."
             }
         ]
@@ -95,11 +95,11 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Je tiens à des valeurs fondamentales."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Je pense que tout se tient et que des familles qui fonctionneront bien, l'école qui reviendra au coeur du pacte républicain, la valeur travail qui sera défendue parce que le travail sera payé à sa juste valeur, la lutte contre toutes les formes d'insécurité, de violence et de précarité me permettront de construire une France paisible où l'on pourra réformer sans brutaliser, où jamais je ne dresserai les Français les uns contre les autres, les fonctionnaires contre les autres, ceux qui ont des heures supplémentaires contre ceux qui n'en ont pas, ceux qui ont des parachutes dorés et ceux qui sont licenciés."
             }
         ]
@@ -110,7 +110,7 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Je garantirai partout sur le territoire l'accès à la santé et au service public, parce que je sais que c'est l'une des conditions de l'efficacité économique du pays"
             }
         ]

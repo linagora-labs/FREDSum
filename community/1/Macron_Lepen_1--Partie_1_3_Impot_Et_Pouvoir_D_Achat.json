@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Bah voila, ce que je propose, c’est de faire des économies pour pouvoir baisser les impôts des entreprises et des ménages."
             }
         ]
@@ -27,7 +27,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Donc moi je propose de faire, sur le quinquennat soixante milliards d’économies pour pouvoir baisser notre déficit de quarante milliards et baisser de dix milliards les impôts et les charges des entreprises."
             }
         ]
@@ -38,7 +38,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "La baisse des charges, qu’on a dit tout à l’heure, jusquà deux smic et demi, six points de charges en moins, dix points de charges en moins au niveau du smic pour les entreprises et une baisse de l’impôt sur les sociétés de 33,3 à 25%."
             }
         ]
@@ -49,11 +49,11 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Et du côté de nos concitoyens, les ménages, je propose de supprimer la taxe d’habitation, pour 80% de nos concitoyens, ça correspond à dix milliards d’euros, voilà."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Si la croissance se porte mieux que ce que jai prévu, parce que je suis très prudent dans les années à venir, je ne fais jamais dépasser dans les hypothèses qui sont les miennes la croissance de 1,8%, j'espère qu’on pourra aller plus loin alors je réaffecterai ce qu’on gagnera sur la baisse de l’impôt sur le revenu et donc sur les ménages."
             }
         ]
@@ -64,7 +64,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Mais en revanche vous voulez augmenter la CSG de 1.75 points donc vingt milliards de plus pour les travailleurs, pour les retraités, qui vont voir peser sur eux."
             }
         ]
@@ -75,15 +75,15 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Je baisse d’un peu plus de trois points les charges salariales de celles et ceux qui travaillent."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Parce que je veux aller au bout de ce système où l’assurance chômage doit être universelle."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Parce que je veux que les artisans, que les commerçants, que les agriculteurs puissent toucher le chômage, ils ne l’ont pas aujourd'hui et ce n’est pas juste."
             }
         ]
@@ -94,7 +94,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Je supprime pour tous les travailleurs, leurs cotisations sociales salariales et je les remplace par 1,7 point de CSG."
             }
         ]
@@ -105,7 +105,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Alors moi j’ai évidemment, et Monsieur Macron me le reproche souvent d’ailleurs, effectivement des mesures extrêmement importantes pour le pouvoir d'achat, pour rendre l’argent aux Français, notamment qui passent par la baisse de 10% des trois premières tranches de l’impôt sur le revenu, qui passent par le rétablissement de la demi-part des veufs et veuves que les socialistes ont quand même maintenue ce qui était assez ignoble, je trouve, parce qu’ils auraient pu faire un effort sur ce sujet-là, par la défiscalisation des heures supplémentaires, pour rendre du pouvoir d’achat à ceux qui travaillent, par des mesures claires de primes de pouvoir d'achat, pour les salaires et les retraites de moins de 1500 euros par mois, que je fais financer par une contribution sociale à l’importation et non par l’impôt, Monsieur Macron."
             }
         ]
@@ -116,19 +116,19 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Et puis, une baisse du prix du gaz et de l’électricité de 5% parce qu’aujourd’hui, il y a eu des hausses successives qui pèsent considérablement sur le budget des familles."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Je revalorise les petites retraites, parce que vous allez taper sur les retraités, Monsieur Macron."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Et bien moi, je veux que notamment pour les jeunes, les moins de vingt-sept ans, puissent voir leur aide au logement augmenter de 25%."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Je vais penser aux familles par le rétablissement du quotient familial qui a été baissé."
             }
         ]
@@ -139,7 +139,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Puis revenir à l’universalité des allocations familiales."
             }
         ]
@@ -150,11 +150,11 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Mais je vais vous trouver des économies tout de suite Monsieur Macron, regardez, l’Union européenne, neuf milliards d’euros par an."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "L’immigration a un coût spectaculaire, je n’ai conservé que quinze milliards par an, j’ai été extrêmement raisonnable, vous voyez, dans mes calculs, il y a la fraude sociale contre laquelle vous n’avez pas lutté."
             }
         ]
@@ -165,7 +165,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Vous ne baissez aucune dépense, Madame Le Pen, ce n’est pas vrai, et donc vous allez, soit creuser le déficit et dépendre des marchés financiers, soit augmenter les impôts durant votre quinquennat mais vous ne le dites pas."
             }
         ]
@@ -176,15 +176,15 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "J’ai toujours dit que j’étais contre la GPA."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Oui mais vous êtes d’accord pour que les GPA qui ont lieu à l'étranger, en réalité, on les entérine sur le territoire national."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Simplement quand vous avez un enfant sur le territoire français vous, vous préférez le laisser sans droit."
             }
         ]

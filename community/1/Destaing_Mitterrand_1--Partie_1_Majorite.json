@@ -5,11 +5,11 @@
         },
         "extractive": [
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "J'ai fait le compte des députés qui soutiennent la candidature, monsieur françois mitterrand, de ceux qui soutiennent la mienne, et, à l'heure actuelle, la majorité, dans le cadre de mon élection, représente à peu près trois cents députés, contre environ cent quatre-vingts députés pour monsieur françois mitterrand."
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Donc, pas besoin de dissolution, la majorité sera en place, nous pourrons gouverner tout de suite, et je demanderai au gouvernement de proposer, dans le courant du mois de juin, un programme économique et social, garantissant l'emploi, organisant le développement économiques, et traduisant, dans les faits, les premières décisions de justice sociale et de réformes sociales, que nous avons annoncé au cours de cette campagne présidentielle."
             }
         ]
@@ -20,11 +20,11 @@
         },
         "extractive": [
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Alors, la question que je pose à françois mitterrand est la suivante."
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "S'il est élu président de la république, à quelle date la France aura-t-elle à la fois un gouvernement et une majorité permettant à ce gouvernement de travailler ?"
             }
         ]
@@ -35,31 +35,31 @@
         },
         "extractive": [
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "élu le dix-neuf mai, j'aurais donc à choisir un premier ministre."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "J'ai déjà dit, plus avancé que vous dans cette affaire, que je choisirais un député socialiste."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Ensuite, il appartiendra au premier ministre de présenter la liste de ses ministres, de constituer le gouvernement."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Ce gouvernement sera constitué sur la base de la majorité présidentielle, c'est-à-dire de toutes les forces politiques qui auront soutenu ma candidature au deuxième tour de scrutin."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Ce gouvernement, il devra présenter un programme."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Et là intervient un élément nouveau, dans ce sens que, depuis de longues années, les chefs du gouvernement, monsieur messmer, notamment, et ses prédécesseurs avant lui, n’ont plus jamais présenté de programmes à l'assemblée nationale, assortie d'un vote, comme on pourrait dire, pour bien faire comprendre, de confiance."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Essentiellement, puisque nous serons, euh, à la fin du mois de mai, il conviendra de s'attaquer d'abord à ce que monsieur giscard d'estaing, a jusqu'ici beaucoup négligé, je veux dire, à l'inflation, à la hausse des prix."
             }
         ]
@@ -70,11 +70,11 @@
         },
         "extractive": [
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Les députés accepteront, ou refuseront, la majorité que je présenterai, la composition du gouvernement, qui aura été pratiquement admise par le premier ministre et par moi-même."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Il est évident que, si l'assemblée nationale ne devait pas accepter ces propositions, elle serait dissoute."
             }
         ]
@@ -85,11 +85,11 @@
         },
         "extractive": [
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Vous avez dit que votre gouvernement serait composé à l'image de votre majorité du second tour."
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Il se trouve que, en venant ici, j'écoutais la radio dans mon auto, et monsieur marchais parlait très clairement, et indiquait qu'il y aurait selon lui sept ministres communistes dans votre gouvernement."
             }
         ]
@@ -100,27 +100,27 @@
         },
         "extractive": [
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Il faut que vous disiez, si vous avez l'intention de faire approuver votre politique, le programme commun, que j'ai apporté."
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Le débat sur le programme commun, nous l'avons eu l'année dernière, au moment des élections législatives, et on a demandé aux français d'élire des députés, dont certains étaient pour le programme commun, dont certains étaient contre ce programme commun."
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Ils ont envoyé une majorité, vous le savez très bien, qui est contre le programme commun."
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Vous serez conduits à demander la dissolution de l'assemblée nationale."
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Donc, votre premier gouvernement devra, nécessairement, c'est son engagement, ne s'appuyer que sur la majorité de gauche issue du suffrage universel, et vous savez que cette majorité n'existe pas à l'assemblée nationale."
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Un gouvernement avec sept ministres communistes et une dissolution, voulant dire qu'il ne pourra y avoir de travail parlementaire, et, donc, de programmes de lutte contre l'inflation, monsieur mitterrand, qu'au plus tôt, à la fin du mois de juillet."
             }
         ]
@@ -131,35 +131,35 @@
         },
         "extractive": [
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Le président de la république n'a pas à présenter un programme de gouvernement."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "De telle sorte que le président de la république, pour l'instant, il s'agit de cela, a pour mission essentielle de proposer des grandes orientations, de grandes directions, des options à long terme, de dessiner le type de société à laquelle il est attaché, qu'il propose aux français, à propos desquels ils demandent leurs suffrages."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Et je sais fort bien que l'assemblée nationale, élue en mille neuf cent soixante-treize, il y a un peu plus d'une année, ne correspond pas aux schémas politiques que je souhaite."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Demain, président de la république, cela voudrait dire que le peuple, que la masse des citoyens, n’ont pas changé d'opinion sur tout, mais ne supporte plus l'actuelle majorité, ses contradictions, ses méfaits."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "N'accepte plus d'être traitée comme elle l'est, n'acceptent plus que, euh, des catégories sociales nombreuse représentant l'immense majorité des millions, des millions."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Ce qui est certain, c'est qu'à partir de là, sur la base des orientations du programme commun, que j'ai traduite avec beaucoup de précision, dans un plan qui comporte trois étapes, et que j'ai présenté à la presse et à l'opinion publique, cela n'est pas nouveau, et, vous le savez, un plan de six mois, qui prétend, en effet, redresser les erreurs économiques et les drames financiers, que vous avez supporté, parce que, sans doute, désireux d'être candidat à la présidence de la république, vous n'avez pas voulu assumer vos responsabilités véritable de ministres des finances."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Un plan, en trois étapes."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "La première étape sera nécessaire pour compenser les dommages de votre politique, et, puis, ensuite, j'espère, bien, que nous nous attaquerons aux structures, afin de permettre une politique de progrès, celle qui n'a pas été faite pendant trop longtemps."
             }
         ]
@@ -170,23 +170,23 @@
         },
         "extractive": [
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Vous avez dit que la représentation nationale ne correspondait plus à ce que vous souhaitiez ou à ce que souhaitait la majorité de l'opinion française ?"
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Si elle renverse le gouvernement, faut-il vous le répéter une fois de plus ?"
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "En ce qui concerne donc l'exercice du pouvoir en France, les fonctions gouvernementales en france, j'ai dit quelque chose de simple."
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Si je suis élu président de la république, la france aura un gouvernement dans la semaine qui suivra l'élection présidentielle."
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Le conflit entre le gouvernement et la majorité, tel que vous l'avez décrite, veut dire qu'il y aura de nouvelles élections, que ces nouvelles élections prennent, vous le savez, aux alentours d'un mois et demi, d'après nos textes constitutionnels, et, donc, on ne pourra se mettre au travail en france qu'à la fin du mois de juillet."
             }
         ]
@@ -197,23 +197,23 @@
         },
         "extractive": [
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Il me semble, euh, monsieur giscard d'estaing, que, depuis quatre semaines, en tant que ministre des finances, vous ne faites plus grand chose."
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Concernant le programme de lutte contre l’inflation, il contient deux séries de dispositions."
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Certaines de ces dispositions devraient être législatives, donc, il fallait les faire voter par le parlement."
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Il est évident que nous ne pouvons pas faire voter par le parlement, qui ne siège pas à l'heure actuelle, des dispositions législatives."
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Les autres dispositions étaient administratives, elles sont en cours."
             }
         ]
@@ -224,23 +224,23 @@
         },
         "extractive": [
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Elle consistait à passer un certain nombre de contrats avec des organisations représentant les producteurs, ou avec les organisations représentant les distributeurs, de façon à modérer la hausse des prix."
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Je vous citerai le cadre de l'agriculture."
             },
             {
-                "speaker": "VG",
+                "speaker": "Valéry Giscard D'Estaing",
                 "text": "Nous avons pris, avec le ministre de l'agriculture, récemment, et, encore ce matin, c'est vous qui me le faites évoquer, des mesures, qui intéressent, par exemple, la situation des producteurs de lait, ou la situation des producteurs de viande, parce que ce sont les secteurs en difficulté, pour lesquels des mesures devaient être prises."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Vous êtes en effet, le candidat qui recherche l'accord de monsieur lecanuet, qui est un homme tout à fait respectable, afin d'élargir votre majorité, et, après avoir fait le plein des voix, de la droite, de l'extrême-droite."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "La mienne, repose, elle a été franche, dès le premier jour, sur un certain nombre d'organisations politiques et syndicales."
             }
         ]

@@ -16,11 +16,11 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Le nucléaire, depuis le Général De Gaulle, François Mitterrand, Valéry Giscard d'Estaing, Jacques Chirac, fait l'objet d'un consensus, c'est un atout français, il y a 58 réacteurs."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Nous avons une électricité moins chère de 35 % que nos partenaires allemands."
             }
         ]
@@ -31,15 +31,15 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Ce sont 240 000 emplois, c'est un avantage considérable pour notre industrie et pour nos compatriotes qui se chauffent à l'électricité ou qui ont besoin de l'électricité."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Monsieur Hollande propose de revenir de 75 à 50 % de la production nucléaire, c'est-à-dire de fermer 24 réacteurs nucléaires."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Enfin, le nucléaire ne nous empêche pas de développer les énergies renouvelables."
             }
         ]
@@ -50,15 +50,15 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Depuis que je suis président de la République, nous sommes passés de 10,5 % d'énergies renouvelables dans notre paquet énergétique à 13 %."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Les deux ensemble, parce que nous n'avons pas de pétrole, parce que nous n'avons pas de gaz et parce que nous n'avons pas d'énergies fossiles."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Et deuxièmement, fermer Fessenheim, ce sont 8 000 éoliennes en Alsace pour remplacer Fessenheim, il ne nous faut pas le nucléaire ou le renouvelable, il nous faut le nucléaire et le renouvelable."
             }
         ]
@@ -69,7 +69,7 @@
         },
         "extractive": [
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Nous avons en France une double dépendance : une dépendance à l'égard du pétrole, nous en avons parlé, et une dépendance du nucléaire, qui se situe à un niveau très élevé."
             }
         ]
@@ -80,7 +80,7 @@
         },
         "extractive": [
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "J'ai donc considéré que nous devions avoir un objectif de long terme, c'est-à-dire garder le nucléaire comme source principale de production de l'électricité mais réduire sa part à mesure que les énergies renouvelables allaient être stimulées et relevées : 50 % de production d'électricité de source nucléaire à l'horizon 2025."
             }
         ]
@@ -91,7 +91,7 @@
         },
         "extractive": [
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Je ferai donc l'effort pour que les énergies renouvelables soient considérablement développées."
             }
         ]
@@ -102,15 +102,15 @@
         },
         "extractive": [
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Vous dites que vous avez favorisé le solaire, c'est faux puisqu'il y a eu l'arrêt de tout ce qui était incitation au photovoltaïque et notamment les prix de rachat."
             },
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Moi, je ne suis candidat que pour les cinq prochaines années : une seule centrale fermera, Fessenheim."
             },
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Par ailleurs, vous savez que j'ai accepté, et ce n'était pas facile, j'ai accepté de prolonger le chantier de l'EPR ?"
             }
         ]
@@ -121,19 +121,19 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je ne comprends pas : soit le nucléaire est dangereux, soit il ne l'est pas."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Si le nucléaire est dangereux, il faut le fermer."
             },
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Je veux la fermer pour deux raisons : la première est que c'est la centrale la plus ancienne."
             },
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Vous avez affaibli considérablement Areva, et donc il nous faudra remettre un certain nombre de moyens dans Areva pour que nous ayons à la fois du nucléaire, plus sûr encore ?"
             }
         ]
@@ -144,11 +144,11 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Nous avons le nucléaire le plus sûr du monde, reconnu comme tel."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "C'est extrêmement important d'en terminer par là. Il y a une autorité indépendante de sûreté nucléaire, il me semble que le devoir de Président de la République, c'est d'écouter ce que cette autorité a à dire"
             }
         ]

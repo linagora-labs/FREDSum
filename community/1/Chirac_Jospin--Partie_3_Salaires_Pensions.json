@@ -16,11 +16,11 @@
         },
         "extractive": [
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "D'abord, lorsque je vous disais : \"quand on passe de 39 à 37 heures\" et que je disais \"qu'il y avait dans les entreprises des marges de productivité inemployées\", je ne parlais pas des gains de productivité."
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Pour l'ensemble, pour presque toutes les entreprises, cette démarche ne produira pas en réalité d'emplois mais en revanche elle coûtera cher."
             }
         ]
@@ -31,19 +31,19 @@
         },
         "extractive": [
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Car quand vous ajoutez à cela, les impôts, vous voulez créer l'augmentation de l'impôt sur les sociétés, les taxes écologiques, cela a pour résultat, une fois encore, de tirer tout vers le bas."
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Deuxièmement, vous parlez de l'Allemagne et de la sidérurgie, je connais très bien ce problème, mais ce n'est pas du tout transposable."
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Ce n'est pas transposable parce qu'il s'agit, d'une part, d'un secteur en déclin et, d'autre part, d'un secteur à hauts gains de productivité."
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "En revanche, vous allez pour des gens, c'est-à-dire en gros 40 % des salariés, je dirais le personnel d'encadrement au sens le plus large et le plus modeste du terme, celui qui est à 14000,15000 francs, Madame Aubry avait dit : 14000 francs bruts, c'est-à-dire 11500 francs nets, c'est-à-dire, 40 % des travailleurs français, créer une charge supplémentaire et donc une dissuasion pour les embauches."
             }
         ]
@@ -58,7 +58,7 @@
                 "text": "En ce qui concerne les salaires, les pensions et les retraites ?"
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Il y a deux raisons de le faire : La première, naturellement, c'est la croissance."
             }
         ]
@@ -69,15 +69,15 @@
         },
         "extractive": [
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "La deuxième raison de les augmenter, c'est que je propose de façon plus systématique un transfert à l'Etat, à l'impôt, à la solidarité des dépenses sociales de solidarité."
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Nous avons d'abord un problème qui est celui de l'endettement."
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Je propose, pour ma part, que, chaque année, on établisse le Budget en dépenses sur la base des recettes de l'année précédente, à fiscalité constante naturellement, et que, par conséquent, le bénéfice pour l'Etat de la croissance en terme fiscal soit affecté à la réduction des déficits."
             }
         ]
@@ -88,11 +88,11 @@
         },
         "extractive": [
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Je serais plutôt a priori favorable à l'augmentation de la TVA, provisoire."
             },
             {
-                "speaker": "LJ",
+                "speaker": "Lionel Jospin",
                 "text": "J'ai l'intention au contraire, je le dis très nettement devant tous ceux qui nous entendent, de préserver les Services publics français et je dirais même non seulement de les préserver à l'échelle nationale mais de les préserver contre certaines offensives de la Communauté Économique et Européenne ou de l'Union européenne."
             }
         ]
@@ -103,19 +103,19 @@
         },
         "extractive": [
             {
-                "speaker": "LJ",
+                "speaker": "Lionel Jospin",
                 "text": "Je parle du Service public et de très grandes entreprises publiques nationales qui ont souvent une vocation de Service public."
             },
             {
-                "speaker": "LJ",
+                "speaker": "Lionel Jospin",
                 "text": "Moi, je reste favorable à une augmentation maîtrisée des salaires parce que je pense qu'il faut effectivement redonner une part plus grande aux salaires dans la répartition du revenu national."
             },
             {
-                "speaker": "LJ",
+                "speaker": "Lionel Jospin",
                 "text": "Si c'est la TVA, cela veut dire que ce qu'on a fait semblant de donner aux salariés d'un côté, on le reprend de l'autre, et par la formule la plus injuste possible puisque c'est un impôt sur la consommation qui ne distingue pas les fortunes ou les revenus et que tout le monde paie de la même manière."
             },
             {
-                "speaker": "LJ",
+                "speaker": "Lionel Jospin",
                 "text": "Je suis pour une augmentation maîtrisée des salaires."
             }
         ]
@@ -126,7 +126,7 @@
         },
         "extractive": [
             {
-                "speaker": "LJ",
+                "speaker": "Lionel Jospin",
                 "text": "J'ai même proposé à cet égard que, en fonction du résultat des négociations qui ont en principe commencé entre le patronat et les syndicats sur cette question, à la suite d'une initiative de M. Gandois, une conférence nationale salariale, éventuellement, se saisisse de cette question."
             }
         ]
@@ -137,7 +137,7 @@
         },
         "extractive": [
             {
-                "speaker": "LJ",
+                "speaker": "Lionel Jospin",
                 "text": "En ce qui concerne les retraites et les pensions, je pense que les retraités doivent avoir leur part des fruits de la croissance, notamment les petites retraites."
             }
         ]

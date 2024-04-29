@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "L'emploi ne sera créé que dans les entreprises et si l'on veut que celles-ci créent de l'emploi, il faut leur en donner les moyens."
             }
         ]
@@ -27,11 +27,11 @@
         },
         "extractive": [
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "C'est que, depuis mars 1987, pour la première fois depuis 14 ans, le chômage a diminué, il a diminué de 5 %, très insuffisant !"
             },
             {
-                "speaker": "JC",
+                "speaker": "Jacques Chirac",
                 "text": "Eh bien, je poursuivrai cette politique car l'emploi est pour moi, bien entendu, l'objectif prioritaire et je poursuivrai cette politique en donnant à nos entreprises les moyens d'investir et de créer les emplois qu'il leur faut, c'est vrai, notamment, pour les petites et moyennes entreprises."
             }
         ]
@@ -42,35 +42,35 @@
         },
         "extractive": [
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Ce que je veux dire, c'est qu'il y a quatre manières de s'attaquer à ce problème et Dieu sait si nous sommes tous dans l'obligation absolue de pouvoir y répondre, quatre formes d'investissement : Premièrement, un investissement éducatif : vous ne moderniserez pas nos entreprises, elles ne deviendront pas plus compétitives, si vous ne formez pas davantage, si nous ne formons pas davantage, si la France ne forme pas mieux ses jeunes."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "En même temps, si vous ne développez pas la recherche, c'est-à-dire si vous n'avez pas les moyens par la science et la technique de fabriquer l'instrument, c'est-à-dire les machines, capable de supporter la concurrence américaine ou japonaise ou bien de quelques autres pays."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Deuxièmement, un investissement économique."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Troisièmement, l'investissement social."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Économique, je pense que certaines exemptions fiscales, puisque l'on en a parlé, seraient bien utiles ou des crédits d'impôt, chaque fois qu'une entreprise réinvestit ses bénéfices chez elle, plutôt que de dissiper ses bénéfices ailleurs."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "L'investissement social, ça veut dire simplement qu'il n'y aura pas de progrès économiques s'il n'y a pas de cohésion sociale, si ce mouvement en avant n'intéresse pas tous les travailleurs à quelque niveau qu'ils soient, ils souffrent vraiment d'injustices."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "Quatrièmement, la dimension européenne."
             },
             {
-                "speaker": "FM",
+                "speaker": "François Mitterrand",
                 "text": "La dimension européenne nous permettra, sans aucune doute, si nous réussissons, si l'Europe réussit, de développer le travail et l'emploi dans des fortes proportions."
             }
         ]

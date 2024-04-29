@@ -16,15 +16,15 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Moi, ce que je souhaite, c'est zéro carbone en deux mille cinquante."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Ça ne peut être atteint qu'avec le nucléaire, c'est obligatoirement aussi, avec des renouvelables."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Mais sur les éoliennes, pas d'éoliennes sans l'accord des populations."
             }
         ]
@@ -35,15 +35,15 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Mais il y a aussi le biogaz, y a aussi, euh, le solaire, il y a aussi la méthanisation."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Et, puis, il faut développer une vraie filière hydrogène, que nous avons tous les moyens, aujourd'hui, pour développer et être leader, et il faut décarboner nos industries, mais ça va avoir, évidemment, un coût pour elles."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "C'est pour ça que je veux une vraie taxe carbone aux frontières, qui protègent nos industries."
             }
         ]
@@ -54,11 +54,11 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Moi, je pense qu'il faut jamais oublier que nous sommes le pays qui émet le moins de CO2."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "J'ai pas dit ça, mais je dis que c'est important de le savoir, et il ne faut pas battre sa coupe, et il ne faut pas sacrifier nos industries sur une transition écologique, qui est importante, mais nous sommes loin d'être les premiers à devoir engager cela."
             }
         ]
@@ -69,11 +69,11 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Donc, euh, moi je propose d'abord un grand programme du nucléaire."
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Donc je propose la création de quatorze réacteurs nucléaires."
             }
         ]
@@ -84,11 +84,11 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Et je suis contre la réduction à cinquante pour cent de la part du nucléaire dans le mixe électrique, vous êtes d'accord avec moi Madame pécresse ?"
             },
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Et je suis pour le prolongement des centrales nucléaires jusqu'à soixante ans, car ça va mettre du temps d'en construire d'autres."
             }
         ]
@@ -99,19 +99,19 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Mais évidemment, il faut marcher sur deux pieds, le nucléaire et le renouvelables, pas que les éoliennes, il y a le solaire, et par ailleurs, au delà de ça, il y a des filières du futures, l'hydrogène, dont on a pas parlé, et qui est une filière importante."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "La filière du biogaz."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Moi je voudrais parler aussi, vu qu'on parle d'indépendance énergétique, mais d'indépendance agricole, la guerre en ukraine pose la question de notre souveraineté alimentaire."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "La décroissance agricole est particulièrement douloureuse pour nos agriculteurs, je veux non seulement une industrie productive, mais je veux aussi une agriculture de production."
             }
         ]
@@ -122,11 +122,11 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Donc je veux aussi la souverainetée cyber."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Nous devons bâtir ensemble, brique par brique, un cloud souverain français"
             }
         ]

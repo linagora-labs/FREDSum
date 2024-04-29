@@ -20,15 +20,15 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Non, je ne suis pas d’accord."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "La première chose, c'est que personne ne conteste la loi Veil en France."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Par ailleurs, le Conseil constitutionnel a pratiquement constitutionnalisé justement ce droit pour les femmes de recourir à l'avortement."
             }
         ]
@@ -39,11 +39,11 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Deuxième chose, c'est que, moi, je suis français, je ne suis pas américain."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "C'est un débat que l'extrême gauche est en train d'importer des Etats-Unis."
             }
         ]
@@ -58,27 +58,27 @@
                 "text": "Aurélien Pradié, est-ce que vous êtes d'accord avec ce que vient de dire Bruno Retailleau?"
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Non, je ne suis pas d'accord."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Je suis incroyablement fier de ce que Simone Veil a fait dans notre pays."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "C'est la droite qui l'a fait, c’est notre famille politique qui l’a fait."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "N'abandonnons pas ces immenses combats, y compris à l'extrême gauche, qu'il instrumentalise."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Ce à quoi je suis favorable, c'est que nous inscrivions les principes de la loi Veil, les principes que nous avons soutenus historiquement, qui sont notre propre conquête dans la Constitution."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "La droite à laquelle nous croyons, c'est une droite de conquête des droits."
             }
         ]
@@ -89,7 +89,7 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Tout ce qui permettra demain de faire en sorte que les femmes soient mieux protégées dans leurs droits, je dis oui, parce que je pense que c'est non seulement les grandes valeures de la france, mais aussi les vraies valeures de la droite."
             }
         ]
@@ -100,15 +100,15 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Je crois que la droite ne peut pas être un garde."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Je vois que là où on veut nous emmener, soyons fiers de ce que nous avons fait."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Je souhaite qu'on conserve le meilleur du passé, de nos racines, bien sûr, de nos civilisations, mais qu'on regarde aussi l'avenir, l'espérance, comment notre société évolue, comment les jeunes aussi veulent évoluer."
             }
         ]
@@ -119,7 +119,7 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "C'est toujours une mauvaise chose que la droite reprenne des mots de la gauche pour culpabiliser justement la droite."
             }
         ]
@@ -130,11 +130,11 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "C'est toujours une mauvaise chose quand la droite abandonne à l'extrême-gauche ses combats historiques."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "La droit que je veux rebâtir demain avec mes amis, c'est une droite qui reparlera à tous les Français de ce qui les concerne"
             }
         ]

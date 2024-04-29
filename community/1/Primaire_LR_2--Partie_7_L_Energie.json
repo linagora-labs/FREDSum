@@ -24,15 +24,15 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Je me méfie, mais il faut des aides beaucoup plus ciblées pour ceux qui en ont besoin."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Ce que je voudrais simplement dire, moi qui suis un enfant de la ruralité, dans ce qu'on appelle la France périphérique, il n'y a pas de transports collectifs."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Et du coup, ceux qui ont besoin de leur voiture, leur voiture diesel, essence, ont besoin pour aller travailler."
             }
         ]
@@ -43,19 +43,19 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "La taxe sur la taxe que nous avons aujourd’hui sur les carburants est une aberration."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Ce que nous proposerons, et je pense que nous avons ce point d'accord, que nous supprimions la TVA qui s'applique déjà sur la première taxe sur les carburants."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Je souhaite une mesure généraliste."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "On ne peut pas, il y a quelques secondes, nous dire que la politique des CERFA, de la bureaucratisation, était un problème et ensuite se dire qu'on va cibler les rouleurs."
             }
         ]
@@ -66,15 +66,15 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Oui, c'est toujours ce que j'ai proposé, je l'avais déjà fait l'année dernière."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Vous voyez, c'est beaucoup plus vertueux de payer les impôts que de signer des chèques, parce que là, on aide réellement l'économie et de façon durable."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Moi, je dis aidons les automobilistes, parce que la voiture, d'abord, ça peut être un instrument de travail, c'est aussi un instrument de liberté et on a un peu besoin de liberté dans ce pays qui étouffe tout."
             }
         ]

@@ -5,7 +5,7 @@
         },
         "extractive": [
             {
-                "speaker": "DP",
+                "speaker": "David Pujadas",
                 "text": "Selon l'Insee, je ne dit pas autre chose, le pouvoir d'achat n'a pas baissé, mais vous mesurez bien que c'est un des thèmes, sinon le thème numéro un de ce début de campagne, alors, vous parlez tous de l'augmentation du temps de travail."
             }
         ]
@@ -16,11 +16,11 @@
         },
         "extractive": [
             {
-                "speaker": "DP",
+                "speaker": "David Pujadas",
                 "text": "Mais vous, Eric Ciotti, vous avez une particularité, c'est la baisse de la fiscalité, une baisse assez massive, suppression totale de l'impôt sur les successions en dessous de 5 millions d'euros de patrimoine, autrement dit 99% des patrimoines, baisse générale de l'impôt sur le revenu avec un taux unique pour tous les ménages de 15%."
             },
             {
-                "speaker": "DP",
+                "speaker": "David Pujadas",
                 "text": "Est ce que vous n'êtes pas en train de redistribuer du pouvoir d'achat aux plus favorisés au détriment des moins favorisés?"
             }
         ]
@@ -31,31 +31,31 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Je crois à avoir cette vision qui s'attaque à cette sur fiscalité qui aujourd'hui asphyxie tellement de Français qui travaillent, qui ont travaillé toute leur vie."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "L'impôt sur les successions, c'est un impôt sur la mort."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "L'imagination fiscale est sans bornes et lorsqu'on quitte cette terre, nos enfants sont appelés à payer cet impôt qui a été supprimé dans la moitié des pays de l'OCDE."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Or, si on veut faire en sorte que l'épargne des Français, il y a plus de 5 000 milliards d'épargne financière soit remis dans les circuits économiques, notamment par le biais de donations des grands parents vers les petits enfants, on aura déjà un puissant moyen de relancer notre économie."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Deuxième mesure c'est la fin de cet impôt sur le revenu totalement confiscatoire qui fait que dix pour cent des ménages, ceux qui travaillent sans doute le plus, paient 70% de l'impôt,"
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Je souhaite qu'il y ait plus que deux taux, un taux à 15 pour les personnes qui gagnent plus d'un SMIC par mois et les autres qui resteraient au niveau actuel."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Je placerai ces 30 milliards d'euros, gain de cette flat tax au service de l'augmentation du salaire net."
             }
         ]
@@ -66,35 +66,35 @@
         },
         "extractive": [
             {
-                "speaker": "DP",
+                "speaker": "David Pujadas",
                 "text": "Votre mesure phare Xavier Bertrand parmi d'autres, c'est s'appliquer à l'augmentation du temps de travail, mais c'est une sorte de super prime d'activité élargie que vous appelez primes au travail."
             },
             {
-                "speaker": "DP",
+                "speaker": "David Pujadas",
                 "text": "l'Etat verserait un complément de salaire non plus seulement aux salariés au SMIC, comme c'est quasiment le cas aujourd'hui, mais à un salarié sur deux, un salarié sur deux, ceux qui touchent moins de 2.000 euros, de sorte que plus personne en France ne toucherait moins de 1500 euros net."
             },
             {
-                "speaker": "DP",
+                "speaker": "David Pujadas",
                 "text": "Mais ce qui frappe, c'est que c'est donc à l'Etat, l'Etat tout puissant, de s'occuper de prendre en charge le revenu des Français, le revenu du travail des Français, est ce qu'on n'est pas là dans une philosophie peut être surprenante venant de LR et dans une philosophie de l'Etat ?"
             },
             {
-                "speaker": "XB",
+                "speaker": "Xavier Bertrand",
                 "text": "Est ce que vous trouvez juste que cette dame qui m'explique à Montargis, qu'elle gagnait un peu plus que le SMIC, son mari gagne un peu plus que le SMIC, la prime d'activité, elle y a pas droit et il n'y a pas droit."
             },
             {
-                "speaker": "XB",
+                "speaker": "Xavier Bertrand",
                 "text": "Alors je demande aux chefs d'entreprises d'augmenter les salaires, il dit qu'il est dans un secteur très concurrentiel et qu'il ne peut pas augmenter le salaire."
             },
             {
-                "speaker": "XB",
+                "speaker": "Xavier Bertrand",
                 "text": "Alors donc, clairement, je vais beaucoup plus loin que la fameuse prime d'activité, c'est à dire qu'elle sera liée à votre salaire."
             },
             {
-                "speaker": "XB",
+                "speaker": "Xavier Bertrand",
                 "text": "Moi, oui, parce que monsieur Pujadas, ce que je veux, c'est avec le retour des heures supplémentaires défiscalisées au delà de la 35e heure, en changeant complètement notre système de participation et d'intéressement pour qu'on y gagne davantage qu'en dans l'entreprise."
             },
             {
-                "speaker": "XB",
+                "speaker": "Xavier Bertrand",
                 "text": "C'est à touche touche avec ces trois mesures, dont la prime travail à celui qui travaille, il va gagner plus, et en revanche, celui qui ne veut pas reprendre un emploi, lui, il touchera moins."
             }
         ]
@@ -113,27 +113,27 @@
                 "text": "Comment vous faites pour que les entreprises augmentent les salaires, mais que ça ne leur coûte rien?"
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Moi, ce que je veux faire, c'est, que je veux enlever les charges salariales retraites et je veux les faire financer par l'État avec les économies que j'aurai faites à côté."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Mais je commencerais par faire une conférence salariale avec tous les patrons, avec tous les partenaires sociaux pour parler avec eux de comment on fait?"
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Parce qu'évidemment, il y a la question du salaire, mais il y a aussi la question du temps de travail."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Et moi, je souhaite que les salariés puissent, à la fin du quinquennat, dans les entreprises cotées, être propriétaire de 10% du capital parce que je veux qu'on ait une vraie association capital travail."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "En revanche, j'ai choisi du coup de me focaliser sur ces charges sociales qui pèsent sur le travail parce que je pense que c'est très injuste aujourd'hui pour les salariés au SMIC, effectivement, de toucher 1258 euros quand en fait, le SMIC brut, lui, il est à 1538."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Et ma mesure est plus puissante que celle de Xavier puisqu'elle va, elle mettra 25 milliards d'euros sur la table pour aller jusqu'à 2,2 smic."
             }
         ]
@@ -144,19 +144,19 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Parce que si Eric Ciotti a chiffré le sien à 100 milliards, le mien est à 75 milliards avec les réformes que je vous ai présentées et parce que j'ose aussi m'attaquer peut être à la bureaucratie."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Mais pourquoi je tiquais sur la proposition de flat tax d'Eric Ciotti, c'est parce que dans ton chiffrage, Eric, ce qui, ce que je ne vois pas, c'est où sont passés les 80 milliards de recettes de l'impôt sur le revenu parce que l'impôt sur le mieux rapporte quand même beaucoup d'argent."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Ce que je propose avec ce taux unique, c'est de diminuer parallèlement de moitié les niches fiscales."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Si on ne commence pas par la baisse des dépenses publiques, on aura toujours les impôts les plus élevés au monde."
             }
         ]
@@ -171,31 +171,31 @@
                 "text": "Mais sur le pouvoir d'achat, philippe Juvin, et l'attente, l'attente, le désir qu'on entend en ce moment, la revendication qu'on entend en ce moment, je n'ai rien lu."
             },
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "Je ne crois pas non plus à cette idée que sans augmenter la richesse, en réalité, on pourra distribuer quelque chose."
             },
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "Je veux donc une baisse massive, 35 milliards dès la première année des impôts de production."
             },
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "Ce que je dis, c'est qu'avec 35 milliards de baisses d'impôt de production, ce sont, on peut imaginer qu'il n'y ait pas d'effet sur les recettes de l'Etat parce que pour les mêmes raisons, l'Institut Molinari a montré que probablement, c'est un impôt qui tue l'impôt et donc n'y aurait pas en réalité de diminution des recettes de l'Etat et ses 35 milliards de baisses d'impôt de production."
             },
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "C'est en réindustrialisant le pays que vous allez créer de la richesse que vous pouvez redistribuer."
             },
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "Parce que vous créez de l'emploi, le sujet aujourd'hui, c'est comme le pays est devenu pauvre, vous n'avez plus d'argent à redistribuer."
             },
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "Le pays, je pense qu'on doit prendre une deuxième mesure qui est pour pousser les entreprises à s'installer en France, à avoir un taux de TVA divisé par deux pour tout produit qui serait totalement fabriqué en France par rapport au même qui arriveraient sur le territoire."
             },
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "J'assume, en tant qu'ancien député européen, qu'il faut que l'Europe commence à se protéger et protège ses frontières."
             }
         ]
@@ -210,23 +210,23 @@
                 "text": "Alors, Michel Barnier, alors déjà peut être une réaction à cela, et c'est vrai qu'on a regardé avec David et on a cherché peut être des mesures de pouvoir d'achat, on en a trouvé une, la priorité pour l'attribution des logements sociaux pour les travailleurs de première ligne."
             },
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "On a assez de votre délire bureaucratique depuis 30 ans."
             },
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "La première mesure c'est dans le prolongement de ce que vient de dire Philippe, de diminuer un peu plus les impôts de production qui plombent nos entreprises et qui créent une concurrence déloyale avec tous nos voisins, notamment les Allemands."
             },
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Ensuite, je pense qu'il faut en effet alléger ou supprimer, alléger en tout cas les impôts ou les taxes patronales sur les emplois intermédiaires"
             },
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Et à ce moment là, comme cela a été dit, une conférence sociale devra organiser le débat entre le patronat et les syndicats pour voir comment on répartit cette baisse de charges entre l'emploi, l'investissement et l'augmentation des salaires."
             },
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Et la troisième mesure que je propose concerne les jeunes, nous voulons, si je suis élu, supprimer totalement les charges, la totalité des charges sur le premier emploi des jeunes pendant trois ans et croyez moi, ça vaudra mieux et ça sera beaucoup plus efficace que les chèques ou les bons qu'on distribue."
             }
         ]
@@ -237,19 +237,19 @@
         },
         "extractive": [
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Je suis favorable à mon tour à une grande politique familiale sur les sur les recettes et comment on paye."
             },
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Il y a dans notre pays deux millions et demi de personnes qui ont des droits ouverts à l'assurance maladie de plus que d'habitants dans notre pays."
             },
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Nous allons donc proposer, si je suis élu, de modifier toutes les cartes vitales et de faire une vérification biométrique de tous ceux qui ont des droits à l'assurance."
             },
             {
-                "speaker": "XB",
+                "speaker": "Xavier Bertrand",
                 "text": "Et là, moi, ce que je souhaite engager, c'est dès l'été 2022,Le système de carte Vitale biométrique pour qu'il n'y ait plus aucune fraude."
             }
         ]
@@ -260,23 +260,23 @@
         },
         "extractive": [
             {
-                "speaker": "DP",
+                "speaker": "David Pujadas",
                 "text": "De ce point de vue là, il y a un déclin de l'emploi industriel depuis 20 ans qui est chronique, vous faites comment pour vous en occuper ?"
             },
             {
-                "speaker": "DP",
+                "speaker": "David Pujadas",
                 "text": "Que vous ferez mieux que les créations d'emplois qui sont revenues à un niveau sans équivalent depuis 12 ans?"
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Nous avons perdu 2 millions d'emplois industriels en quarante ans."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Bien sûr, il y a manqué de volonté politique, mais il s'est désindustrialisé parce que les charges qui pèsent sur le travail étaient beaucoup trop lourdes."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Le coût du travail aujourd'hui est beaucoup plus élevé, c'est ce qui a conduit aux délocalisations vers les pays de l'Est."
             }
         ]
@@ -287,11 +287,11 @@
         },
         "extractive": [
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "Il y a une relation évidente entre l'appauvrissement économique du pays et l'appauvrissement intellectuel du pays."
             },
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "Moi, je veux avoir un grand plan de rénovation de l'école, faire en sorte qu'on ait pas 15% des enfants qui, en 6ème, ne savent pas lire, écrire, compter."
             }
         ]
@@ -302,23 +302,23 @@
         },
         "extractive": [
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Je voudrais dire un mot de l'industrie et aussi de l'agriculture, des forces productives."
             },
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Oui, mais je vous parle de l'industrie puisque c'était votre question, David Pujadas, un fonds souverain qui permettra de mobiliser une partie de l'épargne des Français plusieurs milliers de milliards."
             },
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Aujourd'hui, 300 milliards pourraient être mobilisés par ce fonds souverain, comme l'a d'ailleurs proposé Olivier Marleix sur les grands actifs stratégiques et des participations de l'Etat dans les entreprises qu'on n'a pas souvent soutenues dans le passé."
             },
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Ma deuxième réponse, c'est la loyauté de la concurrence internationale au niveau européen et je peux dire que je connais cette question pour y avoir travaillé."
             },
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "On peut créer avec une taxe carbone à nos frontières et pour l'agriculture, des règles du jeu équitables, ne plus accepter de produits agricoles chez nous après des accords commerciaux qui viennent de pays où on n'a pas les mêmes règles que celles que nous imposent nos producteurs"
             }
         ]

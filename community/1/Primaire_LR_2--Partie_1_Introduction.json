@@ -16,11 +16,11 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Éric ou Aurélien, ce ne sont pas des adversaires pour moi, ce sont des compétiteurs."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Et moi, je veux rassembler, je veux rassembler sur une ligne claire, parce qu'on le voit bien, notre famille a perdue près de 10 millions d'électeurs en une quinzaine d'années."
             }
         ]
@@ -31,11 +31,11 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Ce qu'attendent de nous, nos compatriotes, les Français, c'est qu'on défende à la fois leur niveau de vie, les conditions matérielles de l'existence, mais aussi leur mode de vie."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Tous ces petits signes de la culture de notre civilisation, qui font finalement le sel de la vie, c'est ce projet pour la droite que je veux défendre, et c'est cette vision pour la France que je veux porter."
             }
         ]
@@ -46,11 +46,11 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "La France est dangereusement engagée sur le chemin du déclin, le désordre s'installe dans la rue, nous sommes face au chaos migratoire, les Français souffrent d'une crise du pouvoir d'achat terrible, jamais la France n'a été aussi bas dans le classement des nations."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Je crois qu'il est le temps, le moment est venu, d'oser la droite."
             }
         ]
@@ -61,7 +61,7 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Qu'après le désastre de la gestion macronienne, il ne resterait plus qu'une alternative entre M. Mélenchon et Mme Le Pen."
             }
         ]
@@ -72,27 +72,27 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Des trois candidats, je suis le plus jeune, c'est vrai, mais je suis aussi celui qui est le seul des trois candidats à avoir été maire."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "J'ai appris à respecter mes concitoyens, à parler à tout le monde, à parler de tous les sujets qui font les blessures du quotidien."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Des trois candidats, je suis le seul à avoir été sapeur-pompier volontaire, de cette expérience-là, de cet engagement, j'ai appris le courage, mais j'ai aussi appris le sens du collectif, cette volonté de faire les choses ensemble, au-delà des divisions qui ont tant coûté à la droite depuis des années."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "J'ai été élu député du Lot contre toute attente, réélu très largement, et de ce mandat-là, j'ai appris ce qu'était l'exigence de la fidélité politique."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "À mes 18 ans, j'ai pris ma première carte à l'UMP."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "C'est le sens de ma candidature, porter pour nous, pour la France, pour nos militants, un nouvel espoir"
             }
         ]

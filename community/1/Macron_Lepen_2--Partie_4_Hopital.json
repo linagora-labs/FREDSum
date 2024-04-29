@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "On a une crise qui est à l'hôpital et dans ce que l'on appelle les déserts médicaux dans beaucoup de nos territoires, qu'il s'agisse d'ailleurs de quartiers comme de la grande ruralité."
             }
         ]
@@ -27,23 +27,23 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "J'ai mis fin à la baisse de ce que l'on appelle le tarif hospitalier."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "J'ai mis fin au numérus clausus."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "À la fois d'investissements, plus de 19 milliards d'euros dans nos hôpitaux et d'investissements dans les salaires puisqu'on a revalorisé les salaires pour tous les soignants d'au moins 183 euros par mois ce qui n'avait jamais été fait, jusqu'à 400 euros en fin de carrière."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Pour réembaucher il faut réattirer des gens à l'hôpital, améliorer les conditions de travail."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Je propose au fond une méthode tout à fait nouvelle à l'échelle d'un territoire c'est-à-dire de faire travailler avec nos personnels à l'hôpital, avec notre médecine de ville, avec aussi ce que l'on appelle les paramédicaux, nos pharmaciens et pharmaciennes, nos infirmiers infirmières de ville, les kinés, l'ensemble de ces professions pour qu'on ait une offre de soin qui soit organisée à l'échelle d'un territoire qui permette d'avoir un référent de santé pour nos compatriotes, en particulier les plus âgés qui aujourd'hui ont du mal à trouver des médecins."
             }
         ]
@@ -54,15 +54,15 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "l a fallu la crise sanitaire pour s'apercevoir que le personnel soignant était dans une souffrance absolument inouïe depuis des années."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Parce que quand vous avez en effet licencié 15 000 soignants,15 000 soignants sans salaire du jour au lendemain parce que vous refusiez qu'il puisse se tester avant de venir travailler et vous vouliez à tout prix qu'ils soient vaccinés."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Je les réintégrerai moi, en ce qui me concerne et je leur restituerai d'ailleurs les salaires dont ils ont été privés."
             }
         ]
@@ -73,15 +73,15 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Moi je crois qu'il faut investir 20 milliards sur cinq ans. 20 milliards sur cinq ans c'est 10 milliards pour la revalorisation du personnel, pour l'embauche aussi de personnels notamment dans les EHPADs pour éviter les drames qui ont été révélés et puis la souffrance des soignants et des patients parce que toutes les infirmières que j'ai rencontrées."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Donc 10 milliards pour la revalorisation salariale qui sera de l'argent public, je le dis, et 10 milliards d'investissement dans l'hôpital pour le matériel."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "C'est-à-dire un plan scanner irm et ça se sera financé par le fonds souverain dont j'espère nous aurons l'occasion de parler tout à l'heure, qui est un fonds sur fonds privé et non pas sur fonds public."
             }
         ]
@@ -92,7 +92,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Moi je crois qu'il faut vraiment développer la télémédecine, il faut à tout prix qu'on mette en place une incitation fiscale pour les médecins pour les inciter à aller s'installer dans les zones sous denses mais ça ne suffira pas."
             }
         ]
@@ -107,19 +107,19 @@
                 "text": "Marine le Pen, Emmanuel Macron vous avez employé tous les deux le mot de la dépendance, c'est un sujet qui a profondément touché les Français après la parution d'un livre choc il y a quelques semaines sur les conditions dans lesquelles nos aînés sont traités dans les EHPADs."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Il faut contrôler, parce qu'il faut contrôler les endroits où les personnes sont vulnérables."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Deuxièmement il faut imposer un nombre de personnels minimum et être exigeant sur ce sujet par rapport au nombre de résidents."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Il faut à tout prix que les EHPADs aient un médecin coordinateur."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Il faut imposer qu'il y ait une infirmière 24 heures sur 24, il y a une part encore non négligeable qui n'ont pas d'infirmières 24 heures sur 24."
             }
         ]
@@ -130,31 +130,31 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Sur le grand âge, d'abord l'immense majorité de nos compatriotes qui vieillissent, veulent pouvoir vieillir chez eux."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "De deux manières, d'abord les aider à aménager leur logement."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "C'est pour cela que je veux mettre en place un dispositif, ma prime adaptative, qui permettra d'aménager le logement pour monter les quelques marches, qui permet d'accéder aux sanitaires, réaménager des choses pour rester à son domicile."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Ensuite, il faut pouvoir aider celles et ceux qui sont ces auxiliaires de vie, ces aides vie, ces aides à domicile."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Et donc dans le réinvestissement que je veux faire, à côté des départements mais c'est la prise en charge par l'État, c'est leur donner un service complet et d'avoir plus d'heures par semaine pour bien s'occuper de nos personnes âgées chez elles."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Je pense qu'il ne faut pas jeter l'opprobre sur un système privé."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Donc il faut renforcer massivement les contrôles mais on doit aussi créer plus de postes."
             }
         ]
@@ -165,7 +165,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "C'est pour ça que dans mon projet je propose 50 000 postes d'infirmiers-infirmières, aide-soignants, aide-soignantes"
             }
         ]

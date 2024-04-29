@@ -24,11 +24,11 @@
                 "text": "Vous avez notamment cité Franck Riester, hier, le ministre des Relâches avec le Parlement, qui expliquait effectivement que les femmes seront un peu pénalisées avec cette réforme."
             },
             {
-                "speaker": "MP",
+                "speaker": "Mathilde Panot",
                 "text": "Oui, c'est une réforme qui est anti-femme."
             },
             {
-                "speaker": "MP",
+                "speaker": "Mathilde Panot",
                 "text": "Et je crois que quand un ministre lui-même l'admets que les femmes vont être pénalisées, alors c'est un bon motif pour retirer ce projet de loi."
             }
         ]
@@ -39,7 +39,7 @@
         },
         "extractive": [
             {
-                "speaker": "MP",
+                "speaker": "Mathilde Panot",
                 "text": "Pas de chance, dans le texte écrit noir sur blanc, il est dit que les femmes partiraient 8 à 9 mois après pour la génération entre 70 et 80, et quand vous regardez dans les détails, quand vous enlevez les femmes qui ne sont pas concernées par la réforme, j'entends, par exemple, les femmes en invalidité, les femmes qui partiront de toute façon à 67 ans pour ne pas avoir la décote, alors vous êtes plutôt à 15 mois."
             }
         ]
@@ -50,19 +50,19 @@
         },
         "extractive": [
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "Toutes les femmes qui ont des carrières hachées, toutes les femmes, tous les exemples que vous prenez habituellement, elles ne sont pas concernées."
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "A l'issue du vote de la réforme des retraites, si elle est votée par le Parlement, dans sa souveraineté, est-ce que oui ou non, les femmes continueront de partir plus tôt que les hommes à la retraite?"
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "Les femmes partiront, factuellement, plus tôt à la retraite."
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "Oui ou non, est-ce que les pensions de retraite des femmes avec cette réforme vont augmenter de manière plus importante que les pensions de retraite des hommes ?"
             }
         ]
@@ -73,19 +73,19 @@
         },
         "extractive": [
             {
-                "speaker": "MP",
+                "speaker": "Mathilde Panot",
                 "text": "Vos 1200 euros que les gens ont compris qu'ils auront."
             },
             {
-                "speaker": "MP",
+                "speaker": "Mathilde Panot",
                 "text": "C'est un mensonge."
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "C'est les femmes qui en seront les plus bénéficiaires."
             },
             {
-                "speaker": "MP",
+                "speaker": "Mathilde Panot",
                 "text": "C'est à carrière complète, ce qui exclut les femmes."
             }
         ]
@@ -96,23 +96,23 @@
         },
         "extractive": [
             {
-                "speaker": "MP",
+                "speaker": "Mathilde Panot",
                 "text": "Une femme qui devait partir à 62, avec sa pension complète, partira à 64 ans."
             },
             {
-                "speaker": "MP",
+                "speaker": "Mathilde Panot",
                 "text": "Donc, on nous dit que ce sera une hausse de 1 à 2%, il se trouve qu'avant, si une femme travaillait de 62 à 63 ans, alors sa pension avait une surcôte de 5 %."
             },
             {
-                "speaker": "MP",
+                "speaker": "Mathilde Panot",
                 "text": "Donc, si elle travaillait de 62 à 64 ans, elle aurait une surcôte de 10 %."
             },
             {
-                "speaker": "MP",
+                "speaker": "Mathilde Panot",
                 "text": "Ensuite, vous leur rendez deux ans de retraite."
             },
             {
-                "speaker": "MP",
+                "speaker": "Mathilde Panot",
                 "text": "Si on prend la pension moyenne, c'est 30 000 € qu'on enlève aux femme aux moyennes, du fait d'avoir deux ans de pension en mois."
             }
         ]
@@ -123,7 +123,7 @@
         },
         "extractive": [
             {
-                "speaker": "MP",
+                "speaker": "Mathilde Panot",
                 "text": "Combien de personnes toucheront 1200 € qui ne les touchaient pas jusqu'alors ?"
             }
         ]
@@ -134,11 +134,11 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Il faut juste comprendre que les 1200 € sont là pour vous faire avaler la pilule, les 1200 €, c'est brut, carrière complète, au smic."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Donc, les gens qui sont à 800 € et qui nous regardent et qui se disent, on a peut-être une bonne avancée sociale devant nous, ne passeront pas à 1200 €, ils passeront à 850 € au mieux à 800 € maximum."
             }
         ]
@@ -149,7 +149,7 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Et qu'en réalité, la part des gens qui vont bénéficier de ce système de retraite est très faible, c'est ceux qui ont commencé à travailler ultra tôt, c'est-à-dire ceux qui ont commencé à travailler à 16 ans."
             }
         ]
@@ -160,15 +160,15 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Et c'est ceux qui ont commencé à travailler très tard, qui partaient à 67 ans et qui partiront à 67 ans."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "La génération de mes parents, né en 62 et en 68, ont pris là en une décennie quatre années de travail supplémentaire dans leur carrière."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Est-ce que l'espérance de vie en bonne santé ou l'espérance de vie tout court a progressé de quatre ans ?"
             }
         ]
@@ -179,7 +179,7 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Non, donc cette réforme, elle est dure, elle est brutale et encore une fois, au regard de la situation économique, elle ne se justifie pas."
             }
         ]
@@ -190,7 +190,7 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Je vous rappelle que 42% des Français, 42% des Français qui arrivent à la retraite, sont sans emploi."
             }
         ]
@@ -201,23 +201,23 @@
         },
         "extractive": [
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "Factuellement, vous avez quasiment un Français sur deux qui partira à la retraite avant l'âge légal."
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "Parce qu'on tient justement compte des gens qui ont des métiers difficiles, des carrières hachées, etc."
             },
             {
-                "speaker": "MP",
+                "speaker": "Mathilde Panot",
                 "text": "Mais décalés de 2 ans."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Avec une décote."
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "Non, Monsieur Bardella, sans décote, il n'y aura pas de perdants."
             }
         ]
@@ -228,31 +228,31 @@
         },
         "extractive": [
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "C'est même le parti pris qui est le nôtre que de dire que toutes les retraites vont pouvoir augmenter."
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "Mme Panot, vous posez la question, factuellement, 1,8 million de retraités vont avoir, par le mécanisme de la retraite minimale, de retraités actuelles, 1,8 million vont avoir une augmentation de leur pension qui peut atteindre 100 euros par mois."
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "Les 1 200 euros, M. Bardella, vous en parlez brut, comme si on allait virer 20%."
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "Et la plupart du temps, c'est entre 1 et 4%."
             },
             {
-                "speaker": "MP",
+                "speaker": "Mathilde Panot",
                 "text": "Non, je vous parlais de qui va toucher 1 200 euros brut."
             },
             {
-                "speaker": "MP",
+                "speaker": "Mathilde Panot",
                 "text": "Combien de personnes sont concernées par carrière complète, ne jamais dépasser le SMIC ?"
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "Maintenant, si vous avez 90% d'une carrière complète au niveau du SMIC, vous n'aurez pas précisément 1 200, vous aurez un petit peu moins."
             }
         ]
@@ -263,11 +263,11 @@
         },
         "extractive": [
             {
-                "speaker": "MP",
+                "speaker": "Mathilde Panot",
                 "text": "Vous êtes en train d'essayer de faire avaler une réforme de retraite aux Français en les faisant tous travailler 2 ans de plus, alors que vous êtes juste en train d'appliquer une loi qui a été votée en 2003, la loi sur le 80% des retraites."
             },
             {
-                "speaker": "OV",
+                "speaker": "Olivier Véran",
                 "text": "Chaque année, c'est-à-dire 1 retraité sur 4 qui bénéficiera de cette revalorisation de la retraite minimale"
             }
         ]

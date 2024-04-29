@@ -16,15 +16,15 @@
         },
         "extractive": [
             {
-                "speaker": "FB",
+                "speaker": "François Bayrou",
                 "text": "Je suis en désaccord avec l'orientation économique défendue par Ségolène Royal et le Parti socialiste, en désaccord assez profond."
             },
             {
-                "speaker": "FB",
+                "speaker": "François Bayrou",
                 "text": "D'abord parce que en dépit de la phrase prononcée par Ségolène Royal sur la dette, eh bien l'addition des promesses électorales, qui sont au même niveau que les promesses électorales de Nicolas Sarkozy à peu près 60 milliards, 62 milliards."
             },
             {
-                "speaker": "FB",
+                "speaker": "François Bayrou",
                 "text": "Mais ces deux sommes de dépenses, plus de 60 milliards d'euros, c'est à dire un déséquilibre considérable, supplémentaire à porter à nos dépenses publiques, je pense que cela est un mauvais choix."
             }
         ]
@@ -35,7 +35,7 @@
         },
         "extractive": [
             {
-                "speaker": "FB",
+                "speaker": "François Bayrou",
                 "text": "Et je suis en désaccord avec une deuxième idée, qui consiste à penser, même si elle est attrayante comme ça au premier abord, qu’en donnant de l'argent un grand nombre de catégories de français on va relancer comme on dit la machine."
             }
         ]
@@ -46,7 +46,7 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Je les ai écoutés, c'est mon expérience d'élue de longue date, je suis élue d'une circonscription rural, je suis présidente de région donc je suis attelée à la question du chômage, et je gère l'aide aux entreprises et les aides à la formation professionnelle."
             }
         ]
@@ -57,11 +57,11 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Il n'y a pas de dogme il y a une nouvelle vision du développement économique, je considère aujourd'hui que la nouvelle croissance économique s'appuie sur 3 piliers."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Le pilier de la compétitivité économique, le pilier de la compétitivité sociale comme cela se fait dans tous les pays les plus performants de l'Europe, je suis allé voir l'exemple suédois par exemple je suis allé dans une entreprise Eriksson."
             }
         ]
@@ -72,7 +72,7 @@
         },
         "extractive": [
             {
-                "speaker": "FB",
+                "speaker": "François Bayrou",
                 "text": "Je pense que dans votre projet ce qui est frappant c'est que vous en revenez à mon sens trop souvent à l'idée que l'État peut faire les choses à la place de la société."
             }
         ]
@@ -83,7 +83,7 @@
         },
         "extractive": [
             {
-                "speaker": "FB",
+                "speaker": "François Bayrou",
                 "text": "Il a été endetté, il n'a plus un sous, il faut le réformer il faut faire vivre la société française en face de l'État comme une autre légitimité."
             }
         ]
@@ -94,11 +94,11 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Mais c'est précisément tout le contraire que je propose dans le pacte présidentiel, ce n'est pas l'État qui va mettre en place la sécurité sociale professionnelle."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Parce qu'il faut recycler les fonds du chômage, et ça ce sont les partenaires sociaux qui en décident."
             }
         ]
@@ -109,19 +109,19 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Il faut recycler les fonds de la formation professionnelle et ça ce sont les régions qui en décident puisque ce sont elles qui gèrent les fonds de la formation professionnelle, et c'est si vrai que dans la région que je préside, j'ai expérimenté la sécurité sociale professionnelle dans une entreprise automobile qui a supprimé 900 emplois, et ça n'a rien coûté."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Il y a un nouveau pacte avec les petites et moyennes entreprises pour en finir avec les aides uniformes aux entreprises, les soixante trois milliards d’aides publiques que paient le contribuable à l'ensemble des entreprises qu'elles aient de l'argent ou qu'elles n'en aient pas, qu'elles en aient besoin ou qu'elles n'en aient pas besoin, qu'elles soient florissantes ou qu'elles ne le soient pas."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "C'est terminé, les aides économiques aux entreprises iront à celles qui en ont besoin, c'est à dire les entreprises qui grandissent qui ont à ce moment la besoin d'un investissement, les entreprises qui ont besoin d'innover."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "C'est à dire que je considère, je termine juste cette phrase, que toutes les dépenses publiques qui sont proposées dans ce pacte rapportent davantage qu'elles ne coûtent."
             }
         ]
@@ -132,23 +132,23 @@
         },
         "extractive": [
             {
-                "speaker": "FB",
+                "speaker": "François Bayrou",
                 "text": "C'est le problème des cautions et des pots de garantie qu'il faut perpétuellement chercher quand on est un jeune homme ou une jeune fille, auprès de qui, sa famille n'a pas d'argent, c'est trois mois qu'il faut donner, c'est lourd."
             },
             {
-                "speaker": "FB",
+                "speaker": "François Bayrou",
                 "text": "Ségolène Royal dit, je vais faire un service public de la caution."
             },
             {
-                "speaker": "FB",
+                "speaker": "François Bayrou",
                 "text": "Et pour moi c'est, demander simplement, interdire les cautions et les dépôts de garantie, et rendez une assurance obligatoire."
             },
             {
-                "speaker": "SG",
+                "speaker": "Ségolène Royal",
                 "text": "C'est pas l'état, juste un mot, c'est pas l'état ce sont les régions qui ont déjà expérimenté."
             },
             {
-                "speaker": "FB",
+                "speaker": "François Bayrou",
                 "text": "Les régions et l'état c'est pareil"
             }
         ]

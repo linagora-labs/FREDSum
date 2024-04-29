@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Non, je ne le voterai pas, et je regrette le vote des sénateurs."
             }
         ]
@@ -27,19 +27,19 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Je le dis, car il y avait deux mesures qu'on réclamait, c'était un droit de veto des maires et qu'on n'installe aucune éolienne en mer à 40 km des côtes."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "On est en train de massacrer nos paysages."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "On les fera pas dans les deux ans."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "C'est une énergie intermittente, qui n'est pas pilotable."
             }
         ]
@@ -50,11 +50,11 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Un, on a donné la possibilité au maire, dans des documents d'urbanisme, d'interdire des éoliennes."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Et enfin, on a obtenu qu'on puisse s'écarter à 10 km des éoliennes dès lors qu'il y a un site naturel remarquable ou un monument historique avec, en plus, l’avis conforme de l'architecte des bâtiments."
             }
         ]
@@ -65,7 +65,7 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Deuxième chose, nous avons porté un amendement pour interdire l'éolien flottant."
             }
         ]
@@ -76,7 +76,7 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Vous n'auriez pas dû les sénateurs les républicains, négocier avec le gouvernement ce point d'accord parce qu'il est très insuffisant."
             }
         ]
@@ -87,11 +87,11 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Nous, je ne souhaite plus que nous allions dans cette course en avant de l'éolien et je souhaite même qu'on réfléchisse au démontage de nos éoliennes parce que cette énergie transitoire aura besoin d'être démontée."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Commençons à relancer les programmes de recherche, notamment astrid, qui permettent de trouver une alternative."
             }
         ]
@@ -102,7 +102,7 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Je souhaite que nous reprenions la main sur nos barrages."
             }
         ]
@@ -113,7 +113,7 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Ça n'est pas raisonnable de refuser les énergies renouvelables."
             }
         ]
@@ -124,11 +124,11 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "L'écologie de droite, c'est la science."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Mais on a 26 réacteurs à l'arrêt aujourd'hui."
             }
         ]

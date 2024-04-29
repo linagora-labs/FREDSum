@@ -5,7 +5,7 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Les lois François Fillon ont permis de rééquilibrer l'égalité entre salariés du public et salariés du privé, qui cotisent quarante ans, jusqu'en 2020, on n'a pas de souci majeur à avoir quant au financement de nos retraites."
             }
         ]
@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je réformerai les régimes spéciaux par souci d'égalité."
             }
         ]
@@ -27,15 +27,15 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Il y a 3 millions de petites retraites, c'est-à-dire 3 millions de personnes qui sont en dessous du minimum vieillesse, j'augmenterai de 25 % les petites retraites et je les ferai financer, car on aura récupéré sur la réforme des régimes spéciaux."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Dès l'été 2007, je créerai un crédit d'impôts permettant, pour ceux qui payent l'impôt sur le revenu, de déduire les intérêts de l'emprunt pour acheter leur appartement, et pour ceux qui ne le paient pas, un crédit d'impôt, c'est l'Etat qui remboursera."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je veux engager un plan contre Alzheimer, 890 000 Français sont touchés par Alzheimer aujourd'hui."
             }
         ]
@@ -46,11 +46,11 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Quand vous dites que vous allez financer l'augmentation des petites retraites par la réforme des régimes spéciaux, vous savez que cette réforme va prendre un certain temps."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Moi, je veux revaloriser tout de suite dès mon élection les petites retraites."
             }
         ]
@@ -61,15 +61,15 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Je mets des fonds supplémentaires au fonds de réserve de retraite."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Par une taxe sur le revenu boursier."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Vous créez une taxe sans dire son montant et l'espérance de recette ?"
             }
         ]
@@ -80,23 +80,23 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Je veux que l'indexation des retraites suive vraiment la consommation des personnes âgées."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Non, je remets à plat les lois Fillon ne serait-ce que pour cette question de l'injustice faite aux femmes."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Deuxièmement, nous prendrons en compte la pénibilité des tâches."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Là aussi, il y a des réserves de croissance si on lutte contre les accidents du travail et contre les maladies professionnelles."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "En effet, j'espère que, par la relance de la croissance, nous aurons des recettes au niveau des cotisations."
             }
         ]
@@ -107,19 +107,19 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "La pénibilité du travail est déjà prise en compte dans les lois Fillon."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Nous vivons plus longtemps, il va falloir cotiser plus longtemps."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Le financement n'est pas résolu."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Il est résolu jusqu'en 2020."
             }
         ]
@@ -130,11 +130,11 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Vous ne parlez jamais du régime spécial des parlementaires, je le remettrai à plat."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Très bien, vous le ferez, il n'y a aucun problème et je serai d'accord avec vous."
             }
         ]
@@ -145,7 +145,7 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Je vous l'ai dit, ce sont d'abord les partenaires sociaux qui vont discuter, avec l'Etat bien sûr, il y aura des réunions tripartites."
             }
         ]
@@ -156,19 +156,19 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Comme je garde les lois Fillon, je n'ai pas besoin d'une recette supplémentaire."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Vous en avez besoin parce que vous démantelez les lois Fillon."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Nous sommes le pays de l'Europe qui avons les impôts les plus élevés."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Il faut, d'une manière ou d'une autre, réduire le train de vie de l'Etat, les dépenses publiques, être plus productifs, faire mieux avec moins pour alléger le poids de la fiscalité tel qu'il pèse aujourd'hui sur le travail."
             }
         ]
@@ -179,15 +179,15 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "C'est pourquoi je propose que l'on taxe les importations pour qu'elles financent la protection sociale des Français."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "C'est pourquoi j'ai proposé de ne pas remplacer un départ sur deux à la retraite des fonctionnaires, que j'ai proposé de supprimer tous les organismes qui ne servent à rien."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "J'ai proposé, si je suis élu président de la République, la mise en place systématique d'une politique d'évaluation de toutes les politiques publiques."
             }
         ]

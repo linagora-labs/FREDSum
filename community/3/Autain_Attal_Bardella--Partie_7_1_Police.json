@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "S'il y a légitime défense, vous avez une justice qui est capable d'établir les faits."
             }
         ]
@@ -27,11 +27,11 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "La présomption de légitime défense, c'est justement un soutien moral."
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Ça veut juste dire que le policier, quand on menace de lui rouler dessus et qu'il est contraint de faire usage de la force, il ne se retrouve pas avec les menottes en garde à vue dans l'heure."
             }
         ]
@@ -42,7 +42,7 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Ça ne fait pas la présomption de légitime défense, Ça ne fait pas fi de l'enquête."
             }
         ]
@@ -53,7 +53,7 @@
         },
         "extractive": [
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Je vous rappelle qu'il y a 25% de détenus dans les prisons alors qu'on n'a plus de place dans les prisons et qu'il y a 100 000 peines de prison qui ne sont pas appliquées chaque année, manque de place, qui sont étrangers."
             }
         ]
@@ -64,15 +64,15 @@
         },
         "extractive": [
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Monsieur Bardella parlait des femmes, puisque dès qu'il peut faire rentrer la défense des femmes, c’est soit dans ses propos racistes, soit par le biais de sa visée sécuritaire."
             },
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Mais la réalité que n'a pas l'air de connaître, c'est que la majorité des agressions sexuelles et des viols à l'encontre des femmes sont intrafamiliales."
             },
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Ça nous donne tout un chantier exclu du débat quand on parle de sécurité, qui est la question des violences faites aux femmes."
             }
         ]
@@ -83,7 +83,7 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "On forme désormais tous les policiers en école à la question de la libération de la parole, de la prise des dépôts de plainte."
             }
         ]
@@ -94,7 +94,7 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "Ils attendent de nous qu'on les soutienne, qu'on reconnaisse effectivement la difficulté de leur condition de travail."
             }
         ]
@@ -105,11 +105,11 @@
         },
         "extractive": [
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Je pense qu'il y a un lien de défiance entre la population et la police aujourd'hui et qu'il y a quelque chose qui ne tourne pas rond et qu'il faut renouer un lien de confiance."
             },
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Je plaide pour cette police de proximité et pour que les relations soient différentes, notamment dans les quartiers populaires."
             }
         ]
@@ -124,7 +124,7 @@
                 "text": "Sur la sécurité, oui ou non, faut-il construire en France plus de places de prison?"
             },
             {
-                "speaker": "JB",
+                "speaker": "Jordan Bardella",
                 "text": "Oui, mais on peut faire de la place dès demain en expulsant les délinquants étrangers qui sont dans les prisons?"
             }
         ]
@@ -135,7 +135,7 @@
         },
         "extractive": [
             {
-                "speaker": "CA",
+                "speaker": "Clémentine Autain",
                 "text": "Je pense qu'il y a des alternatives pour un certain nombre de peines possibles."
             }
         ]
@@ -146,7 +146,7 @@
         },
         "extractive": [
             {
-                "speaker": "GA",
+                "speaker": "Gabriel Attal",
                 "text": "Oui, on a engagé un plan de 15 000 créations de places de prison, 8 000 qui ont été livrées dans le quinquennat qui vient de s'écouler, 7 000 qui sont programmées qui seront livrées prochainement."
             }
         ]

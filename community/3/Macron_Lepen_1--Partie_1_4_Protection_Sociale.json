@@ -16,11 +16,11 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "On parle de financement d’ailleurs, puisque monsieur Macron vous avez fait toute une série de remboursements de système optique, etc."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Mais vous êtes resté extrêmement flou."
             }
         ]
@@ -31,15 +31,15 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Par exemple la vente à l’unité des médicaments, tout cela n’est pas mis en place, et ça pourrait être mis en place de manière extrêmement simple."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "D’abord augmenter le numérus clausus auquel vous n’avez pas touché lorsque vous étiez aux responsabilités."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Il faut mettre en place un stage d’internat dans des territoires qui sont sous denses en matière de santé."
             }
         ]
@@ -50,7 +50,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Il faut proposer des baisses de fiscalité pour les médecins qui sont à la retraite pour leur suggérer de rester pendant un certain nombre de mois, un certain nombre d’années."
             }
         ]
@@ -61,7 +61,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Car si on obtient la baisse du coût des médicaments alors on en remboursera plus et alors on pourra se servir de ces fonds pour pouvoir rembourser des choses qui aujourd’hui restent à la charge de nos compatriotes."
             }
         ]
@@ -72,7 +72,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Alors déjà j’ai une mauvaise nouvelle, après je parlerai des recommandations, parce que 80% des médicaments sont faits à l’étranger."
             }
         ]
@@ -83,7 +83,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Comme vous taxez les importations, on va augmenter le prix, pas de chance pour toutes celles et ceux qui nous écoutent avec Mme Le Pen on a une taxe."
             }
         ]
@@ -94,7 +94,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Mais on ne va pas, du jour au lendemain, faire 80% des médicaments qu’on importe."
             }
         ]
@@ -105,7 +105,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Alors sur le reste, l’un des vrais problèmes, ce sont nos déserts médicaux, ça c’est tout à fait juste, 30% de départements n’ont plus de continuité des soins, et donc, on doit investir dans ces maisons pluridisciplinaires de santé, dans une meilleure organisation entre la médecine publique et la médecine privée."
             }
         ]
@@ -116,7 +116,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Je pense d’ailleurs, en particulier à nos territoires d’outre-mer où là il y a un besoin criant de santé."
             }
         ]
@@ -127,7 +127,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Monsieur Macron, il y a surtout un énorme problème d’immigration clandestine et le système de santé est noyé par l’immigration clandestine en Guyane et à Mayotte."
             }
         ]
@@ -138,7 +138,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "On y reviendra mais il y a aussi un problème d’immigration, vous avez tout à fait raison, sur ces deux territoires."
             }
         ]
@@ -149,7 +149,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Et, si on veut réduire le reste à charge, sur les médicaments comme sur les autres prothèses, c'est-à-dire, la prothèse auditive, le dentaire et l’optique - et quand je parle de l’optique c’est évidemment la monture et le verre, ce que je souhaite moi, c’est d’avoir une clarification de la relation entre la sécurité sociale, la mutuelle et les professionnels, qu’ils soient les prothésistes ou les médecins."
             }
         ]
@@ -160,7 +160,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Parce qu’on a des contrats-types qu’on ne peut pas comparer, moi c’est une réforme que je veux, qu’on ait trois contrats-types pour tous les concitoyens, un contrat moyen, un contrat qui couvre tout et un contrat renforcé qu’on puisse comparer."
             }
         ]
@@ -171,7 +171,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Mais derrière on doit tout faire pour améliorer la prévention dans les écoles, dans les maisons de retraite."
             }
         ]
@@ -182,7 +182,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Mais ça ne vous a pas ennuyé dans la loi El-Khomri d’effondrer la santé en milieu professionnel"
             }
         ]

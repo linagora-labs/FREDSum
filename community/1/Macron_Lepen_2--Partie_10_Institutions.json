@@ -16,11 +16,11 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Néanmoins, je pense que c'est un élément important qui est dans notre Constitution voulu par le général De Gaulle, donc j'y suis attaché, c'est à la main du président."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Et si nous étions amenés à changer notre organisation, en Europe, parce qu'elle sera à refonder après la guerre, c'est évident, le référendum pour moi sera l'option retenue."
             }
         ]
@@ -31,7 +31,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "La deuxième chose, c'est qu'il nous faut rénover la vie démocratique, vous avez parfaitement raison, et donc j'ai échoué durant ce quinquennat à faire la révision constitutionnelle que je voulais faire, je n'ai pas eu d'accord."
             }
         ]
@@ -42,15 +42,15 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Ce que je veux faire c'est dès le début, là, mettre toutes les forces politiques y compris celles qui ne sont pas assez représentées à l'Assemblée, parce que l'Assemblée qui sera élue dans quelques semaines ne sera pas élue à la proportionnelle, puisque je n'ai pas réussi à faire ce changement, je veux, j'y suis favorable pour ma part à titre personnel, on pourra peut-être y revenir, et nous avons discuté et je pense que là-dessus nous avons les mêmes opinions."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "La 2ème chose, c'est que je pense que nos compatriotes veulent un changement de pratique, c'est ça qui m'a frappé, du grand débat aux conventions citoyennes, j'ai essayé plusieurs choses durant ce quinquennat et on voit bien, on parle d'élections, de référendum et en même temps on parle souvent de faible participation."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Et donc ce que je veux pouvoir faire c'est une autre méthode de la pratique du pouvoir, c'est avec vous et qui en particulier sur le chantier de l'école ou de la santé va conduire à fixer au niveau de la nation, des grandes orientations, mais à assumer d'avoir des conférences de partis pour agir et qui vont prendre des décisions qui sont ainsi mises en œuvre sous la houlette de nos préfets."
             }
         ]
@@ -61,7 +61,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Une renaissance démocratique avec une Assemblée nationale qui ai plus de pouvoir mais surtout avec la mise en œuvre effectivement du référendum d'initiative citoyenne."
             }
         ]
@@ -72,23 +72,23 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Je souhaite que 500 000 Français puissent soit soumettre au vote des Français l'abrogation d'une loi, soit puissent soumettre au vote des Français un projet de loi, je crois à ce référendum d'initiative citoyenne."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "C'est comme ça que l'union nationale va revenir, quand tout le monde aura le sentiment d'être respecté, quand chaque voix comptera et quand, à l'Assemblée nationale, chaque Français qui aura voté, aura un représentant y compris minoritaire."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Parce que, il ne s'agit pas encore une fois de décider qui est à l'Assemblée nationale, les courants minoritaires doivent pouvoir être représentés à l'Assemblée nationale."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Je dis ça, parce que, le RIC, c'est permettre une initiative sans limitation de champs de venir court-circuiter les représentants du peuple."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Et je vous rappelle quand même que dans notre constitution, il est indiqué que la souveraineté appartient au peuple, qui l'exerce par la voix de ses représentants, et par le référendum"
             }
         ]

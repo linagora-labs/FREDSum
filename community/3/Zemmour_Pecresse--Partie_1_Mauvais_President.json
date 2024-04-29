@@ -5,7 +5,7 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "L'esprit gaulliste, c'est défendre la liberté, la démocratie, c'est prendre des sanctions très dures vis-à-vis, euh, de, euh, vladimir poutine, accepter les conséquences, pour le peuple français, de cette guerre."
             }
         ]
@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Alors, moi, je vous le dit, mme elkrief, euh, quand on est sous influence de poutine, on peut pas se dire patriote, et c'est pour cela, monsieur zemmour, que vous êtes décrédibilisé pour présider la france."
             }
         ]
@@ -27,7 +27,7 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Madame pécresse, le général de gaulle, en mille neuf cent soixante-huit, a continué à avoir des relations avec l'urss communiste, alors que les russes était rentrés en tchécoslovaquie."
             }
         ]
@@ -38,7 +38,7 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "La tradition gaulliste, c'est justement le rapprochement avec la russie."
             }
         ]
@@ -49,7 +49,7 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Un jour, vous êtes pour lutter contre le grand remplacement, le lendemain, vous dites que le grand remplacement n'existe pas."
             }
         ]
@@ -60,7 +60,7 @@
         },
         "extractive": [
             {
-                "speaker": "EZ",
+                "speaker": "Eric Zemmour",
                 "text": "Vous avez quitté le parti LR parce qu'il était trop à droite, au temps de monsieur wauquiez, et, maintenant, vous dites, vous êtes, dans votre discours, plus à droite que lui."
             }
         ]
@@ -71,7 +71,7 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Entendre de la part d'eric zemmour qu'il est fidèle à ses convictions, c'est un oxymore, des fariboles."
             }
         ]

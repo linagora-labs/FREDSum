@@ -16,15 +16,15 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Aujourd'hui, c'est le plus faible taux de chômage en France depuis 25 ans."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Elle nous dit que personne ne travaille plus de 35 heures, ainsi, cela obligera les autres à embaucher."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Les 35 heures n'ont pas créé d'emplois et ont été responsables de quelque chose de plus grave encore : la rigueur salariale, qui fait que nos salaires sont trop bas."
             }
         ]
@@ -35,15 +35,15 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Première modification, aujourd'hui les heures supplémentaires sont payées 10 % de plus, je ferai payer 25 % de plus."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Comme les cotisations sociales sont déplafonnées, l'entreprise qui donne une heure supplémentaire doit payer 10 % de plus, je propose 25 %, plus des cotisations sociales augmentées à dû prorata de l'augmentation du salaire."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je souhaite créer un service public de l'emploi en fusionnant l'Unedic et l'ANPE."
             }
         ]
@@ -54,15 +54,15 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je propose que l'on ne puisse pas, lorsqu'on est chômeur, refuser plus de deux offres d'emplois successives qui correspondent, bien sûr, à vos qualifications et à la région où vous habitez."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je propose qu'il n'y ait pas un seul bénéficiaire de minima social qui ne soit pas conduit à exercer une activité quelle qu'elle soit pour retrouver la dignité de lui-même et rendre à la collectivité ce que la collectivité lui donne."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Par ce système, avec le contrat de sécurisation professionnelle, il n'y aura plus aucun licenciement économique si je suis président de la République sans que la personne licenciée n'ait immédiatement un contrat avec le service public de l'emploi, 90 % du dernier salaire, qui lui permettra de retrouver un emploi ou une formation."
             }
         ]
@@ -73,7 +73,7 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Si vous continuez pour les 35 heures, dont j'aimerais que vous disiez si vous les généralisez, vous les gardez, ou vous les gardez comme un minimum et vous laissez les gens travailler pour gagner plus ?"
             }
         ]
@@ -84,35 +84,35 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Vous savez ce que les gens ont fait du temps libéré, qui ont créé plus d'un million d'emplois ?"
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Les gens, pour 70 % d'entre eux, se sont mieux occupés de leur famille, beaucoup de femmes, en particulier, ou les salariés qui ont les travaux les plus difficiles, au bout de 35 heures, sont fatigués, donc l'augmentation de la durée du travail ne va pas dans le sens du progrès social."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "La deuxième loi sur les 35 heures a été une loi trop rigide."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "J'ai dit dans mon pacte présidentiel que toute modification du Code de travail se ferait après une négociation entre les partenaires sociaux."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Nous rediscuterons des 35 heures pour savoir si, oui ou non, et de quelle façon elles peuvent être généralisées et dans quelles branches."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Les partenaires sociaux, parce que le syndicalisme aura été renforcé par le chèque syndical, par un crédit d'impôt, parce que, désormais, ils auront une responsabilité éminente, il n'y aura plus de loi qui sera imposée dans le domaine social tant qu'il n'y aura pas eu de discussions entre les partenaires sociaux, ensuite, la loi viendra consolider ces discussions, apporter les financements nécessaires ou généraliser le droit du travail."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Je préfère qu'un employeur recrute un jeune ou un salarié de plus de 50 ans au chômage plutôt que de donner des heures supplémentaires exonérées, c'est-à-dire un nouveau cadeau aux entreprises sans contrepartie."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "J'ai proposé d'investir massivement dans l'innovation et la recherche."
             }
         ]
@@ -123,11 +123,11 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Les 35 heures comme un minimum, je ne les toucherai pas."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Au-delà de 35 heures, c'est plus 25 % de salaire, au-delà de 39 heures, c'est plus 50 %, dans le privé comme dans le public."
             }
         ]
@@ -138,11 +138,11 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Sur la question du pouvoir d'achat, qui est centrale, je propose de conditionner les allègements de charges, branche par branche, à la politique salariale des branches."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je souhaite que les impôts sur les bénéfices soient moins importants pour les sociétés qui investissent et créent des emplois en France et, plus important, pour celles qui ne le font pas."
             }
         ]
@@ -153,7 +153,7 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Dernier point, je propose que les entreprises soient mises devant leurs responsabilités, cela suffit de mettre dehors les gens de cinquante ans, on ne peut plus faire financer par le contribuable les préretraites à guichet ouvert."
             }
         ]
@@ -164,7 +164,7 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Je propose de revaloriser le Smic et les bas salaires."
             }
         ]
@@ -175,11 +175,11 @@
         },
         "extractive": [
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Sur l'autre question, car je voudrais revenir sur la relance économique, une chose très importante, car je crois beaucoup dans la dynamique des territoires et dans la capacité des Français à créer des entreprises : je veux que le peuple français devienne un peuple d'entrepreneurs et, pour cela, dans les pôles de compétitivité qui sont dans toutes les régions."
             },
             {
-                "speaker": "SR",
+                "speaker": "Ségolène Royal",
                 "text": "Il y aura des pépinières d'entreprises et chaque jeune qui sortira de l'université aura accès à un prêt gratuit, aura accès à ce service donné à part l'entreprise et l'université pour créer son activité son emploi sa petite entreprise"
             }
         ]

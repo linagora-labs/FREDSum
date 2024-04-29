@@ -16,7 +16,7 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Je veux que ce parti redevienne plus moderne, plus populaire."
             }
         ]
@@ -27,7 +27,7 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Je suis clair, si demain, le gouvernement passe en force sur les retraites ou régularise massivement des clandestins, je plaiderai pour que nous portions une motion de censure."
             }
         ]
@@ -38,7 +38,7 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Moi, je pense que si on veut tout rebâtir et pas seulement changer de nom, il faudra changer de nom, je pense que la marque est morte."
             }
         ]
@@ -49,7 +49,7 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Moi, j'ai assumé cette rupture avec Nicolas Sarkozy pour deux raisons, parceque simplement, il a soutenu Emmanuel Macron à l'élection présidentielle."
             }
         ]
@@ -60,15 +60,15 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Lui, il est pour une coalition avec Emmanuel Macron."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Je n'ai pas les convictions de Marine Le Pen parce que son programme économique la rapproche de Jean-Luc Mélenchon."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Et je n'ai pas les convictions, en a t’il d'ailleurs d'Emmanuel Macron parce que c'est le en même temps et parce que sur le Régalien, notamment, on voit bien qu'il est totalement laxiste."
             }
         ]
@@ -79,15 +79,15 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Moi, j'ai fixé une méthode et un objectif, l'objectif, c'est que l'on gagne l'élection présidentielle de 2027."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "On a des forces, des convictions, des territoires, des militants."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Et il faut, Il y a un défaut, parce que malgré tout ce qu'on peut faire de brillant, d'intelligent, une fondation des idées, ce que je veux porter, remuscler notre parti, une école des cadres, une fondation, un média des Républicains, tout ça, il faut le faire"
             }
         ]
@@ -98,11 +98,11 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Nicolas Sarkozy, il a quitté la vie politique."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Sur ma feuille de route, il manque quelque chose, c'est le chef."
             }
         ]
@@ -113,7 +113,7 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Je suis en désaccord avec ce qu'il prône pour l'alliance avec Emmanuel Macron, mais je crois que la dessus,on doit avoir un souci de clarification."
             }
         ]
@@ -124,11 +124,11 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Il faut tourner la page de Nicolas Sarkozy."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Nous sommes fiers du président qui a été à cette époque-là."
             }
         ]
@@ -139,7 +139,7 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Quant à mes adversaires, ils sont autant du côté d'Emmanuel Macron que de Marine Le Pen, je ne fais aucune distinction."
             }
         ]
@@ -154,15 +154,15 @@
                 "text": "Si vous écartez tous les trois l'idée d'une coalition, d'une alliance, même dans deux ans, dans trois ans, avec Emmanuel Macron, je ne me trompe pas, vous ne craignez pas un isolement, une forme de rappetissement, peut-être même un risque de disparition de votre famille politique Bruno Retailleau ?"
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Non, absolument pas."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Non, mais pas question d'être la béquille d'Emmanuel Macron, pas question non plus d'être le marchepied de Marine Le Pen."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Je pense qu'on a un énorme travail de reconstruction à faire, donc pas la charrue avant les bœufs, la reconstruction, les idées, et ensuite, l'incarnation."
             }
         ]
@@ -173,7 +173,7 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Travaillons, ne tombons pas dans la paresse intellectuelle, parce que si on se remet déjà entre les mainsd'un chef, je suis sûr qu’on ne refondra rien du tout."
             }
         ]
@@ -184,11 +184,11 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Face à nous, on a Emmanuel Macron, on en pense ce qu'on en veut, mais il a le talent de la communication qui est inversement proportionnelle à sa capacité d'action."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "On a Mélenchon avec sa dangerosité, on a Le Pen, qui est très identifié, et nous, qui est le chef ?"
             }
         ]
@@ -199,7 +199,7 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Moi, je souhaite supprimer les primaires."
             }
         ]
@@ -210,7 +210,7 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "La première décision que je prendrai, pas la deuxième, la première comme président des Républicains, c'est la suppression de la primaire."
             }
         ]
@@ -221,7 +221,7 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Je souhaite que nous désignons notre candidat en bureau politique."
             }
         ]
@@ -232,11 +232,11 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Sur le calendrier, je pense que c'est une folie de désigner l'année prochaine notre candidat."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Je ne souhaite pas que nous mettions Laurent Wauquiez dans un piège et demain, je ne le mettrai pas dans un piège."
             }
         ]
@@ -247,15 +247,15 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "Pour une raison simple, je ne serai pas candidat à l'élection présidentielle de 2027."
             },
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "J'ai d’ailleurs cru comprendre que Eric ne le serait pas non plus."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Si j'avais voulu être candidat à l'élection présidentielle, je me serais présenté comme Eric en décembre dernier au congrès."
             }
         ]
@@ -266,7 +266,7 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Il reste la primaire fermée, exactement."
             }
         ]
@@ -277,11 +277,11 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Ce qui est aussi pire que la primaire ouverte et qui nous a amené à 4,78."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Non, c'est pas ce qui nous a amené à 4,78."
             }
         ]
@@ -292,19 +292,19 @@
         },
         "extractive": [
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "Mon projet à moi, si demain on veut avoir un grand parti populaire et patriote, c'est de donner à nos adhérents, à nos militants, un bulletin de vote."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Ce que je voulais dire, c'est que c'est primaire privée, fermée, c'est très exactement ce qu'on a fait."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Le président prend ses responsabilités."
             },
             {
-                "speaker": "BR",
+                "speaker": "Bruno Retailleau",
                 "text": "On n'est pas en Chine."
             }
         ]
@@ -315,7 +315,7 @@
         },
         "extractive": [
             {
-                "speaker": "AP",
+                "speaker": "Aurélien Pradié",
                 "text": "C'est un parti que tu n'as pas connu, qui était le RPR. Il se trouve que cette méthode-là, c'était la méthode du RPR."
             }
         ]

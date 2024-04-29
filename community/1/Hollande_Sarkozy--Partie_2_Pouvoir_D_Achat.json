@@ -16,11 +16,11 @@
         },
         "extractive": [
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Et donc, le SMIC sera indexé non seulement sur les prix mais sur une part de la croissance."
             },
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Deuxièmement, je considère qu'aujourd'hui, il y a une part de dépenses contraintes très élevée."
             }
         ]
@@ -31,11 +31,11 @@
         },
         "extractive": [
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Et donc j'instaurerai un forfait de base qui fera que les consommateurs, jusqu'à un certain volume de leur consommation, paieront le même tarif."
             },
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Et c'est ensuite en fonction de leur propre consommation qu'ils paieraient un tarif supérieur, donc une progressivité."
             }
         ]
@@ -46,7 +46,7 @@
         },
         "extractive": [
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Sur l'essence, j'ai dit qu'il y aurait un blocage pendant trois mois du prix de l'essence et l'instauration de la TIPP flottante, c'est-à-dire que l'État ne pourra pas gagner un seul centime d'euro sur le prix des carburants."
             }
         ]
@@ -57,7 +57,7 @@
         },
         "extractive": [
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Enfin, j'augmenterai de 25 % l'allocation de rentrée scolaire dès cet été parce que je considère que les familles doivent être soutenues dans ce moment particulièrement difficile."
             }
         ]
@@ -68,23 +68,23 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Deuxième élément sur le chômage partiel : savez-vous combien nous avons financé d'heures de chômage partiel en France ?"
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Nous avons financé 180 millions d'heures de chômage partiel."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Les Français doivent le savoir quand le carnet de commandes dans l'Entreprise diminue, au lieu de mettre la personne au chômage, l'État prend à sa charge, avec les syndicats d'ailleurs, le temps de formation quand la personne ne va pas à l'usine ou au bureau parce qu'il n'y a pas de travail."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Le pouvoir d'achat, la première chose que nous avons faite, ce sont les heures supplémentaires."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "C'est presque 500 euros en moyenne de pouvoir d'achat en plus puisqu'ils ne paient pas d'impôts dessus et que les entreprises ne paient pas de charges dessus."
             }
         ]
@@ -95,11 +95,11 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Parce que quand vous dites : on va donner un coup de pouce au SMIC, combien de personnes touchent le SMIC ?"
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Moins de 15 %, pourquoi oublier les 85 % qui ne touchent pas le SMIC ?"
             }
         ]
@@ -110,27 +110,27 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Voilà maintenant qu'on va payer son électricité et son gaz en fonction de son revenu"
             },
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Non, en fonction de sa consommation."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Un mot sur l'essence, le blocage des prix ?"
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Vous n'allez pas bloquer le prix du baril de brent que vous allez acheter à l'Arabie Saoudite, aux pays producteurs."
             },
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "C'est le prix de la distribution du carburant raffiné."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Celui qui va payer, c'est le contribuable."
             }
         ]
@@ -141,11 +141,11 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Juste un mot pour terminer sur ce point : Deux centimes de moins sur le litre d'essence, c'est un milliard d'euros de déficit en plus, est-ce que ça vaut la peine ?"
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Est-ce qu'il ne vaut pas mieux mettre en œuvre la politique que le gouvernement a voulu mettre en œuvre pour aider les gens à acheter des voitures moins consommatrices d'essence, pour faire des économies d'énergie ?"
             }
         ]
@@ -156,7 +156,7 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Comment allez-vous faire pour réduire les déficits d'un côté, augmenter l'allocation de rentrée scolaire, subventionner le prix de l'essence, augmenter toutes les prestations."
             }
         ]
@@ -167,11 +167,11 @@
         },
         "extractive": [
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Deuxièmement, sur les carburants, vous dites que vous ne pouvez rien et vous laissez les Français vivre avec ces prix des carburants, qui font que, dans des départements ruraux, pour ceux qui vont à leur travail, c'est devenu un prélèvement insupportable."
             },
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Ça ne coûtera pas à l'Etat puisque l'Etat reçoit par la TVA une recette supplémentaire."
             }
         ]
@@ -182,15 +182,15 @@
         },
         "extractive": [
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Laisser à penser aux Français que le prix du pétrole et le prix du gaz va pouvoir diminuer que l'on va pouvoir bloquer les prix : il n'y a pas un pays au monde qui réagit comme ça."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "Je répète une question : grâce au nucléaire, nous payons l'électricité et le chauffage 35 % moins cher."
             },
             {
-                "speaker": "NS",
+                "speaker": "Nicolas Sarkozy",
                 "text": "En conscience, d'après vous, est-ce que c'est vraiment le moment, alors que le prix du pétrole explose, que le prix du gaz explose, est-ce vraiment le moment de vouloir démanteler l'industrie nucléaire, de vouloir fermer la moitié des réacteurs nucléaires ?"
             }
         ]
@@ -201,7 +201,7 @@
         },
         "extractive": [
             {
-                "speaker": "FH",
+                "speaker": "François Hollande",
                 "text": "Je ne fermerai qu'une seule centrale sur le prochain quinquennat"
             }
         ]

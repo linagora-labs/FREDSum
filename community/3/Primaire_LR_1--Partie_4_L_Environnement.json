@@ -5,7 +5,7 @@
         },
         "extractive": [
             {
-                "speaker": "XB",
+                "speaker": "Xavier Bertrand",
                 "text": "C'est la raison pour laquelle je décide le lancement de la construction de six réacteurs, et que je demande 10 EPR."
             }
         ]
@@ -16,11 +16,11 @@
         },
         "extractive": [
             {
-                "speaker": "DP",
+                "speaker": "David Pujadas",
                 "text": "Mais il faudra dix ans, il faudra dix ans pour les construire et d'ici là qu'est ce qu'on fait?"
             },
             {
-                "speaker": "XB",
+                "speaker": "Xavier Bertrand",
                 "text": "Je mettrai un terme à ce développement anarchique de l'éolien."
             }
         ]
@@ -31,15 +31,15 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Et pour atteindre le zéro carbone 2050, il faut marcher sur deux pieds, il faut, effectivement, les énergies renouvelables et le nucléaire, donc les éoliennes et le nucléaire, parce qu'on n'arrivera pas à se passer du nucléaire pour atteindre cet objectif zéro carbone, ce n'est pas possible."
             },
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Moi, je ne propose pas dix EPR comme Xavier Bertrand, j'en propose 6, mais je me suis rendu à Flamanville pour réaffirmer mon attachement à cette filière industrielle française qu'on ne peut pas laisser sacrifier parce qu'Emmanuel Macron a laissé les Allemands défendre leurs centrales au gaz contre le nucléaire."
             },
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "2050 neutralité carbone."
             }
         ]
@@ -50,7 +50,7 @@
         },
         "extractive": [
             {
-                "speaker": "VP",
+                "speaker": "Valérie Pécresse",
                 "text": "Mais il y a des endroits où, il y a des territoires de France dans lesquels on peut mettre encore de l'éolien et aussi de l'éolien en mer avec l'accord des populations et uniquement avec cet accord."
             }
         ]
@@ -61,7 +61,7 @@
         },
         "extractive": [
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "La meilleure manière d'y arriver, et la moins coûteuse, c'est de faire 50 pour cent d'éolien, de renouvelable, et 50 de nucléaire, mais pour faire 50 de nucléaire, il faut en fait en faire plus qu'aujourd'hui."
             }
         ]
@@ -72,7 +72,7 @@
         },
         "extractive": [
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "Pendant les 20 ans qui viennent, on met la pression sur l'éolien en mer, dans 20 ans, les éoliennes terrestres seront arrivées en fin de vie, on les démonte et on en monte plus."
             }
         ]
@@ -83,7 +83,7 @@
         },
         "extractive": [
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Donc, pas d'éolien s'il n'y a pas d'accord local."
             }
         ]
@@ -94,15 +94,15 @@
         },
         "extractive": [
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Maintenant, il n'y a pas que l'éolien, il y a d'autres énergies qui sont très importantes, le solaire."
             },
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Et l&#x27;autre potentiel que je me permets de vous signaler, et comme personne n&#x27;en a parlé, c&#x27;est les économies d&#x27;énergie, le KW qui coûte le moins cher et le baril de pétrole qui pollue le moins, c&#x27;est celui qu&#x27;on ne consomme pas."
             },
             {
-                "speaker": "MB",
+                "speaker": "Michel Barnier",
                 "text": "Et donc, pour atteindre l'objectif d'une France décarbonée, première puissance européenne décarbonée, nous avons besoin du nucléaire que ce soit 6 ou 8 centrales, peut être 10 et relancer le programme Astrid que monsieur Macron a arrêté, et ne pas fermer des centrales qui peuvent fonctionner."
             }
         ]
@@ -113,15 +113,15 @@
         },
         "extractive": [
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Bien sûr qu'il faut lancer ses six EPR que propose EDF et s'ils opèrent, c'est plus de réacteurs."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Je crois aussi en l'hydrogène, je crois au mix énergétique."
             },
             {
-                "speaker": "EC",
+                "speaker": "Eric Ciotti",
                 "text": "Il faut de l'énergie hydraulique."
             }
         ]
@@ -132,7 +132,7 @@
         },
         "extractive": [
             {
-                "speaker": "PJ",
+                "speaker": "Philippe Juvin",
                 "text": "Il faut que cent pour cent des recettes du marché carbone aillent aux PME et aillent aux classes moyenne, sinon, la transition écologique ne pourra pas se faire dans des conditions satisfaisantes pour le pouvoir d'achat."
             }
         ]
@@ -143,7 +143,7 @@
         },
         "extractive": [
             {
-                "speaker": "XB",
+                "speaker": "Xavier Bertrand",
                 "text": "Donc, je veux mettre un terme à cette TVA qu'il y a sur les taxes et qui fait que quand le prix augmente, ce sont les caisses de l'Etat qui se remplissent."
             }
         ]

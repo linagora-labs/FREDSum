@@ -16,11 +16,11 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Moi je veux que les négociations aient lieu par branche, M. Macron veut que les négociations aient lieu par entreprise."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Vous allez créer les conditions d’une concurrence nationale déloyale alors que déjà ils subissent une concurrence internationale déloyale."
             }
         ]
@@ -31,7 +31,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Je suppose qu’il y aura la disparition du CDI, enfin toute la feuille de route qui est celle de l’UE, que vous suivez, dont vous cochez les cases avec beaucoup de discipline, il faut le dire."
             }
         ]
@@ -42,7 +42,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Je sais bien que vous essayez de faire oublier que vous avez participé à un gouvernement qui a mis en oeuvre la loi El Khomri, qui a été une loi, encore une fois, de précarisation du travail, qui n'a pas créé un emploi, qui a créé un chômage qui est encore plus important depuis que vous êtes parti du gouvernement que quand vous y êtes entré."
             }
         ]
@@ -53,7 +53,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Ce qui est extraordinaire c’est que vous ne répondez en fait jamais aux questions, vous parlez toujours du passé et des autres."
             }
         ]
@@ -64,19 +64,19 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Mais toutes ces entreprises, l'entreprise d’un salarié jusqu'à cinq cents, elles veulent quoi ?"
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Elles veulent plus d'adaptation à leur réalité économique."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Donc, il faut leur laisser la possibilité de négocier, pour certaines, un accord majoritaire d'entreprise."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Les Chantiers de l'Atlantique, à Saint Nazaire, ils ont sauvé des emplois en négociant un accord d'entreprise qui a permis le chômage partiel."
             }
         ]
@@ -87,7 +87,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Mais oui, j'ai compris que vous étiez aussi favorable pour la branche mais précisément pour éviter que les plus grosses ne perturbent le jeu il faut leur laisser aussi signer des accords de leur côté."
             }
         ]
@@ -98,11 +98,11 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Donc vous partez du principe que c'est le code du travail qui crée, en réalité, du chômage."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Ils savent ce qui les tue, c'est la politique que vous menez, c'est la politique de concurrence déloyale, c’est la politique qui fait que l'État stratège n’intervient pas et laisse, encore une fois, les gros manger les petits, laisse les entreprises chercher des travailleurs à bas coûts, comme ça a été le cas."
             }
         ]
@@ -113,11 +113,11 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Mais je leur propose de taxer les entreprises qui délocalisent."
             },
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Deuxièmement, je veux mettre en place un fonds souverain qui permette d’intervenir, par exemple dans un dossier comme Vivarte qui est en train d’être dépecé par des fonds vautours, et bien moi je crois que l’Etat doit intervenir, confier un fonds souverain à des chefs d’entreprise et avoir en même temps les deux qualités, celle de l’Etat qui est la durée et celle du privé qui est l’efficacité, en réclamant à des entreprises qui sont viables des rendements qui sont raisonnables."
             }
         ]
@@ -128,7 +128,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Y a quelque chose qui s'appelle l’Agence des participations de l’Etat, où l’Etat peut investir dans une entreprise."
             }
         ]
@@ -139,15 +139,15 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Parce que dans le cas de Whirlpool, ce que vous proposez, c’est rien."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Le soir vous faites un communiqué en proposant quoi ?"
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "La nationalisation de Whirlpool."
             }
         ]
@@ -158,11 +158,11 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "On la met sous nationalisation de l’État, le temps de trouver un repreneur."
             },
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "C’est exactement l'erreur qu’a faite Monsieur Hollande avec Florange."
             }
         ]
@@ -173,7 +173,7 @@
         },
         "extractive": [
             {
-                "speaker": "EM",
+                "speaker": "Emmanuel Macron",
                 "text": "Vous savez, j’ai eu des victoires, j’ai eu des échecs mais je me suis toujours battu et je continuerai à le faire."
             }
         ]
@@ -184,7 +184,7 @@
         },
         "extractive": [
             {
-                "speaker": "MLP",
+                "speaker": "Marine Le Pen",
                 "text": "Mais les victoires c’est pour protéger des emplois ou pour protéger des sociétés qui s’achètent les unes les autres et qui dégraissent"
             }
         ]
