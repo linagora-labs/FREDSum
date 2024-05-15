@@ -1,243 +1,243 @@
 [
-    {
-        "abstractive": {
-            "text": "Zemmour se dit en faveur de l’assimilation, et non de l’intégration ; pour lui, les problèmes migratoires sont le fruits d’une politique menée depuis quarante ans par les élites françaises : des millions d’habitants, issus de la civilisation arabo-musulmane, sont arrivés au cœur de la civilisation chrétienne, ce qui produit un choc considérable. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Et deuxièmement ce n'est pas la france qui a fautée, et si elle a fautée, ce sont les gens comme monsieur mélenchon, et les élites françaises, qui depuis quarante ans ont fait la folie, je dis bien la folie criminelle, de faire venir, de laisser venir des millions et des millions d'immigrés venus de, d'une civilisation arabo-musulmane qui est hostile à la civilisation chrétienne dont nous sommes issus depuis mille ans !"
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Simplement, je défends la civilisation chrétienne parce que c'est la civilisation qui nous a fait, vous et moi monsieur."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Eric Zemmour se dit en faveur de l’assimilation, et non de l’intégration ; pour lui, les problèmes migratoires sont le fruit d’une politique menée depuis quarante ans par les élites françaises : des millions d’habitants, issus de la civilisation arabo-musulmane, sont arrivés au cœur de la civilisation chrétienne, ce qui produit un choc considérable."
     },
-    {
-        "abstractive": {
-            "text": "Le responsable de cette immigration est à trouver du côté du patronat selon Mélenchon ; c’était bien le cas au cours des premières vagues, lui répond Zemmour, néanmoins, tel n’est plus le cas. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Les millions de gens qui sont venus c'est les patrons qui les ont fait pour faire rentrer les travailleurs en france."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Les patrons c'était dans les années soixante soixante-dix, et ils ont eu grand tort."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Mais les patrons, c'est fini, depuis longtemps."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Et deuxièmement ce n'est pas la france qui a fautée, et si elle a fautée, ce sont les gens comme monsieur mélenchon, et les élites françaises, qui depuis quarante ans ont fait la folie, je dis bien la folie criminelle, de faire venir, de laisser venir des millions et des millions d'immigrés venus de, d'une civilisation arabo-musulmane qui est hostile à la civilisation chrétienne dont nous sommes issus depuis mille ans !"
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Simplement, je défends la civilisation chrétienne parce que c'est la civilisation qui nous a fait, vous et moi monsieur."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Le responsable de cette immigration est à trouver du côté du patronat selon Jean Luc Mélenchon ; c’était bien le cas au cours des premières vagues, lui répond Zemmour, néanmoins, tel n’est plus le cas."
     },
-    {
-        "abstractive": {
-            "text": "Pour soutenir son point, il donne alors plusieurs chiffres : il y aurait quatre cent mille immigrés légaux qui entreraient en France chaque année. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Tout ça ça vous fait à peu près quatre cent mille immigrés légaux je dis bien légaux, je ne parle même pas des clandestins on on a valu entre quatre cent mille huit cent mille je n'en parle même pas."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Les millions de gens qui sont venus c'est les patrons qui les ont fait pour faire rentrer les travailleurs en france."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Les patrons c'était dans les années soixante soixante-dix, et ils ont eu grand tort."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Mais les patrons, c'est fini, depuis longtemps."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour soutenir son point, il donne alors plusieurs chiffres : il y aurait quatre cent mille immigrés légaux qui entreraient en France chaque année."
     },
-    {
-        "abstractive": {
-            "text": "C’est la première fois que la population du pays change de la sorte, après être restée stable entre le XI ème et le XIX ème siècle."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "C'est faux la france entre le neuvième siècle après les grandes invasions jusqu'au dix-neuvième siècle a été une population très stable, à partir des années mille huit cent soixante à cause du l'industrialisation sous napoléon trois."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "L'INSEE monsieur, des chiffres de L'INSEE."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Tout ça ça vous fait à peu près quatre cent mille immigrés légaux je dis bien légaux, je ne parle même pas des clandestins on on a valu entre quatre cent mille huit cent mille je n'en parle même pas."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "C’est la première fois que la population du pays change de la sorte, après être restée stable entre le XI ème et le XIX ème siècle."
     },
-    {
-        "abstractive": {
-            "text": "Mélenchon n'approuve pas cette vision, il se félicite de la venue d’étudiants étrangers en France, lesquels créent des liens avec leur culture d’origine. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Et ces étudiants, je vais vous dire une chose, je suis content qu'ils viennent apprendre en france, et qu'ils vont créer avec la france un lien intellectuel qui va fortifier dans le temps la relation qu'on a avec leur pays d'origine."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "C'est faux la france entre le neuvième siècle après les grandes invasions jusqu'au dix-neuvième siècle a été une population très stable, à partir des années mille huit cent soixante à cause du l'industrialisation sous napoléon trois."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "L'INSEE monsieur, des chiffres de L'INSEE."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon n’approuve pas cette vision."
     },
-    {
-        "abstractive": {
-            "text": "Il oppose à l’assimilation  le phénomène de créolisation, véritable pont entre les particularismes de chacun et l’universalisme français, dont il se revendique. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "La créolisation n'est pas un choix c'est une réalité qui permet de faire le pont entre le différentialisme aigu de gens comme monsieur zemmour, qui voit les gens dans des petites cases les musulmans, les ceci, les cela, et puis un universalisme que moi-même j'ai pratiqué."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Voilà ce qui m'intéresse dans l'histoire, et là où vous êtes pris à revers c’est que ce qui a fécondé la france, c'est cette immense idée de l'être humain qui est créateur de sa propre histoire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Et ces étudiants, je vais vous dire une chose, je suis content qu'ils viennent apprendre en france, et qu'ils vont créer avec la france un lien intellectuel qui va fortifier dans le temps la relation qu'on a avec leur pays d'origine."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "D’abord, il se félicite de la venue d’étudiants étrangers en France, lesquels créent des liens avec leur culture d’origine."
     },
-    {
-        "abstractive": {
-            "text": "Quant à la religion, elle relève du privé ; la loi doit s’imposer à tout le monde, et personne ne le conteste selon lui. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "La religion est une affaire privée ce que nous avons en commun c'est la cité, et aujourd'hui, personne ne conteste que la loi de la cité s'impose à tout le monde."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "La créolisation n'est pas un choix c'est une réalité qui permet de faire le pont entre le différentialisme aigu de gens comme monsieur zemmour, qui voit les gens dans des petites cases les musulmans, les ceci, les cela, et puis un universalisme que moi-même j'ai pratiqué."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Voilà ce qui m'intéresse dans l'histoire, et là où vous êtes pris à revers c’est que ce qui a fécondé la france, c'est cette immense idée de l'être humain qui est créateur de sa propre histoire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il oppose à l’assimilation le phénomène de créolisation, véritable pont entre les particularismes de chacun et l’universalisme français, dont il se revendique."
     },
-    {
-        "abstractive": {
-            "text": "Or, pour Zemmour, le lien qui unit toutes les différences en France, c’est précisément le catholicisme. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Maintenant vous oubliez parce que ça vous gêne que le premier ciment de ces peuples divers fut le catholicisme, le catholicisme d'un côté le catholicisme d'un côté puisque c'est la conversion de clovis."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "La religion est une affaire privée ce que nous avons en commun c'est la cité, et aujourd'hui, personne ne conteste que la loi de la cité s'impose à tout le monde."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Quant à la religion, elle relève du privé ; la loi doit s’imposer à tout le monde, et personne ne le conteste selon lui."
     },
-    {
-        "abstractive": {
-            "text": "Il réitère sa défense de l’assimilation, estimant que la créolisation relève d’une idéologie multiculturaliste. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "L'assimilation c’est comme disait le grand historien braudel, ce qui a permis l'intégration sans douleur."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "La créolisation, ce n’est que le nouveau mot vous avez trouvé pour parlers de multiculturalisme, euh, de droit à la différence en fait vous vous êtes converti à l'idéologie que vous combattiez dans les années quatre-vingts, et maintenant quand vous parlez de l'islam et vous nous dites : la religion c'est dans le privé, et la politique c'est la loi de la cité, vous nous la baillez belle monsieur mélenchon !"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Maintenant vous oubliez parce que ça vous gêne que le premier ciment de ces peuples divers fut le catholicisme, le catholicisme d'un côté le catholicisme d'un côté puisque c'est la conversion de clovis."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Or, pour Zemmour, le lien qui unit toutes les différences en France, c’est précisément le catholicisme."
     },
-    {
-        "abstractive": {
-            "text": "Par ailleurs, l’Islam est par essence politique ; il ne peut se borner à la sphère privée, dans la mesure où il s’agit d’un code normative. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "L'islam est une religion politique par essence, l'islam ne ne s'occupe pas de l'intériorité des fidèles mais s'occupe des normes sociales et politiques."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "L'assimilation c’est comme disait le grand historien braudel, ce qui a permis l'intégration sans douleur."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "La créolisation, ce n’est que le nouveau mot vous avez trouvé pour parlers de multiculturalisme, euh, de droit à la différence en fait vous vous êtes converti à l'idéologie que vous combattiez dans les années quatre-vingts, et maintenant quand vous parlez de l'islam et vous nous dites : la religion c'est dans le privé, et la politique c'est la loi de la cité, vous nous la baillez belle monsieur mélenchon !"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il réitère sa défense de l’assimilation, estimant que la créolisation relève d’une idéologie multiculturaliste."
     },
-    {
-        "abstractive": {
-            "text": "L’Islam est par ailleurs source d’inégalité (hommes et femmes, hommes libres et esclaves, fidèles et infidèles). "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "L’islam veut dire soumission, égalité, l'islam c'est une triple inégalité, entre les hommes et les femmes, entre les hommes libres et les esclaves, entre les fidèles et les infidèles."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "L'islam est une religion politique par essence, l'islam ne ne s'occupe pas de l'intériorité des fidèles mais s'occupe des normes sociales et politiques."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Par ailleurs, l’Islam est par essence politique ; il ne peut se borner à la sphère privée, dans la mesure où il s’agit d’un code normative."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour fait néanmoins la différence entre l’Islam et les musulmans, lesquels peuvent choisir de borner leur pratique à la sphère privée ; la République avait contraint les Juifs à agir de la sorte ; il entend faire de même à l’égard des musulmans. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je fais une différence entre les musulmans, et l'islam, les musulmans qui peuvent, effectivement, s'approprier la conception française de la religion, c'est à dire ne considérer que leur religion et de l'ordre du privé ont toute leur place en france."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "en fait je veux exactement imposer aux religions, à la religion islamique, exactement la même chose que la france a imposé aux juifs selon la fameuse formule de clermont-tonnerre."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "L’islam veut dire soumission, égalité, l'islam c'est une triple inégalité, entre les hommes et les femmes, entre les hommes libres et les esclaves, entre les fidèles et les infidèles."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "L’Islam est par ailleurs source d’inégalité (hommes et femmes, hommes libres et esclaves, fidèles et infidèles)."
     },
-    {
-        "abstractive": {
-            "text": "Mélenchon défend de nouveau la créolisation ; né des Antilles, ce phénomène a permis la création d’une culture commune, par l’interpénétration des différences, dans le cadre de loi. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "La martinique, la guadeloupe, la réunion, sont des terres profondément créolisées."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Et contrairement à ce que vous dites, et ce que d'autres ont dit aussi, ça n'a pas créé une addition de communautées, ce n'est pas vrai ça a créé une communauté communes sous l'empire de la loi, et qui produit une culture commune, une culture commune."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je fais une différence entre les musulmans, et l'islam, les musulmans qui peuvent, effectivement, s'approprier la conception française de la religion, c'est à dire ne considérer que leur religion et de l'ordre du privé ont toute leur place en france."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "en fait je veux exactement imposer aux religions, à la religion islamique, exactement la même chose que la france a imposé aux juifs selon la fameuse formule de clermont-tonnerre."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour fait néanmoins la différence entre l’Islam et les musulmans, lesquels peuvent choisir de borner leur pratique à la sphère privée ; la République avait contraint les Juifs à agir de la sorte ; il entend faire de même à l’égard des musulmans."
     },
-    {
-        "abstractive": {
-            "text": "La créolisation est une dialectique culturelle, dépourvue du rapport de domination."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "La créolisation, c'est donc un processus dans lequel personne ne domine l'autre."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "La martinique, la guadeloupe, la réunion, sont des terres profondément créolisées."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Et contrairement à ce que vous dites, et ce que d'autres ont dit aussi, ça n'a pas créé une addition de communautées, ce n'est pas vrai ça a créé une communauté communes sous l'empire de la loi, et qui produit une culture commune, une culture commune."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon défend de nouveau la créolisation ; né des Antilles, ce phénomène a permis la création d’une culture commune, par l’interpénétration des différences, dans le cadre de loi."
     },
-    {
-        "abstractive": {
-            "text": " Il insiste également sur l’importance de l’éducation des primo-arrivants, pour ressourcer la culture. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Si les enfants sont correctement éduqués, si on a pris en charge l'accueil des primo-arrivants, la France y gagne, elle y gagne des jeunes français qui viennent avec une culture, des idées, et plein de choses de cette nature."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "La créolisation, c'est donc un processus dans lequel personne ne domine l'autre."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "La créolisation est une dialectique culturelle, dépourvue du rapport de domination."
     },
-    {
-        "abstractive": {
-            "text": "Sur l’Islam, il mentionne le courant  mu’tazilite, vecteur d’humanisme. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Vous ne savez même pas que dans l'islam, il y a tout ce courant mu’tazilite qui a été un des noyaux, à mon avis hein, des rameaux qui a permis la fécondation de l’humanisme."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Si les enfants sont correctement éduqués, si on a pris en charge l'accueil des primo-arrivants, la France y gagne, elle y gagne des jeunes français qui viennent avec une culture, des idées, et plein de choses de cette nature."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il insiste également sur l’importance de l’éducation des primo-arrivants, pour ressourcer la culture."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour lui rétorque que cette école fut vaincue au IX ème siècle. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Le courant mu’tazilite a été abattu au neuvième siècle."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Vous ne savez même pas que dans l'islam, il y a tout ce courant mu’tazilite qui a été un des noyaux, à mon avis hein, des rameaux qui a permis la fécondation de l’humanisme."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Sur l’Islam, il mentionne le courant mu’tazilite, vecteur d’humanisme."
     },
-    {
-        "abstractive": {
-            "text": "Mélenchon explique cependant que la violence inhérente à l’Islam ne lui est pas propre ; elle est consubstantielle à toutes les religions. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Et je dis la même chose pour toutes les religions, la religion républicaine est respectée par tout le monde sauf une bande ici ou là de gens, euh qui s'y oppose dans la violence et la religion républicaine."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Le courant mu’tazilite a été abattu au neuvième siècle."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour lui rétorque que cette école fut vaincue au IX ème siècle."
     },
-    {
-        "abstractive": {
-            "text": "Il leur oppose la religion républicaine, à laquelle chacun adhère. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "J’ai dit vous avez bien raison que euh je n'adhérait pas à l'adhésion extravagante d’une insécurité cauchemardesques dans le pays où il y a de la sécurité, et je vous annonce qu'il y en aura toujours plus à mesure qu'il y aura toujours plus de misère, et plus de désagrégation de l'école publique."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Et je dis la même chose pour toutes les religions, la religion républicaine est respectée par tout le monde sauf une bande ici ou là de gens, euh qui s'y oppose dans la violence et la religion républicaine."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon explique cependant que la violence inhérente à l’Islam ne lui est pas propre ; elle est consubstantielle à toutes les religions."
+    },
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "J’ai dit vous avez bien raison que euh je n'adhérait pas à l'adhésion extravagante d’une insécurité cauchemardesques dans le pays où il y a de la sécurité, et je vous annonce qu'il y en aura toujours plus à mesure qu'il y aura toujours plus de misère, et plus de désagrégation de l'école publique."
+      }
+    ]
+  }
 ]

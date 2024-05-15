@@ -1,146 +1,146 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Macron et Le Pen s’invectivent après une courte discussion sur les institutions."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Est-ce que vous considérez qu'il faut baisser le nombre de parlementaires, et, que pensez-vous à propos du cumul des mandats, pensez-vous à les limiter et de quelle façon ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Emmanuel Macron et Marine Le Pen s’invectivent après une courte discussion sur les institutions."
     },
-    {
-        "abstractive": {
-            "text": "Macron souhaite en effet diminuer d’un tiers le nombre de sénateurs et de députés."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Oui, aux deux questions, je suis favorable à une baisse du nombre de parlementaires."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Les baisser d'environ un tiers à l'Assemblée comme au Sénat."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Est-ce que vous considérez qu'il faut baisser le nombre de parlementaires, et, que pensez-vous à propos du cumul des mandats, pensez-vous à les limiter et de quelle façon ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron souhaite en effet diminuer d’un tiers le nombre de sénateurs et de députés."
     },
-    {
-        "abstractive": {
-            "text": "Il désire également une dose de proportionnelles aux élections."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Je souhaite également une dose de proportionnelle pour les élections, y compris les élections parlementaires, ce ne sera pas possible pour celles qui arrivent par définition mais je souhaite que les choses soient claires au moment de cette élection pour la suite."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Oui, aux deux questions, je suis favorable à une baisse du nombre de parlementaires."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Les baisser d'environ un tiers à l'Assemblée comme au Sénat."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il désire également une dose de proportionnelles aux élections."
     },
-    {
-        "abstractive": {
-            "text": "Il se dit favorable à la loi empêchant le cumul des mandats et veut d’ailleurs l’étendre en interdisant de faire plus de trois mandats."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Sur le cumul des mandats je suis évidemment favorable au maintien de la loi qui a été votée durant ce quinquennat qui empêche le cumul de plusieurs mandats concomitants et je veux ajouter à cela un non-cumul des mandats dans le temps limité à trois mandats."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Je souhaite également une dose de proportionnelle pour les élections, y compris les élections parlementaires, ce ne sera pas possible pour celles qui arrivent par définition mais je souhaite que les choses soient claires au moment de cette élection pour la suite."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il se dit favorable à la loi empêchant le cumul des mandats et veut d’ailleurs l’étendre en interdisant de faire plus de trois mandats."
     },
-    {
-        "abstractive": {
-            "text": "Le Pen et Macron s’attaquent ensuite personnellement."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Non mais le parti des affaires ce n'est pas le mien, c'est le vôtre."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Sur le cumul des mandats je suis évidemment favorable au maintien de la loi qui a été votée durant ce quinquennat qui empêche le cumul de plusieurs mandats concomitants et je veux ajouter à cela un non-cumul des mandats dans le temps limité à trois mandats."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen et Emmanuel Macron s’attaquent ensuite personnellement."
     },
-    {
-        "abstractive": {
-            "text": "Macron reproche à son adversaire les affaires de son parti ; Le Pen pose la question du patrimoine de Macron, qui serait flou."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Personne n'a compris les explications que vous avez données sur votre patrimoine, en l'occurrence."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Non mais le parti des affaires ce n'est pas le mien, c'est le vôtre."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron reproche à son adversaire les affaires de son parti ; Marine Le Pen pose la question du patrimoine de Macron, qui serait flou."
     },
-    {
-        "abstractive": {
-            "text": "Elle sous-entend qu’il pourrait avoir un compte offshore au Bahamas, ce que l’intéressé nie."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "J'espère qu'on n'apprendra pas que vous avez un compte offshore aux Bahamas ou je ne sais pas, j'en sais rien moi."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Personne n'a compris les explications que vous avez données sur votre patrimoine, en l'occurrence."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle sous-entend qu’il pourrait avoir un compte offshore au Bahamas, ce que l’intéressé nie."
     },
-    {
-        "abstractive": {
-            "text": "Macron continue en rappelant les menaces permanentes du FN à l’égard des juges et des fonctionnaires."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Vous avez menacé les fonctionnaires, vous dites, en permanence du mal des juges, dès qu'ils ne vous arrangent pas, vous êtes, par ces propos, pas digne d'êtres, demain, garante des institutions parce que vous les menacez."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "J'espère qu'on n'apprendra pas que vous avez un compte offshore aux Bahamas ou je ne sais pas, j'en sais rien moi."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron continue en rappelant les menaces permanentes du FN à l’égard des juges et des fonctionnaires."
     },
-    {
-        "abstractive": {
-            "text": "Mais Marine affirme au contraire bien connaître les fonctionnaire ; elle explique cependant que les juges peuvent être orientés idéologiquement, en faveur de Macron et à son détriment."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je connais très bien la manière dont, parfois, des fonctionnaires, on leur demande des choses qui ne sont pas admissibles et on leur demande des choses qu'ils sont obligés de faire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Vous avez menacé les fonctionnaires, vous dites, en permanence du mal des juges, dès qu'ils ne vous arrangent pas, vous êtes, par ces propos, pas digne d'êtres, demain, garante des institutions parce que vous les menacez."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Mais Marine affirme au contraire bien connaître les fonctionnaires ; elle explique cependant que les juges peuvent être orientés idéologiquement, en faveur de Emmanuel Macron et à son détriment."
     },
-    {
-        "abstractive": {
-            "text": "Elle précise également son attachement au référendum d’initiative populaire."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Moi je suis pour le référendum d'initiative populaire"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je connais très bien la manière dont, parfois, des fonctionnaires, on leur demande des choses qui ne sont pas admissibles et on leur demande des choses qu'ils sont obligés de faire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle précise également son attachement au référendum d’initiative populaire."
     },
-    {
-        "abstractive": {
-            "text": "Le Pen termine en accusant son adversaire d’être faible face à l’Allemagne, aux syndicats et aux islamistes."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Il y a des magistrats qui sont politisés, cette situation est inadmissible mais ça vous arrange parce qu'ils sont politisés de votre côté."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Vous êtes à plat ventre, en permanence devant l'Allemagne, devant le syndicat de la magistrature, devant l'UOIF, devant les communautaristes, devant les puissances d'argent, devant les banques, à plat ventre."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Moi je suis pour le référendum d'initiative populaire"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen termine en accusant son adversaire d’être faible face à l’Allemagne, aux syndicats et aux islamistes."
     },
-    {
-        "abstractive": {
-            "text": "Pour Macron, le FN pousse lui à la haine et au mensonge ; il distingue cependant le parti de ses électeurs, qu’il respecte"
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Je parlais du parti de l'extrême droite, celui que vous dirigez, le parti de l'extrême droite qui dit des mensonges sur les réseaux sociaux, qui pousse à la haine, qui moleste des journalistes, qui prodigue partout un traitement- la grande brutalité."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais tous vos électeurs je les respecte et je vous le dis, je les respecte parce qu'ils sont en colère, parce qu'ils sont en désarroi."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Il y a des magistrats qui sont politisés, cette situation est inadmissible mais ça vous arrange parce qu'ils sont politisés de votre côté."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Vous êtes à plat ventre, en permanence devant l'Allemagne, devant le syndicat de la magistrature, devant l'UOIF, devant les communautaristes, devant les puissances d'argent, devant les banques, à plat ventre."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Macron, le FN pousse lui à la haine et au mensonge ; il distingue cependant le parti de ses électeurs, qu’il respecte."
+    },
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Je parlais du parti de l'extrême droite, celui que vous dirigez, le parti de l'extrême droite qui dit des mensonges sur les réseaux sociaux, qui pousse à la haine, qui moleste des journalistes, qui prodigue partout un traitement- la grande brutalité."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais tous vos électeurs je les respecte et je vous le dis, je les respecte parce qu'ils sont en colère, parce qu'ils sont en désarroi."
+      }
+    ]
+  }
 ]

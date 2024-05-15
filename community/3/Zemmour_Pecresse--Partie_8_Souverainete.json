@@ -1,128 +1,128 @@
 [
-    {
-        "abstractive": {
-            "text": "Le présentateur part du constat que de nombreux produits essentiels ne sont plus produits en France et qu’il est donc nécessaire de réindustrialiser le pays."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Le covid, la pandémie, l'invasion de l'ukraine, nous ont rappelés à nous Français, à tous les téléspectateurs qui nous regardent, à quel point nous étions dépendants économiquement. Les masques, les semiconducteurs, le doliprane, les pastilles d'iode."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Le présentateur part du constat que de nombreux produits essentiels ne sont plus produits en France et qu’il est donc nécessaire de réindustrialiser le pays."
     },
-    {
-        "abstractive": {
-            "text": "Pécresse entend faire revenir les industries en allégeant leurs charges et en simplifiant les normes."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Avec les économies que je vais faire, je vais pouvoir baisser les impôts de production."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Je vais aussi débureaucratiser les normes."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Non, c'est comme ça qu'on permet à l'industrie, d'avoir beaucoup plus de, de, de facilités, pour se développer."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Le covid, la pandémie, l'invasion de l'ukraine, nous ont rappelés à nous Français, à tous les téléspectateurs qui nous regardent, à quel point nous étions dépendants économiquement. Les masques, les semiconducteurs, le doliprane, les pastilles d'iode."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse entend faire revenir les industries en allégeant leurs charges et en simplifiant les normes."
     },
-    {
-        "abstractive": {
-            "text": "Elle souhaite également élaborer une vraie stratégie d’achat à l’échelle européenne."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Il faut un comité stratégique, et, il faut des fonds d'investissement stratégique."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Avec les économies que je vais faire, je vais pouvoir baisser les impôts de production."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Je vais aussi débureaucratiser les normes."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Non, c'est comme ça qu'on permet à l'industrie, d'avoir beaucoup plus de, de, de facilités, pour se développer."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle souhaite également élaborer une vraie stratégie d’achat à l’échelle européenne."
     },
-    {
-        "abstractive": {
-            "text": "Enfin, Pécresse est favorable à une taxe carbone aux frontières européennes."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Et puis, il faut une taxe carbone aux frontières de l'europe, qui permette, une vraie taxe carbone, qui permettra de protéger, aujourd'hui, nos industries et notre agriculture, qui respecte des normes environnementales beaucoup plus forte que les autres."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Il faut un comité stratégique, et, il faut des fonds d'investissement stratégique."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Enfin, Valérie Pécresse est favorable à une taxe carbone aux frontières européennes."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour fustige sa rivale en l’accusant d’être responsable de la désindustrialisation car trop favorable au libre échange."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "D'abord, je voudrais dire que madame pécresse fait partie de ces élites gouvernementales, puisqu'elle a gouvernée, il y a maintenant quelques années, euh, qui ont bradée l'industrie française, en disant que l'industrie était dépassée, que les services étaient plus important, étaient l'avenir, et que le libre-échange allait tout résoudre."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Et puis, il faut une taxe carbone aux frontières de l'europe, qui permette, une vraie taxe carbone, qui permettra de protéger, aujourd'hui, nos industries et notre agriculture, qui respecte des normes environnementales beaucoup plus forte que les autres."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour fustige sa rivale en l’accusant d’être responsable de la désindustrialisation car trop favorable au libre échange."
     },
-    {
-        "abstractive": {
-            "text": "Il la rejoint néanmoins sur la baisse des charges."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Le la première mesure, c'est effectivement, la baisse des charges, puisque nous sommes beaucoup trop imposés, nos entreprises sont beaucoup trop imposées, et, euh, nous n'arrivons pas à être compétitifs."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "D'abord, je voudrais dire que madame pécresse fait partie de ces élites gouvernementales, puisqu'elle a gouvernée, il y a maintenant quelques années, euh, qui ont bradée l'industrie française, en disant que l'industrie était dépassée, que les services étaient plus important, étaient l'avenir, et que le libre-échange allait tout résoudre."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il la rejoint néanmoins sur la baisse des charges."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour souhaite également mobiliser l’épargne des Français pour obtenir des investissements conséquents et entend aussi créer des zones franches pour l’industrie."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Puisque l'épargne des français est très abondante, je vous propose un fonds souverain, qui pourra investir dans telle ou telle entreprise."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Par ailleurs, je propose également des zones, des zones, euh, de, euh, sans fiscalité, zones franche, dans des, justement, les zones où il y a eu une désindustrialisation importante, comme dans le nord, ou ailleurs."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Le la première mesure, c'est effectivement, la baisse des charges, puisque nous sommes beaucoup trop imposés, nos entreprises sont beaucoup trop imposées, et, euh, nous n'arrivons pas à être compétitifs."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour souhaite également mobiliser l’épargne des Français pour obtenir des investissements conséquents et entend aussi créer des zones franches pour l’industrie."
     },
-    {
-        "abstractive": {
-            "text": "Enfin, Zemmour veut davantage contrôler les investissements étrangers."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Par ailleurs, euh, euh, je pense, que, il nous faut, si vous voulez, contrôler beaucoup mieux les investissements étrangers."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Il y a une loi de prête, donc je dis pas que ça n'existe pas, je dis que bercy ne le fais pas."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Puisque l'épargne des français est très abondante, je vous propose un fonds souverain, qui pourra investir dans telle ou telle entreprise."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Par ailleurs, je propose également des zones, des zones, euh, de, euh, sans fiscalité, zones franche, dans des, justement, les zones où il y a eu une désindustrialisation importante, comme dans le nord, ou ailleurs."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Enfin, Eric Zemmour veut davantage contrôler les investissements étrangers."
     },
-    {
-        "abstractive": {
-            "text": "Pécresse est d’accord avec ça."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Cette mesure figure, évidemment dans mon programme, ça s'appelle le haut conseil économique et numérique."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Par ailleurs, euh, euh, je pense, que, il nous faut, si vous voulez, contrôler beaucoup mieux les investissements étrangers."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Il y a une loi de prête, donc je dis pas que ça n'existe pas, je dis que bercy ne le fais pas."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse est d’accord avec ça."
     },
-    {
-        "abstractive": {
-            "text": "Elle termine en mentionnant l’importance de la recherche et des partenariats public-privés."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Si on veut industrialiser, il faut qu'on mette le paquet sur la recherche, et une recherche partenariale, entre les entreprises et les chercheurs, public privé"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Cette mesure figure, évidemment dans mon programme, ça s'appelle le haut conseil économique et numérique."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle termine en mentionnant l’importance de la recherche et des partenariats public-privés."
+    },
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Si on veut industrialiser, il faut qu'on mette le paquet sur la recherche, et une recherche partenariale, entre les entreprises et les chercheurs, public privé"
+      }
+    ]
+  }
 ]

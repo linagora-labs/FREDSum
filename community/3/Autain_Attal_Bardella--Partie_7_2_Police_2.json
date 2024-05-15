@@ -1,158 +1,158 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Attal, Autain et Bardella continuent d’évoquer la question des forces de l’ordre."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Qu'on soit bien clair, pourquoi la présomption de légitime défense pour les policiers, vous dites non?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Attal, Clémentine Autain et Jordan Bardella continuent d’évoquer la question des forces de l’ordre."
     },
-    {
-        "abstractive": {
-            "text": "Attal explique qu’il est contre la présomption de légitime défense car il faut laisser la justice établir les faits."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "S'il y a légitime défense, vous avez une justice qui est capable d'établir les faits."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Qu'on soit bien clair, pourquoi la présomption de légitime défense pour les policiers, vous dites non?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal explique qu’il est contre la présomption de légitime défense car il faut laisser la justice établir les faits."
     },
-    {
-        "abstractive": {
-            "text": "Pour Bardella ce n’est pas incompatible car la présomption ne se substitue pas à l’enquête judiciaire."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "La présomption de légitime défense, c'est justement un soutien moral."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Ça ne fait pas la présomption de légitime défense, Ça ne fait pas fi de l'enquête."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "S'il y a légitime défense, vous avez une justice qui est capable d'établir les faits."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Jordan Bardella ce n’est pas incompatible car la présomption ne se substitue pas à l’enquête judiciaire."
     },
-    {
-        "abstractive": {
-            "text": "Il souhaite par là soutenir les forces de l’ordre."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Ça veut juste dire que le policier, quand on menace de lui rouler dessus et qu'il est contraint de faire usage de la force, il ne se retrouve pas avec les menottes en garde à vue dans l'heure."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "La présomption de légitime défense, c'est justement un soutien moral."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Ça ne fait pas la présomption de légitime défense, Ça ne fait pas fi de l'enquête."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il souhaite par là soutenir les forces de l’ordre."
     },
-    {
-        "abstractive": {
-            "text": "Il rappelle ensuite que 100 000 peines de prison ne sont pas appliqués et que 25 % de la population carcérale est étrangère et devrait donc être renvoyée chez elle."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Je vous rappelle qu'il y a 25% de détenus dans les prisons alors qu'on n'a plus de place dans les prisons et qu'il y a 100 000 peines de prison qui ne sont pas appliquées chaque année, manque de place, qui sont étrangers."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Cette mesure et ensuite, on supprime les aides sociales aux parents de mineurs récidivistes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Ça veut juste dire que le policier, quand on menace de lui rouler dessus et qu'il est contraint de faire usage de la force, il ne se retrouve pas avec les menottes en garde à vue dans l'heure."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il rappelle ensuite que 100 000 peines de prison ne sont pas appliquées et que 25 % de la population carcérale est étrangère et devrait donc être renvoyée chez elle."
     },
-    {
-        "abstractive": {
-            "text": "Autain pense que le débat exclut la question des violences faites aux femmes qui relève de la sphère privée et ne peut donc être réglée par la surveillance policière."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Monsieur Bardella parlait des femmes, puisque dès qu'il peut faire rentrer la défense des femmes, c’est soit dans ses propos racistes, soit par le biais de sa visée sécuritaire."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Mais la réalité que n'a pas l'air de connaître, c'est que la majorité des agressions sexuelles et des viols à l'encontre des femmes sont intrafamiliales."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Ça nous donne tout un chantier exclu du débat quand on parle de sécurité, qui est la question des violences faites aux femmes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Je vous rappelle qu'il y a 25% de détenus dans les prisons alors qu'on n'a plus de place dans les prisons et qu'il y a 100 000 peines de prison qui ne sont pas appliquées chaque année, manque de place, qui sont étrangers."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Cette mesure et ensuite, on supprime les aides sociales aux parents de mineurs récidivistes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Clémentine Autain pense que le débat exclut la question des violences faites aux femmes qui relève de la sphère privée et ne peut donc être réglée par la surveillance policière."
     },
-    {
-        "abstractive": {
-            "text": "Attal explique qu’un effort a été fait pour former la police sur la question des violences faites aux femmes."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "On forme désormais tous les policiers en école à la question de la libération de la parole, de la prise des dépôts de plainte."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Monsieur Bardella parlait des femmes, puisque dès qu'il peut faire rentrer la défense des femmes, c’est soit dans ses propos racistes, soit par le biais de sa visée sécuritaire."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Mais la réalité que n'a pas l'air de connaître, c'est que la majorité des agressions sexuelles et des viols à l'encontre des femmes sont intrafamiliales."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Ça nous donne tout un chantier exclu du débat quand on parle de sécurité, qui est la question des violences faites aux femmes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal explique qu’un effort a été fait pour former la police sur la question des violences faites aux femmes."
     },
-    {
-        "abstractive": {
-            "text": "Il rappelle que le gouvernement soutient les forces de l’ordre mais Autain explique qu’une partie de la population se défie d’elles."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Ils attendent de nous qu'on les soutienne, qu'on reconnaisse effectivement la difficulté de leur condition de travail."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "On forme désormais tous les policiers en école à la question de la libération de la parole, de la prise des dépôts de plainte."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il rappelle que le gouvernement soutient les forces de l’ordre mais Clémentine Autain explique qu’une partie de la population se défie d’elles."
     },
-    {
-        "abstractive": {
-            "text": "Elle milite donc pour une police de proximité afin de rétablir la confiance dans les quartiers."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Je pense qu'il y a un lien de défiance entre la population et la police aujourd'hui et qu'il y a quelque chose qui ne tourne pas rond et qu'il faut renouer un lien de confiance."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Je plaide pour cette police de proximité et pour que les relations soient différentes, notamment dans les quartiers populaires."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Ils attendent de nous qu'on les soutienne, qu'on reconnaisse effectivement la difficulté de leur condition de travail."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle milite donc pour une police de proximité afin de rétablir la confiance dans les quartiers."
     },
-    {
-        "abstractive": {
-            "text": "Bardella pense qu’il faut construire des places de prison en plus et expulser les délinquants étrangers."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Sur la sécurité, oui ou non, faut-il construire en France plus de places de prison?"
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Oui, mais on peut faire de la place dès demain en expulsant les délinquants étrangers qui sont dans les prisons?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Je pense qu'il y a un lien de défiance entre la population et la police aujourd'hui et qu'il y a quelque chose qui ne tourne pas rond et qu'il faut renouer un lien de confiance."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Je plaide pour cette police de proximité et pour que les relations soient différentes, notamment dans les quartiers populaires."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella pense qu’il faut construire des places de prison en plus et expulser les délinquants étrangers."
     },
-    {
-        "abstractive": {
-            "text": "Autain estime de son côté qu’il faut développer les peines alternatives."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Je pense qu'il y a des alternatives pour un certain nombre de peines possibles."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Sur la sécurité, oui ou non, faut-il construire en France plus de places de prison?"
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Oui, mais on peut faire de la place dès demain en expulsant les délinquants étrangers qui sont dans les prisons?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Clémentine Autain estime de son côté qu’il faut développer les peines alternatives."
     },
-    {
-        "abstractive": {
-            "text": "Attal termine en rappelant l’effort du gouvernement dans la construction de nouvelles prisons et rejoint Autain sur les peines alternatives."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Oui, on a engagé un plan de 15 000 créations de places de prison, 8 000 qui ont été livrées dans le quinquennat qui vient de s'écouler, 7 000 qui sont programmées qui seront livrées prochainement."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Je pense qu'il y a des alternatives pour un certain nombre de peines possibles."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal termine en rappelant l’effort du gouvernement dans la construction de nouvelles prisons et rejoint Clémentine Autain sur les peines alternatives."
+    },
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Oui, on a engagé un plan de 15 000 créations de places de prison, 8 000 qui ont été livrées dans le quinquennat qui vient de s'écouler, 7 000 qui sont programmées qui seront livrées prochainement."
+      }
+    ]
+  }
 ]

@@ -1,124 +1,124 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Autain, Attal, Bardella et Ciotti débattent de la question de la pénibilité dans le cadre du débat sur les retraites. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Ensuite, sur la pénibilité qui doit être prise en compte, parce que pour les métiers les plus difficiles, c'est, je comprends l'inquiétude, la crainte de partir plus tard, mais on constate qu'à peu près 40% ou quasiment la moitié des métiers pénibles aujourd'hui, sont portés par des salariés qui ont commencé le plus tôt."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Autain, Attal, Jordan Bardella et Eric Ciotti débattent de la question de la pénibilité dans le cadre du débat sur les retraites."
     },
-    {
-        "abstractive": {
-            "text": "Ciotti commence par rappeler que la pénibilité concerne surtout les carrières longues, c’est pourquoi les personnes ayant commencé à travailler tôt doivent pouvoir partir à la retraite avant. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Donc, on rejoint le débat sur les carrières longues, d'où notre volonté aux républicains d'avoir, dans nos demandes très fortes, nos exigences même auprès du gouvernement, souhaiter que ceux qui ont commencé à travailler le plus tôt, notamment de 16 à 20 ans, voire 21 ans, puissent ne pas subir de façon plus lourde cette réforme."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Ensuite, sur la pénibilité qui doit être prise en compte, parce que pour les métiers les plus difficiles, c'est, je comprends l'inquiétude, la crainte de partir plus tard, mais on constate qu'à peu près 40% ou quasiment la moitié des métiers pénibles aujourd'hui, sont portés par des salariés qui ont commencé le plus tôt."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti commence par rappeler que la pénibilité concerne surtout les carrières longues, c’est pourquoi les personnes ayant commencé à travailler tôt doivent pouvoir partir à la retraite avant."
     },
-    {
-        "abstractive": {
-            "text": "Attal explique de son côté que les dépenses destinées à réduire la pénibilité vont passer de 40 à 200 millions. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Aujourd'hui, on dépense 40 millions d'euros par an pour réduire les conditions de pénibilité au travail, on va passer à 200 millions d'euros par an."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "On se met autour de la table avec les syndicats, ils regardent secteur par secteur, et au sein de ces secteurs, quelles sont les métiers les plus pénibles et quelles sont les équipements dont il y a besoin."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Donc, on rejoint le débat sur les carrières longues, d'où notre volonté aux républicains d'avoir, dans nos demandes très fortes, nos exigences même auprès du gouvernement, souhaiter que ceux qui ont commencé à travailler le plus tôt, notamment de 16 à 20 ans, voire 21 ans, puissent ne pas subir de façon plus lourde cette réforme."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal explique de son côté que les dépenses destinées à réduire la pénibilité vont passer de 40 à 200 millions."
     },
-    {
-        "abstractive": {
-            "text": "Pour la pénibilité, il entend regarder secteur par secteur ; il refuse que les personnes ayant travaillé tôt ou ayant un métier pénible partent à 64 ans. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Ensuite, on propose un système précisément pour que des gens qui ont eu un métier pénible qui ont commencé à travailler tôt, évidemment n'aillent pas jusqu'à 64 ans."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Aujourd'hui, on dépense 40 millions d'euros par an pour réduire les conditions de pénibilité au travail, on va passer à 200 millions d'euros par an."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "On se met autour de la table avec les syndicats, ils regardent secteur par secteur, et au sein de ces secteurs, quelles sont les métiers les plus pénibles et quelles sont les équipements dont il y a besoin."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour la pénibilité, il entend regarder secteur par secteur ; il refuse que les personnes ayant travaillé tôt ou ayant un métier pénible partent à 64 ans."
     },
-    {
-        "abstractive": {
-            "text": "Il attaque également le Rassemblement National, lequel a souhaité supprimer le compte pénibilité. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "La deuxième chose, c'est qu'évidemment, qu'il y aura aussi ce système d'évaluation avec deux visites médicales obligatoires, une à 45 ans, une à 61 ans, pour permettre à davantage de Français de partir plus tôt sur le compte pénibilité, on élargit les critères qui existent aujourd'hui."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Jordan Bardella, son groupe au Parlement, à l'Assemblée nationale, a proposé pendant la campagne présidentielle, de supprimer le compte pénibilité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Ensuite, on propose un système précisément pour que des gens qui ont eu un métier pénible qui ont commencé à travailler tôt, évidemment n'aillent pas jusqu'à 64 ans."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il attaque également le Rassemblement National, lequel a souhaité supprimer le compte pénibilité."
     },
-    {
-        "abstractive": {
-            "text": "Bardella affirme être favorable à la clause du grand-père concernant la question des régimes spéciaux,  question sur laquelle il est attaqué par Attal. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Non, mais sur les régimes spéciaux, c'est très simple, je suis pour la clause du grand-père."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Les policiers, vont-ils devoir, oui ou non, travailler plus longtemps?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "La deuxième chose, c'est qu'évidemment, qu'il y aura aussi ce système d'évaluation avec deux visites médicales obligatoires, une à 45 ans, une à 61 ans, pour permettre à davantage de Français de partir plus tôt sur le compte pénibilité, on élargit les critères qui existent aujourd'hui."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Jordan Bardella, son groupe au Parlement, à l'Assemblée nationale, a proposé pendant la campagne présidentielle, de supprimer le compte pénibilité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella affirme être favorable à la clause du grand-père concernant la question des régimes spéciaux, question sur laquelle il est attaqué par Attal."
     },
-    {
-        "abstractive": {
-            "text": "Ce dernier concède que les policiers devront avec la réforme travailler plus longtemps. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Comme les douaniers, comme d'autres professions, ils devront travailler deux ans de plus."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Non, mais sur les régimes spéciaux, c'est très simple, je suis pour la clause du grand-père."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Les policiers, vont-ils devoir, oui ou non, travailler plus longtemps?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ce dernier concède que les policiers devront avec la réforme travailler plus longtemps."
     },
-    {
-        "abstractive": {
-            "text": "Il revient alors sur les régimes spéciaux pour pointer l’inégalité de traitement actuelle entre un chauffeur de bus et un agent de la RATP. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Parce qu'il est parisien, un chaufeur de bus parisien doit partir à la retraite 10 ans avant un chauffeur de bus de province."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Comme les douaniers, comme d'autres professions, ils devront travailler deux ans de plus."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il revient alors sur les régimes spéciaux pour pointer l’inégalité de traitement actuelle entre un chauffeur de bus et un agent de la RATP."
     },
-    {
-        "abstractive": {
-            "text": "Bardella défend cette différence dans la mesure où l’on peine à recruter du personnel RATP. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Je vous dis que vous vous attaquez à des professions où on a déjà énormément de mal à recruter."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Parce qu'il est parisien, un chaufeur de bus parisien doit partir à la retraite 10 ans avant un chauffeur de bus de province."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella défend cette différence dans la mesure où l’on peine à recruter du personnel RATP."
     },
-    {
-        "abstractive": {
-            "text": "Il critique ensuite le compte pénibilité, véritable usine à gaz. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Donc il y a des difficultés à prendre en compte ces différents critères de pénibilité."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Je vous dis que vous vous attaquez à des professions où on a déjà énormément de mal à recruter."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il critique ensuite le compte pénibilité, véritable usine à gaz."
+    },
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Donc il y a des difficultés à prendre en compte ces différents critères de pénibilité."
+      }
+    ]
+  }
 ]

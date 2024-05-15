@@ -1,76 +1,76 @@
 [
-    {
-        "abstractive": {
-            "text": "Le présentateur commence par rappeler le développement du port de tenues religieuses à l’école."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Une question encore sur l'éducation, question qui revenait à l'une de l'actualité cette semaine, avec une alerte lancée par plusieurs acteurs de l'éducation nationale et qui concerne certains établissements dans lesquels sont apparus ces derniers temps de plus en plus de tenues à caractère religieuse."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Le présentateur commence par rappeler le développement du port de tenues religieuses à l’école."
     },
-    {
-        "abstractive": {
-            "text": "Bardella fustige alors la France insoumise, qui se targue d’être féministe mais défend le burkini à la piscine."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "C'est-ce que défend les féministes de la France insoumise qui ne trouve pas de problème à défendre le burkini plutôt que de parler de pouvoir d'achat lors des élections législatives, par exemple."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Une question encore sur l'éducation, question qui revenait à l'une de l'actualité cette semaine, avec une alerte lancée par plusieurs acteurs de l'éducation nationale et qui concerne certains établissements dans lesquels sont apparus ces derniers temps de plus en plus de tenues à caractère religieuse."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella fustige alors la France insoumise, qui se targue d’être féministe mais défend le burkini à la piscine."
     },
-    {
-        "abstractive": {
-            "text": "Autain lui répond en expliquant que l’extrême droite est mal placée pour discuter de la question féministe."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Non, mais. C'est quand même extraordinaire d'entendre l'extrême droite qui, à peu près, sur tout sujet globalement qui concerne les droits des femmes, toujours sur les positions ultra conservatrices, pour ne pas dire rétrograde, et qui est là, en train de me faire des leçons de féminisme."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Est-ce qu'on parle des signes religieux à l'école?"
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Il me semble que ce sont des questions qui sont déjà tranchées par la loi dans l’état dans lequel nous sommes"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "C'est-ce que défend les féministes de la France insoumise qui ne trouve pas de problème à défendre le burkini plutôt que de parler de pouvoir d'achat lors des élections législatives, par exemple."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Clémentine Autain lui répond en expliquant que l’extrême droite est mal placée pour discuter de la question féministe."
     },
-    {
-        "abstractive": {
-            "text": "Pour Bardella c’est une manière d’éviter le débat alors que pour, Autain, des lois existent déjà pour statuer sur les signes religieux à l’école."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Quand vous avez une démographie dont le compte à rebour est déclenché, quand vous accueillez des centaines de milliers de personnes chaque année dans votre pays, ces personnes-là viennent aussi avec leurs mœurs, leur coutume, leur mode de vie."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Non, mais. C'est quand même extraordinaire d'entendre l'extrême droite qui, à peu près, sur tout sujet globalement qui concerne les droits des femmes, toujours sur les positions ultra conservatrices, pour ne pas dire rétrograde, et qui est là, en train de me faire des leçons de féminisme."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Est-ce qu'on parle des signes religieux à l'école?"
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Il me semble que ce sont des questions qui sont déjà tranchées par la loi dans l’état dans lequel nous sommes"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Jordan Bardella c’est une manière d’éviter le débat alors que pour, Autain, des lois existent déjà pour statuer sur les signes religieux à l’école."
     },
-    {
-        "abstractive": {
-            "text": "Il rappelle ensuite que la gauche s’est compromise avec les islamistes."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Moi, je pense que la gauche et l'extrême gauche s’est compromis avec les islamistes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Quand vous avez une démographie dont le compte à rebour est déclenché, quand vous accueillez des centaines de milliers de personnes chaque année dans votre pays, ces personnes-là viennent aussi avec leurs mœurs, leur coutume, leur mode de vie."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il rappelle ensuite que la gauche s’est compromise avec les islamistes."
     },
-    {
-        "abstractive": {
-            "text": "Attal de son côté défend l’action de Jean-Michel Blanquer qui a eu le mérite de mettre en place un système de signalements concernant les atteintes à la République et qui a clairement posé le sujet de la laïcité sur la table"
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Une des premières choses qu'a fait Jean-Michel Blanquer, après sa nomination à l'éducation nationale, ça a été de mettre en place une remontée systématique de tous les signalements de ce type d'atteinte à la République et à la laïcité, et de mettre en place un système avec des équipes formées pour réagir face à ces situations, dans chaque rectorat, pour se déplacer dans les établissements scolaires pour trouver des solutions avec les familles"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Moi, je pense que la gauche et l'extrême gauche s’est compromis avec les islamistes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal de son côté défend l’action de Jean-Michel Blanquer qui a eu le mérite de mettre en place un système de signalements concernant les atteintes à la République et qui a clairement posé le sujet de la laïcité sur la table."
+    },
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Une des premières choses qu'a fait Jean-Michel Blanquer, après sa nomination à l'éducation nationale, ça a été de mettre en place une remontée systématique de tous les signalements de ce type d'atteinte à la République et à la laïcité, et de mettre en place un système avec des équipes formées pour réagir face à ces situations, dans chaque rectorat, pour se déplacer dans les établissements scolaires pour trouver des solutions avec les familles"
+      }
+    ]
+  }
 ]

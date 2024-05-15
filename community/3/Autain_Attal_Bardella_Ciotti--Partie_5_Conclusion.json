@@ -1,124 +1,124 @@
 [
-    {
-        "abstractive": {
-            "text": "Il s’agit de la conclusion du débat sur la réforme des retraites, et chaque participant va résumer sa pensée en quelques mots. "
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Je vais vous demander à tous sa conclusion, Éric Ciotti."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Il s’agit de la conclusion du débat sur la réforme des retraites, et chaque participant va résumer sa pensée en quelques mots."
     },
-    {
-        "abstractive": {
-            "text": "Ciotti se dit favorable à la réforme ; elle vient néanmoins trop tard, ce qui explique son caractère douloureux. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Je crois que c'est une réforme nécessaire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Je vais vous demander à tous sa conclusion, Éric Ciotti."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti se dit favorable à la réforme ; elle vient néanmoins trop tard, ce qui explique son caractère douloureux."
     },
-    {
-        "abstractive": {
-            "text": "Devant l’augmentation du nombre de retraités, elle s’impose comme une nécessité pour le pays. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Elle est trop douloureuse parce qu'elle est trop tardive."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Il y aura 20 millions de retraités en 2035."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Je crois que c'est une réforme nécessaire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Devant l’augmentation du nombre de retraités, elle s’impose comme une nécessité pour le pays."
     },
-    {
-        "abstractive": {
-            "text": "Il termine en évoquant les amendements que son groupe dépose à l’assemblée afin d’atténuer le choc de cette réforme. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "nous avons des amendements que nous avons déposés avec Olivier Marlex, avec les 62 députés du groupe des Républicains."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Elle est trop douloureuse parce qu'elle est trop tardive."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Il y aura 20 millions de retraités en 2035."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il termine en évoquant les amendements que son groupe dépose à l’assemblée afin d’atténuer le choc de cette réforme."
     },
-    {
-        "abstractive": {
-            "text": "Attal estime que la réforme permettra de conserver le système ; elle évite d’avoir recours à une hausse d’impôt généralisée pour financer les pensions. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Ce qu'on souhaite, encore une fois, c'est que le système nous permet de continuer à payer la pension des retraités."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Mais on propose une réforme qui, sans augmenter les impôts, va nous permettre de garantir qu'on pourra continuer à payer les pensions de retraite dans les années à venir."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "nous avons des amendements que nous avons déposés avec Olivier Marlex, avec les 62 députés du groupe des Républicains."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal estime que la réforme permettra de conserver le système ; elle évite d’avoir recours à une hausse d’impôt généralisée pour financer les pensions."
     },
-    {
-        "abstractive": {
-            "text": "Bardella évoque la défiance massive des Français à l’égard de cette réforme. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Il y a une majorité de refus aujourd'hui qui s'est constituée dans le pays."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Je dis aux Français, il y a une bataille importante qui est en train, en ce moment même, de s'engager à l'assemblée nationale."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Ce qu'on souhaite, encore une fois, c'est que le système nous permet de continuer à payer la pension des retraités."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Mais on propose une réforme qui, sans augmenter les impôts, va nous permettre de garantir qu'on pourra continuer à payer les pensions de retraite dans les années à venir."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella évoque la défiance massive des Français à l’égard de cette réforme."
     },
-    {
-        "abstractive": {
-            "text": "Il attaque ensuite la nupes, responsable du blocage politique alors que la bataille doit impérativement avoir lieu à l’assemblée nationale. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "La nupes a fait le choix de bloquer."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Il y a une majorité de refus aujourd'hui qui s'est constituée dans le pays."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Je dis aux Français, il y a une bataille importante qui est en train, en ce moment même, de s'engager à l'assemblée nationale."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il attaque ensuite la nupes, responsable du blocage politique alors que la bataille doit impérativement avoir lieu à l'Assemblée nationale."
     },
-    {
-        "abstractive": {
-            "text": "Il regrette enfin que l’emploi et la démographie n’aient pas été évoqués par le gouvernement. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "On abandonne la démographie, on abandonne l'emploi."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "La nupes a fait le choix de bloquer."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il regrette enfin que l’emploi et la démographie n’aient pas été évoqués par le gouvernement."
     },
-    {
-        "abstractive": {
-            "text": "Pour terminer, Autain juge que le débat a été satisfaisant, dans la mesure où il a pu susciter de la colère et donc de la mobilisation. "
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Et je pense que une soirée comme ce soir, elle contribue à la mobilisation parce que je pense qu'elle génère beaucoup de colère."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "On abandonne la démographie, on abandonne l'emploi."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour terminer, Clémentine Autain juge que le débat a été satisfaisant, dans la mesure où il a pu susciter de la colère et donc de la mobilisation."
     },
-    {
-        "abstractive": {
-            "text": "Elle appelle à mener le combat non seulement dans la rue, mais aussi au Parlement."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Donc le rendez-vous, c'est mardi dans la rue, c'est samedi dans la rue, nous mènerons la bataille au Parlement"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Et je pense que une soirée comme ce soir, elle contribue à la mobilisation parce que je pense qu'elle génère beaucoup de colère."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle appelle à mener le combat non seulement dans la rue, mais aussi au Parlement."
+    },
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Donc le rendez-vous, c'est mardi dans la rue, c'est samedi dans la rue, nous mènerons la bataille au Parlement"
+      }
+    ]
+  }
 ]

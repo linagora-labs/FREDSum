@@ -1,229 +1,229 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Mélenchon et Zemmour discutent des questions liées à la violence et à l’insécurité."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Votre, dans votre programme sur ce sur ce sujet-là dans votre programme sur ce sujet là jean-luc mélenchon, euh je vous le dit pourquoi est-ce que la violence augmente ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Jean Luc Mélenchon et Eric Zemmour discutent des questions liées à la violence et à l’insécurité."
     },
-    {
-        "abstractive": {
-            "text": "Mélenchon relie avant tout l’insécurité à la pauvreté et à la déliquescence de l’école publique."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "J’ai dit vous avez bien raison que euh je n'adhérait pas à l'adhésion extravagante d’une insécurité cauchemardesques dans le pays où il y a de la sécurité, et je vous annonce qu'il y en aura toujours plus à mesure qu'il y aura toujours plus de misère, et plus de désagrégation de l'école publique."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Votre, dans votre programme sur ce sur ce sujet-là dans votre programme sur ce sujet là jean-luc mélenchon, euh je vous le dit pourquoi est-ce que la violence augmente ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon relie avant tout l’insécurité à la pauvreté et à la déliquescence de l’école publique."
     },
-    {
-        "abstractive": {
-            "text": "Il relativise la criminalité, responsable de moins de décès que les accidents du travail ; si l’on désire la réduire, il faut d’abord dissoudre la BAC et la BRAV afin d’obtenir le consentement du peuple à l’autorité."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Les gens qui meurent des accidents du travail, c’est une fois virgule deux plus."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Je suis donc pour la dissolution des bacs, qui regroupent sept mille policiers alors qu'il n'y en a que cinq mille pour la police judiciaire, je suis pour la dissolution des braves, qui sont des motos qui circulent avec quelqu'un qui tape sur les jantes derrière."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Je suis donc pour la dissolution des bacs, qui regroupent sept mille policiers alors qu'il n'y en a que cinq mille pour la police judiciaire, je suis pour la dissolution des braves, qui sont des motos qui circulent avec quelqu'un qui tape sur les jantes derrière."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Tant que ça n'est pas réglé, aucun corps monsieur zemmour, aucune autorité, dans une république n'a de valeur sans le consentement du peuple."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "J’ai dit vous avez bien raison que euh je n'adhérait pas à l'adhésion extravagante d’une insécurité cauchemardesques dans le pays où il y a de la sécurité, et je vous annonce qu'il y en aura toujours plus à mesure qu'il y aura toujours plus de misère, et plus de désagrégation de l'école publique."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il relativise la criminalité, responsable de moins de décès que les accidents du travail ; si l’on désire la réduire, il faut d’abord dissoudre la BAC et la BRAV afin d’obtenir le consentement du peuple à l’autorité."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour insiste lui sur l’explosion de la délinquance, avant de mentionner l’origine des criminels : en 2020 dans les données de la police, à l’exception de corses, aucun nom n’était Français."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Dans les années soixante, il y avait quinze crimes et délits pour mille habitants, aujourd'hui il y en a soixante pour mille habitants."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Données de la police et de la gendarmerie sur la liste des bandes délinquantes; à part les corses de marseille, il n y a pas un nom français aujourd'hui."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Les gens qui meurent des accidents du travail, c’est une fois virgule deux plus."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Je suis donc pour la dissolution des bacs, qui regroupent sept mille policiers alors qu'il n'y en a que cinq mille pour la police judiciaire, je suis pour la dissolution des braves, qui sont des motos qui circulent avec quelqu'un qui tape sur les jantes derrière."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Je suis donc pour la dissolution des bacs, qui regroupent sept mille policiers alors qu'il n'y en a que cinq mille pour la police judiciaire, je suis pour la dissolution des braves, qui sont des motos qui circulent avec quelqu'un qui tape sur les jantes derrière."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Tant que ça n'est pas réglé, aucun corps monsieur zemmour, aucune autorité, dans une république n'a de valeur sans le consentement du peuple."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour insiste lui sur l’explosion de la délinquance, avant de mentionner l’origine des criminels : en 2020 dans les données de la police, à l’exception de Corses, aucun nom n’était Français."
     },
-    {
-        "abstractive": {
-            "text": "Raisonnement spécieux pour Mélenchon : il n’y a pas de nom français en soi."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Qu'est ce qu'un nom français ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Dans les années soixante, il y avait quinze crimes et délits pour mille habitants, aujourd'hui il y en a soixante pour mille habitants."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Données de la police et de la gendarmerie sur la liste des bandes délinquantes; à part les corses de marseille, il n y a pas un nom français aujourd'hui."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Raisonnement spécieux pour Mélenchon : il n’y a pas de nom français en soi."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour poursuit : vingt-cinq pour cent des détenus sont étrangers."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Vous savez combien d'étrangers dans les prisons françaises, vingt-cinq pour cent !"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Qu'est ce qu'un nom français ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour poursuit : vingt-cinq pour cent des détenus sont étrangers."
     },
-    {
-        "abstractive": {
-            "text": "La criminalité n’a pas de rapport avec la pauvreté ; elle est en réalité devenue une composante du djihad, même si tous les musulmans ne sont pas des délinquants."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Vous êtes en train de dire que la misère n'a aucun impact sur la délinquance."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Non non parce que y a des gens pauvres qui ne sont pas des délinquants !"
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Tout ça n'a aucun rapport avec la pauvreté je suis désolé, pour moi la délinquance que nous vivons n'est pas une délinquance, c'est un jihad, voila."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je vous signale que vous ne me laissez pas parler monsieur mélenchon, mais je vais vous dire, il y a heureusement des millions de musulmans qui ne sont pas délinquants."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Vous savez combien d'étrangers dans les prisons françaises, vingt-cinq pour cent !"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "La criminalité n’a pas de rapport avec la pauvreté ; elle est en réalité devenue une composante du djihad, même si tous les musulmans ne sont pas des délinquants."
     },
-    {
-        "abstractive": {
-            "text": "Il s’indigne alors des propos de Mélenchon sur la police."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Vous accusez les policiers, en vérité, euh d'être des des des pousse-au-crime, d'être criminogène, d'être agressifs, et d'être raciste."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Vous êtes en train de dire que la misère n'a aucun impact sur la délinquance."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Non non parce que y a des gens pauvres qui ne sont pas des délinquants !"
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Tout ça n'a aucun rapport avec la pauvreté je suis désolé, pour moi la délinquance que nous vivons n'est pas une délinquance, c'est un jihad, voila."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je vous signale que vous ne me laissez pas parler monsieur mélenchon, mais je vais vous dire, il y a heureusement des millions de musulmans qui ne sont pas délinquants."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il s’indigne alors des propos de Jean Luc Mélenchon sur la police."
     },
-    {
-        "abstractive": {
-            "text": "Ce dernier précise qu’il ne croit pas la police raciste en soi ; simplement, certains de ses membres le sont."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Euh non j’ai pas dit ça, il y a des raciste dans la police mais j’ai pas dit que la police était raciste."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Vous accusez les policiers, en vérité, euh d'être des des des pousse-au-crime, d'être criminogène, d'être agressifs, et d'être raciste."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ce dernier précise qu’il ne croit pas la police raciste en soi ; simplement, certains de ses membres le sont."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour prend leur défense car ce sont eux les véritables victimes."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Ils sont agressés, ils sont euh on leur tend des guet-apens en permanence, ils sont euh insultés, on leur jette des cocktails molotov dans leur voiture pour les brûler comme des poulets."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Euh non j’ai pas dit ça, il y a des raciste dans la police mais j’ai pas dit que la police était raciste."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour prend leur défense car ce sont eux les véritables victimes."
     },
-    {
-        "abstractive": {
-            "text": "Pour Mélenchon, les violences dont ils peuvent être la cible ne sont que les conséquences de la rupture consommée entre eux et la population."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Il faut qu'ils soient en phase avec la population !"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Ils sont agressés, ils sont euh on leur tend des guet-apens en permanence, ils sont euh insultés, on leur jette des cocktails molotov dans leur voiture pour les brûler comme des poulets."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Mélenchon, les violences dont ils peuvent être la cible ne sont que les conséquences de la rupture consommée entre eux et la population."
     },
-    {
-        "abstractive": {
-            "text": "Or, seuls les habitants des quartiers islamisés ne sont pas en phase avec la police selon Zemmour."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Mais monsieur mélenchon ils sont en phase avec la population."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Ils ne sont pas en phase avec la population des quartiers islamisés."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Il faut qu'ils soient en phase avec la population !"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Or, seuls les habitants des quartiers islamisés ne sont pas en phase avec la police selon Zemmour."
     },
-    {
-        "abstractive": {
-            "text": "En réponse, Mélenchon l’accuse d’encourager la guerre civile."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Je suis partisan d'une police de proximité, je suis partisan du fait que les policiers soient mieux formés, je suis partisan du fait qu'on casse la racine même d'al qaida, c'est-à-dire le trafic d'armes, le trafic de drogue, le trafic d'êtres humains."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Vous poussez les gens à l'affrontement, à la guerre civile, ça n'a aucun sens !"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Mais monsieur mélenchon ils sont en phase avec la population."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Ils ne sont pas en phase avec la population des quartiers islamisés."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "En réponse, Jean Luc Mélenchon l’accuse d’encourager la guerre civile."
     },
-    {
-        "abstractive": {
-            "text": "Au contraire, Zemmour estime tout faire pour l’empêcher, notamment grâce à son programme (expulsion des étrangers des prisons, déchéance de nationalité des binationaux responsables de crimes et délits)."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Au contraire, je pense que nous éviterons la guerre civile que si nous prenons des mesures drastiques."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Par exemple, expulsion des étrangers des prisons, par exemple déchéance de nationalité de tous les bi-nationaux qui font des crimes et délits, et pour en plus après les expulser."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Je suis partisan d'une police de proximité, je suis partisan du fait que les policiers soient mieux formés, je suis partisan du fait qu'on casse la racine même d'al qaida, c'est-à-dire le trafic d'armes, le trafic de drogue, le trafic d'êtres humains."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Vous poussez les gens à l'affrontement, à la guerre civile, ça n'a aucun sens !"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Au contraire, Eric Zemmour estime tout faire pour l’empêcher, notamment grâce à son programme (expulsion des étrangers des prisons, déchéance de nationalité des binationaux responsables de crimes et délits)."
     },
-    {
-        "abstractive": {
-            "text": "Il termine en regrettant l’ancien Mélenchon, républicain intransigeant, amoureux de la laïcité opposé au voile."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Vous disiez vous-même monsieur mélenchon, jadis, l'autre mélenchon, que le voile islamique était une auto stigmatisation, que elle se mettait un stigmate, et après elle se plaignaient du stigmate."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Au contraire, je pense que nous éviterons la guerre civile que si nous prenons des mesures drastiques."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Par exemple, expulsion des étrangers des prisons, par exemple déchéance de nationalité de tous les bi-nationaux qui font des crimes et délits, et pour en plus après les expulser."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il termine en regrettant l’ancien Mélenchon, républicain intransigeant, amoureux de la laïcité opposé au voile."
     },
-    {
-        "abstractive": {
-            "text": "Mélenchon défend son opposition à la burka, mais il ne souhaite pas que la République légifère sur les tenues des femmes."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "J'ai été contre ce qu'on appelait la burqa, le voile, j'étais, j'étais, pour qu'on interdise ça bien sûr."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Vous disiez vous-même monsieur mélenchon, jadis, l'autre mélenchon, que le voile islamique était une auto stigmatisation, que elle se mettait un stigmate, et après elle se plaignaient du stigmate."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon défend son opposition à la burka, mais il ne souhaite pas que la République légifère sur les tenues des femmes."
     },
-    {
-        "abstractive": {
-            "text": "Pour conclure, Mélenchon pense que la violence qui peut exister en banlieue est une réaction au comportement des policiers, ainsi que le fruit de la pauvreté ; quant à Zemmour, il explique directement cette violence par l’immigration et le conflit culturel qu’elle engendre."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Mais je ne suis pas pour autant je ne suis pas d'accord pour aller faire comme vous le proposez, la police des tenues des femmes"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "J'ai été contre ce qu'on appelait la burqa, le voile, j'étais, j'étais, pour qu'on interdise ça bien sûr."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour conclure, Jean Luc Mélenchon pense que la violence qui peut exister en banlieue est une réaction au comportement des policiers, ainsi que le fruit de la pauvreté ; quant à Zemmour, il explique directement cette violence par l’immigration et le conflit culturel qu’elle engendre."
+    },
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Mais je ne suis pas pour autant je ne suis pas d'accord pour aller faire comme vous le proposez, la police des tenues des femmes"
+      }
+    ]
+  }
 ]

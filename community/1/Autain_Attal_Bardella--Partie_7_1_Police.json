@@ -1,172 +1,160 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Gabriel Attal, Clémentine Autain et Jordan Bardella discutent de la présomption de légitime défense pour les policiers, c'est-à-dire la croyance selon laquelle les policiers sont censés agir en légitime défense lorsqu'ils font usage de la force."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Qu'on soit bien clair, pourquoi la présomption de légitime défense pour les policiers, vous dites non?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Clémentine Autain, Gabriel Attal et Jordan Bardella discutent de la situation de la police française."
     },
-    {
-        "abstractive": {
-            "text": "Gabriel Attal explique que les policiers doivent être soutenu, et qu'en cas de légitime défense, la justice établis les faits."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "S'il y a légitime défense, vous avez une justice qui est capable d'établir les faits."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Gabriel Attal, est-ce que notre police est aujourd'hui à la hauteur de ces enjeux?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal commence en expliquant que son gouvernement a augmenté le salaire des policiers, ainsi que renouveler les véhicules de police et des commissariats."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique que pour les policiers, les autorités médiatiques et politiques soutiennes les délinquants, et que la présompion de légitime défense est un soutien moral."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "La présomption de légitime défense, c'est justement un soutien moral."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Et nous, tout ce qu'on a voulu faire ces cinq dernières années, c'est de renforcer leurs moyens, leurs rémunérations, cent euros net en plus par mois, et puis leurs conditions de travail."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "On a, par exemple, renouvelé, je crois entre un tiers et la moitié des véhicules de nos policiers qui sont très contents de voir arriver leurs nouvelles 5008."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "On a rénové 700 commissariats et casernes de gendarmerie qui étaient dans un état de vétusté absolu."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal explique qu'il souhaite doubler la présence policière sur la voie publique, ainsi que créer des brigades de gendarmeries qui seront fléchées sur les campagnes."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique qu'il y a touojurs une enquête avec la présomption de légitime défense, mais que les policiers peuvent se défendre sans passer en garde à vue."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Ça ne fait pas la présomption de légitime défense, Ça ne fait pas fi de l'enquête."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Un, on veut doubler dans les années qui viennent la présence policière sur la voie publique."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Deuxième mesure, on veut créer 200 nouvelles brigades de gendarmerie qui seront fléchées spécifiquement vers nos campagnes et vers les villes moyennes parce qu'ils ne peuvent pas y avoir de zones blanches en matière de sécurité dans notre pays."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal souhaite continuer d'investir dans la justice."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique qu'il faut mettre fin aux remises automatiques de peine, rétablir les peines planchers, et expulser les délinquants et criminels étrangers."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Ça veut juste dire que le policier, quand on menace de lui rouler dessus et qu'il est contraint de faire usage de la force, il ne se retrouve pas avec les menottes en garde à vue dans l'heure."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "On veut aussi agir pour renforcer les moyens de la justice."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "On a augmenté de 30% le budget de la justice sur le quinquennat qui vient de s'écouler, et on veut recruter 8500 personnels de justice en plus dans les années qui viennent pour avoir une justice plus rapide, plus efficace et donc des sanctions prononcées plus efficacement, ce qui est aussi un enjeu éducatif pour un certain nombre de jeunes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique que la police est abandonnée par le gouvernement."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique que 25% des détenus de prisons sont des étrangers, ce qui fait payer les délinquants par la france."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Je vous rappelle qu'il y a 25% de détenus dans les prisons alors qu'on n'a plus de place dans les prisons et qu'il y a 100 000 peines de prison qui ne sont pas appliquées chaque année, manque de place, qui sont étrangers."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Je pense que quand on a un président de la République qui parle de violences policières et qu'on a à son extrême gauche un candidat à l'élection présidentielle, Jean-Luc Mélenchon, qui nous explique que la police tue, je pense que ces propos sont indignes de gens qui sont à la tête de l'État."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Vous abandonnez les policiers lorsque vous refusez de mettre en place la présomption de légitime défense."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella souhaite mettre en place la présomption de légitime défense."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique qu'il y a une carence éducative, et que les aides sociales doivent être supprimées en cas de récidive."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Cette mesure et ensuite, on supprime les aides sociales aux parents de mineurs récidivistes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Donc il faut soutenir la police, il faut la présomption de légitime défense, il faut faire des efforts sur le matériel, vous avez raison, il faut continuer d'en faire, et il faut faire un tournant en matière pénale."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella fait aussi le lien entre l'immigration et la délinquance, et souhaite aider la justice à exécuter les OQTF."
     },
-    {
-        "abstractive": {
-            "text": "Clémentine Autain explique que la majorité des agressions sexuelles sont intrafamiliales, et que la sécurité à la maison n'est pas assurée."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Monsieur Bardella parlait des femmes, puisque dès qu'il peut faire rentrer la défense des femmes, c’est soit dans ses propos racistes, soit par le biais de sa visée sécuritaire."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Mais la réalité que n'a pas l'air de connaître, c'est que la majorité des agressions sexuelles et des viols à l'encontre des femmes sont intrafamiliales."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Vous allez voir, les policiers nous disent, mais on arrête 10, 20, 30, 40, 50 fois les mêmes personnes, ce sont à chaque fois les mêmes qu'on arrête, et bien souvent, des gens qui sont liés à l'immigration."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Donc si on veut lutter contre l'insécurité, lutter contre l'explosion de la violence, il faut arrêter l'immigration à chaque fois des gens qui font l'objet d'une OQTF, qui sont censées être reconduits chez eux, ne le sont pas, et ce grand désordre aujourd'hui crée un sentiment de confusion, de violence de notre société."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Clémentine Autain explique qu'il y a des problèmes de violence policière."
     },
-    {
-        "abstractive": {
-            "text": "Clémentine Autain explique que la lutte contre la violence faite aux femmes n'est pas résolue."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Ça nous donne tout un chantier exclu du débat quand on parle de sécurité, qui est la question des violences faites aux femmes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Donc que des policiers aujourd'hui tuent et justement tuent sans être dans un cadre proportionné de légitime défense est un problème politique majeur."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Donc nous, ce que nous disons, c'est qu'il faut qu'il y ait de la justice que l'impunité cesse et qu'on le regarde en face ce malaise."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Clémentine Autain explique vouloir mettre en place une police de proximité ainsi qu'investir dans la police judiciaire, ainsi que réviser la doctrine du maintien de l'ordre."
     },
-    {
-        "abstractive": {
-            "text": "Gabriel Attal explique que des policiers ont été formés pour la libération de la parole, mais qu'ils doivent être soutenus."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "On forme désormais tous les policiers en école à la question de la libération de la parole, de la prise des dépôts de plainte."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Ils attendent de nous qu'on les soutienne, qu'on reconnaisse effectivement la difficulté de leur condition de travail."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Et nous, ce pour quoi on se bat, c'est pour une police de proximité, et pas une logique de bac, comme c'est le cas aujourd'hui, et pour faire en sorte que la police, elle protège et elle abaisse le niveau de tension et qu'on ne se retrouve pas dans des situations."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Je pense aussi qu'il faut renforcer la police judiciaire."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Il faut investir dans la police de proximité, dans la police judiciaire, et réviser en profondeur la doctrine du maintien de l'ordre, qui est aujourd'hui celle de monsieur Darmanin et de ce gouvernement, qui ne permet pas d'abaisser encore une fois les tensions, mais au contraire de les accroître."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal souhaite recruter 8500 nouveaux policiers."
     },
-    {
-        "abstractive": {
-            "text": "Clémentine Autain explique qu'il est de la responsabilité de l'état de mettre fin à l'impunité."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Je pense qu'il y a un lien de défiance entre la population et la police aujourd'hui et qu'il y a quelque chose qui ne tourne pas rond et qu'il faut renouer un lien de confiance."
-            }
-        ]
-    },
-    {
-        "abstractive": {
-            "text": "Sur les places de prisons, Jordan Bardella veut construire des nouvelles places de prisons, et libérer celles occupées par les délinquants étrangers en les expulsants."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Je plaide pour cette police de proximité et pour que les relations soient différentes, notamment dans les quartiers populaires."
-            },
-            {
-                "speaker": "P1",
-                "text": "Sur la sécurité, oui ou non, faut-il construire en France plus de places de prison?"
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Oui, mais on peut faire de la place dès demain en expulsant les délinquants étrangers qui sont dans les prisons?"
-            }
-        ]
-    },
-    {
-        "abstractive": {
-            "text": "Clémentine Autain ne souhaite pas construire plus de places de prison, et préfère les alternatives pour certaines peines."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Je pense qu'il y a des alternatives pour un certain nombre de peines possibles."
-            }
-        ]
-    },
-    {
-        "abstractive": {
-            "text": "Gabriel Attal souhaite construire des places de prisons, et créer des peines alternatives"
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Oui, on a engagé un plan de 15 000 créations de places de prison, 8 000 qui ont été livrées dans le quinquennat qui vient de s'écouler, 7 000 qui sont programmées qui seront livrées prochainement."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Ils ont besoin aussi que ça suive derrière, notamment avec la justice, et j'ai dit qu'on avait commencé massivement à renforcer les moyens, plus 30% de budgets en 5 ans du ministère de la Justice, c'est du jamais vu dans l'histoire de la République."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Et on va continuer à renforcer massivement avec 8500 recrutements supplémentaires."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "On a fait des choses ces 5 dernières années."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Il y a quand même un exemple, c'est la réforme du Code de justice des mineurs, la fameuse ordonnance de 45, du Général de Gaulle, dont on disait que c'était impossible de la réforme"
+      }
+    ]
+  }
 ]

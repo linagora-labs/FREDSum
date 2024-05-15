@@ -1,136 +1,136 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Olivier Véran et Jordan Bardella discutent de la guerre en Ukraine. "
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Euh est-ce que vous prendrez le risque d'un clash avec l'union européenne alors même que cette guerre continue et peut-être s'intensifie ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Olivier Véran et Jordan Bardella discutent de la guerre en Ukraine."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella commence en condamnant l'agression de l'ukraine par la russie, expliquant avoir réclamé une enquête de l'ONU pour établir les responsabilités. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "D'abord, euh permettez-moi de rappeler que nous avons condamné sans la moindre ambiguïté, sans la moindre ambiguïté, euh l'agression de l'ukraine par la russie."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Nous avons d'ailleurs demandé qu'il y ait, et on est un peu les seuls dans la classe politique parmi l'ensemble des candidats à réclamer une enquête de l'onu pour que les responsabilités soient établies."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Euh est-ce que vous prendrez le risque d'un clash avec l'union européenne alors même que cette guerre continue et peut-être s'intensifie ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella commence en condamnant l'agression de l'Ukraine par la Russie, expliquant avoir réclamé une enquête de l'ONU pour établir les responsabilités."
     },
-    {
-        "abstractive": {
-            "text": "Il faut mettre en place des sanctions, des sanctions qui ne doivent pas impacter le pouvoir d'achat des français. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "euh Y’as des sanctions à prendre sur les gens qui sont au pouvoir aujourd'hui, euh en russie, mais vous savez que nous avons marqué une prudence sur certaines sanctions économiques, je dis bien certaines sanctions économiques, parce que à partir du moment où des sanctions pourrait euh sanctionner plus durement les français, et le pouvoir d'achat des français, et notamment sur les tarifs de l'énergie, que le peuple russe, alors oui là encore nous pensons d'abord au peuple français, et d'abord à ces millions de familles françaises qui aujourd'hui n'arrivent plus à financer leur propre énergie."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "D'abord, euh permettez-moi de rappeler que nous avons condamné sans la moindre ambiguïté, sans la moindre ambiguïté, euh l'agression de l'ukraine par la russie."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Nous avons d'ailleurs demandé qu'il y ait, et on est un peu les seuls dans la classe politique parmi l'ensemble des candidats à réclamer une enquête de l'onu pour que les responsabilités soient établies."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il faut mettre en place des sanctions, des sanctions qui ne doivent pas impacter le pouvoir d'achat des Français."
     },
-    {
-        "abstractive": {
-            "text": "Olivier Véran fustige Jordan Bardella; la france n'a pas d'histoire avec les gens comme Vladimir Poutine. "
-        },
-        "extractive": [
-            {
-                "speaker": "Olivier Véran",
-                "text": "La france n'a pas d'histoire commune avec des gens comme monsieur poutine."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "euh Y’as des sanctions à prendre sur les gens qui sont au pouvoir aujourd'hui, euh en russie, mais vous savez que nous avons marqué une prudence sur certaines sanctions économiques, je dis bien certaines sanctions économiques, parce que à partir du moment où des sanctions pourrait euh sanctionner plus durement les français, et le pouvoir d'achat des français, et notamment sur les tarifs de l'énergie, que le peuple russe, alors oui là encore nous pensons d'abord au peuple français, et d'abord à ces millions de familles françaises qui aujourd'hui n'arrivent plus à financer leur propre énergie."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Olivier Véran fustige Jordan Bardella ; la France n'a pas d'histoire avec les gens comme Vladimir Poutine."
     },
-    {
-        "abstractive": {
-            "text": "Il accuse le rassemblement national de vouloir s'allier avec Vladimir poutine, les deux ayant selon lui une volonté de faire imploser l'union européenne. "
-        },
-        "extractive": [
-            {
-                "speaker": "Olivier Véran",
-                "text": "Je ne vous reproche pas de considérer la russie comme un, un grand pays, je vous reproche de vous allier, de chercher l'alliance à tout prix, à tout crin avec monsieur poutine."
-            },
-            {
-                "speaker": "Olivier Véran",
-                "text": "La question que je me posais, que je me suis souvent posé c'est qu'est-ce qui peut bien lier madame le pen à monsieur poutine."
-            },
-            {
-                "speaker": "Olivier Véran",
-                "text": "Vous me direz peut-être que je me trompe, c'est cette détestation de l'union européenne, et cette volonté de faire imploser l'union européenne."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Olivier Véran",
+        "text": "La france n'a pas d'histoire commune avec des gens comme monsieur poutine."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il accuse le rassemblement national de vouloir s'allier avec Vladimir poutine, les deux ayant selon lui une volonté de faire imploser l'Union européenne."
     },
-    {
-        "abstractive": {
-            "text": "Pour lui, le Rassemblement national veut quitter l'union européenne. "
-        },
-        "extractive": [
-            {
-                "speaker": "Olivier Véran",
-                "text": "Je crois que vous aviez euh y a dix ans de cela à l'époque le front national disait le, le frexit il faut sortir de l'union européenne."
-            },
-            {
-                "speaker": "Olivier Véran",
-                "text": "Donc, on enlève le mot, on garde le contenu y aura le même résultat, mais on l’affiche plus comme tel."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Olivier Véran",
+        "text": "Je ne vous reproche pas de considérer la russie comme un, un grand pays, je vous reproche de vous allier, de chercher l'alliance à tout prix, à tout crin avec monsieur poutine."
+      },
+      {
+        "speaker": "Olivier Véran",
+        "text": "La question que je me posais, que je me suis souvent posé c'est qu'est-ce qui peut bien lier madame le pen à monsieur poutine."
+      },
+      {
+        "speaker": "Olivier Véran",
+        "text": "Vous me direz peut-être que je me trompe, c'est cette détestation de l'union européenne, et cette volonté de faire imploser l'union européenne."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour lui, le Rassemblement national veut quitter l'Union européenne."
     },
-    {
-        "abstractive": {
-            "text": "Il se félicite ensuite des résultats humanitaire de l'UE depuis le début de la guerre en Ukraine, ainsi que de la contribution militaire de la france à destination de l'Ukraine."
-        },
-        "extractive": [
-            {
-                "speaker": "Olivier Véran",
-                "text": "Les résultats d'abord, ce sont des résultats qui sont humanitaires."
-            },
-            {
-                "speaker": "Olivier Véran",
-                "text": "Et puis ensuite on envoie du matériel, matériel humanitaire, sanitaire, matériel militaire."
-            },
-            {
-                "speaker": "Olivier Véran",
-                "text": "La france est le premier pays contributeur de l'union européenne en matière de matériel à destination d'ukraine, et on a ce travail sans relâche de diplomatie, de pression, de sanctions économiques."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Olivier Véran",
+        "text": "Je crois que vous aviez euh y a dix ans de cela à l'époque le front national disait le, le frexit il faut sortir de l'union européenne."
+      },
+      {
+        "speaker": "Olivier Véran",
+        "text": "Donc, on enlève le mot, on garde le contenu y aura le même résultat, mais on l’affiche plus comme tel."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il se félicite ensuite des résultats humanitaires de l'UE depuis le début de la guerre en Ukraine, ainsi que de la contribution militaire de la France à destination de l'Ukraine."
     },
-    {
-        "abstractive": {
-            "text": " Il critique aussi le fait que le rassemblement national n'a pas voté les sanctions à l'égard des russes. "
-        },
-        "extractive": [
-            {
-                "speaker": "Olivier Véran",
-                "text": "Beaucoup de vote de sanction à l'égard des russes n'ont pas été voté par les parlementaires, les eurodéputés du rassemblement national."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Olivier Véran",
+        "text": "Les résultats d'abord, ce sont des résultats qui sont humanitaires."
+      },
+      {
+        "speaker": "Olivier Véran",
+        "text": "Et puis ensuite on envoie du matériel, matériel humanitaire, sanitaire, matériel militaire."
+      },
+      {
+        "speaker": "Olivier Véran",
+        "text": "La france est le premier pays contributeur de l'union européenne en matière de matériel à destination d'ukraine, et on a ce travail sans relâche de diplomatie, de pression, de sanctions économiques."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il critique aussi le fait que le rassemblement national n'a pas voté les sanctions à l'égard des Russes."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella termine en annonçant qu'il faut faire de notre mieux pour ne pas favoriser une alliance entre la russie et la chine. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Demain et après-demain, il faudra distinguer le danger d'aujourd'hui, et le danger d'aujourd'hui c'est incontestablement la russie de vladimir poutine et les atrocités qui sont commises en ukraine et le danger de demain et après-demain et de pousser la russie dans les bras de la chine, comme vous le faites peut-être, soit sur la base d'une morale, ou d'une forme de malveillance, cela pourrait avoir demain des conséquences catastrophiques pour les intérêts français, parce que l'alliance entre la russie et la chine c'est l'alliance de deux monstres géopolitique entre le plus grand pays du monde et le pays le plus peuplé du monde."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Olivier Véran",
+        "text": "Beaucoup de vote de sanction à l'égard des russes n'ont pas été voté par les parlementaires, les eurodéputés du rassemblement national."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella termine en annonçant qu'il faut faire de notre mieux pour ne pas favoriser une alliance entre la Russie et la Chine."
     },
-    {
-        "abstractive": {
-            "text": "Olivier Véran explique qu'il ne faut pas quitter le commandement intégré de l'otan."
-        },
-        "extractive": [
-            {
-                "speaker": "Olivier Véran",
-                "text": "Vouloir quitter le commandement intégré de l'otan, aujourd'hui vouloir quitter l'union européenne, comme vous voulez le faire"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Demain et après-demain, il faudra distinguer le danger d'aujourd'hui, et le danger d'aujourd'hui c'est incontestablement la russie de vladimir poutine et les atrocités qui sont commises en ukraine et le danger de demain et après-demain et de pousser la russie dans les bras de la chine, comme vous le faites peut-être, soit sur la base d'une morale, ou d'une forme de malveillance, cela pourrait avoir demain des conséquences catastrophiques pour les intérêts français, parce que l'alliance entre la russie et la chine c'est l'alliance de deux monstres géopolitique entre le plus grand pays du monde et le pays le plus peuplé du monde."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Olivier Véran explique qu'il ne faut pas quitter le commandement intégré de l'OTAN."
+    },
+    "extractive": [
+      {
+        "speaker": "Olivier Véran",
+        "text": "Vouloir quitter le commandement intégré de l'otan, aujourd'hui vouloir quitter l'union européenne, comme vous voulez le faire"
+      }
+    ]
+  }
 ]

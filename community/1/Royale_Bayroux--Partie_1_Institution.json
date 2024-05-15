@@ -1,111 +1,111 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, François Bayroux et Ségolène Royal discutent des institutions politiques."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Bien, nous allons aborder la première partie de ce débat, la vie politique, les institutions, les libertés publiques et vous savez, j'aime bien les questions directes."
-            },
-            {
-                "speaker": "P1",
-                "text": "Ségolène Royal, est-ce que vous souhaitez franchement ce débat pour récupérer les voix qui se sont portées sur François Bayrou?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, François Bayroux et Ségolène Royal discutent des institutions politiques."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal explique qu'elle souhaite dépasser les partis politiques en créant une sixième république, supprimer les cumuls de mandats, le 49-3, ainsi que l'interdiction de voter des lois si la précédente n'est pas appliquée."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Non, ça n'est pas ma démarche."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Et donc je dépasse aujourd'hui les partis politiques, il n'y a pas entre nous de tractation, de couloir puisque ça se fait en toute transparence entre organisations politiques."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Je veux une nouvelle République, une sixième République, avec un Parlement dans lequel il n'y aura plus de cumul des mandats, la suppression du 49-3, c'est-à-dire la suppression des mécanismes de blocage par l'exécutif, un Parlement qui contrôle réellement l'exécutif, qui contrôle l'application des lois, plus une seule loi ne sera possible si la loi précédente n'est pas appliquée avec les décrets d'applications qui vont avec."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Bien, nous allons aborder la première partie de ce débat, la vie politique, les institutions, les libertés publiques et vous savez, j'aime bien les questions directes."
+      },
+      {
+        "speaker": "P1",
+        "text": "Ségolène Royal, est-ce que vous souhaitez franchement ce débat pour récupérer les voix qui se sont portées sur François Bayrou?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal explique qu'elle souhaite dépasser les partis politiques en créant une sixième république, supprimer les cumuls de mandats, le 49-3, ainsi que l'interdiction de voter des lois si la précédente n'est pas appliquée."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal explique vouloir mettre en place une démocratie participative à l'aide de référendum."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Je veux une démocratie participative nouvelle qui vient donner là aussi un souffle nouveau au fonctionnement des institutions, comme le référendum d'initiative populaire, comme les jurys citoyens."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Non, ça n'est pas ma démarche."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Et donc je dépasse aujourd'hui les partis politiques, il n'y a pas entre nous de tractation, de couloir puisque ça se fait en toute transparence entre organisations politiques."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Je veux une nouvelle République, une sixième République, avec un Parlement dans lequel il n'y aura plus de cumul des mandats, la suppression du 49-3, c'est-à-dire la suppression des mécanismes de blocage par l'exécutif, un Parlement qui contrôle réellement l'exécutif, qui contrôle l'application des lois, plus une seule loi ne sera possible si la loi précédente n'est pas appliquée avec les décrets d'applications qui vont avec."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal explique vouloir mettre en place une démocratie participative à l'aide de référendum."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal souhaite aussi interdire les modifications du code du travail sans avoir eu des concertations avec les partenaires sociaux."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Je veux une démocratie sociale totalement renouvelée, avec notamment un syndicalisme de masse qui va permettre aux partenaires sociaux de discuter avant toute nouvelle loi concernant la réforme du Code du travail, et, enfin, je veux, dans cette réforme des institutions, une nouvelle étape de la régionalisation, parce que je pense que pour lutter contre les gaspillages."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Je veux une démocratie participative nouvelle qui vient donner là aussi un souffle nouveau au fonctionnement des institutions, comme le référendum d'initiative populaire, comme les jurys citoyens."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal souhaite aussi interdire les modifications du code du travail sans avoir eu des concertations avec les partenaires sociaux."
     },
-    {
-        "abstractive": {
-            "text": "François Bayroux s'accorde avec Ségolène Royal, et explique qu'il veut mettre en place un pluralisme en france."
-        },
-        "extractive": [
-            {
-                "speaker": "François Bayrou",
-                "text": "Nous avons à bâtir quelque chose qui n'existe plus depuis des décennies et qui s'appelle le pluralisme."
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "Le problème, c'est qu'en France, depuis des décennies, tous les pouvoirs sont chaque fois entre les mains d'un seul parti, le parti dominant, que ce soit le parti socialiste d’un côté, l'UMP de tout l'autre."
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "Il faut un Parlement qui fait son travail, c'est-à-dire qui récupère des droits qu'il n'a plus, qui, au passage, oblige les parlementaires à faire vraiment leur travail, c'est-à-dire à être présent à l'Assemblée nationale."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Je veux une démocratie sociale totalement renouvelée, avec notamment un syndicalisme de masse qui va permettre aux partenaires sociaux de discuter avant toute nouvelle loi concernant la réforme du Code du travail, et, enfin, je veux, dans cette réforme des institutions, une nouvelle étape de la régionalisation, parce que je pense que pour lutter contre les gaspillages."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Bayroux s'accorde avec Ségolène Royal, et explique qu'il veut mettre en place un pluralisme en France."
     },
-    {
-        "abstractive": {
-            "text": "François Bayroux explique vouloir mettre en place la propotionnalité pour les élections législatives"
-        },
-        "extractive": [
-            {
-                "speaker": "François Bayrou",
-                "text": "Et je demande qu'on change la manière dont le Parlement est élu, c'est-à-dire que chaque grand courant du pays puisse avoir une représentation par une loi électorale plus juste, proportionnelle."
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "Et donc il faut à tout prix faire entrer la France dans une période de modernisation qui fera que les gouvernants auront des pouvoirs légitimes mais qu'en face d'eux, il y aura des contre-pouvoirs."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Bayrou",
+        "text": "Nous avons à bâtir quelque chose qui n'existe plus depuis des décennies et qui s'appelle le pluralisme."
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "Le problème, c'est qu'en France, depuis des décennies, tous les pouvoirs sont chaque fois entre les mains d'un seul parti, le parti dominant, que ce soit le parti socialiste d’un côté, l'UMP de tout l'autre."
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "Il faut un Parlement qui fait son travail, c'est-à-dire qui récupère des droits qu'il n'a plus, qui, au passage, oblige les parlementaires à faire vraiment leur travail, c'est-à-dire à être présent à l'Assemblée nationale."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Bayroux explique vouloir mettre en place la proportionnalité pour les élections législatives."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal s'accorde avec François Bayrou, et explique qu'il faut garantir l'indépendances des institutions, et que toute modification du code du travail devra avoir été précédée d'un dialogue avec les partenaires sociaux."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Je suis d'accord lorsque l'on dit, lorsque François Bayrou dit qu'il n'est plus possible qu'un seul parti politique contrôle la totalité des institutions d'un pays, et c'est pourquoi je propose une dose de proportionnelle, c'est-à-dire qu'il y aura une modification du mode de scrutin, mais surtout l'ensemble des institutions dont les indépendances, dont l'indépendance doit être garantie, seront réformées."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "L'Assemblée nationale, tant que le Parlement ne sera pas modifié et rénové, puisque dans la réforme des institutions, vous le savez, le Sénat doit être modifié, il n'aura plus le pouvoir de blocage."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "La deuxième loi sur les 35 heures, ce dispositif ne pourra plus exister dans le fonctionnement futur de nos institutions puisque désormais toute modification du Code du Travail se fera en étant précédée d'un dialogue entre les partenaires sociaux."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "François Bayrou",
+        "text": "Et je demande qu'on change la manière dont le Parlement est élu, c'est-à-dire que chaque grand courant du pays puisse avoir une représentation par une loi électorale plus juste, proportionnelle."
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "Et donc il faut à tout prix faire entrer la France dans une période de modernisation qui fera que les gouvernants auront des pouvoirs légitimes mais qu'en face d'eux, il y aura des contre-pouvoirs."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal s'accorde avec François Bayrou, et explique qu'il faut garantir l'indépendance des institutions, et que toute modification du code du travail devra avoir été précédée d'un dialogue avec les partenaires sociaux."
+    },
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Je suis d'accord lorsque l'on dit, lorsque François Bayrou dit qu'il n'est plus possible qu'un seul parti politique contrôle la totalité des institutions d'un pays, et c'est pourquoi je propose une dose de proportionnelle, c'est-à-dire qu'il y aura une modification du mode de scrutin, mais surtout l'ensemble des institutions dont les indépendances, dont l'indépendance doit être garantie, seront réformées."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "L'Assemblée nationale, tant que le Parlement ne sera pas modifié et rénové, puisque dans la réforme des institutions, vous le savez, le Sénat doit être modifié, il n'aura plus le pouvoir de blocage."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "La deuxième loi sur les 35 heures, ce dispositif ne pourra plus exister dans le fonctionnement futur de nos institutions puisque désormais toute modification du Code du Travail se fera en étant précédée d'un dialogue entre les partenaires sociaux."
+      }
+    ]
+  }
 ]

@@ -1,46 +1,46 @@
 [
-    {
-        "abstractive": {
-            "text": "Bayrou est favorable au maintien de la carte scolaire car elle permet de promouvoir l’égalité des chances avec la promesse d’une qualité d’enseignement égale sur tout le territoire."
-        },
-        "extractive": [
-            {
-                "speaker": "François Bayrou",
-                "text": "Pour moi la carte scolaire, c’est une obligation pour l’état, pour l'éducation nationale, qui est l'obligation pour l'instant insatisfaisante, l'obligation d'offrir ou que l'on soit sur le territoire national la même qualité d'enseignement, les mêmes chances pour tout le monde, notamment en matière de est-ce qu'on peut travailler à l'école, et la même chemin vers la réussite."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "François Bayrou est favorable au maintien de la carte scolaire car elle permet de promouvoir l’égalité des chances avec la promesse d’une qualité d’enseignement égale sur tout le territoire."
     },
-    {
-        "abstractive": {
-            "text": "Or, pour Royal, dans la pratique, la qualité de l’enseignement est très inégale géographiquement."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "C'est-à-dire qu'un certain nombre de familles, et elles sont de plus en plus nombreuses, savent parfaitement qu'il n'y a pas les mêmes chances de réussite dans telle école ou dans tel autre."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Bayrou",
+        "text": "Pour moi la carte scolaire, c’est une obligation pour l’état, pour l'éducation nationale, qui est l'obligation pour l'instant insatisfaisante, l'obligation d'offrir ou que l'on soit sur le territoire national la même qualité d'enseignement, les mêmes chances pour tout le monde, notamment en matière de est-ce qu'on peut travailler à l'école, et la même chemin vers la réussite."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Or, pour Royal, dans la pratique, la qualité de l’enseignement est très inégale géographiquement."
     },
-    {
-        "abstractive": {
-            "text": "Elle rappelle que les familles font déjà tout parfois pour éviter certaines écoles, propose donc de laisser les familles choisir l’établissement scolaire de leurs enfants, et explique que les établissements délaissés reccevront davantage de moyens."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Et donc c'est pour ça que je souhaite que les familles assument un libre choix entre deux établissements par exemple, et dans les établissements qui seront délaissés à ce moment-là on y mettra des moyens conséquents, et de vrais moyens supplémentaires, et l'on donnera aux élèves les moyens de réussir."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "C'est-à-dire qu'un certain nombre de familles, et elles sont de plus en plus nombreuses, savent parfaitement qu'il n'y a pas les mêmes chances de réussite dans telle école ou dans tel autre."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle rappelle que les familles font déjà tout parfois pour éviter certaines écoles, propose donc de laisser les familles choisir l’établissement scolaire de leurs enfants, et explique que les établissements délaissés recevront davantage de moyens."
     },
-    {
-        "abstractive": {
-            "text": "Royal souhaite également que les étudiants, notamment les boursiers, puissent s’engager dans le soutien scolaire des élèves"
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Et en particulier je demanderai aux étudiants qui reçoivent des bourses, ou même à ceux qui n'en reçoivent pas, parce que ce pourra être une obligation d'action de solidarité pour tous les étudiants qui ont la chance d'être dans l'enseignement supérieur en contrepartie de cette chance, ils seront invités à donner des heures de soutien scolaire aux élèves, et ces heures de soutien scolaire pourront être valorisées dans les unités de validation de leurs diplômes universitaires"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Et donc c'est pour ça que je souhaite que les familles assument un libre choix entre deux établissements par exemple, et dans les établissements qui seront délaissés à ce moment-là on y mettra des moyens conséquents, et de vrais moyens supplémentaires, et l'on donnera aux élèves les moyens de réussir."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal souhaite également que les étudiants, notamment les boursiers, puissent s’engager dans le soutien scolaire des élèves."
+    },
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Et en particulier je demanderai aux étudiants qui reçoivent des bourses, ou même à ceux qui n'en reçoivent pas, parce que ce pourra être une obligation d'action de solidarité pour tous les étudiants qui ont la chance d'être dans l'enseignement supérieur en contrepartie de cette chance, ils seront invités à donner des heures de soutien scolaire aux élèves, et ces heures de soutien scolaire pourront être valorisées dans les unités de validation de leurs diplômes universitaires"
+      }
+    ]
+  }
 ]

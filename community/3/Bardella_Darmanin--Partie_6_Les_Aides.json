@@ -1,205 +1,205 @@
 [
-    {
-        "abstractive": {
-            "text": "Gérald Darmanin débute en expliquant que le front national (rassemblement national) baissera de deux milliards le budget de la police en faisant des économies sur l'immigration, ce qui représente trente cinq mille policiers en moins, ou une baisse de salaire de 350 euros par mois. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Dans le programme du front national il y a par exemple, deux milliards d'économies sur le budget de la police."
-            },
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Vous dites, comme on va limiter l'immigration, on va limiter l'insécurité."
-            },
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Vous dites, du coup, on fera deux milliards d'économies sur la sécurité, puisque il y aura moins d'insécurité, puisqu'il y aura moins d'immigration."
-            },
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Deux milliards sur sept milliards, c’est trente cinq mille policiers en moins, ou alors, c'est plus de trois cents euros de moins pour un gardien de la paix, chaque mois."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Gérald Darmanin débute en expliquant que le front national (rassemblement national) baissera de deux milliards le budget de la police en faisant des économies sur l'immigration, ce qui représente trente cinq mille policiers en moins, ou une baisse de salaire de 350 euros par mois."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella se défend en expliquant qu'il souhaite augmenter le budget d'un milliard cinq en recrutant sept mille policiers, et trois mille administratif; l'économie viendra naturellement avec la lutte contre l'immigration. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "On compte augmenter le budget d’un milliard cinq."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "On va même en recruter sept mille, et trois mille administratifs."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Si l’immigration nous coûte de l’argent, et si on fait des économies sur l’insécurité, c'est parce que quarante et un pour cent des contentieux administratifs, des contentieux administratif, concernent les clandestins."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Dans le programme du front national il y a par exemple, deux milliards d'économies sur le budget de la police."
+      },
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Vous dites, comme on va limiter l'immigration, on va limiter l'insécurité."
+      },
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Vous dites, du coup, on fera deux milliards d'économies sur la sécurité, puisque il y aura moins d'insécurité, puisqu'il y aura moins d'immigration."
+      },
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Deux milliards sur sept milliards, c’est trente cinq mille policiers en moins, ou alors, c'est plus de trois cents euros de moins pour un gardien de la paix, chaque mois."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella se défend en expliquant qu'il souhaite augmenter le budget d'un milliard cinq en recrutant sept mille policiers, et trois mille administratifs ; l'économie viendra naturellement avec la lutte contre l'immigration."
     },
-    {
-        "abstractive": {
-            "text": "Pour Gérald Darmanin, Jordan Bardella ne peut pas financer le programme qu'il présente, ce que conteste Jordan Bardella, pour qui de nombreuses économies sont disponibles à cause de la gestion du ministère de Gérald Darmanin."
-        },
-        "extractive": [
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Et ben voilà, alors, qu'est ce qu'on fait pour baisser le budget de la sécurité ?"
-            },
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "La vérité, c’est que vous êtes incapable de financer le programme que vous présentez au français."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Je suis allé sur le site de votre ministère, et, figurez-vous, sur le site de votre ministère, vous savez, je suis conseiller régional d'ile-de-france, vous l'avez rappelé, avec mépris, au début de cet entretien, de ce débat, pardon, que quatre-vingt-treize pour cent des vols dans les transports en commun d'ile-de-france sont le fait de citoyens étrangers, dont une grande partie sont des clandestins, que soixante-trois pour cent des agressions sexuelles dans les transports d'ile-de-france sont le fait d’étrangers, que soixante-quinze pourcent des mineurs sont des mineurs étrangers."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "On compte augmenter le budget d’un milliard cinq."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "On va même en recruter sept mille, et trois mille administratifs."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Si l’immigration nous coûte de l’argent, et si on fait des économies sur l’insécurité, c'est parce que quarante et un pour cent des contentieux administratifs, des contentieux administratif, concernent les clandestins."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Gérald Darmanin, Jordan Bardella ne peut pas financer le programme qu'il présente, ce que conteste Jordan Bardella, pour qui de nombreuses économies sont disponibles à cause de la gestion du ministère de Gérald Darmanin."
     },
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Gérald Darmanin et Jordan Bardella discutent de la suppression des aides sociales aux étrangers et des économies de budget. "
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Le pouvoir d'achat, Jordan Bardella, la question des prestations sociales, Français, étrangers, si marine le pen est élue, qui touche quoi ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Et ben voilà, alors, qu'est ce qu'on fait pour baisser le budget de la sécurité ?"
+      },
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "La vérité, c’est que vous êtes incapable de financer le programme que vous présentez au français."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Je suis allé sur le site de votre ministère, et, figurez-vous, sur le site de votre ministère, vous savez, je suis conseiller régional d'ile-de-france, vous l'avez rappelé, avec mépris, au début de cet entretien, de ce débat, pardon, que quatre-vingt-treize pour cent des vols dans les transports en commun d'ile-de-france sont le fait de citoyens étrangers, dont une grande partie sont des clandestins, que soixante-trois pour cent des agressions sexuelles dans les transports d'ile-de-france sont le fait d’étrangers, que soixante-quinze pourcent des mineurs sont des mineurs étrangers."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Gérald Darmanin et Jordan Bardella discutent de la suppression des aides sociales aux étrangers et des économies de budget."
     },
-    {
-        "abstractive": {
-            "text": " Il propose en outre la réservation des prestations sociales aux français, ainsi que le conditionnement des allocations familiales et du RSA à cinq ans de travail à temps plein sur le territoire. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Les prestations sociales sont réservées aux français, extrêmement simple."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Les allocations familiales, le rsa est conditionné à cinq ans, aujourd'hui, c'est de présence sur le territoire, cinq ans de temps de travail à temps plein sur le territoire, pour pouvoir  en bénéficier, c'est ce qu'on appelle un délai de carence."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Le pouvoir d'achat, Jordan Bardella, la question des prestations sociales, Français, étrangers, si marine le pen est élue, qui touche quoi ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il propose en outre la réservation des prestations sociales aux Français, ainsi que le conditionnement des allocations familiales et du RSA à cinq ans de travail à temps plein sur le territoire."
     },
-    {
-        "abstractive": {
-            "text": "Il prétend de plus que la france n'a pas vocation à accueillir tout le monde, et souhaite supprimer l'aide médicale d'état. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Je pense que, contrairement à vous, la France n'est pas un guichet social, la france n'a pas vocation à accueillir tout le monde, et à être, si vous voulez, euh, la plateforme sociale de la terre entière, de gens qui viendraient dans notre pays pour bénéficier de prestations sociales."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Vous savez que nous souhaitons également supprimer l'aide médicale d'état, pour la remplacer par un fonds d'urgence, parce qu'évidemment, quand vous êtes clandestin et que vous êtes en situation de détresse en situation grave, on vous laisse pas, sur le bord de la rue, on vous prend en charge, mais l'idée de supprimer l'aide médicale d'état, pour éviter que toute la palette de soins gratuits ne se retrouve à disposition de la terre entière."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Les prestations sociales sont réservées aux français, extrêmement simple."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Les allocations familiales, le rsa est conditionné à cinq ans, aujourd'hui, c'est de présence sur le territoire, cinq ans de temps de travail à temps plein sur le territoire, pour pouvoir  en bénéficier, c'est ce qu'on appelle un délai de carence."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il prétend de plus que la France n'a pas vocation à accueillir tout le monde, et souhaite supprimer l'aide médicale d'état."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella rappelle le bilan de Darmanin, une france dans laquelle un tiers des retraités refusent de se soigner car le reste à charge est trop important. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Quand il y a, et ça, c'est aussi votre bilan, un retraité sur trois qui renonce à se soigner parce que le reste à charge est devenu trop important, donc la solidarité nationale doit rester nationale, et nous réserverons les prestations sociales aux français."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Je pense que, contrairement à vous, la France n'est pas un guichet social, la france n'a pas vocation à accueillir tout le monde, et à être, si vous voulez, euh, la plateforme sociale de la terre entière, de gens qui viendraient dans notre pays pour bénéficier de prestations sociales."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Vous savez que nous souhaitons également supprimer l'aide médicale d'état, pour la remplacer par un fonds d'urgence, parce qu'évidemment, quand vous êtes clandestin et que vous êtes en situation de détresse en situation grave, on vous laisse pas, sur le bord de la rue, on vous prend en charge, mais l'idée de supprimer l'aide médicale d'état, pour éviter que toute la palette de soins gratuits ne se retrouve à disposition de la terre entière."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella rappelle le bilan de Darmanin, une France dans laquelle un tiers des retraités refusent de se soigner car le reste à charge est trop important."
     },
-    {
-        "abstractive": {
-            "text": "Ces économies présentées peuvent à elle seule financer la baisse de la tva de 20 à 5.5%."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Nous ferons une économie de seize milliards qui pourra, tiens, financer la baisse de la tva, de vingt pour cent à cinq cinq, pour permettre aux français de récupérer du pouvoir d'achat."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Quand il y a, et ça, c'est aussi votre bilan, un retraité sur trois qui renonce à se soigner parce que le reste à charge est devenu trop important, donc la solidarité nationale doit rester nationale, et nous réserverons les prestations sociales aux français."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ces économies présentées peuvent à elle seule financer la baisse de la tva de 20 à 5.5%."
     },
-    {
-        "abstractive": {
-            "text": " Pour Gérald Darmanin, l'AME est une aide naturelle, et est une question d'humanité; de plus, laisser les gens malades peut favoriser les pandémies. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "L’AME, qui est l'aide médicale d'urgence que l'on donne à toute personne étrangère qui est sur le sol national n'est, n'est pas là le panel de tous les soins."
-            },
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Par ailleurs, il faut soigner les personnes qui sont sur le sol national et qui sont étrangers, même si ils sont irréguliers, d'abord, parce que c'est un devoir d'humanité."
-            },
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Et, deuxièmement, y compris pour protéger les français, parce que des personnes qui sont, euh, malheureusement, porteurs, euh, de maladies, et, parfois, de maladies, euh, que nous ne connaissons plus sur le territoire national doivent être soignés pour éviter justement les nouvelles pandémie."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Nous ferons une économie de seize milliards qui pourra, tiens, financer la baisse de la tva, de vingt pour cent à cinq cinq, pour permettre aux français de récupérer du pouvoir d'achat."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Gérald Darmanin, l'AME est une aide naturelle, et est une question d'humanité ; de plus, laisser les gens malades peut favoriser les pandémies."
     },
-    {
-        "abstractive": {
-            "text": "Après avoir posé la question des allocations cotisées, qui seront toujours versée par Jordan Bardella, il conteste donc les économies présentées. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "J'espère que vous donnez les allocations, à ceux qui ont payé des cotisations."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Oui, tout à fait."
-            },
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Donc, ça ne fait pas quinze milliards d'euros."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "L’AME, qui est l'aide médicale d'urgence que l'on donne à toute personne étrangère qui est sur le sol national n'est, n'est pas là le panel de tous les soins."
+      },
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Par ailleurs, il faut soigner les personnes qui sont sur le sol national et qui sont étrangers, même si ils sont irréguliers, d'abord, parce que c'est un devoir d'humanité."
+      },
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Et, deuxièmement, y compris pour protéger les français, parce que des personnes qui sont, euh, malheureusement, porteurs, euh, de maladies, et, parfois, de maladies, euh, que nous ne connaissons plus sur le territoire national doivent être soignés pour éviter justement les nouvelles pandémie."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Après avoir posé la question des allocations cotisées, qui seront toujours versée par Jordan Bardella, il conteste donc les économies présentées."
     },
-    {
-        "abstractive": {
-            "text": "Il continue en expliquant qu'avec la suppression des APL et des autres aides sociales, les immigrants seront contraint d'aller chez les marchands de sommeil. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Deuxième sujet, monsieur Bardella, si vous ne donnez pas les apl, ou si vous ne donnez pas le minimum, euh, social, que l'on peut attendre à un étranger, régulièrement sur le territoire national, parce que c'est bien entendu, la proposition du front national."
-            },
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Ils iront chez les marchands de sommeil."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "J'espère que vous donnez les allocations, à ceux qui ont payé des cotisations."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Oui, tout à fait."
+      },
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Donc, ça ne fait pas quinze milliards d'euros."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il continue en expliquant qu'avec la suppression des APL et des autres aides sociales, les immigrants seront contraint d'aller chez les marchands de sommeil."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella assume, pour lui, les familles françaises n'ont qu'un pays, et devraient être favorisée pour l'allocation des HLM avec l'instoration de la préférence nationale. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Vous me ferez remarquer, je l'assume mais, je pense que, quand il y a, dans un pays, dix millions de pauvres, six millions de chômeurs des centaines de milliers de familles, des familles, parfois très pauvre, et je pense que vous en connaissez dans votre département du nord, comme, il y en a dans le pas-de-calais, dans le département de la seine-saint-denis."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Des familles françaises, qui sont dans l'attente d'un logement social,  qui ne peuvent pas avoir ce logement social, parce qu'aujourd'hui dans les logements c'est instaurer une véritable préférence étrangère, puisque un tiers, d'après l'insee, trente et un pour cent, des immigrés qui arrivent sur le sol français sont en HLM."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Deuxième sujet, monsieur Bardella, si vous ne donnez pas les apl, ou si vous ne donnez pas le minimum, euh, social, que l'on peut attendre à un étranger, régulièrement sur le territoire national, parce que c'est bien entendu, la proposition du front national."
+      },
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Ils iront chez les marchands de sommeil."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella assume, pour lui, les familles françaises n'ont qu'un pays, et devraient être favorisée pour l'allocation des HLM avec l'instauration de la préférence nationale."
     },
-    {
-        "abstractive": {
-            "text": "Pour lui, les gens de devraient pas venir en france si ils ne peuvent pas subvenirs à leur besoins."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Quand on vient en france aujourd'hui, je suis désolé, mais on ne peut pas faire autrement, il faut subvenir à ses besoins, parceque, notre pays, la france, qui, à cause de vous a plus vingt-cinq pour cent de dette par rapport à deux mille dix-sept, un taux de chômage important, même si le contexte mondial a fait baisser, quoi qu'on pourra parler de la disparition des dix-sept mille emplois industriels depuis deux mille dix-sept, un contexte économique tendu, qui fait que nous ne pouvons pas prendre en charge, euh, la misère du monde entier, comme dirait l'autre, et, donc, nous assumons"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Vous me ferez remarquer, je l'assume mais, je pense que, quand il y a, dans un pays, dix millions de pauvres, six millions de chômeurs des centaines de milliers de familles, des familles, parfois très pauvre, et je pense que vous en connaissez dans votre département du nord, comme, il y en a dans le pas-de-calais, dans le département de la seine-saint-denis."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Des familles françaises, qui sont dans l'attente d'un logement social,  qui ne peuvent pas avoir ce logement social, parce qu'aujourd'hui dans les logements c'est instaurer une véritable préférence étrangère, puisque un tiers, d'après l'insee, trente et un pour cent, des immigrés qui arrivent sur le sol français sont en HLM."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour lui, les gens ne devraient pas venir en France s'ils ne peuvent pas subvenir à leurs besoins."
+    },
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Quand on vient en france aujourd'hui, je suis désolé, mais on ne peut pas faire autrement, il faut subvenir à ses besoins, parceque, notre pays, la france, qui, à cause de vous a plus vingt-cinq pour cent de dette par rapport à deux mille dix-sept, un taux de chômage important, même si le contexte mondial a fait baisser, quoi qu'on pourra parler de la disparition des dix-sept mille emplois industriels depuis deux mille dix-sept, un contexte économique tendu, qui fait que nous ne pouvons pas prendre en charge, euh, la misère du monde entier, comme dirait l'autre, et, donc, nous assumons"
+      }
+    ]
+  }
 ]

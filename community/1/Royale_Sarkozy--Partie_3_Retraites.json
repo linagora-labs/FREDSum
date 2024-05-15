@@ -1,227 +1,227 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Nicolas Sarkozy et Ségolène Royal parlent de la retraite. "
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Santé, logement, retraite, ce sont des sujets extrêmement précis."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Nicolas Sarkozy et Ségolène Royal parlent de la retraite."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique qu'il faut garantir les retraites, et que les lois Fillon financent le système jusqu'en 2020, critiquant Ségolène Royal qui compte les démanteler. "
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "La question des retraites est essentielle, il faut la garantir."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Les lois François Fillon ont permis de rééquilibrer l'égalité entre salariés du public et salariés du privé, qui cotisent quarante ans, jusqu'en 2020, on n'a pas de souci majeur à avoir quant au financement de nos retraites."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Madame Royal a dit qu'elle les démantèlerait, on verra comment elle finance."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Santé, logement, retraite, ce sont des sujets extrêmement précis."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique qu'il faut garantir les retraites, et que les lois Fillon financent le système jusqu'en 2020, critiquant Ségolène Royal qui compte les démanteler."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique qu'au nom de l'égalité, il faut réformer les régimes spéciaux, et que l'argent créé par cette réforme permet d'augmenter de 25 % les petites retraites. "
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Il y a un ensemble de régimes de retraite qui n'ont pas été réformés : les régimes spéciaux, je respecte les gens qui adhèrent aux régimes spéciaux EDF, SNCF, RATP, mais dans un pays où il est écrit \"égalité\" au frontispice de nos établissements publics, il est curieux d'expliquer que certains Français doivent cotiser 37,5 ans pour avoir leurs retraite alors que les autres cotisent 40 ans."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Il y a 3 millions de petites retraites, c'est-à-dire 3 millions de personnes qui sont en dessous du minimum vieillesse, j'augmenterai de 25 % les petites retraites et je les ferai financer, car on aura récupéré sur la réforme des régimes spéciaux."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "La question des retraites est essentielle, il faut la garantir."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Les lois François Fillon ont permis de rééquilibrer l'égalité entre salariés du public et salariés du privé, qui cotisent quarante ans, jusqu'en 2020, on n'a pas de souci majeur à avoir quant au financement de nos retraites."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Madame Royal a dit qu'elle les démantèlerait, on verra comment elle finance."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique qu'au nom de l'égalité, il faut réformer les régimes spéciaux, et que l'argent créé par cette réforme permet d'augmenter de 25 % les petites retraites."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy souhaite augmenter les pensions de réversion des veuves à 60 %. "
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Je veux mettre sur la table la question des pensions de reversion, la situation faite aux veuves est catastrophique, c'est 54 %, quand un mari décède, sa veuve a 54 % de la pension, je la porterai à 60 %."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Il y a un ensemble de régimes de retraite qui n'ont pas été réformés : les régimes spéciaux, je respecte les gens qui adhèrent aux régimes spéciaux EDF, SNCF, RATP, mais dans un pays où il est écrit \"égalité\" au frontispice de nos établissements publics, il est curieux d'expliquer que certains Français doivent cotiser 37,5 ans pour avoir leurs retraite alors que les autres cotisent 40 ans."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Il y a 3 millions de petites retraites, c'est-à-dire 3 millions de personnes qui sont en dessous du minimum vieillesse, j'augmenterai de 25 % les petites retraites et je les ferai financer, car on aura récupéré sur la réforme des régimes spéciaux."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy souhaite augmenter les pensions de réversion des veuves à 60 %."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que pour le logement, il veut aider la France à devenir un pays de propriétaires en déduisant les intérêts des emprunts immobiliers sur l'impôt sur le revenu et en créant un système de cautionnement public. "
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Deuxième élément, le logement, mon ambition serait de faire de la France un pays de propriétaires."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Dès l'été 2007, je créerai un crédit d'impôts permettant, pour ceux qui payent l'impôt sur le revenu, de déduire les intérêts de l'emprunt pour acheter leur appartement, et pour ceux qui ne le paient pas, un crédit d'impôt, c'est l'Etat qui remboursera."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Pour ceux qui n'ont pas de relation, je créerai un système de cautionnement public pour leur permettre d'emprunter."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Je veux mettre sur la table la question des pensions de reversion, la situation faite aux veuves est catastrophique, c'est 54 %, quand un mari décède, sa veuve a 54 % de la pension, je la porterai à 60 %."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que pour le logement, il veut aider la France à devenir un pays de propriétaires en déduisant les intérêts des emprunts immobiliers sur l'impôt sur le revenu et en créant un système de cautionnement public."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy souhaite aussi supprimer la visite médicale obligatoire pour les emprunts et créer un cinquième risque, la dépendance, tout en investissant dans la recherche contre Alzheimer. "
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Enfin, je veux revenir sur l'injustice invraisemblable qui fait que, quand vous empruntez, on vous demande une visite médicale."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Sur la santé, il faut créer un cinquième risque, celui de la dépendance, car une société qui ne s'occupe pas des personnes âgées se renie, perd son humanité."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Je veux engager un plan contre Alzheimer, 890 000 Français sont touchés par Alzheimer aujourd'hui."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Deuxième élément, le logement, mon ambition serait de faire de la France un pays de propriétaires."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Dès l'été 2007, je créerai un crédit d'impôts permettant, pour ceux qui payent l'impôt sur le revenu, de déduire les intérêts de l'emprunt pour acheter leur appartement, et pour ceux qui ne le paient pas, un crédit d'impôt, c'est l'Etat qui remboursera."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Pour ceux qui n'ont pas de relation, je créerai un système de cautionnement public pour leur permettre d'emprunter."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy souhaite aussi supprimer la visite médicale obligatoire pour les emprunts et créer un cinquième risque, la dépendance, tout en investissant dans la recherche contre Alzheimer."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal souhaite immédiatement revaloriser les petites retraites avec une taxe sur le revenu boursier. "
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Moi, je veux revaloriser tout de suite dès mon élection les petites retraites."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Par une taxe sur le revenu boursier."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Enfin, je veux revenir sur l'injustice invraisemblable qui fait que, quand vous empruntez, on vous demande une visite médicale."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Sur la santé, il faut créer un cinquième risque, celui de la dépendance, car une société qui ne s'occupe pas des personnes âgées se renie, perd son humanité."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Je veux engager un plan contre Alzheimer, 890 000 Français sont touchés par Alzheimer aujourd'hui."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal souhaite immédiatement revaloriser les petites retraites avec une taxe sur le revenu boursier."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal explique vouloir réformer l'indice des prix pour qu'il soit calculé sur ce que consomment les personnes âgées. "
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Je me suis engagée à réformer l'indice des prix, car l'indice des prix ne calcule pas exactement ce que consomment les personnes âgées."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Moi, je veux revaloriser tout de suite dès mon élection les petites retraites."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Par une taxe sur le revenu boursier."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal explique vouloir réformer l'indice des prix pour qu'il soit calculé sur ce que consomment les personnes âgées."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal souhaite supprimer les lois Fillon qui sont injustes pour les femmes, prendre en compte la pénibilité des tâches de travail, et compter le travail maternel pour le départ à la retraite. "
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Des femmes partent à la retraite avec un niveau de retraite à peine supérieur au minimum vieillesse, parce qu'elles se sont interrompues pour élever leurs enfants et que la réforme de la loi Fillon a créé une injustice insupportable aux dépens des femmes."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Non, je remets à plat les lois Fillon ne serait-ce que pour cette question de l'injustice faite aux femmes."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Deuxièmement, nous prendrons en compte la pénibilité des tâches."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Je veux rediscuter avec les partenaires sociaux de quelle façon nous pouvons prendre en compte ce travail maternel qui a été fait et qui, aujourd'hui, n'est pas reconnu."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Je me suis engagée à réformer l'indice des prix, car l'indice des prix ne calcule pas exactement ce que consomment les personnes âgées."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal souhaite supprimer les lois Fillon qui sont injustes pour les femmes, prendre en compte la pénibilité des tâches de travail, et compter le travail maternel pour le départ à la retraite."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que les lois Fillon financent ses dépenses en augmentant la durée de cotisation des Français. "
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Les lois Fillon consistaient à passer à quarante années dans un premier temps, à quarante et un dans un deuxième temps de cotisations."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Des femmes partent à la retraite avec un niveau de retraite à peine supérieur au minimum vieillesse, parce qu'elles se sont interrompues pour élever leurs enfants et que la réforme de la loi Fillon a créé une injustice insupportable aux dépens des femmes."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Non, je remets à plat les lois Fillon ne serait-ce que pour cette question de l'injustice faite aux femmes."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Deuxièmement, nous prendrons en compte la pénibilité des tâches."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Je veux rediscuter avec les partenaires sociaux de quelle façon nous pouvons prendre en compte ce travail maternel qui a été fait et qui, aujourd'hui, n'est pas reconnu."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que les lois Fillon financent ses dépenses en augmentant la durée de cotisation des Français."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal souhaite réformer les régimes spéciaux, y compris celui des parlementaires. "
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Si, nous réformerons les régimes spéciaux, y compris le vôtre, celui des parlementaires."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Les lois Fillon consistaient à passer à quarante années dans un premier temps, à quarante et un dans un deuxième temps de cotisations."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal souhaite réformer les régimes spéciaux, y compris celui des parlementaires."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que la France a les impôts les plus élevés de l'Europe, et que l'impôt trop élevé sait partir le travail et le capital, donc la croissance. "
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Nous sommes le pays de l'Europe qui avons les impôts les plus élevés."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Nous avons 68 milliards d'impôts de plus que ce que paie la moyenne des 15 pays les plus riches de l'Union européenne."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Le résultat, ce n'est pas un problème de libéralisme ou d'idéologie, mais comme nous sommes dans un monde ouvert, si le travail est trop taxé, le travail s'en va, si le capital est trop taxé, le capital s'en va."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "S'il n'y a plus de capital et plus de travail, il n'y a pas de croissance."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Si, nous réformerons les régimes spéciaux, y compris le vôtre, celui des parlementaires."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que la France a les impôts les plus élevés de l'Europe, et que l'impôt trop élevé fait partir le travail et le capital, donc la croissance."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique qu'il faut baisser les impôts et donc réduire le train de vie de l'État, les dépenses publiques, qu'il faut être plus productif. "
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Il faut, d'une manière ou d'une autre, réduire le train de vie de l'Etat, les dépenses publiques, être plus productifs, faire mieux avec moins pour alléger le poids de la fiscalité tel qu'il pèse aujourd'hui sur le travail."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Nous sommes le pays de l'Europe qui avons les impôts les plus élevés."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Nous avons 68 milliards d'impôts de plus que ce que paie la moyenne des 15 pays les plus riches de l'Union européenne."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Le résultat, ce n'est pas un problème de libéralisme ou d'idéologie, mais comme nous sommes dans un monde ouvert, si le travail est trop taxé, le travail s'en va, si le capital est trop taxé, le capital s'en va."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "S'il n'y a plus de capital et plus de travail, il n'y a pas de croissance."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique qu'il faut baisser les impôts et donc réduire le train de vie de l'État, les dépenses publiques, qu'il faut être plus productif."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy souhaite faire une taxe sur les importations pour financer la protection sociale, souhaiter ne pas remplacer un départ sur deux à la retraite des fonctionnaires et supprimer les organismes superflus. "
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "C'est pourquoi je propose que l'on taxe les importations pour qu'elles financent la protection sociale des Français."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "C'est pourquoi j'ai proposé de ne pas remplacer un départ sur deux à la retraite des fonctionnaires, que j'ai proposé de supprimer tous les organismes qui ne servent à rien."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Il faut, d'une manière ou d'une autre, réduire le train de vie de l'Etat, les dépenses publiques, être plus productifs, faire mieux avec moins pour alléger le poids de la fiscalité tel qu'il pèse aujourd'hui sur le travail."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy souhaite faire une taxe sur les importations pour financer la protection sociale, souhaiter ne pas remplacer un départ sur deux à la retraite des fonctionnaires et supprimer les organismes superflus."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy souhaite mettre en place une politique d'évaluation de toutes les politiques publiques."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "J'ai proposé, si je suis élu président de la République, la mise en place systématique d'une politique d'évaluation de toutes les politiques publiques"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "C'est pourquoi je propose que l'on taxe les importations pour qu'elles financent la protection sociale des Français."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "C'est pourquoi j'ai proposé de ne pas remplacer un départ sur deux à la retraite des fonctionnaires, que j'ai proposé de supprimer tous les organismes qui ne servent à rien."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy souhaite mettre en place une politique d'évaluation de toutes les politiques publiques."
+    },
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "J'ai proposé, si je suis élu président de la République, la mise en place systématique d'une politique d'évaluation de toutes les politiques publiques"
+      }
+    ]
+  }
 ]

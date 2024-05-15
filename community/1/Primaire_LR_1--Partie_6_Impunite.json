@@ -1,268 +1,268 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, les candidats à la présidence du parti Les Républicains discutent du sentiment d'impunité des criminel français, de l'augmentation de places de prison, et des mesures judiciaire à implémenter."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Alors, je vous propose de dire quelques mots de l'insécurité, puisque c'est un de vos thèmes de prédilection et vos propositions se concentrent sur ce que vous nommez le sentiment d'impunité."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, les candidats à la présidence du parti Les Républicains discutent du sentiment d'impunité des criminel français, de l'augmentation de places de prison, et des mesures judiciaire à implémenter."
     },
-    {
-        "abstractive": {
-            "text": "Le présentateur explique que tous les candidats souhaitent construire plus de places de prison, augmenter les moyens pour la justice, raccourcir les délais de la justice, supprimer les rappels à la loi et les doubles peins."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Vous voulez tous construire plus de places de prison, vous voulez tous plus de moyens pour la justice pour que les délais raccourcissent et donc que la justice soit rendue plus vite."
-            },
-            {
-                "speaker": "P1",
-                "text": "Vous êtes tous pour limiter, ou voir supprimer les rappels à la loi et les remplacer par des amendes immédiatement perceptible et notamment en cas de besoin par saisie sur les salaires ou sur les allocations."
-            },
-            {
-                "speaker": "P1",
-                "text": "Premièrement, le rétablissement de la double peine, et là dessus, vous êtes quasiment d'accord là dessus, à des degrés divers."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Alors, je vous propose de dire quelques mots de l'insécurité, puisque c'est un de vos thèmes de prédilection et vos propositions se concentrent sur ce que vous nommez le sentiment d'impunité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Le présentateur explique que tous les candidats souhaitent construire plus de places de prison, augmenter les moyens pour la justice, raccourcir les délais de la justice, supprimer les rappels à la loi et les doubles peins."
     },
-    {
-        "abstractive": {
-            "text": "Le présentateur pose la question des peines planchers, qui n'ont pas fonctionné sous Nicolas Sarkozy à cause du principe d'individualisation de la peine, et demande si c'est une manière de dire que les juges ne sont pas assez sévères."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Et ensuite, vous voulez établir des peines minimum, des peines minimum, des peines planchers pour tel ou tel types de délits."
-            },
-            {
-                "speaker": "P1",
-                "text": "Est ce que c'est une façon de dire que les juges ne sont pas assez sévères en France que vous n'avez pas totalement confiance en en les juges là dessus."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Vous voulez tous construire plus de places de prison, vous voulez tous plus de moyens pour la justice pour que les délais raccourcissent et donc que la justice soit rendue plus vite."
+      },
+      {
+        "speaker": "P1",
+        "text": "Vous êtes tous pour limiter, ou voir supprimer les rappels à la loi et les remplacer par des amendes immédiatement perceptible et notamment en cas de besoin par saisie sur les salaires ou sur les allocations."
+      },
+      {
+        "speaker": "P1",
+        "text": "Premièrement, le rétablissement de la double peine, et là dessus, vous êtes quasiment d'accord là dessus, à des degrés divers."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Le présentateur pose la question des peines planchers, qui n'ont pas fonctionné sous Nicolas Sarkozy à cause du principe d'individualisation de la peine, et demande si c'est une manière de dire que les juges ne sont pas assez sévères."
     },
-    {
-        "abstractive": {
-            "text": "Michel Barnier explique qu'il faut des peines planchers, et exécuter les peines systématiquement."
-        },
-        "extractive": [
-            {
-                "speaker": "Michel Barnier",
-                "text": "Oui, oui, il faut des peines planchers, et oui, il faut qu'à tout délit, quel qu'il soit, corresponde une sanction et que les sanctions soient exécutées."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Et ensuite, vous voulez établir des peines minimum, des peines minimum, des peines planchers pour tel ou tel types de délits."
+      },
+      {
+        "speaker": "P1",
+        "text": "Est ce que c'est une façon de dire que les juges ne sont pas assez sévères en France que vous n'avez pas totalement confiance en en les juges là dessus."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Michel Barnier explique qu'il faut des peines planchers, et exécuter les peines systématiquement."
     },
-    {
-        "abstractive": {
-            "text": "Michel Barnier explique que les juges suivront la loi, et qu'il faut augmenter les moyens de la justice et le nombre de prisons."
-        },
-        "extractive": [
-            {
-                "speaker": "Michel Barnier",
-                "text": "Si vous modifiez la réponse pénale, les juges appliqueront la loi."
-            },
-            {
-                "speaker": "Michel Barnier",
-                "text": "Il faut donc qu'on augmente les moyens de la justice et qu'on augmente en effet le nombre de prisons."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Michel Barnier",
+        "text": "Oui, oui, il faut des peines planchers, et oui, il faut qu'à tout délit, quel qu'il soit, corresponde une sanction et que les sanctions soient exécutées."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Michel Barnier explique que les juges suivront la loi, et qu'il faut augmenter les moyens de la justice et le nombre de prisons."
     },
-    {
-        "abstractive": {
-            "text": "Michel Barnier souhaite créer un ministère de l'intérieur et de la sécurité public."
-        },
-        "extractive": [
-            {
-                "speaker": "Michel Barnier",
-                "text": "Et ça fait partie du choc d'autorité et de sécurité publique, qui était la première demande, parce que c'est une demande, en quelque sorte, de mon point de vue, préalable dans notre pays, qu'on retrouve de la sécurité, de la stabilité, un peu de sérénité pour que tout le reste soit possible, et donc, un ministre qui ne s'occupera que de cela, le ministre de l'Intérieur et de la Sécurité publique."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Michel Barnier",
+        "text": "Si vous modifiez la réponse pénale, les juges appliqueront la loi."
+      },
+      {
+        "speaker": "Michel Barnier",
+        "text": "Il faut donc qu'on augmente les moyens de la justice et qu'on augmente en effet le nombre de prisons."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Michel Barnier souhaite créer un ministère de l'intérieur et de la sécurité public."
     },
-    {
-        "abstractive": {
-            "text": "Eric Ciotti explique être pour la mise en place de peines immédiates pour délit contre les représentants de l'autorité publique, et explique que les juges devront motiver leur choix de ne pas incarcérer."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Mais il y a le principe d'individualisation de la peine, donc les juges ont toujours la possibilité, s'ils argumentent, de déroger à cette peine plancher."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "D'abord, je propose, moi, des peines immédiates dès le premier délit contre ceux qui représentent l'autorité publique un policier, un gendarme, un douanier, un agent pénitentiaire."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Si, parce qu'il faudrait que les juges et c'est la loi aujourd'hui, elle est constitutionnelle, motive leur choix de ne pas incarcérer."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Michel Barnier",
+        "text": "Et ça fait partie du choc d'autorité et de sécurité publique, qui était la première demande, parce que c'est une demande, en quelque sorte, de mon point de vue, préalable dans notre pays, qu'on retrouve de la sécurité, de la stabilité, un peu de sérénité pour que tout le reste soit possible, et donc, un ministre qui ne s'occupera que de cela, le ministre de l'Intérieur et de la Sécurité publique."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti explique être pour la mise en place de peines immédiates pour délit contre les représentants de l'autorité publique, et explique que les juges devront motiver leur choix de ne pas incarcérer."
     },
-    {
-        "abstractive": {
-            "text": "Eric ciotti souhaite investir vingt cinq milliards sur la police et la justice, et mettre en place un travail pour rétablir l'ordre républicain dès l'école."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Donc je propose un engagement de 5 milliards d'euros par an sur le quinquennat, ça fait 25 milliards sur la police, sur la justice."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Il faut aussi faire un travail puissant pour rétablir l'ordre républicain dès l'école, il faut que les enfants apprennent les valeurs de la République."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Mais il y a le principe d'individualisation de la peine, donc les juges ont toujours la possibilité, s'ils argumentent, de déroger à cette peine plancher."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "D'abord, je propose, moi, des peines immédiates dès le premier délit contre ceux qui représentent l'autorité publique un policier, un gendarme, un douanier, un agent pénitentiaire."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Si, parce qu'il faudrait que les juges et c'est la loi aujourd'hui, elle est constitutionnelle, motive leur choix de ne pas incarcérer."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti souhaite investir vingt cinq milliards sur la police et la justice, et mettre en place un travail pour rétablir l'ordre républicain dès l'école."
     },
-    {
-        "abstractive": {
-            "text": "Le présentateur pose la question des places de prisons et du fait qu'il soit difficile de convaincre les villes d'héberger des prisons."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Valérie Pécresse, tous, vous voulez construire des nouvelles places de prison, globalement, 20 000 pour tous les trois, Michel Barnier, Xavier Bertrand et Valérie Pécresse, vous, vous voulez  aller jusqu'à 100 000 au total, et Philippe Juvin, euh, 30 000, on sait très bien que ça prend beaucoup de temps, On sait très bien qu'il n'y a pas beaucoup de villes qui sont candidates pour héberger les prisons."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Donc je propose un engagement de 5 milliards d'euros par an sur le quinquennat, ça fait 25 milliards sur la police, sur la justice."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Il faut aussi faire un travail puissant pour rétablir l'ordre républicain dès l'école, il faut que les enfants apprennent les valeurs de la République."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Le présentateur pose la question des places de prisons et du fait qu'il soit difficile de convaincre les villes d'héberger des prisons."
     },
-    {
-        "abstractive": {
-            "text": "Eric Ciotti explique qu'il faut travailler sur les délais judiciaires et les comparution immédiates."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "La première des mesures, c'est de, de travailler sur les délais judiciaires."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Donc, le sujet, c'est comparution immédiates pour tout flagrant délit quand l'auteur ait été identifié, et puis, sanction exécutée dans les trois mois."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Valérie Pécresse, tous, vous voulez construire des nouvelles places de prison, globalement, 20 000 pour tous les trois, Michel Barnier, Xavier Bertrand et Valérie Pécresse, vous, vous voulez  aller jusqu'à 100 000 au total, et Philippe Juvin, euh, 30 000, on sait très bien que ça prend beaucoup de temps, On sait très bien qu'il n'y a pas beaucoup de villes qui sont candidates pour héberger les prisons."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti explique qu'il faut travailler sur les délais judiciaires et les comparutions immédiates."
     },
-    {
-        "abstractive": {
-            "text": "Valérie Pécresse explique qu'il faut travailler sur les multirécidivistes, et souhaite créer des centres fermés dans des anciens bâtiments pour avoir des places de prisons rapidement."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "On sait que 60% des délits du quotidien sont commis par des multirécidivistes, 5% de multirécidivistes, donc, si on les met hors d'état de nuire, on règle une partie des problèmes."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Moi, je propose qu'on crée des centres fermés pour majeurs et qu'on utilise un outils qui est aujourd'hui complètement dévoyé, qui s'appelle le bracelet électronique, vous savez que les caïds des cités aujourd'hui, comme on ne peut pas les incarcérer, on les renvoie dans leur quartier avec un bracelet électronique aussi, c'est la pire des peines pour les victimes et pour les habitants."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "On prend ces bracelets électroniques, on prend des anciennes casernes, on prend des hôtels un peu isolés, on prend des bâtiments publics désaffectés, on les transforme en centres fermés qui accueilleront ces détenus euh, avec le bracelet électronique surveillé par la pénitentiaire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "La première des mesures, c'est de, de travailler sur les délais judiciaires."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Donc, le sujet, c'est comparution immédiates pour tout flagrant délit quand l'auteur ait été identifié, et puis, sanction exécutée dans les trois mois."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse explique qu'il faut travailler sur les multirécidivistes, et souhaite créer des centres fermés dans des anciens bâtiments pour avoir des places de prisons rapidement."
     },
-    {
-        "abstractive": {
-            "text": "Le présentateur demande à Philippe Juvin comment créer des polices municipales armées."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Philippe Juvin, On parlait des mairies, on parlait des villes, qui accepteraient des prisons, est ce que ça vous pourrez convaincre plus de villes, et, vous, vous voulez aussi avoir, obliger les Communes à avoir une police municipale armée, Est ce que c'est possible?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "On sait que 60% des délits du quotidien sont commis par des multirécidivistes, 5% de multirécidivistes, donc, si on les met hors d'état de nuire, on règle une partie des problèmes."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Moi, je propose qu'on crée des centres fermés pour majeurs et qu'on utilise un outils qui est aujourd'hui complètement dévoyé, qui s'appelle le bracelet électronique, vous savez que les caïds des cités aujourd'hui, comme on ne peut pas les incarcérer, on les renvoie dans leur quartier avec un bracelet électronique aussi, c'est la pire des peines pour les victimes et pour les habitants."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "On prend ces bracelets électroniques, on prend des anciennes casernes, on prend des hôtels un peu isolés, on prend des bâtiments publics désaffectés, on les transforme en centres fermés qui accueilleront ces détenus euh, avec le bracelet électronique surveillé par la pénitentiaire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Le présentateur demande à Philippe Juvin comment créer des polices municipales armées."
     },
-    {
-        "abstractive": {
-            "text": "Philippe Juvin explique qu'il souhaite que toutes les villes de plus de 10000 habitants aient une policce municipale armée et un réseau de surveillance."
-        },
-        "extractive": [
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Moi, je veux que chaque ville de plus de 10.000 habitants ait une police municipale armée avec un réseau de vidéosurveillance, premièrement."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Philippe Juvin, On parlait des mairies, on parlait des villes, qui accepteraient des prisons, est ce que ça vous pourrez convaincre plus de villes, et, vous, vous voulez aussi avoir, obliger les Communes à avoir une police municipale armée, Est ce que c'est possible?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Philippe Juvin explique qu'il souhaite que toutes les villes de plus de 10000 habitants aient une police municipale armée et un réseau de surveillance."
     },
-    {
-        "abstractive": {
-            "text": "Philippe Juvin explique qu'il veut créer 6000 places de prisons avec des bâtiments préfabriqués, et veut rétablier les peines d'emprisonnements de très courte durée."
-        },
-        "extractive": [
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Deuxièmement, vous l'avez très bien dit, tous, il nous faut plus de places de prison."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Moi, je propose d'emblée la création de 6000 places de prison en préfabriqué pour agir tout de suite."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Deuxièmement, je veux rétablir ce qui a été aboli du temps de monsieur Macron par madame Belloubet, ce sont les peines d'emprisonnement de très courte durée."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Moi, je veux que chaque ville de plus de 10.000 habitants ait une police municipale armée avec un réseau de vidéosurveillance, premièrement."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Philippe Juvin explique qu'il veut créer 6000 places de prisons avec des bâtiments préfabriqués, et veut rétablir les peines d'emprisonnements de très courte durée."
     },
-    {
-        "abstractive": {
-            "text": "Philippe Juvin explique qu'il souhaite libérer des places de prisons, d'un côté pour les criminel non violents, en libérant les détenus qui n'ont pas été jugé définitivement, et en renvoyant les étrangers au début de leur condamnation plutôt qu'à la fin."
-        },
-        "extractive": [
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Troisièmement, je pense qu'il faut que nous repensions la prison, la prison, elle, doit être repensée parce qu'il y a certaines personnes qui sont en prison aujourd'hui qui pourrait libérer des places."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Je veux dire par là que quand quelqu'un est en prison pour un délit routier, il ne va pas s'échapper, ce n'est pas la peine de le mettre dans une prison avec des miradors et des hauts murs."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Deuxième élément pour libérer des places de prison, moi, je suis, c'est philosophique contre la détention provisoire de ceux qui n'ont pas été jugés définitivement."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Les étrangers qu'on renvoie chez eux au début de leur condamnation et pas à la fin, pas à la fin."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Deuxièmement, vous l'avez très bien dit, tous, il nous faut plus de places de prison."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Moi, je propose d'emblée la création de 6000 places de prison en préfabriqué pour agir tout de suite."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Deuxièmement, je veux rétablir ce qui a été aboli du temps de monsieur Macron par madame Belloubet, ce sont les peines d'emprisonnement de très courte durée."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Philippe Juvin explique qu'il souhaite libérer des places de prisons, d'un côté pour les criminels non violents, en libérant les détenus qui n'ont pas été jugé définitivement, et en renvoyant les étrangers au début de leur condamnation plutôt qu'à la fin."
     },
-    {
-        "abstractive": {
-            "text": "Le présentateur demande à Xavier Bertrand d'expliquer ce qu'il propose pour les procureurs."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Vous, vous avez une proposition originale, mais qui surprend et notamment qui surprend beaucoup les juristes, vous voulez déroger à un principe du droit en confiant non plus aux juges, mais aux procureurs, c'est à dire à l'accusation, le soin de prononcer certaines peines, notamment, vous avez dit pour des délits passibles d'une peine inférieure à cinq ans de prison ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Troisièmement, je pense qu'il faut que nous repensions la prison, la prison, elle, doit être repensée parce qu'il y a certaines personnes qui sont en prison aujourd'hui qui pourrait libérer des places."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Je veux dire par là que quand quelqu'un est en prison pour un délit routier, il ne va pas s'échapper, ce n'est pas la peine de le mettre dans une prison avec des miradors et des hauts murs."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Deuxième élément pour libérer des places de prison, moi, je suis, c'est philosophique contre la détention provisoire de ceux qui n'ont pas été jugés définitivement."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Les étrangers qu'on renvoie chez eux au début de leur condamnation et pas à la fin, pas à la fin."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Le présentateur demande à Xavier Bertrand d'expliquer ce qu'il propose pour les procureurs."
     },
-    {
-        "abstractive": {
-            "text": "Xavier Bertrand explique qu'il souhaite que les procureurs puissent agir plus rapidement et qu'ils puissent prononcer les peines passibles d'une peine inférieure à cinq ans de prison."
-        },
-        "extractive": [
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "Je souhaite que les procureurs puissent agir plus rapidement, que ce soit pour des amendes, que ce soit pour des confiscations de véhicules."
-            },
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "Et le maire qui acceptera aura une dotation globale de fonctionnement renforcée, parce qu'il participera aussi à ce service public."
-            },
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "Et l'impunité zéro, elle commence déjà par une chose, ceux qui nous protègent, les policiers nationaux, municipaux, les gendarmes, les pompiers et les maires, je souhaite qu'il y ait des peines minimums obligatoires et je veux un changement de la Constitution dans le référendum de l'automne 2022, il y aura la question des quotas migratoires, il y aura aussi le renforcement 50 ans de peines de prison pour des terroristes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Vous, vous avez une proposition originale, mais qui surprend et notamment qui surprend beaucoup les juristes, vous voulez déroger à un principe du droit en confiant non plus aux juges, mais aux procureurs, c'est à dire à l'accusation, le soin de prononcer certaines peines, notamment, vous avez dit pour des délits passibles d'une peine inférieure à cinq ans de prison ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Xavier Bertrand explique qu'il souhaite que les procureurs puissent agir plus rapidement et qu'ils puissent prononcer les peines passibles d'une peine inférieure à cinq ans de prison."
     },
-    {
-        "abstractive": {
-            "text": "Xavier Bertrand souhaite mettre en places des peines minimums obligatoires dont on ne pourra déroger, créer des quotas migratoires, et augmenter la durée d'emprisonnement des peines de priso"
-        },
-        "extractive": [
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "Et il y aura un autre aspect, c'est que la loi va maintenant fixer la loi pénale un maximum, mais il n'y a pas aujourd'hui de minimum, il y aura ce minimum, c'est à dire que le magistrat, le juge aura l'individualisation des peines, mais entre ce maximum et ce minimum, ce qui veut dire qu'à la différence des peines planchers que Rachida Dati avait conduit avec Nicolas Sarkozy, c'est qu'il ne sera plus possible d'y déroger"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "Je souhaite que les procureurs puissent agir plus rapidement, que ce soit pour des amendes, que ce soit pour des confiscations de véhicules."
+      },
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "Et le maire qui acceptera aura une dotation globale de fonctionnement renforcée, parce qu'il participera aussi à ce service public."
+      },
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "Et l'impunité zéro, elle commence déjà par une chose, ceux qui nous protègent, les policiers nationaux, municipaux, les gendarmes, les pompiers et les maires, je souhaite qu'il y ait des peines minimums obligatoires et je veux un changement de la Constitution dans le référendum de l'automne 2022, il y aura la question des quotas migratoires, il y aura aussi le renforcement 50 ans de peines de prison pour des terroristes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Xavier Bertrand souhaite mettre en place des peines minimums obligatoires dont on ne pourra déroger, créer des quotas migratoires, et augmenter la durée d'emprisonnement des peines de prison."
+    },
+    "extractive": [
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "Et il y aura un autre aspect, c'est que la loi va maintenant fixer la loi pénale un maximum, mais il n'y a pas aujourd'hui de minimum, il y aura ce minimum, c'est à dire que le magistrat, le juge aura l'individualisation des peines, mais entre ce maximum et ce minimum, ce qui veut dire qu'à la différence des peines planchers que Rachida Dati avait conduit avec Nicolas Sarkozy, c'est qu'il ne sera plus possible d'y déroger"
+      }
+    ]
+  }
 ]

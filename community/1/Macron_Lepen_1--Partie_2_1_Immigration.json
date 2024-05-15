@@ -1,202 +1,202 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Marine Le pen et Emmanuel Macron débattent de leur mesures pour combattre le terrorisme et l'immigration."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Très bien, à propos de sécurité, terroriste, c’est quand même un sujet qui préoccupe énormément les Français."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Marine Le Pen et Emmanuel Macron débattent de leurs mesures pour combattre le terrorisme et l'immigration."
     },
-    {
-        "abstractive": {
-            "text": "Marine le pen explique vouloir combattre le terrorisme et le fondamentalisme islamiste en expulsant tous les fichés S étrangers et en déchéant leur nationalité et en les renvoyants dans leur pays d'origine."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Nous vivons encore aujourd’hui sous le régime de l’État d’urgence, je voulais savoir qu’elles sont vos propositions Marine Le Pen, dans le contexte actuel."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "C'est à dire que la sécurité physique de nos compatriotes et la lutte contre le terrorisme et le fondamentalisme Islamiste, vous ne voulez pas la mener,  vous ne voulez pas la mener, Monsieur Macron, moi je sais pourquoi."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Il faut que l’on expulse tout de suite les fichés S étrangers qui sont sur notre territoire."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Tous ceux qui étrangers ont un lien avec le fondamentalisme islamiste, dehors, dehors, tous ceux qui sont double nationaux on mettra en oeuvre la déchéance nationale."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Et, déchus de leur nationalité ils seront également renvoyés dans leur pays."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Très bien, à propos de sécurité, terroriste, c’est quand même un sujet qui préoccupe énormément les Français."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen explique vouloir combattre le terrorisme et le fondamentalisme islamiste en expulsant tous les fichés S étrangers et en déchéant leur nationalité et en les renvoyant dans leur pays d'origine."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron explique que la déchéance de la nationalité ne vas pas empêcher le terrorisme."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Non la déchéance, qui est un débat qui a déjà eu lieu, le président de la République a voulu le faire, ça ne règle rien au sujet."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Simplement quelqu’un qui est dans cette disposition d’esprit, la déchéance de nationalité brandie par Mme Le Pen vous pensez que ça le fait trembler ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Nous vivons encore aujourd’hui sous le régime de l’État d’urgence, je voulais savoir qu’elles sont vos propositions Marine Le Pen, dans le contexte actuel."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "C'est à dire que la sécurité physique de nos compatriotes et la lutte contre le terrorisme et le fondamentalisme Islamiste, vous ne voulez pas la mener,  vous ne voulez pas la mener, Monsieur Macron, moi je sais pourquoi."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Il faut que l’on expulse tout de suite les fichés S étrangers qui sont sur notre territoire."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Tous ceux qui étrangers ont un lien avec le fondamentalisme islamiste, dehors, dehors, tous ceux qui sont double nationaux on mettra en oeuvre la déchéance nationale."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Et, déchus de leur nationalité ils seront également renvoyés dans leur pays."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron explique que la déchéance de la nationalité ne va pas empêcher le terrorisme."
     },
-    {
-        "abstractive": {
-            "text": "Marine Le Pen justifie que si ils sont bannis du territoire, les policiers auront plus de ressources pour surveiller un nombre limité de personnes, et explique qu'Emmanuel Macron n'a pas de programmes contre l'immigration."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Voilà, déjà tous ceux-là ils ne sont plus sur le territoire et donc nos policiers et gendarmes peuvent continuer à surveiller un nombre qui soit limité de personne."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Le lendemain de l’attentat, vous avez dit, je ne vais pas inventer, quand même, un programme dans la nuit contre le terrorisme, c'est-à-dire que vous vous présentez à l'élection présidentielle et vous n’avez même pas un programme constitué, sérieux, cohérent."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je pense qu’il faut s’attaquer à la racine du mal, la racine du mal c'est le développement exponentiel du fondamentaliste islamiste sur notre territoire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Non la déchéance, qui est un débat qui a déjà eu lieu, le président de la République a voulu le faire, ça ne règle rien au sujet."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Simplement quelqu’un qui est dans cette disposition d’esprit, la déchéance de nationalité brandie par Mme Le Pen vous pensez que ça le fait trembler ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen justifie que si ils sont bannis du territoire, les policiers auront plus de ressources pour surveiller un nombre limité de personnes, et explique qu'Emmanuel Macron n'a pas de programmes contre l'immigration."
     },
-    {
-        "abstractive": {
-            "text": "Marine Le Pen souhaite fermer les mosquées salafistes, arrêter les financements de l'étrangers, et améliorer le système judiciaire."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Il faut évidemment fermer les mosquées salafistes, il faut expulser les prêcheurs de haine, il faut aussi s’attaquer aux associations, qui vous soutiennent Monsieur Macron, comme l’UOIF."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Il faut arrêter les financements étrangers de la part de pays que M. Macron connaît bien, n’est-ce pas ?"
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Puis au-delà de ça, pardon, il y a le laxisme judiciaire qui fait que l’explosion de l’insécurité, que j’appelle quotidienne, est aujourd’hui un poids insupportable, non seulement dans les villes mais également dans les campagnes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Voilà, déjà tous ceux-là ils ne sont plus sur le territoire et donc nos policiers et gendarmes peuvent continuer à surveiller un nombre qui soit limité de personne."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Le lendemain de l’attentat, vous avez dit, je ne vais pas inventer, quand même, un programme dans la nuit contre le terrorisme, c'est-à-dire que vous vous présentez à l'élection présidentielle et vous n’avez même pas un programme constitué, sérieux, cohérent."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je pense qu’il faut s’attaquer à la racine du mal, la racine du mal c'est le développement exponentiel du fondamentaliste islamiste sur notre territoire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen souhaite fermer les mosquées salafistes, arrêter les financements de l'étrangers, et améliorer le système judiciaire."
     },
-    {
-        "abstractive": {
-            "text": "Marine Le Pen souhaite aussi créer quarante mille places de prisons, ainsi que renvoyer les prisonniers étrangers faire leur peines dans leur pays."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Il faut créer, non pas quinze mille, mais quarante mille places de prisons, Monsieur Macron."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Il faut évidemment fermer les mosquées salafistes, il faut expulser les prêcheurs de haine, il faut aussi s’attaquer aux associations, qui vous soutiennent Monsieur Macron, comme l’UOIF."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Il faut arrêter les financements étrangers de la part de pays que M. Macron connaît bien, n’est-ce pas ?"
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Puis au-delà de ça, pardon, il y a le laxisme judiciaire qui fait que l’explosion de l’insécurité, que j’appelle quotidienne, est aujourd’hui un poids insupportable, non seulement dans les villes mais également dans les campagnes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen souhaite aussi créer quarante mille places de prisons, ainsi que renvoyer les prisonniers étrangers faire leur peines dans leur pays."
     },
-    {
-        "abstractive": {
-            "text": "Marine le Pen attaque aussi Emmanuel Macron pour ses soutiens de l'UOIF."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Puis pour libérer un nombre de places tout de suite il faut passer des accords bilatéraux avec les pays d’où sont issus les étrangers qui sont incarcérés dans notre pays, pour qu’ils aillent faire leur peine dans leur pays d’origine."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Il faut créer, non pas quinze mille, mais quarante mille places de prisons, Monsieur Macron."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen attaque aussi Emmanuel Macron pour ses soutiens de l'UOIF."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron explique que la lutte contre le terrorisme est la priorité des prochaines années, pour cela, il souhaite mettre des moyens dans les systèmes de renseignements, notamment territorial."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Le terrorisme, et la menace terroriste, c’est la priorité des prochaines années, la priorité."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Cela suppose de renforcer les moyens de police et d’avoir une action, en effet, avant que les attentats interviennent."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Donc, sur les fichés S, ce sont des fichiers de renseignement, en la matière je suis pour renforcer les mesures, y compris les mesures qui peuvent être privatives de liberté sur les fichés S liés à des activités djihadistes."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais là tous les professionnels vous le disent, ce sont des fichiers de renseignement, si vous croisez un djihadiste vous pouvez être fiché S, donc tous les mettre en prison ou tous les mettre hors des frontières n’aurait pas de sens."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Puis pour libérer un nombre de places tout de suite il faut passer des accords bilatéraux avec les pays d’où sont issus les étrangers qui sont incarcérés dans notre pays, pour qu’ils aillent faire leur peine dans leur pays d’origine."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron explique que la lutte contre le terrorisme est la priorité des prochaines années, pour cela, il souhaite mettre des moyens dans les systèmes de renseignements, notamment territorial."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron souhaite améliorer le renseignement cyber, ainsi que créer une taskforce qui coordonera les services de renseignement."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Donc la clef c’est d’améliorer le renseignement, de le renforcer."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais je suis sur une mesure beaucoup plus chirurgicale et pas une mesure générale, comme Mme Le Pen, qui ne permettrait pas à nos forces de police de travailler."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Je veux reconstituer les forces de renseignement, le renseignement territorial a été démantelé, il faut aller beaucoup plus loin sur le territoire."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Donc l’effort de renseignement doit être fait sur nos territoires et partout, avec un lien renforcé sur le renseignement cyber, c'est-à-dire sur internet."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Et pour coordonner cela au mieux, pour prévenir plutôt que guérir, je créerai, une «taskforce» une cellule auprès du président de la République, et pas une agence comme vous le proposez, auprès du Premier ministre, qui coordonnera les services de renseignement, c’est la mère des batailles."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Le terrorisme, et la menace terroriste, c’est la priorité des prochaines années, la priorité."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Cela suppose de renforcer les moyens de police et d’avoir une action, en effet, avant que les attentats interviennent."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Donc, sur les fichés S, ce sont des fichiers de renseignement, en la matière je suis pour renforcer les mesures, y compris les mesures qui peuvent être privatives de liberté sur les fichés S liés à des activités djihadistes."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais là tous les professionnels vous le disent, ce sont des fichiers de renseignement, si vous croisez un djihadiste vous pouvez être fiché S, donc tous les mettre en prison ou tous les mettre hors des frontières n’aurait pas de sens."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron souhaite améliorer le renseignement cyber, ainsi que créer une taskforce qui coordonnera les services de renseignements."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron explique que la fermeture des frontières ne sert à rien, et que c'est la coopération entre les états européens qui aidera le plus."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Ensuite la fermeture des frontières et le reste ça ne sert à rien."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "C’est le renseignement et c’est la coopération entre les différents États, c’est pour cela que nous avons besoin d’une plus grande coopération entre les États membres de l’Union européenne."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Donc la clef c’est d’améliorer le renseignement, de le renforcer."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais je suis sur une mesure beaucoup plus chirurgicale et pas une mesure générale, comme Mme Le Pen, qui ne permettrait pas à nos forces de police de travailler."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Je veux reconstituer les forces de renseignement, le renseignement territorial a été démantelé, il faut aller beaucoup plus loin sur le territoire."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Donc l’effort de renseignement doit être fait sur nos territoires et partout, avec un lien renforcé sur le renseignement cyber, c'est-à-dire sur internet."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Et pour coordonner cela au mieux, pour prévenir plutôt que guérir, je créerai, une «taskforce» une cellule auprès du président de la République, et pas une agence comme vous le proposez, auprès du Premier ministre, qui coordonnera les services de renseignement, c’est la mère des batailles."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron explique que la fermeture des frontières ne sert à rien, et que c'est la coopération entre les états européens qui aidera le plus."
     },
-    {
-        "abstractive": {
-            "text": "Marine le pen explique qu'elle mettra des douaniers aux frontières qui combattront le terrorisme."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "On va mettre des douaniers qui vont surveiller nos frontières et qui vont surveiller nos aéroports."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Ensuite la fermeture des frontières et le reste ça ne sert à rien."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "C’est le renseignement et c’est la coopération entre les différents États, c’est pour cela que nous avons besoin d’une plus grande coopération entre les États membres de l’Union européenne."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen explique qu'elle mettra des douaniers aux frontières qui combattront le terrorisme."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron finit en expliquant que si l'UOIF mène des activités illégales, il l'interdir"
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Sur l’UOIF c’est simple, si l’UOIF prononce, invite, mène des activités qui sont contraires aux lois de la République, je la ferai interdire"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "On va mettre des douaniers qui vont surveiller nos frontières et qui vont surveiller nos aéroports."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron finit en expliquant que si l'UOIF mène des activités illégales, il l'interdira."
+    },
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Sur l’UOIF c’est simple, si l’UOIF prononce, invite, mène des activités qui sont contraires aux lois de la République, je la ferai interdire"
+      }
+    ]
+  }
 ]

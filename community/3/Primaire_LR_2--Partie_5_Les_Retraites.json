@@ -1,130 +1,130 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Retailleau, Ciotti et Pradié discutent de la question des retraites."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Bruno Retailleau, au Sénat, vous avez voté un projet de loi avec le report de l'âge légal à 64 ans, à l'intérieur du projet de loi de financement de la Sécurité sociale."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Retailleau, Eric Ciotti et Aurélien Pradié discutent de la question des retraites."
     },
-    {
-        "abstractive": {
-            "text": "Retailleau souhaite un report de l’âge légal à 64 ans pour pouvoir continuer à financer le régime par répartition."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Première chose, garantir le pouvoir d'achat demain à nos retraités."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Et moi, je suis favorable à actionner les deux leviers."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Le levier du report de l'âge, autour de 64 ans, et le levier aussi de la durée de cotisation."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Bruno Retailleau, au Sénat, vous avez voté un projet de loi avec le report de l'âge légal à 64 ans, à l'intérieur du projet de loi de financement de la Sécurité sociale."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau souhaite un report de l’âge légal à 64 ans pour pouvoir continuer à financer le régime par répartition."
     },
-    {
-        "abstractive": {
-            "text": "Il voudrait par ailleurs mettre en place une pension minium de 1 200 euros et une reversion de l’indemnité pour les enfants handicapés."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Deuxième chose, faire comme dans le service public, avoir un minimum garanti de 1 200 euros."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Et enfin, une allocation, une reversion pour les enfants handicapés pour qu'après la mort du papa et de la maman, il puisse y avoir une reversion de la pension."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Première chose, garantir le pouvoir d'achat demain à nos retraités."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Et moi, je suis favorable à actionner les deux leviers."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Le levier du report de l'âge, autour de 64 ans, et le levier aussi de la durée de cotisation."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il voudrait par ailleurs mettre en place une pension minium de 1 200 euros et une réversion de l’indemnité pour les enfants handicapés."
     },
-    {
-        "abstractive": {
-            "text": "Pradié, lui, ne veut pas augmenter l’âge légal car il pense que cela pénalisera les carrières longues."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Aurélien Pradier, vous ne souhaitez pas le report de l'âge légal de départ à la retraite, qui est une proposition que la droite fait depuis des années, et on vient encore de l'entendre."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Celui qui a commencé à travailler tôt, finit tôt."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Celui qui a commencé à travailler tard, finit plus tard."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Deuxième chose, faire comme dans le service public, avoir un minimum garanti de 1 200 euros."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Et enfin, une allocation, une reversion pour les enfants handicapés pour qu'après la mort du papa et de la maman, il puisse y avoir une reversion de la pension."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pradié, lui, ne veut pas augmenter l’âge légal car il pense que cela pénalisera les carrières longues."
     },
-    {
-        "abstractive": {
-            "text": "Pour pouvoir financer le régime actuel, il veut stopper l’aide médicale d’urgence (1 milliard d’économie) et aligner les régimes du public sur ceux du privé (20 milliards)."
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Qu'on fasse le ménage dans l'aide médicale d'État, un milliard d'euros par an."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Dans le rapprochement entre les régimes du public et du privé, dans les 20 milliards que coûtent chaque année les agences de l'État, dans les 400 000 emplois vacants que nous avons aujourd'hui qui pourraient être autant de cotisants."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Aurélien Pradier, vous ne souhaitez pas le report de l'âge légal de départ à la retraite, qui est une proposition que la droite fait depuis des années, et on vient encore de l'entendre."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Celui qui a commencé à travailler tôt, finit tôt."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Celui qui a commencé à travailler tard, finit plus tard."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour pouvoir financer le régime actuel, il veut stopper l’aide médicale d’urgence (1 milliard d’économie) et aligner les régimes du public sur ceux du privé (20 milliards)."
     },
-    {
-        "abstractive": {
-            "text": "Ciotti entend quant à lui permettre aux travailleurs soit de partir à 65 ans, soit après avoir cotisé pendant 45 ans."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "La France, les Français travaillent beaucoup moins sur la durée d'une vie que dans tous les pays européens et chez tous nos grands concurrents."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Et chaque personne qui va aller à la retraite, qui va ouvrir ses droits à la retraite choisit, soit il part à 65 ans, soit il part quand il a 45 ans d'annuité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Qu'on fasse le ménage dans l'aide médicale d'État, un milliard d'euros par an."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Dans le rapprochement entre les régimes du public et du privé, dans les 20 milliards que coûtent chaque année les agences de l'État, dans les 400 000 emplois vacants que nous avons aujourd'hui qui pourraient être autant de cotisants."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti entend quant à lui permettre aux travailleurs soit de partir à 65 ans, soit après avoir cotisé pendant 45 ans."
     },
-    {
-        "abstractive": {
-            "text": "Retailleau explique ensuite que ceux ayant travaillé avant 20 ans pourront dans son système partir à 60 ans ; il défend le report de l’âge légal plutôt que l’allongement de la durée de cotisation à 45 ans, mesure qu’il trouve violente."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Mais, longues carrières,ça veut dire que quand vous avez cotisé 4 trimestres avant votre 20e année, vous pouvez partir à 60 ans."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Vous voyez bien que 45 ans, c'est très violent."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "La France, les Français travaillent beaucoup moins sur la durée d'une vie que dans tous les pays européens et chez tous nos grands concurrents."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Et chaque personne qui va aller à la retraite, qui va ouvrir ses droits à la retraite choisit, soit il part à 65 ans, soit il part quand il a 45 ans d'annuité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau explique ensuite que ceux ayant travaillé avant 20 ans pourront dans son système partir à 60 ans ; il défend le report de l’âge légal plutôt que l’allongement de la durée de cotisation à 45 ans, mesure qu’il trouve violente."
     },
-    {
-        "abstractive": {
-            "text": "Concernant la réforme des retraites proposées par Macron, Pradié refuse catégoriquement de voter en sa faveur ; Retailleau et Ciotti, plus nuancés, n’excluent pas de la voter si elle correspond à leur ligne"
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Je ne ferai pas la courte échelle à Emmanuel Macron sur la réforme des retraites."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Si la réforme des retraites qui nous est proposée correspond à ce qu'on a toujours souhaité, il n'y a aucune raison que je ne la vote pas."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Donc si ça sauve le système de retraite et si ça protège les retraités d'aujourd'hui et de demain, je la voterai."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Mais, longues carrières,ça veut dire que quand vous avez cotisé 4 trimestres avant votre 20e année, vous pouvez partir à 60 ans."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Vous voyez bien que 45 ans, c'est très violent."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Concernant la réforme des retraites proposées par Macron, Aurélien Pradié refuse catégoriquement de voter en sa faveur ; Bruno Retailleau et Ciotti, plus nuancés, n’excluent pas de la voter si elle correspond à leur ligne."
+    },
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Je ne ferai pas la courte échelle à Emmanuel Macron sur la réforme des retraites."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Si la réforme des retraites qui nous est proposée correspond à ce qu'on a toujours souhaité, il n'y a aucune raison que je ne la vote pas."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Donc si ça sauve le système de retraite et si ça protège les retraités d'aujourd'hui et de demain, je la voterai."
+      }
+    ]
+  }
 ]

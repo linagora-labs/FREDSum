@@ -1,77 +1,77 @@
 [
-    {
-        "abstractive": {
-            "text": "La ristourne sur l’essence prenant fin sous peu, le gouvernement souhaite mettre en place une nouvelle aide, plus ciblée."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Il y avait une ristourne, elle va prendre fin."
-            },
-            {
-                "speaker": "P1",
-                "text": "La première ministre a dit qu'on va cibler cette aide sur les travailleurs."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "La ristourne sur l’essence prenant fin sous peu, le gouvernement souhaite mettre en place une nouvelle aide, plus ciblée."
     },
-    {
-        "abstractive": {
-            "text": "Retailleau, bien que méfiant, est d’accord sur le principe ; il souhaite réserver cette aide aux automobilistes ayant besoin de leur voiture pour se rendre au travail."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Et du coup, ceux qui ont besoin de leur voiture, leur voiture diesel, essence, ont besoin pour aller travailler."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Je pense qu'il faut cibler sur ces rouleurs-là parce que la voiture, pour eux, c'est l'instrument qui les mène au travail."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Il y avait une ristourne, elle va prendre fin."
+      },
+      {
+        "speaker": "P1",
+        "text": "La première ministre a dit qu'on va cibler cette aide sur les travailleurs."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Retailleau, bien que méfiant, est d’accord sur le principe ; il souhaite réserver cette aide aux automobilistes ayant besoin de leur voiture pour se rendre au travail."
     },
-    {
-        "abstractive": {
-            "text": "Pradié salue la ristourne mais contrairement à Retailleau, il préfère une baisse des taxes sur les carburants qui soit durable, plutôt que la simple distribution d’aides, mesure trop bureaucratique."
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Nous avons bien fait, à l'Assemblée nationale, de nous battre ardemment pour la ristourne sur le prix des carburants et le faire descendre à 1,50 €."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Ce que nous proposerons, et je pense que nous avons ce point d'accord, que nous supprimions la TVA qui s'applique déjà sur la première taxe sur les carburants."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "On ne peut pas, il y a quelques secondes, nous dire que la politique des SERFA, de la bureaucratisation, était un problème et ensuite se dire qu'on va cibler les rouleurs."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Et du coup, ceux qui ont besoin de leur voiture, leur voiture diesel, essence, ont besoin pour aller travailler."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Je pense qu'il faut cibler sur ces rouleurs-là parce que la voiture, pour eux, c'est l'instrument qui les mène au travail."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Aurélien Pradié salue la ristourne mais contrairement à Retailleau, il préfère une baisse des taxes sur les carburants qui soit durable, plutôt que la simple distribution d’aides, mesure trop bureaucratique."
     },
-    {
-        "abstractive": {
-            "text": "Ciotti défend également cette ligne, et ce depuis l’année dernière ; il fustige la politique de Macron qu’il trouve profondément hostile aux automobilistes ainsi qu’aux propriétaires."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Oui, c'est toujours ce que j'ai proposé, je l'avais déjà fait l'année dernière."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Mais moi, ce que je veux souligner, c'est que l'automobiliste est devenu, depuis l'élection de M. Macron, la cible."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Nous avons bien fait, à l'Assemblée nationale, de nous battre ardemment pour la ristourne sur le prix des carburants et le faire descendre à 1,50 €."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Ce que nous proposerons, et je pense que nous avons ce point d'accord, que nous supprimions la TVA qui s'applique déjà sur la première taxe sur les carburants."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "On ne peut pas, il y a quelques secondes, nous dire que la politique des SERFA, de la bureaucratisation, était un problème et ensuite se dire qu'on va cibler les rouleurs."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti défend également cette ligne, et ce depuis l’année dernière ; il fustige la politique de Emmanuel Macron qu’il trouve profondément hostile aux automobilistes ainsi qu’aux propriétaires."
     },
-    {
-        "abstractive": {
-            "text": "La voiture est selon lui nécessaire pour le travail comme pour la liberté des Français"
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Moi, je dis aidons les automobilistes, parce que la voiture, d'abord, ça peut être un instrument de travail, c'est aussi un instrument de liberté et on a un peu besoin de liberté dans ce pays qui étouffe tout."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Oui, c'est toujours ce que j'ai proposé, je l'avais déjà fait l'année dernière."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Mais moi, ce que je veux souligner, c'est que l'automobiliste est devenu, depuis l'élection de M. Macron, la cible."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "La voiture est selon lui nécessaire pour le travail comme pour la liberté des Français."
+    },
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Moi, je dis aidons les automobilistes, parce que la voiture, d'abord, ça peut être un instrument de travail, c'est aussi un instrument de liberté et on a un peu besoin de liberté dans ce pays qui étouffe tout."
+      }
+    ]
+  }
 ]

@@ -1,137 +1,137 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Retailleau, Ciotti et Pradié débattent de la question de la défense nationale."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Eric Ciotti, première question, est-ce que la France doit aller plus loin, doit faire plus pour l'Ukraine?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Retailleau, Eric Ciotti et Aurélien Pradié débattent de la question de la défense nationale."
     },
-    {
-        "abstractive": {
-            "text": "Ciotti rappelle que la France doit chercher la paix et être indépendante des États-Unis et du bloc de l’est."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "La France doit faire plus pour la paix, toujours."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Moi, ma position dans ce conflit, elle n'a qu'une référence, c'est la vision du général de Gaulle."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Celle de l'indépendance entre les blocs, ni suivisme des États-Unis, ni suivisme du bloc de l'Est."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Eric Ciotti, première question, est-ce que la France doit aller plus loin, doit faire plus pour l'Ukraine?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti rappelle que la France doit chercher la paix et être indépendante des États-Unis et du bloc de l’est."
     },
-    {
-        "abstractive": {
-            "text": "Retailleau salue la vaillance des Ukrainiens et entend continuer à les soutenir."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Est-ce qu'on doit pousser Volodimir Zelenski à la table des négociations?"
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Non, c'est aux Ukrainiens de nous dire quand est-ce qu'ils devront négocier."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Alors oui, je pense qu'il faut qu'on continue à les soutenir."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "La France doit faire plus pour la paix, toujours."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Moi, ma position dans ce conflit, elle n'a qu'une référence, c'est la vision du général de Gaulle."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Celle de l'indépendance entre les blocs, ni suivisme des États-Unis, ni suivisme du bloc de l'Est."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau salue la vaillance des Ukrainiens et entend continuer à les soutenir."
     },
-    {
-        "abstractive": {
-            "text": "Il explique néanmoins qu’il est nécessaire de maintenir un dialogue avec la Russie, même si la situation actuelle exige avant tout d’être aux côtés de l’Ukraine."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Je pense qu'il faut préserver le dialogue parce qu'à un moment ou à un autre, il faudra sortir de la guerre, il faudra trouver les moyens de la paix."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Est-ce qu'on doit pousser Volodimir Zelenski à la table des négociations?"
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Non, c'est aux Ukrainiens de nous dire quand est-ce qu'ils devront négocier."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Alors oui, je pense qu'il faut qu'on continue à les soutenir."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il explique néanmoins qu’il est nécessaire de maintenir un dialogue avec la Russie, même si la situation actuelle exige avant tout d’être aux côtés de l’Ukraine."
     },
-    {
-        "abstractive": {
-            "text": "Quant à Pradié, il pense qu’il est nécessaire de rester dans le commandement intégré de l’OTAN pour que la France puisse peser à l’international."
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Le monde a changé, désormais, cette bataille-là, nous devons la mener avec l'OTAN."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "La France peut parfaitement, au sein du commandement intégré de l'OTAN, peser."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "La deuxième chose à dire, et je le partage avec mes amis, c'est que la parole de la France aujourd'hui n'est plus entendue."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Je pense qu'il faut préserver le dialogue parce qu'à un moment ou à un autre, il faudra sortir de la guerre, il faudra trouver les moyens de la paix."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Quant à Pradié, il pense qu’il est nécessaire de rester dans le commandement intégré de l’OTAN pour que la France puisse peser à l’international."
     },
-    {
-        "abstractive": {
-            "text": "Il estime également que la loi de programmation militaire de Macron est insuffisante (50 milliards à l’horizon 2025) et se désole de l’extinction voulue par Macron du corps diplomatique."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Le budget de l'armée était à 32 milliards lorsqu'il arrivait au pouvoir en 2017, et il projette de le porter à 44 milliards l'année prochaine, peut-être 50 milliards à l'horizon 2025."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "C'est très insuffisant."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "L'extinction du corps diplomatique, c'est Emmanuel Macron."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Le monde a changé, désormais, cette bataille-là, nous devons la mener avec l'OTAN."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "La France peut parfaitement, au sein du commandement intégré de l'OTAN, peser."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "La deuxième chose à dire, et je le partage avec mes amis, c'est que la parole de la France aujourd'hui n'est plus entendue."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il estime également que la loi de programmation militaire de Emmanuel Macron est insuffisante (50 milliards à l’horizon 2025) et se désole de l’extinction voulue par Emmanuel Macron du corps diplomatique."
     },
-    {
-        "abstractive": {
-            "text": "Il ne se prononce pas sur sa volonté de voter en sa faveur ou non"
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Voterez-vous cette loi de programmation militaire ou à la place, que feriez-vous ?"
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Nous aurions dû la voter depuis plusieurs mois et même avant la fin du quinquennat précédent"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Le budget de l'armée était à 32 milliards lorsqu'il arrivait au pouvoir en 2017, et il projette de le porter à 44 milliards l'année prochaine, peut-être 50 milliards à l'horizon 2025."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "C'est très insuffisant."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "L'extinction du corps diplomatique, c'est Emmanuel Macron."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il ne se prononce pas sur sa volonté de voter en sa faveur ou non."
     },
-    {
-        "abstractive": {
-            "text": "Retailleau est plus nuancé : il entend pouvoir voter cette loi si la trajectoire est revue à la hausse."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Si cette loi de programmation militaire va au-delà de ce qui est prévu, et pour ma part, mon analyse, c'est plus 4 milliards d'euros par an en plus de la trajectoire qui est prévue, bien sûr."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Voterez-vous cette loi de programmation militaire ou à la place, que feriez-vous ?"
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Nous aurions dû la voter depuis plusieurs mois et même avant la fin du quinquennat précédent"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau est plus nuancé : il entend pouvoir voter cette loi si la trajectoire est revue à la hausse."
     },
-    {
-        "abstractive": {
-            "text": "Ciotti pense qu’il faut réarmer l’État et voit cette loi arriver beaucoup trop tard."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Donc, ça a été dit, il faut naturellement réarmer."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Si cette loi de programmation militaire va au-delà de ce qui est prévu, et pour ma part, mon analyse, c'est plus 4 milliards d'euros par an en plus de la trajectoire qui est prévue, bien sûr."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti pense qu’il faut réarmer l’État et voit cette loi arriver beaucoup trop tard."
+    },
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Donc, ça a été dit, il faut naturellement réarmer."
+      }
+    ]
+  }
 ]

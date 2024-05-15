@@ -1,158 +1,158 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Eric Zemmour et Valérie Pécresse discutent de la retraite et de l'économie."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Aujourd'hui est arrivé un fait, d'actualité important, l'un des douze candidats qualifiés, emmanuel Macron, qui est actuellement en tête, si l'on en croit les sondages, a fait une proposition."
-            },
-            {
-                "speaker": "P1",
-                "text": "Il veut porter l'âge légal de départ à la retraite, à soixante-cinq ans, ce qui n'est pas le cas aujourd'hui."
-            },
-            {
-                "speaker": "P1",
-                "text": "Vous appréciez cette, cette mesure à sa juste valeur ?"
-            },
-            {
-                "speaker": "P1",
-                "text": "Il augmente aussi l’âge de la retraite à soixante-quatre ans."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Eric Zemmour et Valérie Pécresse discutent de la retraite et de l'économie."
     },
-    {
-        "abstractive": {
-            "text": "Valérie Pécresse explique qu'elle a beaucoup de réforme pour faire des économies, et qu'Eric Zemmour ne finance pas son programme."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Ce qu'on voit c’est que ce qu'emmanuel macron candidat promet, c’est tout ce que emmanuel macron président n'a pas fait."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Mais, sur les questions économiques, c'est quand même très important."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Euh, parce que je sais que pour éric zemmour, c'est totalement secondaire, puisque, lui, dans son programme, il a cent cinquante milliards de dépenses non financées."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Aujourd'hui est arrivé un fait, d'actualité important, l'un des douze candidats qualifiés, emmanuel Macron, qui est actuellement en tête, si l'on en croit les sondages, a fait une proposition."
+      },
+      {
+        "speaker": "P1",
+        "text": "Il veut porter l'âge légal de départ à la retraite, à soixante-cinq ans, ce qui n'est pas le cas aujourd'hui."
+      },
+      {
+        "speaker": "P1",
+        "text": "Vous appréciez cette, cette mesure à sa juste valeur ?"
+      },
+      {
+        "speaker": "P1",
+        "text": "Il augmente aussi l’âge de la retraite à soixante-quatre ans."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse explique qu'elle a beaucoup de réformes pour faire des économies, et qu'Eric Zemmour ne finance pas son programme."
     },
-    {
-        "abstractive": {
-            "text": "Valérie Pécresse souhaite augmenter l'âge légal de départ à la retraite à soixante cinq ans, faire une réforme de l'assurance chômage, et supprimer deux cent mille postes de fonctionnaires."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Aucune suppression de postes de fonctionnaires, pas de réforme de l'assurance chômage."
-            },
-            {
-                "speaker": "P1",
-                "text": "Dites vous aux français, moi présidente, la retraite sera à soixante cinq ans ?"
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Mais, moi, je l ai, j ai dit, déjà, je ferai cette réforme, jusqu'à soixante-cinq ans, sauf pour les français, qui, sont usés par leur travail, ont une carrière longue et pénible."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "J'ai dit que je ferai la réforme de l'assurance chômage, j'ai dit que je ferai la réforme de l'état."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "J'ai dit que je supprimerai deux cent mille postes de fonctionnaires."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Ce qu'on voit c’est que ce qu'emmanuel macron candidat promet, c’est tout ce que emmanuel macron président n'a pas fait."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Mais, sur les questions économiques, c'est quand même très important."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Euh, parce que je sais que pour éric zemmour, c'est totalement secondaire, puisque, lui, dans son programme, il a cent cinquante milliards de dépenses non financées."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse souhaite augmenter l'âge légal de départ à la retraite à soixante cinq ans, faire une réforme de l'assurance chômage, et supprimer deux cent mille postes de fonctionnaires."
     },
-    {
-        "abstractive": {
-            "text": "Valérie pécresse souhaite aussi mettre le smic comme pension minimum de retraite, et augmenter les pensions de reversion des veuves à soixante quinze pour cent."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Mille cent euros de pension minimum dit, euh, emmanuel macron, candidat, vous vous dites mille euros."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Non, moi, je dis le smic net, parce que, avec cette réforme, je peux dégager des, des, des, des ressources, jusqu'au smic net, pour que il n'y ait plus un seul retraités qui partent à la retraite sans le smic net."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Et je propose de passer les pensions de reversion des veuves, de cinquante-quatre pour cent à soixante-quinze pour cent pour les veuves qui n'ont pas de carrière complète."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Aucune suppression de postes de fonctionnaires, pas de réforme de l'assurance chômage."
+      },
+      {
+        "speaker": "P1",
+        "text": "Dites vous aux français, moi présidente, la retraite sera à soixante cinq ans ?"
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Mais, moi, je l ai, j ai dit, déjà, je ferai cette réforme, jusqu'à soixante-cinq ans, sauf pour les français, qui, sont usés par leur travail, ont une carrière longue et pénible."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "J'ai dit que je ferai la réforme de l'assurance chômage, j'ai dit que je ferai la réforme de l'état."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "J'ai dit que je supprimerai deux cent mille postes de fonctionnaires."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse souhaite aussi mettre le SMIC comme pension minimum de retraite, et augmenter les pensions de réversion des veuves à soixante quinze pour cent."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique qu'il souhaite retarder l'âge de départ à la retraite à soixante quatre ans."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "On est pas dans une cour de récréation, alors, mais alors, éric zemmour répondez, alors, répondez, et valérie pécresse a dit que vous faisiez pas de réforme de fond, et que vos solution, c'est-à-dire, en gros, supprimer un certain nombre de dépenses liées à l'immigration, ne suffirait largement pas à euh, combler les déficits, et à faire des réformes de fonds."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je dis, depuis des mois, euh, je parle de retarder l'âge de la retraite à soixante-quatre ans."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Mille cent euros de pension minimum dit, euh, emmanuel macron, candidat, vous vous dites mille euros."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Non, moi, je dis le smic net, parce que, avec cette réforme, je peux dégager des, des, des, des ressources, jusqu'au smic net, pour que il n'y ait plus un seul retraités qui partent à la retraite sans le smic net."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Et je propose de passer les pensions de reversion des veuves, de cinquante-quatre pour cent à soixante-quinze pour cent pour les veuves qui n'ont pas de carrière complète."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique qu'il souhaite retarder l'âge de départ à la retraite à soixante quatre ans."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique qu'il n'annonce pas des réductions d'effectifs publics, qui sont des promesses qui ne peuvent être tenues sans une étude des besoins."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Moi, je ne propose pas, effectivement, vous avez raison, j'annonce pas triomphalement, des réductions d'effectifs publics, parce que, euh, j'ai compris, avec la campagne de deux mille dix-sept, que tout ça, euh, n'était que paroles verbales."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je dis, il ne faut pas promettre, il faut, quand on est au pouvoir, faire une évaluation stricte des besoins."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Il y a des secteurs, même madame pécresse le reconnaît, où il faudra embaucher, la justice, par exemple, la santé, vous êtes d'accord, au moins, là-dessus."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "On est pas dans une cour de récréation, alors, mais alors, éric zemmour répondez, alors, répondez, et valérie pécresse a dit que vous faisiez pas de réforme de fond, et que vos solution, c'est-à-dire, en gros, supprimer un certain nombre de dépenses liées à l'immigration, ne suffirait largement pas à euh, combler les déficits, et à faire des réformes de fonds."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je dis, depuis des mois, euh, je parle de retarder l'âge de la retraite à soixante-quatre ans."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique qu'il n'annonce pas des réductions d'effectifs publics, qui sont des promesses qui ne peuvent être tenues sans une étude des besoins."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique qu'il fera des économies sur les prestations sociales non contributives aux étrangers, et en luttant contre la fraude sociale."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Alors, je répète, pour les économies, des prestations sociales non contributives aux étrangers, non européens, c'est vingt milliards, pas quatre milliards, madame Pécresse."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Deuxièmement, enfin, il y a, il y a, il y a, la, la lutte contre la fraude sociale, qu'on peut évaluer à quinze milliards."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Moi, je ne propose pas, effectivement, vous avez raison, j'annonce pas triomphalement, des réductions d'effectifs publics, parce que, euh, j'ai compris, avec la campagne de deux mille dix-sept, que tout ça, euh, n'était que paroles verbales."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je dis, il ne faut pas promettre, il faut, quand on est au pouvoir, faire une évaluation stricte des besoins."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Il y a des secteurs, même madame pécresse le reconnaît, où il faudra embaucher, la justice, par exemple, la santé, vous êtes d'accord, au moins, là-dessus."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique qu'il fera des économies sur les prestations sociales non contributives aux étrangers, et en luttant contre la fraude sociale."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour propose aussi un allègement économiques des charges, avec trente milliards de baisses d'impôts de production, et une réduction de l'impôt sur les sociétés"
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Par ailleurs, nous avons un programme d'allègement économiques des charges, avec trente milliards de baisses d'impôts, de production, qui vont créer de la richesse."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Nous avons un, euh, un, un système de réduction de l'IS, de l'impôt sur les sociétés."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Euh, car nous augmentons le plafond, là, qui est aujourd'hui, à trente huit milles, jusqu'à trois cent mille"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Alors, je répète, pour les économies, des prestations sociales non contributives aux étrangers, non européens, c'est vingt milliards, pas quatre milliards, madame Pécresse."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Deuxièmement, enfin, il y a, il y a, il y a, la, la lutte contre la fraude sociale, qu'on peut évaluer à quinze milliards."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour propose aussi un allègement économique des charges, avec trente milliards de baisses d'impôts de production, et une réduction de l'impôt sur les sociétés."
+    },
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Par ailleurs, nous avons un programme d'allègement économiques des charges, avec trente milliards de baisses d'impôts, de production, qui vont créer de la richesse."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Nous avons un, euh, un, un système de réduction de l'IS, de l'impôt sur les sociétés."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Euh, car nous augmentons le plafond, là, qui est aujourd'hui, à trente huit milles, jusqu'à trois cent mille"
+      }
+    ]
+  }
 ]

@@ -1,110 +1,110 @@
 [
-    {
-        "abstractive": {
-            "text": "Ciotti commence paradoxalement par souligner la nécessité de diminuer les impôts."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Je veux commencer par baisser les impôts."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Eric Ciotti commence paradoxalement par souligner la nécessité de diminuer les impôts."
     },
-    {
-        "abstractive": {
-            "text": "Il souhaite notamment supprimer l’impôt sur l’héritage, une partie des taxes sur les carburants, diminuer l’impôt sur le revenu et supprimer plusieurs agences de l’État."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Il faut commencer par supprimer l'impôt sur la mort, l'impôt sur les successions, qui est une injustice."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Il faut supprimer la taxe sur la taxe, sur les carburants."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Ça coûtera moins, quelquefois, peut-être autant, mais ça sera vertueux parce que ça donnera une immense accélération à la création d'emplois, de richesse et de croissance."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "On supprime les 437 agences de l'Etat."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Je veux commencer par baisser les impôts."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il souhaite notamment supprimer l’impôt sur l’héritage, une partie des taxes sur les carburants, diminuer l’impôt sur le revenu et supprimer plusieurs agences de l’État."
     },
-    {
-        "abstractive": {
-            "text": "Cependant, Pradié explique qu’il faut d’abord s’attaquer à la baisse des dépenses publiques, c’est pourquoi il propose de mettre en place chaque année un projet de loi de gestion de la dette."
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Avant d'être le parti de la baisse des impôts, ce que nous souhaitons évidemment tous, pour libérer ce pays de tous les carcans, y compris fiscaux injustes, nous devons être le parti de la baisse de la dépense publique."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Ce n’est pas un désaccord, c'est un désaccord de méthode, mais on va faire les choses dans l'ordre."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Et je veux que nous ayons, chaque année, après l'examen du projet de loi de finance de la sécurité sociale, du projet de loi de finance de la nation, un projet de loi de finance et de gestion de la dette."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Il faut commencer par supprimer l'impôt sur la mort, l'impôt sur les successions, qui est une injustice."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Il faut supprimer la taxe sur la taxe, sur les carburants."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Ça coûtera moins, quelquefois, peut-être autant, mais ça sera vertueux parce que ça donnera une immense accélération à la création d'emplois, de richesse et de croissance."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "On supprime les 437 agences de l'Etat."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Cependant, Aurélien Pradié explique qu’il faut d’abord s’attaquer à la baisse des dépenses publiques, c’est pourquoi il propose de mettre en place chaque année un projet de loi de gestion de la dette."
     },
-    {
-        "abstractive": {
-            "text": "Retailleau souhaite de son côté commencer par rehausser le quotient familial."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Je pense qu'un des premiers points qu'il faudrait réhausser, c'est le quotient familial pour aider les familles."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Avant d'être le parti de la baisse des impôts, ce que nous souhaitons évidemment tous, pour libérer ce pays de tous les carcans, y compris fiscaux injustes, nous devons être le parti de la baisse de la dépense publique."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Ce n’est pas un désaccord, c'est un désaccord de méthode, mais on va faire les choses dans l'ordre."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Et je veux que nous ayons, chaque année, après l'examen du projet de loi de finance de la sécurité sociale, du projet de loi de finance de la nation, un projet de loi de finance et de gestion de la dette."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau souhaite de son côté commencer par rehausser le quotient familial."
     },
-    {
-        "abstractive": {
-            "text": "Comme Pradié, Retailleau pense qu’il faut en premier lieu diminuer les dépenses de l’État."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "On ne peut pas faire une baisse massive des impôts sans commencer aussi par récupérer un certain nombre d'argent de l'Etat."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Je pense qu'un des premiers points qu'il faudrait réhausser, c'est le quotient familial pour aider les familles."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Comme Pradié, Bruno Retailleau pense qu’il faut en premier lieu diminuer les dépenses de l’État."
     },
-    {
-        "abstractive": {
-            "text": "Il entend donc supprimer des agences de l’État, lutter contre la bureaucratisation, les tâches administratives sans valeur ajoutées et les formulaires et procédure inutiles ; beaucoup de temps de travail sera ainsi gagné."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "D'abord, je m'attaque à la dépense publique, la débureaucratisation, l'enfer normatif, le royaume du CERFA."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "On ne peut pas faire une baisse massive des impôts sans commencer aussi par récupérer un certain nombre d'argent de l'Etat."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il entend donc supprimer des agences de l’État, lutter contre la bureaucratisation, les tâches administratives sans valeur ajoutées et les formulaires et procédures inutiles ; beaucoup de temps de travail sera ainsi gagné."
     },
-    {
-        "abstractive": {
-            "text": "Ciotti termine la discutions en mentionnant le poids des prélèvements obligataires en France, supérieurs à la moyenne européenne de 5 % ; les diminuer permettra d’avoir de la croissance et de l’emploi."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Ce qui n'est pas sérieux, c'est que nous ayons, en moyenne, 5 % de taux de prélèvement obligatoire de plus que la moyenne européenne."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "D'abord, je m'attaque à la dépense publique, la débureaucratisation, l'enfer normatif, le royaume du CERFA."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti termine la discutions en mentionnant le poids des prélèvements obligataires en France, supérieurs à la moyenne européenne de 5 % ; les diminuer permettra d’avoir de la croissance et de l’emploi."
     },
-    {
-        "abstractive": {
-            "text": "Sa démarche est donc inverse à celle de ses adversaires"
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Donc, ça veut dire que baisser les impôts sera source de croissance, source de création d'emplois"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Ce qui n'est pas sérieux, c'est que nous ayons, en moyenne, 5 % de taux de prélèvement obligatoire de plus que la moyenne européenne."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Sa démarche est donc inverse à celle de ses adversaires."
+    },
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Donc, ça veut dire que baisser les impôts sera source de croissance, source de création d'emplois"
+      }
+    ]
+  }
 ]

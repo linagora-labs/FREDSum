@@ -1,141 +1,141 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Jordan Bardella et Gérald Darmanin discutent de la guerre en Ukraine ainsi que des crimes de guerre. "
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "La première question que nous voulions vous poser sur l'ukraine, c'est savoir si vous êtes d'accord sur le constat."
-            },
-            {
-                "speaker": "P1",
-                "text": "Est-ce que vous diriez qu'il s'agit très clairement, de crimes de guerre ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Jordan Bardella et Gérald Darmanin discutent de la guerre en Ukraine ainsi que des crimes de guerre."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella débute en expliquant que des crimes de guerre ont été commis, et prétend avoir réclamé une enquête de l'ONU. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "oui, bien sûr."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Euh, nous avons réclamé qu'une enquête de l'onu soit diligentée."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "La première question que nous voulions vous poser sur l'ukraine, c'est savoir si vous êtes d'accord sur le constat."
+      },
+      {
+        "speaker": "P1",
+        "text": "Est-ce que vous diriez qu'il s'agit très clairement, de crimes de guerre ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella débute en expliquant que des crimes de guerre ont été commis, et prétend avoir réclamé une enquête de l'ONU."
     },
-    {
-        "abstractive": {
-            "text": "Il condamne avec fermeté l'agression de l'ukraine par la russie, qu'il faut sanctionner. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Nous avons condamné avec la plus grande fermeté l'agression de l'ukraine par la russie, qui est une faute extrêmement lourde, qui est une violation de la souveraineté territoriale, et les crimes, qui ont pu être commis en parallèle, y compris contre des euh civils."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Contre cela, il faut, évidemment, des  Sanctions."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "oui, bien sûr."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Euh, nous avons réclamé qu'une enquête de l'onu soit diligentée."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il condamne avec fermeté l'agression de l'Ukraine par la Russie, qu'il faut sanctionner."
     },
-    {
-        "abstractive": {
-            "text": "Il nuance cependant, il votera les sanctions si elles n'ont pas d'effet néfastes sur les français, et si elles ne poussent pas les russes dans les bras de la chine. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Nous en  avons voté certaines au parlement européen, d'autres, sur lesquels nous avons marqué des réticences, parce que nous avons dit attention à ce que certaines sanctions économiques, qui soient prises contre la russie, d'abord, ne viennent pas jeter la russie, euh, dans les bras de la chine."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Euh, et attention à ce que les sanctions économiques qui sont prises contre la russie, certaines ne viennent pas avoir des conséquences plus lourdes sur le peuple français et sur les prix de l'énergie, que sur le peuple russe, qui, depuis deux mille quatorze, c'est quand même renforcé."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Nous avons condamné avec la plus grande fermeté l'agression de l'ukraine par la russie, qui est une faute extrêmement lourde, qui est une violation de la souveraineté territoriale, et les crimes, qui ont pu être commis en parallèle, y compris contre des euh civils."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Contre cela, il faut, évidemment, des  Sanctions."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il nuance cependant, il votera les sanctions si elles n'ont pas d'effets néfastes sur les Français, et si elles ne poussent pas les Russes dans les bras de la Chine."
     },
-    {
-        "abstractive": {
-            "text": "Gérald Darmanin, lui, explique que la france a envoyé des gendarmes pour constater les crimes. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Alors, la france, euh, a envoyé, à la demande du président de la république, hein, de nombreux gendarmes, euh, avec des magistrats, euh, aujourd'hui, ils sont en ukraine, pour constater, euh, avec nos amis ukrainiens, ces crimes, pour pouvoir les documenter, et pour pouvoir fournir à la justice internationale des preuve, je veux dire que, monsieur Bardella."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Nous en  avons voté certaines au parlement européen, d'autres, sur lesquels nous avons marqué des réticences, parce que nous avons dit attention à ce que certaines sanctions économiques, qui soient prises contre la russie, d'abord, ne viennent pas jeter la russie, euh, dans les bras de la chine."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Euh, et attention à ce que les sanctions économiques qui sont prises contre la russie, certaines ne viennent pas avoir des conséquences plus lourdes sur le peuple français et sur les prix de l'énergie, que sur le peuple russe, qui, depuis deux mille quatorze, c'est quand même renforcé."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gérald Darmanin, lui, explique que la France a envoyé des gendarmes pour constater les crimes."
     },
-    {
-        "abstractive": {
-            "text": "Il attaque Jordan Bardella, en prétendant que son parti a des alliances avec la russie, et qu'il refuse de voter des sanctions pour aider l'Ukraine. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "J'entends que, désormais, euh, le front national revient, nous, le rassemblement national, revienne à la raison, mais lui-même, il y a encore quelques jours, ne votait pas les sanctions, contre, contre l'ukraine."
-            },
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Donc il y a le plateau télé, devant les français, quand on voit les massacres en ukraine, je vous comprend bien qu'y a une sorte de rattrapage, mais, dans les faits, depuis quelques jours seulement, cette conversion arrive, parce que, je crois tout le monde sait que madame le pen, et, euh, le rassemblement national, est sous influence russe, financières, euh, idéologique, politique, page dix, du programme du front national, il y a même encore un impact militaire possible, répété par le pen tout à l'heure sur le plateau de monsieur toussaint, avec la russie."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Alors, la france, euh, a envoyé, à la demande du président de la république, hein, de nombreux gendarmes, euh, avec des magistrats, euh, aujourd'hui, ils sont en ukraine, pour constater, euh, avec nos amis ukrainiens, ces crimes, pour pouvoir les documenter, et pour pouvoir fournir à la justice internationale des preuve, je veux dire que, monsieur Bardella."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il attaque Jordan Bardella, en prétendant que son parti a des alliances avec la Russie, et qu'il refuse de voter des sanctions pour aider l'Ukraine."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella s'en défend, rappellant qu'il ne veut pas créer une rivalité entre la france et la russie, qui serait sans intérêts, et qui favoriserait une alliance entre la russie et la chine."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "D'abord, sur l'alliance avec la russie, euh, le point du programme, que vous pointez, est un point qui a été rédigé, travaillé, depuis maintenant un an, qui a été rendu public."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Il n'y a aucune raison, il est même surtout dangereux, de pousser à des tensions et de pousser une rivalité entre la france et la russie."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Nous avons dit que, euh, dans dix ans, dans quinze ans, dans vingt ans on pourrait regretter de jeter aujourd'hui, la russie entre les bras de la chine."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "J'entends que, désormais, euh, le front national revient, nous, le rassemblement national, revienne à la raison, mais lui-même, il y a encore quelques jours, ne votait pas les sanctions, contre, contre l'ukraine."
+      },
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Donc il y a le plateau télé, devant les français, quand on voit les massacres en ukraine, je vous comprend bien qu'y a une sorte de rattrapage, mais, dans les faits, depuis quelques jours seulement, cette conversion arrive, parce que, je crois tout le monde sait que madame le pen, et, euh, le rassemblement national, est sous influence russe, financières, euh, idéologique, politique, page dix, du programme du front national, il y a même encore un impact militaire possible, répété par le pen tout à l'heure sur le plateau de monsieur toussaint, avec la russie."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella s'en défend, rappelant qu'il ne veut pas créer une rivalité entre la France et la Russie, qui serait sans intérêt, et qui favoriserait une alliance entre la Russie et la Chine."
     },
-    {
-        "abstractive": {
-            "text": " Quand Gérald Darmanin l'accuse de ne pas avoir voté les sanctions contre les oligarques, Jordan Bardella se dédouane, la proposition faisait partie d'un paquet de sanctions qui ne prenaient pas en compte la corruption qui touche le pouvoir ukrainien. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Vous n’avez pas voté la sanction contre les oligarques"
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Vous savez que, parfois, dans des textes, ça fonctionne, à peu près, comme à l'assemblée nationale, il ne vous est pas possible de faire des votes dissociés."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Et nous n'avions pas voté, et nous n'avions pas voté, ce texte, pour une raison extrêmement simple, c'est que, euh, la cour des comptes européenne a pointé, à plusieurs reprises, la corruption qui touchait le pouvoir ukrainien, et la manière dont il a détourné les fonds publics, le cessez-le-feu."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "D'abord, sur l'alliance avec la russie, euh, le point du programme, que vous pointez, est un point qui a été rédigé, travaillé, depuis maintenant un an, qui a été rendu public."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Il n'y a aucune raison, il est même surtout dangereux, de pousser à des tensions et de pousser une rivalité entre la france et la russie."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Nous avons dit que, euh, dans dix ans, dans quinze ans, dans vingt ans on pourrait regretter de jeter aujourd'hui, la russie entre les bras de la chine."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Quand Gérald Darmanin l'accuse de ne pas avoir voté les sanctions contre les oligarques, Jordan Bardella se dédouane, la proposition faisait partie d'un paquet de sanctions qui ne prenaient pas en compte la corruption qui touche le pouvoir ukrainien."
     },
-    {
-        "abstractive": {
-            "text": "Il rappelle que Emmanuel Macron a des relations plus proches avec Vladimir Poutine que les gens de son parti, et qu'il ne votera pas les sanctions qui ont des conséquences dramatiques pour les français."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Je dis, une chose très simple, euh, le premier chef d'état à avoir été reçu, par, euh, emmanuel Macron, lorsqu'il a été élu, c'est vladimir poutine et, euh, pardon, mais, euh, marine le pen n'a pas, vladimir poutine, toutes les semaines au téléphone, donc, peut-être, vous aurez l'occasion d'en parler avec lui, et de lui en parler, mais euh, je pense que cette situation exige un peu plus de complexité, et, surtout, d’un peu plus d'objectivité."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Donc, si dans ces textes là, il y a, et c'était le cas, des sanctions, qui ont des conséquences dramatiques pour le pouvoir d'achat des français, et, notamment, en matière énergétique, eh bien, je ne les vote pas, et je l'assume, mais ça ne change pas ma position de principe, quant à la résolution qui condamnait la russie, nous l'avons votée, et, là encore, les français le voulaient."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Vous n’avez pas voté la sanction contre les oligarques"
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Vous savez que, parfois, dans des textes, ça fonctionne, à peu près, comme à l'assemblée nationale, il ne vous est pas possible de faire des votes dissociés."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Et nous n'avions pas voté, et nous n'avions pas voté, ce texte, pour une raison extrêmement simple, c'est que, euh, la cour des comptes européenne a pointé, à plusieurs reprises, la corruption qui touchait le pouvoir ukrainien, et la manière dont il a détourné les fonds publics, le cessez-le-feu."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il rappelle que Emmanuel Macron a des relations plus proches avec Vladimir Poutine que les gens de son parti, et qu'il ne votera pas les sanctions qui ont des conséquences dramatiques pour les Français."
+    },
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Je dis, une chose très simple, euh, le premier chef d'état à avoir été reçu, par, euh, emmanuel Macron, lorsqu'il a été élu, c'est vladimir poutine et, euh, pardon, mais, euh, marine le pen n'a pas, vladimir poutine, toutes les semaines au téléphone, donc, peut-être, vous aurez l'occasion d'en parler avec lui, et de lui en parler, mais euh, je pense que cette situation exige un peu plus de complexité, et, surtout, d’un peu plus d'objectivité."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Donc, si dans ces textes là, il y a, et c'était le cas, des sanctions, qui ont des conséquences dramatiques pour le pouvoir d'achat des français, et, notamment, en matière énergétique, eh bien, je ne les vote pas, et je l'assume, mais ça ne change pas ma position de principe, quant à la résolution qui condamnait la russie, nous l'avons votée, et, là encore, les français le voulaient."
+      }
+    ]
+  }
 ]

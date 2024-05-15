@@ -1,92 +1,92 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Ségolène Royal et François Bayrou parlent du regroupement familial, de la politique énergétique française, et du role des symboles français."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "François Bayrou, est-ce que Nicolas Sarkozy a raison de souhaiter un durcissement des conditions du regroupement familial en France pour les immigrés en disant qu'un immigré ne pourrait demain faire venir ses proches, sa famille que s'il a un salaire et un logement ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Ségolène Royal et François Bayrou parlent du regroupement familial, de la politique énergétique française, et du rôle des symboles français."
     },
-    {
-        "abstractive": {
-            "text": "François Bayrou débute en expliquant qu'il n'est pas pour durcir les règles du regroupement familial."
-        },
-        "extractive": [
-            {
-                "speaker": "François Bayrou",
-                "text": "Donc je considère que quand on a un travail, quand on a un logement, comment imposer à quelqu'un de vivre toute sa vie sans sa famille."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "François Bayrou, est-ce que Nicolas Sarkozy a raison de souhaiter un durcissement des conditions du regroupement familial en France pour les immigrés en disant qu'un immigré ne pourrait demain faire venir ses proches, sa famille que s'il a un salaire et un logement ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Bayrou débute en expliquant qu'il n'est pas pour durcir les règles du regroupement familial."
     },
-    {
-        "abstractive": {
-            "text": "François Bayrou continue en expliquant qu'il est pour l'essor du nucléaire français, mais qu'il comprends qu'il faut des investissement dans les énergies renouvelables."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Est-ce que vous souhaitez une remise en cause de la politique énergétique de la France ?"
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "Je ne vois pas comment on peut remplir les objectifs qu'on a signé à Kyoto sans conserver notre outil de production d'électricité nucléaire."
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "Qu'on dise, oui il faut une politique d'incitation forte aux énergies alternatives, et la France avec son outil industriel devrait se saisir de ce sujet des énergies alternatives pour en faire un secteur d'excellence, oui de ce point de vue là je le pense."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Bayrou",
+        "text": "Donc je considère que quand on a un travail, quand on a un logement, comment imposer à quelqu'un de vivre toute sa vie sans sa famille."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Bayrou continue en expliquant qu'il est pour l'essor du nucléaire français, mais qu'il comprend qu'il faut des investissement dans les énergies renouvelables."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal s'accord et explique qu'il faut des investissements majeurs dans les énergies renouvelables."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Sur le nucléaire, mais il est évident qu'il faut augmenter la part des énergies renouvelables dans le nucléaire, c'est évident."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Est-ce que vous souhaitez une remise en cause de la politique énergétique de la France ?"
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "Je ne vois pas comment on peut remplir les objectifs qu'on a signé à Kyoto sans conserver notre outil de production d'électricité nucléaire."
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "Qu'on dise, oui il faut une politique d'incitation forte aux énergies alternatives, et la France avec son outil industriel devrait se saisir de ce sujet des énergies alternatives pour en faire un secteur d'excellence, oui de ce point de vue là je le pense."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal s'accord et explique qu'il faut des investissements majeurs dans les énergies renouvelables."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal est pour la remise en cause des financements des grands projets nucléaires."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Ensuite il faut que les choix relatifs au nucléaire qui sont des choix financièrement extrêmement lourds soient débattus, donc le décret sur l’EPR sera suspendu, et nous reprendrons le débat énergétique en France pour que les citoyens soient bien au clair sur ce qu'il y a à décider."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "J'ajoute enfin que la question des déchets nucléaires n'est pas résolue, que par ailleurs nous serons confrontés dans un demi-siècle à la pénurie d’uranium, c'est à dire à la pénurie du combustible des centrales nucléaires, donc ce serait irresponsable de se lancer comme ça à l'aveuglette non seulement en France, mais à l'échelle de la planète sur une programmation de centrales nucléaires sans se poser cette question."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Sur le nucléaire, mais il est évident qu'il faut augmenter la part des énergies renouvelables dans le nucléaire, c'est évident."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal est pour la remise en cause des financements des grands projets nucléaires."
     },
-    {
-        "abstractive": {
-            "text": "Pour les symboles, François bayrou explique qu'il est pour l'apprentissage de la marseillaise."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Est-ce que vous souhaitez comme la suggérer madame Royal que chaque français, symboliquement et pratiquement puisse avoir demain un drapeau français chez lui et sache les couplets de la marseillaise ?"
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "La marseillaise, tous ceux qui sont allés à l'école doivent la connaître."
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "Est-ce que j'ai le même le même emballement pour le drapeau tricolore que Ségolène Royal, franchement il serait exagéré de le prétendre."
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "C'est à dire je ne vois pas au nom de quoi l'appropriation de l'emblème national serait réservée comme ce fut trop longtemps le cas pendant les campagnes électorales un seul parti extrême"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Ensuite il faut que les choix relatifs au nucléaire qui sont des choix financièrement extrêmement lourds soient débattus, donc le décret sur l’EPR sera suspendu, et nous reprendrons le débat énergétique en France pour que les citoyens soient bien au clair sur ce qu'il y a à décider."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "J'ajoute enfin que la question des déchets nucléaires n'est pas résolue, que par ailleurs nous serons confrontés dans un demi-siècle à la pénurie d’uranium, c'est à dire à la pénurie du combustible des centrales nucléaires, donc ce serait irresponsable de se lancer comme ça à l'aveuglette non seulement en France, mais à l'échelle de la planète sur une programmation de centrales nucléaires sans se poser cette question."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour les symboles, François Bayrou explique qu'il est pour l'apprentissage de la Marseillaise."
+    },
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Est-ce que vous souhaitez comme la suggérer madame Royal que chaque français, symboliquement et pratiquement puisse avoir demain un drapeau français chez lui et sache les couplets de la marseillaise ?"
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "La marseillaise, tous ceux qui sont allés à l'école doivent la connaître."
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "Est-ce que j'ai le même le même emballement pour le drapeau tricolore que Ségolène Royal, franchement il serait exagéré de le prétendre."
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "C'est à dire je ne vois pas au nom de quoi l'appropriation de l'emblème national serait réservée comme ce fut trop longtemps le cas pendant les campagnes électorales un seul parti extrême"
+      }
+    ]
+  }
 ]

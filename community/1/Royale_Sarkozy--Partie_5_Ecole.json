@@ -1,99 +1,99 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Nicolas Sarkozy et Ségolène Royale débattent de leur vision de l'éducation."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Que peut-on faire pour que chaque enfant ait un accès égal et une chance égale à l'école, dans sa famille et un accès égal dans la culture ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Nicolas Sarkozy et Ségolène Royal débattent de leur vision de l'éducation."
     },
-    {
-        "abstractive": {
-            "text": " Nicolas Sarkozy explique qu'il veut une école du respect et de l'autorité, qui transmet un savoir et le civisme."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Je veux une école du respect, de l'autorité, de l'exigence, du mérite où les enfants des familles modestes accèdent aux grands auteurs et où, comme Jules Ferry, on a de l'ambition pour les enfants."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Une école qui transmet un savoir, qui n'a pas peur d'enseigner le civisme, qui transmet une morale commune, une école où les maîtres sont respectés, où lorsque le maître entre dans la classe les élèves se lèvent en signe de respect."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Que peut-on faire pour que chaque enfant ait un accès égal et une chance égale à l'école, dans sa famille et un accès égal dans la culture ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique qu'il veut une école du respect et de l'autorité, qui transmet un savoir et le civisme."
     },
-    {
-        "abstractive": {
-            "text": " Nicolas Sarkozy explique qu'il veut une école qui propose un parcours adapté aux problèmes des élèves, et explique croire que le collège unique est limité, les enseignants mal payés."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Une école où chacun sera reçu avec le soin d'un parcours adapté à ces problèmes."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Je crois aux limites du collège unique, une école où on va répondre au malaise formidable des enseignants qui ne sont pas assez payés, pas assez récompensés."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Je veux une école du respect, de l'autorité, de l'exigence, du mérite où les enfants des familles modestes accèdent aux grands auteurs et où, comme Jules Ferry, on a de l'ambition pour les enfants."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Une école qui transmet un savoir, qui n'a pas peur d'enseigner le civisme, qui transmet une morale commune, une école où les maîtres sont respectés, où lorsque le maître entre dans la classe les élèves se lèvent en signe de respect."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique qu'il veut une école qui propose un parcours adapté aux problèmes des élèves, et explique croire que le collège unique est limité, les enseignants mal payés."
     },
-    {
-        "abstractive": {
-            "text": " Nicolas Sarkozy explique vouloir mettre en place une possibilité de laisser ses enfants en études après la fin des cours pour faire les devoirs et permettre de mieux rémunérer les enseignants."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Une école où on pourra laisser ses enfants à l'étude du soir sur la base du volontariat pour qu'ils rentrent à la maison les devoirs faits."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "J'ajoute que cela permettrait de résoudre le problème du pouvoir d'achat des enseignants, car cela leur permettrait de faire ces études encadrées, sur la base du volontariat, pour être davantage rémunérés."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Une école où chacun sera reçu avec le soin d'un parcours adapté à ces problèmes."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Je crois aux limites du collège unique, une école où on va répondre au malaise formidable des enseignants qui ne sont pas assez payés, pas assez récompensés."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique vouloir mettre en place une possibilité de laisser ses enfants en études après la fin des cours pour faire les devoirs et permettre de mieux rémunérer les enseignants."
     },
-    {
-        "abstractive": {
-            "text": " Nicolas Sarkozy souhaite déduire des impôts les salaires et cotisations sociales sur les emploi à domiciles."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Je souhaite, d'ailleurs, que l'on puisse déduire de ses impôts les salaires et les cotisations sociales que l'on paye sur un emploi à domicile."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Une école où on pourra laisser ses enfants à l'étude du soir sur la base du volontariat pour qu'ils rentrent à la maison les devoirs faits."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "J'ajoute que cela permettrait de résoudre le problème du pouvoir d'achat des enseignants, car cela leur permettrait de faire ces études encadrées, sur la base du volontariat, pour être davantage rémunérés."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy souhaite déduire des impôts les salaires et cotisations sociales sur les emplois à domiciles."
     },
-    {
-        "abstractive": {
-            "text": " Nicolas Sarkozy explique vouloir aider les élèves handicapés à aller à l'école normale, en donnant le droit aux familles qui n'ont pas pu mettre leurs enfants dans ces écoles de saisir un tribunal après cinq ans."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Je considère qu'il est scandaleux qu'un enfant ayant un handicap ne puisse pas être scolarisé dans une école \"normale\", c'est important pour l'enfant ayant un handicap et pour les autres enfants qui n'ont pas de handicap, qui au contact de cet enfant différent apprendront que la différence est une richesse."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Qu'une famille au bout de cinq ans, à qui on refuserait une place dans une école, pourrait aller devant le tribunal en disant : la République m'a promis un droit."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Je souhaite, d'ailleurs, que l'on puisse déduire de ses impôts les salaires et les cotisations sociales que l'on paye sur un emploi à domicile."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique vouloir aider les élèves handicapés à aller à l'école normale, en donnant le droit aux familles qui n'ont pas pu mettre leurs enfants dans ces écoles de saisir un tribunal après cinq ans."
     },
-    {
-        "abstractive": {
-            "text": " Ségolène Royal explique avoir été à l'origine de ces propositions pour aider les élèves handicapés, et critique Nicolas Sarkozy qui n'a pas fait d'effort pour cela pendant son quinquennat."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Lorsque j'étais Ministre de l'enseignement scolaire, c'est moi qui ai créé le plan handiscole qui a demandé à toutes les écoles d'accueillir tous les enfants handicapés."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "C'est votre gouvernement qui a supprimé non seulement le plan handiscole, qui a supprimé les aides éducateurs, qui fait qu'aujourd'hui, moins d'un enfant sur deux qui était accueilli il y a cinq ans dans l'école de la République ne le sont plus aujourd'hui."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Je considère qu'il est scandaleux qu'un enfant ayant un handicap ne puisse pas être scolarisé dans une école \"normale\", c'est important pour l'enfant ayant un handicap et pour les autres enfants qui n'ont pas de handicap, qui au contact de cet enfant différent apprendront que la différence est une richesse."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Qu'une famille au bout de cinq ans, à qui on refuserait une place dans une école, pourrait aller devant le tribunal en disant : la République m'a promis un droit."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal explique avoir été à l'origine de ces propositions pour aider les élèves handicapés, et critique Nicolas Sarkozy qui n'a pas fait d'effort pour cela pendant son quinquennat."
+    },
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Lorsque j'étais Ministre de l'enseignement scolaire, c'est moi qui ai créé le plan handiscole qui a demandé à toutes les écoles d'accueillir tous les enfants handicapés."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "C'est votre gouvernement qui a supprimé non seulement le plan handiscole, qui a supprimé les aides éducateurs, qui fait qu'aujourd'hui, moins d'un enfant sur deux qui était accueilli il y a cinq ans dans l'école de la République ne le sont plus aujourd'hui."
+      }
+    ]
+  }
 ]

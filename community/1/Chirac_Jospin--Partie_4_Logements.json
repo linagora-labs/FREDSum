@@ -1,213 +1,213 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Jacques Chirac et François Miterrand discutent des logements sociaux."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "On va commencer, si vous en êtes d'accord, par les questions, parce qu'elles sont extrêmement liées, de ce qui touche aux problèmes des banlieues en difficulté, de l'exclusion sociale, c'est malheureusement souvent très lié,et du logement social qui en est une des réponses."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Jacques Chirac et Lionel Jospin discutent des logements sociaux."
     },
-    {
-        "abstractive": {
-            "text": "Lionel Jospin explique qu'après le chômage et l'augmentation des salaires, le logement est sa priorité."
-        },
-        "extractive": [
-            {
-                "speaker": "Lionel Jospin",
-                "text": "Essayons de poser le problème un peu plus largement avant de venir, par exemple, sur le logement social puisque vous savez que c'est vraiment une des priorités de mes propositions."
-            },
-            {
-                "speaker": "Lionel Jospin",
-                "text": "C'est le terrain du chômage, ma première priorité."
-            },
-            {
-                "speaker": "Lionel Jospin",
-                "text": "C'est le terrain du salaire et des revenus."
-            },
-            {
-                "speaker": "Lionel Jospin",
-                "text": "Et, troisième élément fondamental, c'est naturellement le toit, le logement."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "On va commencer, si vous en êtes d'accord, par les questions, parce qu'elles sont extrêmement liées, de ce qui touche aux problèmes des banlieues en difficulté, de l'exclusion sociale, c'est malheureusement souvent très lié,et du logement social qui en est une des réponses."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Lionel Jospin explique qu'après le chômage et l'augmentation des salaires, le logement est sa priorité."
     },
-    {
-        "abstractive": {
-            "text": "Lionel Jospin souhaite construire plus de logements sociaux et mieux attribuer ceux qui existent déjà."
-        },
-        "extractive": [
-            {
-                "speaker": "Lionel Jospin",
-                "text": "Je pense qu'il faut construire plus de logements sociaux, d'une part, et, d'autre part, bien attribuer ceux qui existent déjà."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Lionel Jospin",
+        "text": "Essayons de poser le problème un peu plus largement avant de venir, par exemple, sur le logement social puisque vous savez que c'est vraiment une des priorités de mes propositions."
+      },
+      {
+        "speaker": "Lionel Jospin",
+        "text": "C'est le terrain du chômage, ma première priorité."
+      },
+      {
+        "speaker": "Lionel Jospin",
+        "text": "C'est le terrain du salaire et des revenus."
+      },
+      {
+        "speaker": "Lionel Jospin",
+        "text": "Et, troisième élément fondamental, c'est naturellement le toit, le logement."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Lionel Jospin souhaite construire plus de logements sociaux et mieux attribuer ceux qui existent déjà."
     },
-    {
-        "abstractive": {
-            "text": "Lionel Jospin explique vouloir augmenter le nombre de prêts locatifs aidés, ainsi qu'accorder les HLM aux personnes les plus modestes."
-        },
-        "extractive": [
-            {
-                "speaker": "Lionel Jospin",
-                "text": "Mes propositions, c'est faire passer le nombre des prêts locatifs aidés, c'est-à-dire de ceux qui permettent qu'on entre finalement, qu'on construise des HLM, de 85000 actuellement, chiffre qui a baissé avec le Gouvernement Balladur, à 120000."
-            },
-            {
-                "speaker": "Lionel Jospin",
-                "text": "Je propose ensuite que les HLM, les habitations HLM, soient accordées en priorité aux plus modestes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Lionel Jospin",
+        "text": "Je pense qu'il faut construire plus de logements sociaux, d'une part, et, d'autre part, bien attribuer ceux qui existent déjà."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Lionel Jospin explique vouloir augmenter le nombre de prêts locatifs aidés, ainsi qu'accorder les HLM aux personnes les plus modestes."
     },
-    {
-        "abstractive": {
-            "text": "Lionel Jospin propose aussi d'aider les propriétaires privés à louer aux ménages modestes en échange d'une garanties de loyer payé par l'état."
-        },
-        "extractive": [
-            {
-                "speaker": "Lionel Jospin",
-                "text": "Je propose également d'aider les propriétaires privés qui acceptent de louer à des ménages modestes aux conditions des HLM en leur accordant des garanties que le loyer sera effectivement versé, c'est-à-dire que l'Etat se porterait en quelque sorte garant et, d'autre part, en leur accordant des avantages fiscaux, ce qui permettra de dégager un certain nombre d'appartements qui sont disponibles pour des petits propriétaires qui ne seront plus inquiets d'avoir à être payés."
-            },
-            {
-                "speaker": "Lionel Jospin",
-                "text": "Et, enfin, d'accroître le nombre des prêts à la propriété sociale."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Lionel Jospin",
+        "text": "Mes propositions, c'est faire passer le nombre des prêts locatifs aidés, c'est-à-dire de ceux qui permettent qu'on entre finalement, qu'on construise des HLM, de 85000 actuellement, chiffre qui a baissé avec le Gouvernement Balladur, à 120000."
+      },
+      {
+        "speaker": "Lionel Jospin",
+        "text": "Je propose ensuite que les HLM, les habitations HLM, soient accordées en priorité aux plus modestes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Lionel Jospin propose aussi d'aider les propriétaires privés à louer aux ménages modestes en échange d'une garantie de loyer payé par l'état."
     },
-    {
-        "abstractive": {
-            "text": "Jacques Chirac est défavorable aux approches de Lionel Jospin qui souhaite simplement augmenter les crédits."
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Mais, je voudrais revenir au logement : je suis tout à fait défavorable à vos solutions sur le logement."
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Que proposez-vous ?"
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Simplement d'augmenter les crédits, les PLA, les PLATS, les PALULOS, les PAP, etc."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Lionel Jospin",
+        "text": "Je propose également d'aider les propriétaires privés qui acceptent de louer à des ménages modestes aux conditions des HLM en leur accordant des garanties que le loyer sera effectivement versé, c'est-à-dire que l'Etat se porterait en quelque sorte garant et, d'autre part, en leur accordant des avantages fiscaux, ce qui permettra de dégager un certain nombre d'appartements qui sont disponibles pour des petits propriétaires qui ne seront plus inquiets d'avoir à être payés."
+      },
+      {
+        "speaker": "Lionel Jospin",
+        "text": "Et, enfin, d'accroître le nombre des prêts à la propriété sociale."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jacques Chirac est défavorable aux approches de Lionel Jospin qui souhaite simplement augmenter les crédits."
     },
-    {
-        "abstractive": {
-            "text": "Jacques Chirac souhaite améliorer les possibilités d'accession à la propriété, pour cela, il souhaite augmenter les prêts pour acheter des biens immobiliers aux gens qui touchent plus d'1,5 fois le smic, et leur donner une aide directe d'apport personnel."
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Cela ne changera rien sur l'accession à la propriété parce que l'on ne peut pas avoir les prêts complémentaires pour les honorer."
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "La politique aujourd'hui appliquée ne correspond plus aux besoins locatif des quantités de gens, 1 million, 2 millions, qui n'ont qu'une idée, c'est d'accéder à la propriété, mais qui ne peuvent pas, parce qu'il n'y a pas de prêts qui leur permettent de le faire."
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "II faut d'abord donner la possibilité aux gens qui sont entre 1,5 et 3 SMIC d'accéder, comme ils le souhaitent, à la propriété."
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Et pour cela, il faut un nouveau type d'aides : il faut une aide directe d'apport personnel, je dirai de l'ordre de 120000 frs pour une famille avec 2 enfants, un prêt à taux 0 et, deuxièmement, il faut un prêt complémentaire adapté, c'est-à-dire qui tienne compte de l'accident social (chômage ou divorce), en rééchelonnant, le cas échéant, la dette de celui qui est titulaire du prêt."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Mais, je voudrais revenir au logement : je suis tout à fait défavorable à vos solutions sur le logement."
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Que proposez-vous ?"
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Simplement d'augmenter les crédits, les PLA, les PLATS, les PALULOS, les PAP, etc."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jacques Chirac souhaite améliorer les possibilités d'accession à la propriété, pour cela, il souhaite augmenter les prêts pour acheter des biens immobiliers aux gens qui touchent plus d'1,5 fois le SMIC, et leur donner une aide directe d'apport personnel."
     },
-    {
-        "abstractive": {
-            "text": "Jacques chirac explique que cela créera des nouvelles places dans les logements locatifs qui pourront de nouveaux être attribués."
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "A partir de là, vous aurez une vraie accession à la propriété, vous aurez des logements locatifs qui vont se vider et qui pourront être normalement attribués à ceux pour qui ils ont été faits, c'est-à-dire tous ceux qui sont, aujourd'hui, les mal logés, et qui sont très nombreux et qui ne peuvent pas accéder à des prêts locatifs."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Cela ne changera rien sur l'accession à la propriété parce que l'on ne peut pas avoir les prêts complémentaires pour les honorer."
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "La politique aujourd'hui appliquée ne correspond plus aux besoins locatif des quantités de gens, 1 million, 2 millions, qui n'ont qu'une idée, c'est d'accéder à la propriété, mais qui ne peuvent pas, parce qu'il n'y a pas de prêts qui leur permettent de le faire."
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "II faut d'abord donner la possibilité aux gens qui sont entre 1,5 et 3 SMIC d'accéder, comme ils le souhaitent, à la propriété."
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Et pour cela, il faut un nouveau type d'aides : il faut une aide directe d'apport personnel, je dirai de l'ordre de 120000 frs pour une famille avec 2 enfants, un prêt à taux 0 et, deuxièmement, il faut un prêt complémentaire adapté, c'est-à-dire qui tienne compte de l'accident social (chômage ou divorce), en rééchelonnant, le cas échéant, la dette de celui qui est titulaire du prêt."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jacques Chirac explique que cela créera des nouvelles places dans les logements locatifs qui pourront de nouveaux être attribués."
     },
-    {
-        "abstractive": {
-            "text": "Jacques Chirac souhaite aussi aider à la réinsertion des sans domicile fixe avec des logements particuliers et des loyers symboliques."
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Et puis, enfin, vous avez ceux qui sont sans logement et Sans Domicile Fixe cela, c'est encore quelque chose de relativement nouveau pour lesquels il faut faire des logements particuliers, un grand programme de logements d'insertion."
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "II faut l'appui des grandes associations caritatives pour les accompagner, ne serait-ce que pour leur faire comprendre qu'il faut payer un loyer même s'il est symbolique."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "A partir de là, vous aurez une vraie accession à la propriété, vous aurez des logements locatifs qui vont se vider et qui pourront être normalement attribués à ceux pour qui ils ont été faits, c'est-à-dire tous ceux qui sont, aujourd'hui, les mal logés, et qui sont très nombreux et qui ne peuvent pas accéder à des prêts locatifs."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jacques Chirac souhaite aussi aider à la réinsertion des sans domicile fixe avec des logements particuliers et des loyers symboliques."
     },
-    {
-        "abstractive": {
-            "text": "Jacques Chirac souhaite aussi relancer la construction privée."
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Enfin, il faut relancer la construction privée."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Et puis, enfin, vous avez ceux qui sont sans logement et Sans Domicile Fixe cela, c'est encore quelque chose de relativement nouveau pour lesquels il faut faire des logements particuliers, un grand programme de logements d'insertion."
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "II faut l'appui des grandes associations caritatives pour les accompagner, ne serait-ce que pour leur faire comprendre qu'il faut payer un loyer même s'il est symbolique."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jacques Chirac souhaite aussi relancer la construction privée."
     },
-    {
-        "abstractive": {
-            "text": "Les deux candidats discutent ensuite de la situation de Paris."
-        },
-        "extractive": [
-            {
-                "speaker": "Lionel Jospin",
-                "text": "D'abord, merci à Jacques Chirac de venir plaider pour moi, puisqu'en insistant sur l'importance du logement dans les créations d'emplois et dans les recettes fiscales, il a plaidé pour l'un de mes quatre programmes de création d'emplois, qui concerne le logement, très précisément."
-            },
-            {
-                "speaker": "Lionel Jospin",
-                "text": "Accéder à la propriété mais où, M. Chirac ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Enfin, il faut relancer la construction privée."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Les deux candidats discutent ensuite de la situation de Paris."
     },
-    {
-        "abstractive": {
-            "text": "Selon Lionel Jospin, Paris est saturé de bureau."
-        },
-        "extractive": [
-            {
-                "speaker": "Lionel Jospin",
-                "text": "A Paris, effectivement, on a construit des bureaux par millions de m2."
-            },
-            {
-                "speaker": "Lionel Jospin",
-                "text": "Bureaux, d'ailleurs, qui sont, pour un certain nombre d'entre eux, vides et l'on a chassé des quartiers populaires un certain nombre de gens."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Lionel Jospin",
+        "text": "D'abord, merci à Jacques Chirac de venir plaider pour moi, puisqu'en insistant sur l'importance du logement dans les créations d'emplois et dans les recettes fiscales, il a plaidé pour l'un de mes quatre programmes de création d'emplois, qui concerne le logement, très précisément."
+      },
+      {
+        "speaker": "Lionel Jospin",
+        "text": "Accéder à la propriété mais où, M. Chirac ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Selon Lionel Jospin, Paris est saturé de bureaux."
     },
-    {
-        "abstractive": {
-            "text": "Jacques Chirac explique que Paris est victime de spéculation, mais qu'il y a assez de place pour les logements, et que des milliards de francs ont été investis pour la construction de logements sociaux dans la capitale"
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "A Paris, nous avons eu la spéculation."
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Des grandes Compagnies d'assurances et des grandes banques nationalisées appartenant à l'Etat ."
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Permettez-moi de vous dire, M. Jospin, que M. Rocard, qui était Premier Ministre, avait indiqué les règles, et la règle était : 1 m2 de logement pour 2 m2 de bureaux dans les villes de France, et notamment en Ile-de-France."
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Je voudrais vous dire que nous avons fait 8 m2 de logements pour 2 m2 de bureaux."
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Paris consacre d'ailleurs 3 milliards de francs chaque année à la construction de logements sociaux"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Lionel Jospin",
+        "text": "A Paris, effectivement, on a construit des bureaux par millions de m2."
+      },
+      {
+        "speaker": "Lionel Jospin",
+        "text": "Bureaux, d'ailleurs, qui sont, pour un certain nombre d'entre eux, vides et l'on a chassé des quartiers populaires un certain nombre de gens."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jacques Chirac explique que Paris est victime de spéculation, mais qu'il y a assez de place pour les logements, et que des milliards de francs ont été investis pour la construction de logements sociaux dans la capitale."
+    },
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "A Paris, nous avons eu la spéculation."
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Des grandes Compagnies d'assurances et des grandes banques nationalisées appartenant à l'Etat ."
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Permettez-moi de vous dire, M. Jospin, que M. Rocard, qui était Premier Ministre, avait indiqué les règles, et la règle était : 1 m2 de logement pour 2 m2 de bureaux dans les villes de France, et notamment en Ile-de-France."
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Je voudrais vous dire que nous avons fait 8 m2 de logements pour 2 m2 de bureaux."
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Paris consacre d'ailleurs 3 milliards de francs chaque année à la construction de logements sociaux"
+      }
+    ]
+  }
 ]

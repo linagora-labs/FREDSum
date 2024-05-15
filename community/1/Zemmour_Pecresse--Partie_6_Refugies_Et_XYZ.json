@@ -1,236 +1,236 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Eric Zemmour et Valérie Pécresse discutent de leur politique d'immigration."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Le gouvernement prévoit cinquante mille, cent mille réfugiés ukrainiens à terme."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Eric Zemmour et Valérie Pécresse discutent de leur politique d'immigration."
     },
-    {
-        "abstractive": {
-            "text": "Le présentateur demande que faire des immigrés ukrainiens."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Faut-il les accueillir chez nous à bras ouverts ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Le gouvernement prévoit cinquante mille, cent mille réfugiés ukrainiens à terme."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Le présentateur demande que faire des immigrés ukrainiens."
     },
-    {
-        "abstractive": {
-            "text": "Valérie pécresse explique qu'il est dans ses valeurs d'accepter le droit d'asiles d'un peuple persécuté."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Quand un peuple subit la guerre sur son sol, quand il est persécuté, il doit avoir une autorisation temporaire de séjour dans notre pays."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Faut-il les accueillir chez nous à bras ouverts ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse explique qu'il est dans ses valeurs d'accepter le droit d'asile d'un peuple persécuté."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour répond qu'il accepte les réfugiés ukrainiens, mais qu'il souhaite plutôt aider la pologne à en accueillir plus."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Euh, ce que je j'ai dit, j'ai dit que les réfugiés ukrainiens voulait aller en pologne, et je le répète."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Donc, l'essentiel, ils veulent aller en pologne, tout simplement parce que ce sont des femmes et des enfants, qui sont près de leur mari, et de leur père, ou de leur fils, qui se bat."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Donc ils ne veulent pas aller loin, et c'est pour ça que j'ai proposé d'aider les polonais, et madame pécresse, c'est pour ça que j'ai proposé que l'europe supprime les scandaleuses, euh, amendes, qu'ils ont infligé à la pologne."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Quand un peuple subit la guerre sur son sol, quand il est persécuté, il doit avoir une autorisation temporaire de séjour dans notre pays."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour répond qu'il accepte les réfugiés ukrainiens, mais qu'il souhaite plutôt aider la Pologne à en accueillir plus."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique ensuite que la politique de Valérie Pécresse ouvre la france aux réfugiés de toute les guerres."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Il faut être cohérent avec ses principes, madame Pécresse."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Donc, à chaque fois qu'il y aura une guerre, vous accueillerez tous les migrants qui sont victimes de cette guerre, d'où qu'elle vienne, Madame pécresse, il faut le dire aux français, parce que, là, ils seront intéressés, parce que, là, vous comprenez, là, aujourd'hui, ce sont des ukrainiens, qui sont des chrétiens, des européens."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Euh, ce que je j'ai dit, j'ai dit que les réfugiés ukrainiens voulait aller en pologne, et je le répète."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Donc, l'essentiel, ils veulent aller en pologne, tout simplement parce que ce sont des femmes et des enfants, qui sont près de leur mari, et de leur père, ou de leur fils, qui se bat."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Donc ils ne veulent pas aller loin, et c'est pour ça que j'ai proposé d'aider les polonais, et madame pécresse, c'est pour ça que j'ai proposé que l'europe supprime les scandaleuses, euh, amendes, qu'ils ont infligé à la pologne."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique ensuite que la politique de Valérie Pécresse ouvre la France aux réfugiés de toute les guerres."
     },
-    {
-        "abstractive": {
-            "text": "Valérie Pécresse explique ensuite que l'immigration zéro d'éric zemmour est impossible, et qu'il faut des immigrants pour travailler en france."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Madame pécresse ça nous ramène à l'un des concepts préféré de Monsieur zemmour, le grand remplacement, le mot, la terminologie, mais qu'en pensez-vous ?"
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Avant d'en venir au grand remplacement, il faut quand même en parler, de la politique d'immigration."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Vous vous dites immigration zéro, c’est bien ça ?"
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "ça veut dire qu'on a plus de chercheurs étrangers qui viennent dans nos laboratoires, ça veut dire, on n'a plus d'ouvriers agricoles qui viennent."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Donc, moi, j'ai les solutions, j’ai les solutions, les vraies solutions, qui sont, qui nécessiteront d'ailleurs beaucoup de courage pour être mis en œuvre en matière migratoire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Il faut être cohérent avec ses principes, madame Pécresse."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Donc, à chaque fois qu'il y aura une guerre, vous accueillerez tous les migrants qui sont victimes de cette guerre, d'où qu'elle vienne, Madame pécresse, il faut le dire aux français, parce que, là, ils seront intéressés, parce que, là, vous comprenez, là, aujourd'hui, ce sont des ukrainiens, qui sont des chrétiens, des européens."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse explique ensuite que l'immigration zéro d'Eric Zemmour est impossible, et qu'il faut des immigrants pour travailler en France."
     },
-    {
-        "abstractive": {
-            "text": "Valérie Pécresse explique qu'elle souhaite mettre en place des quotas de visas d'immigration."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "C’est les quotas migratoires, c'est une loi constitutionnelle, adoptée par référendum."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Madame pécresse ça nous ramène à l'un des concepts préféré de Monsieur zemmour, le grand remplacement, le mot, la terminologie, mais qu'en pensez-vous ?"
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Avant d'en venir au grand remplacement, il faut quand même en parler, de la politique d'immigration."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Vous vous dites immigration zéro, c’est bien ça ?"
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "ça veut dire qu'on a plus de chercheurs étrangers qui viennent dans nos laboratoires, ça veut dire, on n'a plus d'ouvriers agricoles qui viennent."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Donc, moi, j'ai les solutions, j’ai les solutions, les vraies solutions, qui sont, qui nécessiteront d'ailleurs beaucoup de courage pour être mis en œuvre en matière migratoire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse explique qu'elle souhaite mettre en place des quotas de visas d'immigration."
     },
-    {
-        "abstractive": {
-            "text": "Elle explique que de cette manière, elle pourra renvoyer les clandestins, et que si un pays ne les acceptent pas, elle ne leur accordera aucun visa."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Zéro, les clandestins, les clandestins, rentrent chez eux, et les pays qui refusent de reprendre leurs clandestins, c'est zéro visas."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Ça permet de choisir qui on accueille, et, dans les métiers où on en a besoin, eh bien, on fera venir des personnes dont on a besoin."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "C’est les quotas migratoires, c'est une loi constitutionnelle, adoptée par référendum."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle explique que de cette manière, elle pourra renvoyer les clandestins, et que si un pays ne les acceptent pas, elle ne leur accordera aucun visa."
     },
-    {
-        "abstractive": {
-            "text": "Elle souhaite aussi mettre fin au regroupement familial automatique, en le conditionnant par un examen de français réussi, des obligations de revenus, et une obligation d'assimilation."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Et le regroupement familial automatique c'est terminé."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Aujourd'hui, on le réduit, on le réduit, avec un test de français obligatoire et un examen réussi, avec des obligations de revenus, avec une obligation, aussi, d'assimilation, et on met fin au droit du sol obligatoire, automatique."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Zéro, les clandestins, les clandestins, rentrent chez eux, et les pays qui refusent de reprendre leurs clandestins, c'est zéro visas."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Ça permet de choisir qui on accueille, et, dans les métiers où on en a besoin, eh bien, on fera venir des personnes dont on a besoin."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle souhaite aussi mettre fin au regroupement familial automatique, en le conditionnant par un examen de Français réussi, des obligations de revenus, et une obligation d'assimilation."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique que le regroupement familial demande déjà tout ça, et qu'il souhaite lui mettre fin au droit du sol complètement, supprimer le regroupement familial, limiter les étudiants, et expulser les délinquants étrangers."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Madame Pécresse, le regroupement familial, avec les contraintes que vous donnez, ça existe déjà quasiment."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Après, vous dites, le droit du sol, c'est fini."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Euh, mais, mais, vous rajoutez tout de suite, ah, oui, mais, euh, à dix-huit ans, si il parle pas français, et s'ils ont un casier judiciaire."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Moi, je supprime, je supprime le droit du sol complètement."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Moi, je supprime le regroupement familial totalement."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Moi, je limite les étudiants, uniquement, les gens qui sont très, très fort."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Moi, je continue, j'expulse les délinquants étrangers."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Et le regroupement familial automatique c'est terminé."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Aujourd'hui, on le réduit, on le réduit, avec un test de français obligatoire et un examen réussi, avec des obligations de revenus, avec une obligation, aussi, d'assimilation, et on met fin au droit du sol obligatoire, automatique."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique que le regroupement familial demande déjà tout ça, et qu'il souhaite lui mettre fin au droit du sol complètement, supprimer le regroupement familial, limiter les étudiants, et expulser les délinquants étrangers."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour soouhaite aussi déchoire de la nationalité française les délinquants bi nationaux, il souhaite aussi enlever les prestations sociales non contributives aux étrangers."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je déchois de la  nationalité les délinquants bi nationaux, et, puis, je les expulse."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Par ailleurs, je, j'enlève les prestations sociales, non contributives, comme on dit, c'est-à-dire le rsa, l'allocation logement, le minimum vieillesse, euh, aux étrangers, non-européens, vous ne le faites pas."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Madame Pécresse, le regroupement familial, avec les contraintes que vous donnez, ça existe déjà quasiment."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Après, vous dites, le droit du sol, c'est fini."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Euh, mais, mais, vous rajoutez tout de suite, ah, oui, mais, euh, à dix-huit ans, si il parle pas français, et s'ils ont un casier judiciaire."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Moi, je supprime, je supprime le droit du sol complètement."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Moi, je supprime le regroupement familial totalement."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Moi, je limite les étudiants, uniquement, les gens qui sont très, très fort."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Moi, je continue, j'expulse les délinquants étrangers."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour souhaite aussi déchoir de la nationalité française les délinquants binationaux, il souhaite aussi enlever les prestations sociales non contributives aux étrangers."
     },
-    {
-        "abstractive": {
-            "text": "Valérie Pécresse explique qu'Eric Zemmour ne pourra pas renvoyer des clandestins dans ces conditions."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Et bien, comment feras-t’il atterrir les avions dans les pays d'origine ?"
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Mais, surtout, l'important, c'est de renégocier les accords bilatéraux avec les pays, pour qu’ils reprennent leurs clandestins."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je déchois de la  nationalité les délinquants bi nationaux, et, puis, je les expulse."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Par ailleurs, je, j'enlève les prestations sociales, non contributives, comme on dit, c'est-à-dire le rsa, l'allocation logement, le minimum vieillesse, euh, aux étrangers, non-européens, vous ne le faites pas."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse explique qu'Eric Zemmour ne pourra pas renvoyer des clandestins dans ces conditions."
     },
-    {
-        "abstractive": {
-            "text": "Elle explique aussi qu'elle souhaite mettre en place la demande du droit d'asile au frontière."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Moi, je demande que le droit d&#x27;asile soit fait à la frontière, pour lutter contre tous ces faux demandeurs d&#x27;asile, et on fera, euh, on est, on examinera leur demande dans un délai de un mois, et les faux demandeurs d&#x27;asile, ceux qui viennent pour de l&#x27;immigration économiques, ils rentrent chez eux."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Et bien, comment feras-t’il atterrir les avions dans les pays d'origine ?"
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Mais, surtout, l'important, c'est de renégocier les accords bilatéraux avec les pays, pour qu’ils reprennent leurs clandestins."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle explique aussi qu'elle souhaite mettre en place la demande du droit d'asile aux frontières."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique qu'il supprimera les visas, saisira les biens des dirigeants étrangers en france, et bloquera les transferts de fonds des immigrés si leur pays d'origine n'accepte pas de récupérer leurs immigrés clandestin"
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je considère que les états qui ne reprennent pas les clandestins s’opposent à la france, donc je prendrais toutes les mesures de coercition."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "La première, c’est la suppression des visas."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Deuxièmement, je saisis les biens des dirigeants étrangers en France."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Troisièmement, je bloque les transferts de fonds des immigrés ici, vers la western union des pays des clandestins"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Moi, je demande que le droit d&#x27;asile soit fait à la frontière, pour lutter contre tous ces faux demandeurs d&#x27;asile, et on fera, euh, on est, on examinera leur demande dans un délai de un mois, et les faux demandeurs d&#x27;asile, ceux qui viennent pour de l&#x27;immigration économiques, ils rentrent chez eux."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique qu'il supprimera les visas, saisira les biens des dirigeants étrangers en France, et bloquera les transferts de fonds des immigrés si leur pays d'origine n'accepte pas de récupérer leurs immigrés clandestins."
+    },
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je considère que les états qui ne reprennent pas les clandestins s’opposent à la france, donc je prendrais toutes les mesures de coercition."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "La première, c’est la suppression des visas."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Deuxièmement, je saisis les biens des dirigeants étrangers en France."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Troisièmement, je bloque les transferts de fonds des immigrés ici, vers la western union des pays des clandestins"
+      }
+    ]
+  }
 ]

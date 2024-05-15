@@ -1,61 +1,61 @@
 [
-    {
-        "abstractive": {
-            "text": "Zemmour souhaite en quitter le commandement intégré. "
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Euh, éric zemmour, est plutôt pour sortir du cadre de l'otan, du, en tous cas, du commandement militaire, intégré, de l'otan."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Eric Zemmour souhaite en quitter le commandement intégré."
     },
-    {
-        "abstractive": {
-            "text": "Pécresse pense que son adversaire se trompe sur l’Europe, la Russie et la politique de défense européenne. "
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Eric Zemmour, il s'est trompé sur l’otan, et il s'est trompé sur l'europe, sur l’otan, parce que, oui, il faut que la france reste dans le commandement intégré de l'otan, parce qu'il faut qu'on pèse dans l'otan, et, parce qu'il nous faut maintenant un pilier européen de défense stratégique, dans l'otan, et il faut aussi une europe de la défense, parce que, si on n'est pas au niveau européen, alors on n'arrivera pas à se défendre."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Euh, éric zemmour, est plutôt pour sortir du cadre de l'otan, du, en tous cas, du commandement militaire, intégré, de l'otan."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse pense que son adversaire se trompe sur l’Europe, la Russie et la politique de défense européenne."
     },
-    {
-        "abstractive": {
-            "text": "Pour elle, il faut une Europe de la défense et en même temps que la France reste dans l’OTAN où elle a une capacité d’influence. "
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "C'est ça ma conviction, une france souveraine, sans l'europe, monsieur zemmour, vous n'y arriverez pas"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Eric Zemmour, il s'est trompé sur l’otan, et il s'est trompé sur l'europe, sur l’otan, parce que, oui, il faut que la france reste dans le commandement intégré de l'otan, parce qu'il faut qu'on pèse dans l'otan, et, parce qu'il nous faut maintenant un pilier européen de défense stratégique, dans l'otan, et il faut aussi une europe de la défense, parce que, si on n'est pas au niveau européen, alors on n'arrivera pas à se défendre."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour elle, il faut une Europe de la défense et en même temps que la France reste dans l’OTAN où elle a une capacité d’influence."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour rappelle que le général de Gaulle a quitté le commandement intégré de l’OTAN et que l’Europe de la défense est impossible car les pays européens font avant tout confiance à l’OTAN pour assurer leur défense. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Vous êtes pour le pilier européen de l'otan, c'est-à-dire que vous voulez vous soumettre aux etats-unis dans le cadre de l'europe."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "La défense européenne, c'est une chimère."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "C'est ça ma conviction, une france souveraine, sans l'europe, monsieur zemmour, vous n'y arriverez pas"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour rappelle que le général de Gaulle a quitté le commandement intégré de l’OTAN et que l’Europe de la défense est impossible car les pays européens font avant tout confiance à l’OTAN pour assurer leur défense."
     },
-    {
-        "abstractive": {
-            "text": "Pour Pécresse, cela est non seulement possible mais nécessaire car les Etats-Unis ne seront pas toujours là pour assurer la défense de l’Europe."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Si l'europe ne prend pas son destin en main, vous le savez très bien, nous ne serons pas en capacité de nous défendre, et nous avons besoin d'une industrie de défense européenne."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Vous êtes pour le pilier européen de l'otan, c'est-à-dire que vous voulez vous soumettre aux etats-unis dans le cadre de l'europe."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "La défense européenne, c'est une chimère."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Pécresse, cela est non seulement possible mais nécessaire car les Etats-Unis ne seront pas toujours là pour assurer la défense de l’Europe."
+    },
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Si l'europe ne prend pas son destin en main, vous le savez très bien, nous ne serons pas en capacité de nous défendre, et nous avons besoin d'une industrie de défense européenne."
+      }
+    ]
+  }
 ]

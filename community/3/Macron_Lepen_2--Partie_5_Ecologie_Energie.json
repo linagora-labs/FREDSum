@@ -1,276 +1,276 @@
 [
-    {
-        "abstractive": {
-            "text": "MARINE LE PEN souhaite réduire les émissions de gaz à effet de serre en réduisant le libre-échange et donc le transport de marchandises."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "D'abord, j'arrête l'hypocrisie qui consiste à refuser de voir que c'est le modèle économique fondé sur le libre échange qui est responsable d'une grande partie de l'émission des gaz à effet de serre, en France 50 % d'ailleurs."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Marine Le Pen souhaite réduire les émissions de gaz à effet de serre en réduisant le libre-échange et donc le transport de marchandises."
     },
-    {
-        "abstractive": {
-            "text": "En effet, elle défend le localisme et la relocalisation de la production, dans la mesure du possible."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "J'ai donc conçu l'intégralité de mon projet autour du localisme, autour de la relocalisation des productions et des activités."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "D'abord, j'arrête l'hypocrisie qui consiste à refuser de voir que c'est le modèle économique fondé sur le libre échange qui est responsable d'une grande partie de l'émission des gaz à effet de serre, en France 50 % d'ailleurs."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "En effet, elle défend le localisme et la relocalisation de la production, dans la mesure du possible."
     },
-    {
-        "abstractive": {
-            "text": "Ce patriotisme économique permettrait selon elle de diminuer les importations, notamment agricoles."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Et assumer cette responsabilité c'est mettre en place le patriotisme économique, c'est-à-dire de faire en sorte par exemple qu'on arrête d'importer la moitié de nos fruits et légumes alors que nous avons parfaitement la capacité de pouvoir répondre à la demande française."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "J'ai donc conçu l'intégralité de mon projet autour du localisme, autour de la relocalisation des productions et des activités."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ce patriotisme économique permettrait selon elle de diminuer les importations, notamment agricoles."
     },
-    {
-        "abstractive": {
-            "text": "Par ailleurs, elle évoque l’absurde modèle de l’exploitation animale, provoquant souffrance pour les bêtes, pollution, et concurrence déloyale pour les éleveurs français en raison des différentiels de normes entre les pays."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Parce que le libre-échange, le modèle de libre échange est un modèle qui fait aussi beaucoup de mal aux animaux parce que lorsqu'on accepte des circuits qui fait que l'on fait naître des bêtes en France, qu'on va les transporter dans des camions dans des conditions qui sont évidemment éprouvantes et douloureuses, à des centaines de kms pour aller les engraisser, puis à nouveau à des centaines voire des milliers de kms pour aller les abattre, c'est un modèle qui est insensé, qui crée du chômage dans notre pays, qui crée des émissions de gaz à effet de serre, 50 %, et qui de surcroît crée de la souffrance animale et qui désespère nos agriculteurs, qui désespère nos industriels parce qu'ils se trouvent en plus confrontés à une concurrence déloyale car il arrive bien souvent que ces importations ne respectent pas les normes que nous nous sommes choisies, comme un choix de société et donc les concurrencent directement sur leur secteur."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Et assumer cette responsabilité c'est mettre en place le patriotisme économique, c'est-à-dire de faire en sorte par exemple qu'on arrête d'importer la moitié de nos fruits et légumes alors que nous avons parfaitement la capacité de pouvoir répondre à la demande française."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Par ailleurs, elle évoque l’absurde modèle de l’exploitation animale, provoquant souffrance pour les bêtes, pollution, et concurrence déloyale pour les éleveurs français en raison des différentiels de normes entre les pays."
     },
-    {
-        "abstractive": {
-            "text": "EMMANUEL MACRON souligne néanmoins une contradiction chez son adversaire ; cette dernière désire subventionner l’essence alors même qu’elle appelle à la réduction des importations d’hydrocarbure."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Non mais d'abord ce qui est intéressant à vous écouter, c'est l'incohérence de notre conversation, parce que quand vous parlez de remettre en cause le modèle de libre échange et de nos importations, nos importations qui nous posent le plus de problèmes, et en termes de déficit commercial que vous évoquiez tout à l'heure et en termes de bilan carbone c'est notre dépendance aux hydrocarbures, et vous avez proposé la plus grosse subvention aux hydrocarbures possible puisque vous baissez la tva sur ces derniers."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Parce que le libre-échange, le modèle de libre échange est un modèle qui fait aussi beaucoup de mal aux animaux parce que lorsqu'on accepte des circuits qui fait que l'on fait naître des bêtes en France, qu'on va les transporter dans des camions dans des conditions qui sont évidemment éprouvantes et douloureuses, à des centaines de kms pour aller les engraisser, puis à nouveau à des centaines voire des milliers de kms pour aller les abattre, c'est un modèle qui est insensé, qui crée du chômage dans notre pays, qui crée des émissions de gaz à effet de serre, 50 %, et qui de surcroît crée de la souffrance animale et qui désespère nos agriculteurs, qui désespère nos industriels parce qu'ils se trouvent en plus confrontés à une concurrence déloyale car il arrive bien souvent que ces importations ne respectent pas les normes que nous nous sommes choisies, comme un choix de société et donc les concurrencent directement sur leur secteur."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron souligne néanmoins une contradiction chez son adversaire ; cette dernière désire subventionner l’essence alors même qu’elle appelle à la réduction des importations d’hydrocarbure."
     },
-    {
-        "abstractive": {
-            "text": "Il l’accuse ensuite d’être climato-sceptique, et vante son bilan politique, évoquant la réduction des gaz à effet de serre et la politique de biodiversité."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Vous êtes climatosceptique."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "On a doublé le rythme de réduction de gaz à effet de serre durant ce quinquennat et lancé une politique pour la biodiversité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Non mais d'abord ce qui est intéressant à vous écouter, c'est l'incohérence de notre conversation, parce que quand vous parlez de remettre en cause le modèle de libre échange et de nos importations, nos importations qui nous posent le plus de problèmes, et en termes de déficit commercial que vous évoquiez tout à l'heure et en termes de bilan carbone c'est notre dépendance aux hydrocarbures, et vous avez proposé la plus grosse subvention aux hydrocarbures possible puisque vous baissez la tva sur ces derniers."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il l’accuse ensuite d’être climatosceptique (ce que Marine Le Pen nie) et vante son bilan politique, évoquant la réduction des gaz à effet de serre et la politique de biodiversité."
     },
-    {
-        "abstractive": {
-            "text": "Il souhaite par la suite accentuer la rénovation thermique des bâtiments et aider les français à acquérir des véhicules hybrides et électriques."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "La rénovation thermique des bâtiments, pour la sobriété, 700 000 logements par an qu'on peut rénover."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Deuxième chose, aider nos compatriotes à changer de véhicules et aller vers des véhicules hybrides ou électriques produits en France."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Vous êtes climatosceptique."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "On a doublé le rythme de réduction de gaz à effet de serre durant ce quinquennat et lancé une politique pour la biodiversité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il souhaite par la suite accentuer la rénovation thermique des bâtiments et aider les Français à acquérir des véhicules hybrides et électriques."
     },
-    {
-        "abstractive": {
-            "text": "MARINE LE PEN pense qu’il s’agit de mesures d’écologie punitives, car l’on force les Français à adopter des comportements pour lesquels ils ne sont pas forcément prêts, notamment en raison de leur coût."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Oui, je vais répondre à ce qu'a dit Emmanuel Macron, je ne suis absolument pas climatosceptique, en aucun cas."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Toutes les décisions qui ont été prises, qui consistent à expliquer aux gens qu'ils sont coupables parce qu'ils ne s'achètent pas une voiture électrique même s'ils n'ont pas les moyens de le faire parce que le reste à charge."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "La rénovation thermique des bâtiments, pour la sobriété, 700 000 logements par an qu'on peut rénover."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Deuxième chose, aider nos compatriotes à changer de véhicules et aller vers des véhicules hybrides ou électriques produits en France."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen pense qu’il s’agit de mesures d’écologie punitives, car l’on force les Français à adopter des comportements pour lesquels ils ne sont pas forcément prêts, notamment en raison de leur coût."
     },
-    {
-        "abstractive": {
-            "text": "La transition énergétique devrait en réalité se faire au rythme des Français."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Oui à la transition, bien sûr il faut qu'il y ait une transition mais il faut évidemment qu'elle soit dans le temps."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Oui, je vais répondre à ce qu'a dit Emmanuel Macron, je ne suis absolument pas climatosceptique, en aucun cas."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Toutes les décisions qui ont été prises, qui consistent à expliquer aux gens qu'ils sont coupables parce qu'ils ne s'achètent pas une voiture électrique même s'ils n'ont pas les moyens de le faire parce que le reste à charge."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "La transition énergétique devrait en réalité se faire au rythme des Français."
     },
-    {
-        "abstractive": {
-            "text": "Elle critique ensuite la politique énergétique du quinquennat d’EMMANUEL MACRON : fermeture de Fessenheim, décision de réduire le nombre de réacteurs nucléaires, abandon du projet Astrid."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Vous avez commencé votre mandat, en fermant Fessenheim, en fermant Fessenheim alors qu'aucune justification de sécurité ne le permettait."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Vous avez envisagé de fermer 14 réacteurs nucléaires, vous avez arrêté Astrid et puis à la fin de votre mandat, vous dites « je me suis trompé »."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Oui à la transition, bien sûr il faut qu'il y ait une transition mais il faut évidemment qu'elle soit dans le temps."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle critique ensuite la politique énergétique du quinquennat d’EMMANUEL MACRON : fermeture de Fessenheim, décision de réduire le nombre de réacteurs nucléaires, abandon du projet Astrid."
     },
-    {
-        "abstractive": {
-            "text": "Pour elle, la filière nucléaire a été déstabilisée, au profit de l’éolienne, dangereuse pour la biodiversité."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Ce qui fait qu'on a perdu 10 ans à déstabiliser une filière nucléaire qui avait besoin d'être renforcée, qui avait besoin d'être soutenue, qui avait besoin de visibilité dans l'avenir pour pouvoir faire de cet outil décarboné et qui nous permet d'être indépendant à nouveau un socle pour notre mix énergétique."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "C'est extrêmement regrettable, vous avez fait le choix par ailleurs de l'éolien, des éoliennes, pardon et du solaire."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "L'éolien étant le pire, puisqu'il est en même temps une absurdité écologique, une absurdité économique, une gêne fondamentale pour la biodiversité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Vous avez commencé votre mandat, en fermant Fessenheim, en fermant Fessenheim alors qu'aucune justification de sécurité ne le permettait."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Vous avez envisagé de fermer 14 réacteurs nucléaires, vous avez arrêté Astrid et puis à la fin de votre mandat, vous dites « je me suis trompé »."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour elle, la filière nucléaire a été déstabilisée, au profit de l’éolienne, dangereuse pour la biodiversité."
     },
-    {
-        "abstractive": {
-            "text": "EMMANUEL MACRON assume la fermeture de Fessenheim en raison du manque d’investissement que la centrale avait reçu."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Je me suis occupé de la restructuration du secteur nucléaire qui était en train de s'effondrer."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Ensuite, Fessenheim, j'assume totalement Mme Le Pen, il n'y avait plus un investissement depuis 2012."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Ce qui fait qu'on a perdu 10 ans à déstabiliser une filière nucléaire qui avait besoin d'être renforcée, qui avait besoin d'être soutenue, qui avait besoin de visibilité dans l'avenir pour pouvoir faire de cet outil décarboné et qui nous permet d'être indépendant à nouveau un socle pour notre mix énergétique."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "C'est extrêmement regrettable, vous avez fait le choix par ailleurs de l'éolien, des éoliennes, pardon et du solaire."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "L'éolien étant le pire, puisqu'il est en même temps une absurdité écologique, une absurdité économique, une gêne fondamentale pour la biodiversité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron assume la fermeture de Fessenheim en raison du manque d’investissement que la centrale avait reçu."
     },
-    {
-        "abstractive": {
-            "text": "Par ailleurs, il défend le nucléaire, avec sa décision d’ouvrir de nouveaux EPR ; mais cette politique doit se faire parallèlement au développement des énergies renouvelables, dans la mesure où les nouveaux réacteurs n’entreront en service qu’en 2035."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Donc j'ai eu pendant ces 5 ans une vraie stratégie, une vraie volonté et j'ai reposé dès 2018 le sujet de la baisse du nucléaire qui avait été voté en 2015."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Et vous ne pouvez pas remplacer le renouvelable actuel que vous voulez démonter par du nucléaire parce que le nucléaire qu'on décide aujourd'hui, il entrera en service en 2035."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Je me suis occupé de la restructuration du secteur nucléaire qui était en train de s'effondrer."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Ensuite, Fessenheim, j'assume totalement Mme Le Pen, il n'y avait plus un investissement depuis 2012."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Par ailleurs, il défend le nucléaire, avec sa décision d’ouvrir de nouveaux EPR ; mais cette politique doit se faire parallèlement au développement des énergies renouvelables, dans la mesure où les nouveaux réacteurs n’entreront en service qu’en 2035."
     },
-    {
-        "abstractive": {
-            "text": "Il feint donc de ne pas comprendre pourquoi MARINE LE PEN demande le démantèlement des éoliennes."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "C'est pourquoi j'ai décidé à la lumière de ce rapport, un programme de nouvelles tranches d'EPR, 6 puis 8 mais surtout d'investir dans le renouvelable, de se donner plus de temps sur l'éolien terrestre."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Vous allez démanteler les éoliennes qui existent, ce qui coûte un argent fou."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Donc j'ai eu pendant ces 5 ans une vraie stratégie, une vraie volonté et j'ai reposé dès 2018 le sujet de la baisse du nucléaire qui avait été voté en 2015."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Et vous ne pouvez pas remplacer le renouvelable actuel que vous voulez démonter par du nucléaire parce que le nucléaire qu'on décide aujourd'hui, il entrera en service en 2035."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il feint donc de ne pas comprendre pourquoi Marine Le Pen demande le démantèlement des éoliennes."
     },
-    {
-        "abstractive": {
-            "text": "MARINE LE PEN explique qu’une provision couvre le coûts de démantèlement des éoliennes et que plusieurs d’entre elles arrivent en fin de vie ; pour les autres, seuls celles proches des habitations seront démantelées, à l’issue de référendums locaux."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Le démantèlement des éoliennes est cautionné au moment de leur installation."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Déjà il y en a 2 000 qui vont arriver en bout de course."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "C'est pourquoi j'ai décidé à la lumière de ce rapport, un programme de nouvelles tranches d'EPR, 6 puis 8 mais surtout d'investir dans le renouvelable, de se donner plus de temps sur l'éolien terrestre."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Vous allez démanteler les éoliennes qui existent, ce qui coûte un argent fou."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen explique qu’une provision couvre le coût de démantèlement des éoliennes et que plusieurs d’entre elles arrivent en fin de vie ; pour les autres, seuls celles proches des habitations seront démantelées, à l’issue de référendums locaux."
     },
-    {
-        "abstractive": {
-            "text": "Les éoliennes sont des énergies intermittentes détruisant les paysages ; selon elle, il faut plutôt faire confiance à l’hydroélectricité ainsi qu’au nucléaire ; cette dernière devra être utilisée pour créer de l’hydrogène vert."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "En revanche, ce que je démantèlerai c'est ceux des éoliennes qui représentent un trouble anormal du voisinage et il y en a de plus en plus, il y a de plus en plus de tribunaux qui constatent par ces troubles anormaux du voisinage."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Et bien on commencera par celles-là et puis on fera des référendums, on demandera l'avis aux gens."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Parce que, encore une fois, ça coûte très cher aux Français, ça pollue nos paysages, c'est intermittent, on s'appuie sur du gaz et du charbon et ça n'est vraiment pas la bonne solution alors que nous avons l'hydroélectricité sur lequel nous pouvons évidemment nous appuyer dans notre mix énergétique."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Et que nous aurons demain j'espère de plus en plus de l'hydrogène vert"
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Avec du nucléaire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Le démantèlement des éoliennes est cautionné au moment de leur installation."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Déjà il y en a 2 000 qui vont arriver en bout de course."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Les éoliennes sont des énergies intermittentes détruisant les paysages ; selon elle, il faut plutôt faire confiance à l’hydroélectricité ainsi qu’au nucléaire ; cette dernière devra être utilisée pour créer de l’hydrogène vert."
     },
-    {
-        "abstractive": {
-            "text": "Cependant, EMMANUEL MACRON explique qu’une telle politique exige l’ouverture de nouveaux réacteurs, ce qui n’arrivera pas avant 2035 ; l’autre solution consisterait à rester dépendant des hydrocarbures et du gaz russe, ce qui n’est pas souhaitable."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Avec du nucléaire à venir parce qu'aujourd'hui, le nucléaire, il n'est pas fait pour faire de l'hydrogène."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Vous n'arriverez pas à ouvrir des centrales avant 2035, Madame Le Pen."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "En revanche, ce que je démantèlerai c'est ceux des éoliennes qui représentent un trouble anormal du voisinage et il y en a de plus en plus, il y a de plus en plus de tribunaux qui constatent par ces troubles anormaux du voisinage."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Et bien on commencera par celles-là et puis on fera des référendums, on demandera l'avis aux gens."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Parce que, encore une fois, ça coûte très cher aux Français, ça pollue nos paysages, c'est intermittent, on s'appuie sur du gaz et du charbon et ça n'est vraiment pas la bonne solution alors que nous avons l'hydroélectricité sur lequel nous pouvons évidemment nous appuyer dans notre mix énergétique."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Et que nous aurons demain j'espère de plus en plus de l'hydrogène vert"
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Avec du nucléaire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Cependant, Emmanuel Macron explique qu’une telle politique exige l’ouverture de nouveaux réacteurs, ce qui n’arrivera pas avant 2035 ; l’autre solution consisterait à rester dépendant des hydrocarbures et du gaz russe, ce qui n’est pas souhaitable."
     },
-    {
-        "abstractive": {
-            "text": "MARINE LE PEN lui rétorque que le démantèlement des éoliennes se fera en fonction des capacités énergétiques exigées par sa politique ; par ailleurs, l’ouverture de Flamanville en 2023 devrait apporter un précieux renfort en terme de production électrique."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Mais vous savez moi je ne suis pas comme vous, moi je ne ferme pas Fessenheim."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Donc j'engagerai le chantier en fonction, et notamment en attendant que Flamanville soit mis en fonctionnement."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Et donc, alors même qu'on a des besoins aujourd'hui vous ne m'expliquez pas comment on va faire face pour nous passer de l'hydrocarbure, pour baisser notre dépendance au gaz russe, aux énergies fossiles puisque vous vous détruisez pendant des années des capacités à produire de l'électricité avec le renouvelable."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Que je le ferai de manière progressive en fonction de nos capacités."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Et Flamanville ouvrira en 2023."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Avec du nucléaire à venir parce qu'aujourd'hui, le nucléaire, il n'est pas fait pour faire de l'hydrogène."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Vous n'arriverez pas à ouvrir des centrales avant 2035, Madame Le Pen."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen lui rétorque que le démantèlement des éoliennes se fera en fonction des capacités énergétiques exigées par sa politique ; par ailleurs, l’ouverture de Flamanville en 2023 devrait apporter un précieux renfort en termes de production électrique."
+    },
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Mais vous savez moi je ne suis pas comme vous, moi je ne ferme pas Fessenheim."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Donc j'engagerai le chantier en fonction, et notamment en attendant que Flamanville soit mis en fonctionnement."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Et donc, alors même qu'on a des besoins aujourd'hui vous ne m'expliquez pas comment on va faire face pour nous passer de l'hydrocarbure, pour baisser notre dépendance au gaz russe, aux énergies fossiles puisque vous vous détruisez pendant des années des capacités à produire de l'électricité avec le renouvelable."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Que je le ferai de manière progressive en fonction de nos capacités."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Et Flamanville ouvrira en 2023."
+      }
+    ]
+  }
 ]

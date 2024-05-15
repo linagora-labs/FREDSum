@@ -1,130 +1,130 @@
 [
-    {
-        "abstractive": {
-            "text": "Sur l'Afghanistan, François Hollande explique qu'après la décision d'intervenir militairement et les choix de Nicolas Sarkozy de garder les troupes en france, il souhaite maintenant retirer les troupes d'ici fin 2012."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "La décision d'envoyer des troupes françaises en Afghanistan, ou plus exactement d'une intervention militaire en Afghanistan, a été prise conjointement par Lionel Jospin et Jacques Chirac en 2001 suite aux attentats de New York."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "En 2007, quand, Nicolas SARKOZY, vous vous êtes présenté au suffrage, vous aviez dit que vous n'envisagiez pas de maintenir très longtemps les troupes en Afghanistan."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "En 2008 une nouvelle fois, vous avez changé d'avis et vous avez envoyé des troupes supplémentaires en Afghanistan pour une autre mission, d'intervention directe."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Je considère que maintenant, et cela aurait dû être fait beaucoup plus tôt, les troupes françaises n'ont pas à rester plus longtemps en Afghanistan."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Je considère, sans prendre le moindre risque pour nos troupes, et j'y serai très attentif, qu'il convient de retirer les troupes combattantes fin 2012."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Sur l'Afghanistan, François Hollande explique qu'après la décision d'intervenir militairement et les choix de Nicolas Sarkozy de garder les troupes en France, il souhaite maintenant retirer les troupes d'ici fin 2012."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique qu'il soutient sa décision d'avoir resté en Afghanistan."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "En Afghanistan, nos soldats ont fait un travail absolument extraordinaire, j'aurais été à la place de Lionel Jospin et de Jacques Chirac à l'époque, j'aurais pris la même décision."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Et c'est ensemble que nous avons décidé d'une stratégie qui consiste à aider le peuple afghan à se libérer de cette gangrène terroriste et à assumer seul, c'est ce qu'on appelle « l'afghanisation », la gestion de la sécurité de leur pays."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "La décision d'envoyer des troupes françaises en Afghanistan, ou plus exactement d'une intervention militaire en Afghanistan, a été prise conjointement par Lionel Jospin et Jacques Chirac en 2001 suite aux attentats de New York."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "En 2007, quand, Nicolas SARKOZY, vous vous êtes présenté au suffrage, vous aviez dit que vous n'envisagiez pas de maintenir très longtemps les troupes en Afghanistan."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "En 2008 une nouvelle fois, vous avez changé d'avis et vous avez envoyé des troupes supplémentaires en Afghanistan pour une autre mission, d'intervention directe."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Je considère que maintenant, et cela aurait dû être fait beaucoup plus tôt, les troupes françaises n'ont pas à rester plus longtemps en Afghanistan."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Je considère, sans prendre le moindre risque pour nos troupes, et j'y serai très attentif, qu'il convient de retirer les troupes combattantes fin 2012."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique qu'il soutient sa décision d'avoir resté en Afghanistan."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que la france aide à gérer la sécurité du pays, et qu'il souhaite se désengager progressivement d'ici 2013."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Progressivement, nous nous désengageons, mais en bon ordre."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Ensemble avec le Président Obama et nos alliés nous avons décidé qu'à la fin de 2013, le Président Obama vient de le dire, il n'y aurait plus d'action combattante des forces alliées."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "En Afghanistan, nos soldats ont fait un travail absolument extraordinaire, j'aurais été à la place de Lionel Jospin et de Jacques Chirac à l'époque, j'aurais pris la même décision."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Et c'est ensemble que nous avons décidé d'une stratégie qui consiste à aider le peuple afghan à se libérer de cette gangrène terroriste et à assumer seul, c'est ce qu'on appelle « l'afghanisation », la gestion de la sécurité de leur pays."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que la France aide à gérer la sécurité du pays, et qu'il souhaite se désengager progressivement d'ici 2013."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande explique que pour lui, la mission est terminée."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Et la décision que je prendrai, tout en rendant hommage à nos soldats qui ont sacrifié leurs vies pour 83 d'entre eux et dont les familles ont été durement éprouvées, c'est de considérer que la mission est terminée."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Progressivement, nous nous désengageons, mais en bon ordre."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Ensemble avec le Président Obama et nos alliés nous avons décidé qu'à la fin de 2013, le Président Obama vient de le dire, il n'y aurait plus d'action combattante des forces alliées."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande explique que pour lui, la mission est terminée."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que non, et que la france s'occupe toujours d'une région afghanne."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Le travail n'est pas terminé, puisqu'il nous reste une région à transmettre à nos amis afghans."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Et la décision que je prendrai, tout en rendant hommage à nos soldats qui ont sacrifié leurs vies pour 83 d'entre eux et dont les familles ont été durement éprouvées, c'est de considérer que la mission est terminée."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que non, et que la France s'occupe toujours d'une région afghane."
     },
-    {
-        "abstractive": {
-            "text": "Les candidats discutent ensuite de la situation des otages français en Afrique."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "La menace terroriste plane également dans le Maghreb islamique avec la montée en puissance d'Al-Qaida dans les pays du Sahel comme le Mali, le Niger, la Mauritanie ou encore le Yémen ou la Somalie, huit otages français sont détenus dans cette zone, que proposez-vous pour leur libération, Monsieur Hollande ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Le travail n'est pas terminé, puisqu'il nous reste une région à transmettre à nos amis afghans."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Les candidats discutent ensuite de la situation des otages français en Afrique."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande explique qu'il n'a pas les informations car il n'est pas président."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Donc, là-dessus, je ne doute pas qu'au lendemain de l'élection présidentielle, toutes les informations nous seront données pour que nous puissions travailler à la libération de ces otages et surtout aussi, au-delà de ce qu'il convient de faire pour leurs familles et pour eux-mêmes, de permettre la stabilisation de cette partie du monde, cette partie de l'Afrique qui risque d'être un foyer terroriste de très grande ampleur."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "La menace terroriste plane également dans le Maghreb islamique avec la montée en puissance d'Al-Qaida dans les pays du Sahel comme le Mali, le Niger, la Mauritanie ou encore le Yémen ou la Somalie, huit otages français sont détenus dans cette zone, que proposez-vous pour leur libération, Monsieur Hollande ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande explique qu'il n'a pas les informations car il n'est pas président."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique qu'il faut aider à organiser des élections démocratique dans les pays déstabilisés, et créer une coopération entre ces pays"
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "La première priorité, c'est que nos amis maliens comprennent qu'ils doivent organiser l'élection présidentielle démocratique."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Rien ne pourra se faire dans cette partie du monde si nous n'avons pas l'élection de gouvernements démocratiques."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Renforcer notre coopération militaire et économique avec le Niger, la Mauritanie, le Sénégal et le Mali quand il aura un gouvernement démocratique."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Le problème, c'est la confiance que nous devons mettre dans le travail avec l'Algérie, qui est la puissance régionale et qui a les clés de l'ensemble des données du problème."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Mais il faut pousser ces pays, l'Algérie, Niger, Mali, Mauritanie, Sénégal à travailler ensemble, et que la France et d'autres pays les aident matériellement et techniquement. s'agissant de nos otages, comme l'a dit Monsieur Hollande, on ne peut pas en parler dans une émission de cette nature."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Donc, là-dessus, je ne doute pas qu'au lendemain de l'élection présidentielle, toutes les informations nous seront données pour que nous puissions travailler à la libération de ces otages et surtout aussi, au-delà de ce qu'il convient de faire pour leurs familles et pour eux-mêmes, de permettre la stabilisation de cette partie du monde, cette partie de l'Afrique qui risque d'être un foyer terroriste de très grande ampleur."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique qu'il faut aider à organiser des élections démocratiques dans les pays déstabilisés, et créer une coopération entre ces pays."
+    },
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "La première priorité, c'est que nos amis maliens comprennent qu'ils doivent organiser l'élection présidentielle démocratique."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Rien ne pourra se faire dans cette partie du monde si nous n'avons pas l'élection de gouvernements démocratiques."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Renforcer notre coopération militaire et économique avec le Niger, la Mauritanie, le Sénégal et le Mali quand il aura un gouvernement démocratique."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Le problème, c'est la confiance que nous devons mettre dans le travail avec l'Algérie, qui est la puissance régionale et qui a les clés de l'ensemble des données du problème."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Mais il faut pousser ces pays, l'Algérie, Niger, Mali, Mauritanie, Sénégal à travailler ensemble, et que la France et d'autres pays les aident matériellement et techniquement. s'agissant de nos otages, comme l'a dit Monsieur Hollande, on ne peut pas en parler dans une émission de cette nature."
+      }
+    ]
+  }
 ]

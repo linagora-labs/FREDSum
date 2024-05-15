@@ -1,87 +1,87 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, le présentateur demande à Retauilleau, Ciotti et Pradié en quoi chacun d’eux ferait un bon Président."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "En quoi ferez-vous un bon président pour LR ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, le présentateur demande à Retailleau, Eric Ciotti et Aurélien Pradié en quoi chacun d’eux ferait un bon Président."
     },
-    {
-        "abstractive": {
-            "text": "Retailleau rappelle qu’il ne faut pas davantage diviser la famille."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Éric ou Aurélien, ce ne sont pas des adversaires pour moi, ce sont des compétiteurs."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "En quoi ferez-vous un bon président pour LR ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau rappelle qu’il ne faut pas davantage diviser la famille."
     },
-    {
-        "abstractive": {
-            "text": "Il se pose en candidat du rassemblement et pense pouvoir obtenir la confiance des Français en défendant leur mode de vie."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Et moi, je veux rassembler, je veux rassembler sur une ligne claire, parce qu'on le voit bien, notre famille a perdue près de 10 millions d'électeurs en une quinzaine d'années."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Ce qu'attendent de nous, nos compatriotes, les Français, c'est qu'on défende à la fois leur niveau de vie, les conditions matérielles de l'existence, mais aussi leur mode de vie."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Éric ou Aurélien, ce ne sont pas des adversaires pour moi, ce sont des compétiteurs."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il se pose en candidat du rassemblement et pense pouvoir obtenir la confiance des Français en défendant leur mode de vie."
     },
-    {
-        "abstractive": {
-            "text": "Ciotti se désole de la décadence française, d’autant plus que sa famille politique a une part de responsabilité dans ce malheur."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "La France est dangereusement engagée sur le chemin du déclin, le désordre s'installe dans la rue, nous sommes face au chaos migratoire, les Français souffrent d'une crise du pouvoir d'achat terrible, jamais la France n'a été aussi bas dans le classement des nations."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Et moi, je veux rassembler, je veux rassembler sur une ligne claire, parce qu'on le voit bien, notre famille a perdue près de 10 millions d'électeurs en une quinzaine d'années."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Ce qu'attendent de nous, nos compatriotes, les Français, c'est qu'on défende à la fois leur niveau de vie, les conditions matérielles de l'existence, mais aussi leur mode de vie."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti se désole de la décadence française, d’autant plus que sa famille politique a une part de responsabilité dans ce malheur."
     },
-    {
-        "abstractive": {
-            "text": "Seule la droite peut stopper ce mouvement, or, il est celui qui l’incarne dans toutes ses dimensions."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Moi, j'ai le coeur à droite, ma candidature se situe à droite, les Français attendent des valeurs de droite."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "La France est dangereusement engagée sur le chemin du déclin, le désordre s'installe dans la rue, nous sommes face au chaos migratoire, les Français souffrent d'une crise du pouvoir d'achat terrible, jamais la France n'a été aussi bas dans le classement des nations."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Seule la droite peut stopper ce mouvement."
     },
-    {
-        "abstractive": {
-            "text": "Pradié rappelle de son côté que son rôle de maire lui donne une véritable connaissance des territoires et des préoccupations des Français."
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Des trois candidats, je suis le plus jeune, c'est vrai, mais je suis aussi celui qui est le seul des trois candidats à avoir été maire."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Je suis aussi le seul des candidats à avoir arraché à la gauche une circonscription."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Moi, j'ai le coeur à droite, ma candidature se situe à droite, les Français attendent des valeurs de droite."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Or, il est celui qui l’incarne dans toutes ses dimensions."
     },
-    {
-        "abstractive": {
-            "text": "Pompier volontaire, il se présente comme un homme courageux et combatif, militant depuis l’âge de 18 ans"
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Des trois candidats, je suis le seul à avoir été sapeur-pompier volontaire, de cette expérience-là, de cet engagement, j'ai appris le courage, mais j'ai aussi appris le sens du collectif, cette volonté de faire les choses ensemble, au-delà des divisions qui ont tant coûté à la droite depuis des années."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Des trois candidats, je suis le plus jeune, c'est vrai, mais je suis aussi celui qui est le seul des trois candidats à avoir été maire."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Je suis aussi le seul des candidats à avoir arraché à la gauche une circonscription."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Aurélien Pradié rappelle de son côté que son rôle de maire lui donne une véritable connaissance des territoires et des préoccupations des Français."
+    },
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Des trois candidats, je suis le seul à avoir été sapeur-pompier volontaire, de cette expérience-là, de cet engagement, j'ai appris le courage, mais j'ai aussi appris le sens du collectif, cette volonté de faire les choses ensemble, au-delà des divisions qui ont tant coûté à la droite depuis des années."
+      }
+    ]
+  }
 ]

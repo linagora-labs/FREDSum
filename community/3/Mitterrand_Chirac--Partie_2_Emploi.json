@@ -1,73 +1,73 @@
 [
-    {
-        "abstractive": {
-            "text": "Le journaliste Vannier leur demande ce qu’ils proposent pour résoudre ce problème. "
-        },
-        "extractive": [
-            {
-                "speaker": "Élie Vannier",
-                "text": "Que proposez-vous concrètement pour créer des emplois ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Le journaliste Vannier leur demande ce qu’ils proposent pour résoudre ce problème."
     },
-    {
-        "abstractive": {
-            "text": "Chirac rappelle alors qu’il faut aider les entreprises, car ce sont elles qui créent des emplois. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "L'emploi ne sera créé que dans les entreprises et si l'on veut que celles-ci créent de l'emploi, il faut leur en donner les moyens."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Élie Vannier",
+        "text": "Que proposez-vous concrètement pour créer des emplois ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jacques Chirac rappelle alors qu’il faut aider les entreprises, car ce sont elles qui créent des emplois."
     },
-    {
-        "abstractive": {
-            "text": "Il explique que le chômage a diminué depuis 1987, de 5 % en général, et de 15 % chez les jeunes, grâce à la mise en place de stages en entreprise. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "C'est que, depuis mars 1987, pour la première fois depuis 14 ans, le chômage a diminué, il a diminué de 5 %, très insuffisant ! mais c'est un début important et de 15 % pour les jeunes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "L'emploi ne sera créé que dans les entreprises et si l'on veut que celles-ci créent de l'emploi, il faut leur en donner les moyens."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il explique que le chômage a diminué depuis 1987, de 5 % en général, et de 15 % chez les jeunes, grâce à la mise en place de stages en entreprise."
     },
-    {
-        "abstractive": {
-            "text": "Il entend poursuivre cette politique. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Les trois quarts, à l'issue de leur stage, ont trouvé un emploi."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "C'est que, depuis mars 1987, pour la première fois depuis 14 ans, le chômage a diminué, il a diminué de 5 %, très insuffisant ! mais c'est un début important et de 15 % pour les jeunes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il entend poursuivre cette politique."
     },
-    {
-        "abstractive": {
-            "text": "Pour Mitterrand, on peut lutter contre le chômage grâce à quatre leviers : l’éducation et la recherche, pour demeurer plus compétitifs, l’investissement économique, l’investissement social, et l’adoption d’une véritable vision européenne. "
-        },
-        "extractive": [
-            {
-                "speaker": "François Mitterrand",
-                "text": "Ce que je veux dire, c'est qu'il y a quatre manières de s'attaquer à ce problème et Dieu sait si nous sommes tous dans l'obligation absolue de pouvoir y répondre, quatre formes d'investissement : Premièrement, un investissement éducatif : vous ne moderniserez pas nos entreprises, elles ne deviendront pas plus compétitives, si vous ne formez pas davantage, si nous ne formons pas davantage, si la France ne forme pas mieux ses jeunes."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "En même temps, si vous ne développez pas la recherche, c'est-à-dire si vous n'avez pas les moyens par la science et la technique de fabriquer l'instrument, c'est-à-dire les machines, capable de supporter la concurrence américaine ou japonaise ou bien de quelques autres pays."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Deuxièmement, un investissement économique."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Troisièmement, l'investissement social."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Quatrièmement, la dimension européenne"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Les trois quarts, à l'issue de leur stage, ont trouvé un emploi."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Mitterrand, on peut lutter contre le chômage grâce à quatre leviers : l’éducation et la recherche, pour demeurer plus compétitifs, l’investissement économique, l’investissement social, et l’adoption d’une véritable vision européenne."
+    },
+    "extractive": [
+      {
+        "speaker": "François Mitterrand",
+        "text": "Ce que je veux dire, c'est qu'il y a quatre manières de s'attaquer à ce problème et Dieu sait si nous sommes tous dans l'obligation absolue de pouvoir y répondre, quatre formes d'investissement : Premièrement, un investissement éducatif : vous ne moderniserez pas nos entreprises, elles ne deviendront pas plus compétitives, si vous ne formez pas davantage, si nous ne formons pas davantage, si la France ne forme pas mieux ses jeunes."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "En même temps, si vous ne développez pas la recherche, c'est-à-dire si vous n'avez pas les moyens par la science et la technique de fabriquer l'instrument, c'est-à-dire les machines, capable de supporter la concurrence américaine ou japonaise ou bien de quelques autres pays."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Deuxièmement, un investissement économique."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Troisièmement, l'investissement social."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Quatrièmement, la dimension européenne"
+      }
+    ]
+  }
 ]

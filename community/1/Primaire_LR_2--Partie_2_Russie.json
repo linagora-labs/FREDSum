@@ -1,156 +1,156 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Bruno Retailleau, Eric Ciotti et Aurélien Pradié discutent de l'intervention de la france dans la guerre en Ukraine."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Mais on va commencer par l'événement majeur qui structure notre vie de ces derniers mois et sans doute des prochains mois et des prochaines années, la guerre en Ukraine."
-            },
-            {
-                "speaker": "P2",
-                "text": "Eric Ciotti, première question, est-ce que la France doit aller plus loin, doit faire plus pour l'Ukraine?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Bruno Retailleau, Eric Ciotti et Aurélien Pradié discutent de l'intervention de la France dans la guerre en Ukraine."
     },
-    {
-        "abstractive": {
-            "text": "Eric Ciotti explique que la france doit faire plus pour la paix."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "La France doit faire plus pour la paix, toujours."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Mais on va commencer par l'événement majeur qui structure notre vie de ces derniers mois et sans doute des prochains mois et des prochaines années, la guerre en Ukraine."
+      },
+      {
+        "speaker": "P2",
+        "text": "Eric Ciotti, première question, est-ce que la France doit aller plus loin, doit faire plus pour l'Ukraine?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti explique que la France doit faire plus pour la paix."
     },
-    {
-        "abstractive": {
-            "text": "Eric Ciotti souhaite que la france ait a propre voix et ne suivent pas juste les états unis."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Moi, ma position dans ce conflit, elle n'a qu'une référence, c'est la vision du général de Gaulle."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Notre voix s'est affaiblie, elle s'est presque éteinte."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Quelque part, je le disais dans mon introduction, du discrédit qui frappe notre pays à bien des égards, sa voix, elle ne porte plus, et c'est ça aussi, tout l'enjeu que nous devons porter ensemble collectivement pour redonner une crédibilité à notre pays."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "La France doit faire plus pour la paix, toujours."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti souhaite que la France ait sa propre voix et ne suivent pas juste les États-Unis."
     },
-    {
-        "abstractive": {
-            "text": "Bruno Retailleau explique que les négociations commenceront quand les ukrainiens l'auront décidés."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Non, c'est aux Ukrainiens de nous dire quand est-ce qu'ils devront négocier."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Moi, ma position dans ce conflit, elle n'a qu'une référence, c'est la vision du général de Gaulle."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Notre voix s'est affaiblie, elle s'est presque éteinte."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Quelque part, je le disais dans mon introduction, du discrédit qui frappe notre pays à bien des égards, sa voix, elle ne porte plus, et c'est ça aussi, tout l'enjeu que nous devons porter ensemble collectivement pour redonner une crédibilité à notre pays."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau explique que les négociations commenceront quand les Ukrainiens l'auront décidés."
     },
-    {
-        "abstractive": {
-            "text": "Bruno Retailleau explique vouloir soutenir l'ukraine, tout en gardant le dialogue avec la russie, et en faisant attention aux différentes sanctions."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Alors oui, je pense qu'il faut qu'on continue à les soutenir."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Je pense qu'il faut préserver le dialogue parce qu'à un moment ou à un autre, il faudra sortir de la guerre, il faudra trouver les moyens de la paix."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Et dans ce bras de fer, nous nous situons résolument aux côtés de l'Ukraine, face finalement à un Poutine qui ressuscite l'homme rouge, l'homme soviétique, avec les mêmes méthodes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Non, c'est aux Ukrainiens de nous dire quand est-ce qu'ils devront négocier."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau explique vouloir soutenir l'Ukraine, tout en gardant le dialogue avec la Russie, et en faisant attention aux différentes sanctions."
     },
-    {
-        "abstractive": {
-            "text": "Aurélien Pradié explique ne pas vouloir quitter l'OTAN, sans qui la france ne peut pas mener cette guerre."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Aurélien Pradié, on l'a entendu peut-être de certaines façons en sous-texte chez vos deux concurrents, le commandement intégré de l'OTAN, l'Atlantisme, le Suivisme, tout ça a été dénoncé."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "La première, c'est de dire que nous ne pouvons pas mener cette guerre-là, directement ou indirectement, sans être dans l'OTAN."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Alors oui, je pense qu'il faut qu'on continue à les soutenir."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Je pense qu'il faut préserver le dialogue parce qu'à un moment ou à un autre, il faudra sortir de la guerre, il faudra trouver les moyens de la paix."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Et dans ce bras de fer, nous nous situons résolument aux côtés de l'Ukraine, face finalement à un Poutine qui ressuscite l'homme rouge, l'homme soviétique, avec les mêmes méthodes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Aurélien Pradié explique ne pas vouloir quitter l'OTAN, sans qui la France ne peut pas mener cette guerre."
     },
-    {
-        "abstractive": {
-            "text": "Aurélien Pradié souhaite aussi faire que la parole de la france soit de nouveau entendue."
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "La deuxième chose à dire, et je le partage avec mes amis, c'est que la parole de la France aujourd'hui n'est plus entendue."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Aurélien Pradié, on l'a entendu peut-être de certaines façons en sous-texte chez vos deux concurrents, le commandement intégré de l'OTAN, l'Atlantisme, le Suivisme, tout ça a été dénoncé."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "La première, c'est de dire que nous ne pouvons pas mener cette guerre-là, directement ou indirectement, sans être dans l'OTAN."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Aurélien Pradié souhaite aussi faire que la parole de la France soit de nouveau entendue."
     },
-    {
-        "abstractive": {
-            "text": "Les trois candidats expliquent que c'est insuffisant."
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Nous devons, nous, la nation française, aussi nous réarmer."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "C'est très insuffisant."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Je ne veux pas que nous bricolions sur des enjeux aussi essentiels."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Si cette loi de programmation militaire va au-delà de ce qui est prévu, et pour ma part, mon analyse, c'est plus 4 milliards d'euros par an en plus de la trajectoire qui est prévue, bien sûr."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "C'est ce que je demande depuis que je suis engagé dans la vie publique."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "La deuxième chose à dire, et je le partage avec mes amis, c'est que la parole de la France aujourd'hui n'est plus entendue."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Les trois candidats expliquent que c'est insuffisant."
     },
-    {
-        "abstractive": {
-            "text": "Le présentateur demande aux candidats si ils souhaitent voter les augmentations du budget de l'armée française proposée par Emmanuel Macron."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Le budget de l'armée était à 32 milliards lorsqu'il arrivait au pouvoir en 2017, et il projette de le porter à 44 milliards l'année prochaine, peut-être 50 milliards à l'horizon 2025."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Nous devons, nous, la nation française, aussi nous réarmer."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "C'est très insuffisant."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Je ne veux pas que nous bricolions sur des enjeux aussi essentiels."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Si cette loi de programmation militaire va au-delà de ce qui est prévu, et pour ma part, mon analyse, c'est plus 4 milliards d'euros par an en plus de la trajectoire qui est prévue, bien sûr."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "C'est ce que je demande depuis que je suis engagé dans la vie publique."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Le présentateur demande aux candidats s'ils souhaitent voter les augmentations du budget de l'armée française proposée par Emmanuel Macron."
     },
-    {
-        "abstractive": {
-            "text": "Seul Eric Ciotti explique qu'il l'a votée"
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Si cette trajectoire budgétaire se confirme, voterez-vous cette loi de programmation militaire ?"
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Donc, naturellement, je donnerai toujours les moyens pour que notre pays se protège mieux et ça va dans le bon sens, mais aujourd'hui, très clairement, c'est nettement insuffisant."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Le budget de l'armée était à 32 milliards lorsqu'il arrivait au pouvoir en 2017, et il projette de le porter à 44 milliards l'année prochaine, peut-être 50 milliards à l'horizon 2025."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Seul Eric Ciotti explique qu'il la votera."
+    },
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Si cette trajectoire budgétaire se confirme, voterez-vous cette loi de programmation militaire ?"
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Donc, naturellement, je donnerai toujours les moyens pour que notre pays se protège mieux et ça va dans le bon sens, mais aujourd'hui, très clairement, c'est nettement insuffisant."
+      }
+    ]
+  }
 ]

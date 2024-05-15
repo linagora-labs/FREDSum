@@ -1,202 +1,202 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, MARINE LE PEN et EMMANUEL MACRON discutent de la question de l’hôpital."
-        },
-        "extractive": [
-            {
-                "speaker": "Léa Salamé",
-                "text": "Vous voulez parler de la dépendance, on va parler de l'hôpital."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Marine Le Pen et Emmanuel Macron discutent de la question de l’hôpital."
     },
-    {
-        "abstractive": {
-            "text": "EMMANUEL MACRON commence par rappeler que l’hôpital connaît une crise, avec le développement de déserts médicaux, tant à la campagne que dans les quartiers."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "On a une crise qui est à l'hôpital et dans ce que l'on appelle les déserts médicaux dans beaucoup de nos territoires, qu'il s'agisse d'ailleurs de quartiers comme de la grande ruralité."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "J'ai mis fin à la baisse de ce que l'on appelle le tarif hospitalier."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "J'ai mis fin au numérus clausus."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Léa Salamé",
+        "text": "Vous voulez parler de la dépendance, on va parler de l'hôpital."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron commence par rappeler que l’hôpital connaît une crise, avec le développement de déserts médicaux, tant à la campagne que dans les quartiers."
     },
-    {
-        "abstractive": {
-            "text": "Il défend alors son bilan : fin de la baisse du tarif hospitalier, suppression du numérus clausus, investissements de 19 milliards d’euros dans le système de santé et hausse des salaires des soignants."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "À la fois d'investissements, plus de 19 milliards d'euros dans nos hôpitaux et d'investissements dans les salaires puisqu'on a revalorisé les salaires pour tous les soignants d'au moins 183 euros par mois ce qui n'avait jamais été fait, jusqu'à 400 euros en fin de carrière."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "On a une crise qui est à l'hôpital et dans ce que l'on appelle les déserts médicaux dans beaucoup de nos territoires, qu'il s'agisse d'ailleurs de quartiers comme de la grande ruralité."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "J'ai mis fin à la baisse de ce que l'on appelle le tarif hospitalier."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "J'ai mis fin au numérus clausus."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il défend alors son bilan : fin de la baisse du tarif hospitalier, suppression du numerus clausus, investissements de 19 milliards d’euros dans le système de santé et hausse des salaires des soignants."
     },
-    {
-        "abstractive": {
-            "text": "Il souhaite poursuivre cette stratégie en alliant embauches et investissements."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Et donc on doit continuer d'investir dans notre système de santé pour redresser l'hôpital et donc réembaucher."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "À la fois d'investissements, plus de 19 milliards d'euros dans nos hôpitaux et d'investissements dans les salaires puisqu'on a revalorisé les salaires pour tous les soignants d'au moins 183 euros par mois ce qui n'avait jamais été fait, jusqu'à 400 euros en fin de carrière."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il souhaite poursuivre cette stratégie en alliant embauches et investissements."
     },
-    {
-        "abstractive": {
-            "text": "MARINE LE PEN estime que son adversaire a du attendre la crise sanitaire pour se rendre compte de la déliquescence du système de santé."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Il a fallu la crise sanitaire pour s'apercevoir que le personnel soignant était dans une souffrance absolument inouïe depuis des années."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Et donc on doit continuer d'investir dans notre système de santé pour redresser l'hôpital et donc réembaucher."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen estime que son adversaire a dû attendre la crise sanitaire pour se rendre compte de la déliquescence du système de santé."
     },
-    {
-        "abstractive": {
-            "text": "Elle critique en particulier le licenciement de 15 000 soignants non vaccinés."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Parce que quand vous avez en effet licencié 15 000 soignants,15 000 soignants sans salaire du jour au lendemain parce que vous refusiez qu'il puisse se tester avant de venir travailler et vous vouliez à tout prix qu'ils soient vaccinés."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Il a fallu la crise sanitaire pour s'apercevoir que le personnel soignant était dans une souffrance absolument inouïe depuis des années."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle critique en particulier le licenciement de 15 000 soignants non vaccinés."
     },
-    {
-        "abstractive": {
-            "text": "Elle explique vouloir les réintégrer et leur payer le salaire dont ils furent privés."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je les réintégrerai moi, en ce qui me concerne et je leur restituerai d'ailleurs les salaires dont ils ont été privés."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Parce que quand vous avez en effet licencié 15 000 soignants,15 000 soignants sans salaire du jour au lendemain parce que vous refusiez qu'il puisse se tester avant de venir travailler et vous vouliez à tout prix qu'ils soient vaccinés."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle explique vouloir les réintégrer et leur payer le salaire dont ils furent privés."
     },
-    {
-        "abstractive": {
-            "text": "Elle investira 20 milliards sur cinq ans dans le système hospitalier ; 10 milliards serviront à la revalorisation des salaires et à l’embauche de soignants dans les EPHADs."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Moi je crois qu'il faut investir 20 milliards sur cinq ans."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "20 milliards sur cinq ans c'est 10 milliards pour la revalorisation du personnel, pour l'embauche aussi de personnels notamment dans les EHPADs pour éviter les drames qui ont été révélés et puis la souffrance des soignants et des patients parce que toutes les infirmières que j'ai rencontrées."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je les réintégrerai moi, en ce qui me concerne et je leur restituerai d'ailleurs les salaires dont ils ont été privés."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle investira 20 milliards sur cinq ans dans le système hospitalier ; 10 milliards serviront à la revalorisation des salaires et à l’embauche de soignants dans les EPHADs."
     },
-    {
-        "abstractive": {
-            "text": "Elle souhaite par ailleurs développer la télémédecine et inciter fiscalement les médecins à s’implanter à la campagne, même si cela restera insuffisant pour lutter contre les déserts médicaux."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Moi je crois qu'il faut vraiment développer la télémédecine, il faut à tout prix qu'on mette en place une incitation fiscale pour les médecins pour les inciter à aller s'installer dans les zones sous denses mais ça ne suffira pas."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Il faut contrôler, parce qu'il faut contrôler les endroits où les personnes sont vulnérables."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Moi je crois qu'il faut investir 20 milliards sur cinq ans."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "20 milliards sur cinq ans c'est 10 milliards pour la revalorisation du personnel, pour l'embauche aussi de personnels notamment dans les EHPADs pour éviter les drames qui ont été révélés et puis la souffrance des soignants et des patients parce que toutes les infirmières que j'ai rencontrées."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle souhaite par ailleurs développer la télémédecine et inciter fiscalement les médecins à s’implanter à la campagne, même si cela restera insuffisant pour lutter contre les déserts médicaux."
     },
-    {
-        "abstractive": {
-            "text": "Sur les EPHADs, pour éviter les drames, elle appelle à davantage de contrôles et à l’obligation d’avoir une infirmière en permanence dans les établissements."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Il faut imposer qu'il y ait une infirmière 24 heures sur 24, il y a une part encore non négligeable qui n'ont pas d'infirmières 24 heures sur 24."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Moi je crois qu'il faut vraiment développer la télémédecine, il faut à tout prix qu'on mette en place une incitation fiscale pour les médecins pour les inciter à aller s'installer dans les zones sous denses mais ça ne suffira pas."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Il faut contrôler, parce qu'il faut contrôler les endroits où les personnes sont vulnérables."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Sur les EPHADs, pour éviter les drames, elle appelle à davantage de contrôles et à l’obligation d’avoir une infirmière en permanence dans les établissements."
     },
-    {
-        "abstractive": {
-            "text": "Elle critique ensuite les EPHADs privés, qu’elle oppose à un modèle mutualiste jugé plus sain."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Et puis je crois qu'il faut réfléchir à un modèle mutualiste des EHPADs. Les EHPADs qui font de l'argent sur le dos des résidents avec des prix qui sont parfois juste honteux est un modèle qui bien évidemment choque les Français et à juste titre."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Il faut imposer qu'il y ait une infirmière 24 heures sur 24, il y a une part encore non négligeable qui n'ont pas d'infirmières 24 heures sur 24."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle critique ensuite les EPHADs privés, qu’elle oppose à un modèle mutualiste jugé plus sain."
     },
-    {
-        "abstractive": {
-            "text": "Selon EMMANUEL MACRON, les vieillards veulent avant tout rester le plus longtemps chez eux."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Sur le grand âge, d'abord l'immense majorité de nos compatriotes qui vieillissent, veulent pouvoir vieillir chez eux."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Et puis je crois qu'il faut réfléchir à un modèle mutualiste des EHPADs. Les EHPADs qui font de l'argent sur le dos des résidents avec des prix qui sont parfois juste honteux est un modèle qui bien évidemment choque les Français et à juste titre."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Selon EMMANUEL MACRON, les vieillards veulent avant tout rester le plus longtemps chez eux."
     },
-    {
-        "abstractive": {
-            "text": "Il propose en conséquence un accompagnement pour l’aménagement des logements des retraités, ainsi que davantage d’aides pour les auxiliaires de vie."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "De deux manières, d'abord les aider à aménager leur logement."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Ensuite, il faut pouvoir aider celles et ceux qui sont ces auxiliaires de vie, ces aides vie, ces aides à domicile."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Sur le grand âge, d'abord l'immense majorité de nos compatriotes qui vieillissent, veulent pouvoir vieillir chez eux."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il propose en conséquence un accompagnement pour l’aménagement des logements des retraités, ainsi que davantage d’aides pour les auxiliaires de vie."
     },
-    {
-        "abstractive": {
-            "text": "Avec le soutien de l’État, en partenariat des départements, les aides de vie pourront au reste travailler à temps complet."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Et donc dans le réinvestissement que je veux faire, à côté des départements mais c'est la prise en charge par l'État, c'est leur donner un service complet et d'avoir plus d'heures par semaine pour bien s'occuper de nos personnes âgées chez elles."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "De deux manières, d'abord les aider à aménager leur logement."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Ensuite, il faut pouvoir aider celles et ceux qui sont ces auxiliaires de vie, ces aides vie, ces aides à domicile."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Avec le soutien de l’État, en partenariat des départements, les aides de vie pourront au reste travailler à temps complet."
     },
-    {
-        "abstractive": {
-            "text": "Pour porter ce mouvement, il propose la création de  50 000 postes d'infirmiers et d’aides-soignants."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "La deuxième chose c'est qu'il faut développer des contrôles et des moyens."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "C'est pour ça que dans mon projet je propose 50 000 postes d'infirmiers-infirmières, aide-soignants, aide-soignantes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Et donc dans le réinvestissement que je veux faire, à côté des départements mais c'est la prise en charge par l'État, c'est leur donner un service complet et d'avoir plus d'heures par semaine pour bien s'occuper de nos personnes âgées chez elles."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour porter ce mouvement, il propose la création de 50 000 postes d'infirmiers et d’aides-soignants."
     },
-    {
-        "abstractive": {
-            "text": "Néanmoins, MARINE LE PEN émet des doutes quant au financement de pareilles mesures"
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Vous financez tout avec votre dette, moi je veux bien"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "La deuxième chose c'est qu'il faut développer des contrôles et des moyens."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "C'est pour ça que dans mon projet je propose 50 000 postes d'infirmiers-infirmières, aide-soignants, aide-soignantes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Néanmoins, Marine Le Pen émet des doutes quant au financement de pareilles mesures."
+    },
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Vous financez tout avec votre dette, moi je veux bien"
+      }
+    ]
+  }
 ]

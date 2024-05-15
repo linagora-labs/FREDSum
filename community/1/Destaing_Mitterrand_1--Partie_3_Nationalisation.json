@@ -1,135 +1,135 @@
 [
-    {
-        "abstractive": {
-            "text": "François Mitterrand débute en expliquant que toute entreprise qui a un caractère de service public national ou d'un monopole doit devenir la propriété de la collectivité nationale."
-        },
-        "extractive": [
-            {
-                "speaker": "François Mitterrand",
-                "text": "Il s'agit donc de savoir si il faut vous garder pour continuer cette politique que je viens de décrire, ou bien, s'il faut changer, on ne change pas de politique sans changer les hommes, et je, j'insisterai beaucoup sur ce point, parce que c'est capital, lorsque vous parlez de telle ou telle catégorie sociale, vous l'avez fait souvent, euh, les cadres, euh, lorsqu'on parle, euh encore, des commerçants, des artisans, lorsque je constate, par exemple, qu' en mille, en mille neuf cent soixante-trois, il y avait cent huit supermarchés en mille neuf cent soixante-quatorze, deux mille cinq cent soixante-quatorze, et ce n'est pas en raison de vous, de vos récents arrangements avec monsieur royer, qu'en vérité, la commission nationale d'urbanisme, pour l'urbanisme commercial, euh, verra ses pouvoirs accrus, comme l'avait demandé le sénat, par rapport à la décision souveraine du ministre."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Je veux simplement dire que le changement, c'est ne pas vous permettre de continuer une politique antisociale."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Il est écrit cela, tout bien, toute entreprise, dont l'exploitation a, ou acquiert, les caractères d'un service public national, ou d'un monopole de fait, doit devenir la propriété de la collectivité nationale."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Oui, nous affirmons que c'est le rôle de l'état d'assurer lui-même la mise en valeur des grandes sources d'énergie, charbon, électricité, pétrole, ainsi que les principaux moyens de transport, ferré, maritime, aérien, et des moyens de transmission, dont tout le reste, dépend."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Il y a des lois antitrust, qui ont parfaitement compris que la règle même de ce capitalisme, c'était la loi de la concurrence, et que, dès lors que, des ententes sur les prix, sur les productions, euh, sur les ventes, se pratiquaient, des concentrations se réalisaient, de telle sorte que, la concurrence étant supprimée, les petites et moyennes entreprises, étant liquidées, une personne, plusieurs personnes, d'une même famille, ou un groupe d'intérêt, pouvaient se rendre maître d’un seul marché, il fallait nationaliser."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Vous êtes hors d'état de faire une politique qui puisse véritablement défendre les intérêts généraux, contre un certain nombre d'intérêts particuliers."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Euh, après qu'en mille neuf cent trente-six, on ait décidé de nationaliser l'armement, en mille neuf cent trente-six, y a quand même longtemps, après qu'on ait nationalisé l'aviation civile."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "François Mitterrand débute en expliquant que toute entreprise qui a un caractère de service public national ou d'un monopole doit devenir la propriété de la collectivité nationale."
     },
-    {
-        "abstractive": {
-            "text": "Dans ce débat, François Mitterrand et Valéry Giscard D'Estaing discutent de nationalisation."
-        },
-        "extractive": [
-            {
-                "speaker": "François Mitterrand",
-                "text": "Eh bien, parlons des nationalisations, si vous le voulez bien."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Mitterrand",
+        "text": "Il s'agit donc de savoir si il faut vous garder pour continuer cette politique que je viens de décrire, ou bien, s'il faut changer, on ne change pas de politique sans changer les hommes, et je, j'insisterai beaucoup sur ce point, parce que c'est capital, lorsque vous parlez de telle ou telle catégorie sociale, vous l'avez fait souvent, euh, les cadres, euh, lorsqu'on parle, euh encore, des commerçants, des artisans, lorsque je constate, par exemple, qu' en mille, en mille neuf cent soixante-trois, il y avait cent huit supermarchés en mille neuf cent soixante-quatorze, deux mille cinq cent soixante-quatorze, et ce n'est pas en raison de vous, de vos récents arrangements avec monsieur royer, qu'en vérité, la commission nationale d'urbanisme, pour l'urbanisme commercial, euh, verra ses pouvoirs accrus, comme l'avait demandé le sénat, par rapport à la décision souveraine du ministre."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Je veux simplement dire que le changement, c'est ne pas vous permettre de continuer une politique antisociale."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Il est écrit cela, tout bien, toute entreprise, dont l'exploitation a, ou acquiert, les caractères d'un service public national, ou d'un monopole de fait, doit devenir la propriété de la collectivité nationale."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Oui, nous affirmons que c'est le rôle de l'état d'assurer lui-même la mise en valeur des grandes sources d'énergie, charbon, électricité, pétrole, ainsi que les principaux moyens de transport, ferré, maritime, aérien, et des moyens de transmission, dont tout le reste, dépend."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Il y a des lois antitrust, qui ont parfaitement compris que la règle même de ce capitalisme, c'était la loi de la concurrence, et que, dès lors que, des ententes sur les prix, sur les productions, euh, sur les ventes, se pratiquaient, des concentrations se réalisaient, de telle sorte que, la concurrence étant supprimée, les petites et moyennes entreprises, étant liquidées, une personne, plusieurs personnes, d'une même famille, ou un groupe d'intérêt, pouvaient se rendre maître d’un seul marché, il fallait nationaliser."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Vous êtes hors d'état de faire une politique qui puisse véritablement défendre les intérêts généraux, contre un certain nombre d'intérêts particuliers."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Euh, après qu'en mille neuf cent trente-six, on ait décidé de nationaliser l'armement, en mille neuf cent trente-six, y a quand même longtemps, après qu'on ait nationalisé l'aviation civile."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Dans ce débat, François Mitterrand et Valéry Giscard D'Estaing discutent de nationalisation."
     },
-    {
-        "abstractive": {
-            "text": "François Mitterrand accuse Valéry Giscard D'Estaing d'avantager des entreprises comme dassault, qui devraient être nationalisées."
-        },
-        "extractive": [
-            {
-                "speaker": "François Mitterrand",
-                "text": "Eh bien, ce qui n'est pas nationalisé, c'est l'avion militaire, qui appartient à monsieur dassault, tandis que on commence à favoriser sa capacité de produire des avions civils."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Vous ne nationaliserez pas Dassault ?"
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Vous laisserez cette entreprise gagner sur l’argent des contribuables des sommes considérables."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Mitterrand",
+        "text": "Eh bien, parlons des nationalisations, si vous le voulez bien."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Mitterrand accuse Valéry Giscard D'Estaing d'avantager des entreprises comme Dassault, qui devraient être nationalisées."
     },
-    {
-        "abstractive": {
-            "text": "Valéry Giscard D'Estaing explique qu'il favorise des activités économiques qui n'ont pas d'autres occasions de se développer, en prenant l'aviation civile comme exemple."
-        },
-        "extractive": [
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "L'état français aide un certain nombre d'activités économiques, et il aide ces activités économiques, parce que, euh, s'il n'y a pas cette aide, on ne peut pas les développer."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Nous aidons, par exemple, la construction navale, vous le savez très bien, nous aidons la marine marchande, vous le savez très bien."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Nous aidons l'aviation civile, parce que, si nous n'aidions pas l'aviation civile, il n'y aurait pas d'aviation civile française."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Ce qui est vrai, c'est que j'ai poussé, et que je pousse, à la reconversion, vers des productions civiles, d'un certain nombre de nos spécialisations militaire, et qu'à partir du moment où des constructeurs, qui était spécialisé dans du matériel militaire, essaie, comme les autres constructeurs, de faire des programmes d'aviation civile, l'état, exactement sur les mêmes bases que celles qu’il applique aux autres entreprises, prend à sa charge la partie que, normalement, dans un état moderne, l'état finance en ce qui concerne la recherche ou le développement de la construction d'un avion."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Ça, ne sert pas les intérêts d'une seule personne."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Nous ne remboursons que sur justification de dépenses, concernant la recherche ou la fabrication des appareils."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Mitterrand",
+        "text": "Eh bien, ce qui n'est pas nationalisé, c'est l'avion militaire, qui appartient à monsieur dassault, tandis que on commence à favoriser sa capacité de produire des avions civils."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Vous ne nationaliserez pas Dassault ?"
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Vous laisserez cette entreprise gagner sur l’argent des contribuables des sommes considérables."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valéry Giscard D'Estaing explique qu'il favorise des activités économiques qui n'ont pas d'autres occasions de se développer, en prenant l'aviation civile comme exemple."
     },
-    {
-        "abstractive": {
-            "text": "Valéry Giscard d'Estaing explique être contre les nationalisations."
-        },
-        "extractive": [
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Je ne me propose pas de nationaliser d'entreprise si je suis élu président de la république."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "L'état français aide un certain nombre d'activités économiques, et il aide ces activités économiques, parce que, euh, s'il n'y a pas cette aide, on ne peut pas les développer."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Nous aidons, par exemple, la construction navale, vous le savez très bien, nous aidons la marine marchande, vous le savez très bien."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Nous aidons l'aviation civile, parce que, si nous n'aidions pas l'aviation civile, il n'y aurait pas d'aviation civile française."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Ce qui est vrai, c'est que j'ai poussé, et que je pousse, à la reconversion, vers des productions civiles, d'un certain nombre de nos spécialisations militaire, et qu'à partir du moment où des constructeurs, qui était spécialisé dans du matériel militaire, essaie, comme les autres constructeurs, de faire des programmes d'aviation civile, l'état, exactement sur les mêmes bases que celles qu’il applique aux autres entreprises, prend à sa charge la partie que, normalement, dans un état moderne, l'état finance en ce qui concerne la recherche ou le développement de la construction d'un avion."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Ça, ne sert pas les intérêts d'une seule personne."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Nous ne remboursons que sur justification de dépenses, concernant la recherche ou la fabrication des appareils."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valéry Giscard D'Estaing explique être contre les nationalisations."
     },
-    {
-        "abstractive": {
-            "text": "Valéry Giscard d'Estaing explique que les subventions ne sont accordées que si l'argent est utilisé pour les projets prévus, et requierent des justifications."
-        },
-        "extractive": [
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Non, nous ferons en sorte qu'il ne soit jamais, euh, accordé de subventions ou d'aide, que pour des projets précis, et sur des justifications, contrôlées, notamment, contrôlées par les services techniques et financiers."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Je ne me propose pas de nationaliser d'entreprise si je suis élu président de la république."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valéry Giscard D'Estaing explique que les subventions ne sont accordées que si l'argent est utilisé pour les projets prévus, et requierent des justifications."
     },
-    {
-        "abstractive": {
-            "text": "François Mitterand explique vouloir nationaliser neuf entreprises industrielles qui détiennent des secteurs clés de l'économies, en proposant une indemnisation des actionnaires"
-        },
-        "extractive": [
-            {
-                "speaker": "François Mitterrand",
-                "text": "Je compte demander au gouvernement, de nationaliser les entreprises, les neuf entreprises industrielles, qui détiennent des secteurs clés de l'économie, d'une façon monopolistique, c'est-à-dire qu'il existe une seule entreprise, ou quelques entreprises, sur un marché essentiel pour une production, essentielle à la vie nationale."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Avec une indemnisation parfaitement normale et parfaitement honnête, ou je connais le programme commun"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Non, nous ferons en sorte qu'il ne soit jamais, euh, accordé de subventions ou d'aide, que pour des projets précis, et sur des justifications, contrôlées, notamment, contrôlées par les services techniques et financiers."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Mitterrand explique vouloir nationaliser neuf entreprises industrielles qui détiennent des secteurs clés de l'économies, en proposant une indemnisation des actionnaires."
+    },
+    "extractive": [
+      {
+        "speaker": "François Mitterrand",
+        "text": "Je compte demander au gouvernement, de nationaliser les entreprises, les neuf entreprises industrielles, qui détiennent des secteurs clés de l'économie, d'une façon monopolistique, c'est-à-dire qu'il existe une seule entreprise, ou quelques entreprises, sur un marché essentiel pour une production, essentielle à la vie nationale."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Avec une indemnisation parfaitement normale et parfaitement honnête, ou je connais le programme commun"
+      }
+    ]
+  }
 ]

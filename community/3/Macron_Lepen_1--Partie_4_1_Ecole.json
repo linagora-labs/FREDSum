@@ -1,105 +1,105 @@
 [
-    {
-        "abstractive": {
-            "text": "Macron souhaite concentrer ses efforts sur l’enseignement primaire, notamment en augmentant les heures de langue française."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mon projet pour l'école est de concentrer les moyens sur l'école primaire."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron souhaite concentrer ses efforts sur l’enseignement primaire, notamment en augmentant les heures de langue française."
     },
-    {
-        "abstractive": {
-            "text": "Il désire également développer les classes bilingues, l’enseignement du latin à l’école et les travaux dirigés après les cours."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Donc je la porterai de plusieurs manières, d'abord en rétablissant les heures d'enseignement, dont le français qui ont été retirées ces dernières années, en rétablissant les classes bilingues, l'enseignement du latin au collège, les travaux dirigés, essentielle parce que dans une famille nombreuse, une famille modeste et bien les inégalités se recréent quand on vient à la maison donc le travail dirigé est essentiel."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mon projet pour l'école est de concentrer les moyens sur l'école primaire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il désire également développer les classes bilingues, l’enseignement du latin à l’école et les travaux dirigés après les cours."
     },
-    {
-        "abstractive": {
-            "text": "En zone d’éducation prioritaire, les classes de CP et CE1 doivent être ramenées à 12 élèves."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Et, dans ces zones d'éducation prioritaire où la pauvreté se concentre, je veux qu'on réduise le nombre d'élèves par classe en CP et CE1 parce que c'est là qu'on fait l'apprentissage de la langue et des fondamentaux donc on ramènera à 12 élèves par classe."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Donc je la porterai de plusieurs manières, d'abord en rétablissant les heures d'enseignement, dont le français qui ont été retirées ces dernières années, en rétablissant les classes bilingues, l'enseignement du latin au collège, les travaux dirigés, essentielle parce que dans une famille nombreuse, une famille modeste et bien les inégalités se recréent quand on vient à la maison donc le travail dirigé est essentiel."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "En zone d’éducation prioritaire, les classes de CP et CE1 doivent être ramenées à 12 élèves."
     },
-    {
-        "abstractive": {
-            "text": "Macron entend également impliquer les entreprises dans les écoles pour faciliter l’orientation des élèves, et développer l’apprentissage."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Ensuite il y a l'effort en manière d'orientation que je veux faire, à la fin du collège comme à la fin du lycée où l'on doit mettre davantage les entreprises, les formations universitaires, ce qu'on appelle le post baccalauréat, présents dans l'entreprise pour expliquer quels sont les débouchés."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Car le dernier point c'est de développer l'apprentissage, parce que beaucoup de nos Jeunes ne vont pas réussir à travers des formations académiques et pour qu'ils aient un emploi, une place dans la société, l'apprentissage est indispensable."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Et, dans ces zones d'éducation prioritaire où la pauvreté se concentre, je veux qu'on réduise le nombre d'élèves par classe en CP et CE1 parce que c'est là qu'on fait l'apprentissage de la langue et des fondamentaux donc on ramènera à 12 élèves par classe."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron entend également impliquer les entreprises dans les écoles pour faciliter l’orientation des élèves, et développer l’apprentissage."
     },
-    {
-        "abstractive": {
-            "text": "Le Pen rappelle de son côté que le gouvernement socialiste a saccagé l’école."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "L'école a été saccagée par les socialistes, voilà faut quand même le dire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Ensuite il y a l'effort en manière d'orientation que je veux faire, à la fin du collège comme à la fin du lycée où l'on doit mettre davantage les entreprises, les formations universitaires, ce qu'on appelle le post baccalauréat, présents dans l'entreprise pour expliquer quels sont les débouchés."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Car le dernier point c'est de développer l'apprentissage, parce que beaucoup de nos Jeunes ne vont pas réussir à travers des formations académiques et pour qu'ils aient un emploi, une place dans la société, l'apprentissage est indispensable."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen rappelle de son côté que le gouvernement socialiste a saccagé l’école."
     },
-    {
-        "abstractive": {
-            "text": "Elle insiste sur la transmission des savoirs fondamentaux et propose de réserver 50 % des cours à l’enseignement du Français."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "On a, au lieu d'apprendre le français et réserver, comme je le souhaite, 50% à la langue française, parce que c'est quand même la base de tout et de manière générale aux savoirs fondamentaux."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "L'école a été saccagée par les socialistes, voilà faut quand même le dire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle insiste sur la transmission des savoirs fondamentaux et propose de réserver 50 % des cours à l’enseignement du Français."
     },
-    {
-        "abstractive": {
-            "text": "Elle souhaite aussi encourager les filières professionnelles."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Il faut aussi valoriser considérablement les filières professionnelles."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "On a, au lieu d'apprendre le français et réserver, comme je le souhaite, 50% à la langue française, parce que c'est quand même la base de tout et de manière générale aux savoirs fondamentaux."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle souhaite aussi encourager les filières professionnelles."
     },
-    {
-        "abstractive": {
-            "text": "Sur l’université, elle désire mettre fin au tirage au sort en revenant à une sélection au mérite."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je veux qu'à l'université le critère soit le mérite et ne soit pas le tirage au sort comme les socialistes viennent de le décider, ce que je trouve le plus injuste en réalité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Il faut aussi valoriser considérablement les filières professionnelles."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Sur l’université, elle désire mettre fin au tirage au sort en revenant à une sélection au mérite."
     },
-    {
-        "abstractive": {
-            "text": "Elle termine en rappelant son opposition au voile à l’université (comme dans l’espace public et en entreprise)."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Moi je suis très opposée, évidement au voile à l'université, comme je suis très opposés à tous les signes ostensibles dans l'espace public ainsi que dans l'entreprise."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je veux qu'à l'université le critère soit le mérite et ne soit pas le tirage au sort comme les socialistes viennent de le décider, ce que je trouve le plus injuste en réalité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle termine en rappelant son opposition au voile à l’université (comme dans l’espace public et en entreprise)."
+    },
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Moi je suis très opposée, évidement au voile à l'université, comme je suis très opposés à tous les signes ostensibles dans l'espace public ainsi que dans l'entreprise."
+      }
+    ]
+  }
 ]

@@ -1,161 +1,161 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Eric Ciotti, Bruno Retailleau et Aurélien Pradié discutent de la réforme des retraites."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "On va parler de social et d'économie, parce que c'est très important pour tous les Français, et notamment la question des retraites."
-            },
-            {
-                "speaker": "P2",
-                "text": "Bruno Retailleau, au Sénat, vous avez voté un projet de loi avec le report de l'âge légal à 64 ans, à l'intérieur du projet de loi de financement de la Sécurité sociale."
-            },
-            {
-                "speaker": "P2",
-                "text": "En tant que chef de parti, si vous étiez élu, si vous étiez choisi, ce sera votre position?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Eric Ciotti, Bruno Retailleau et Aurélien Pradié discutent de la réforme des retraites."
     },
-    {
-        "abstractive": {
-            "text": "Bruno Retailleau souhaite garantir le pouvoir d'achat des retraités en mettant un place un minimum garanti de 1200 euros pour les retraités."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Notre position, ça a toujours été une position favorable pour la réforme des retraites."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Simplement, si demain, on veut garantir des nouveaux droits, on n'est pas des faux monnayeurs en générosité."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Première chose, garantir le pouvoir d'achat demain à nos retraités."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Deuxième chose, faire comme dans le service public, avoir un minimum garanti de 1 200 euros."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "On va parler de social et d'économie, parce que c'est très important pour tous les Français, et notamment la question des retraites."
+      },
+      {
+        "speaker": "P2",
+        "text": "Bruno Retailleau, au Sénat, vous avez voté un projet de loi avec le report de l'âge légal à 64 ans, à l'intérieur du projet de loi de financement de la Sécurité sociale."
+      },
+      {
+        "speaker": "P2",
+        "text": "En tant que chef de parti, si vous étiez élu, si vous étiez choisi, ce sera votre position?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau souhaite garantir le pouvoir d'achat des retraités en mettant en place un minimum garanti de 1200 euros pour les retraités."
     },
-    {
-        "abstractive": {
-            "text": "Bruno Retailleau souhaite aussi créer une reversion pour les enfants handicapés dont les parents décèdent."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Et enfin, une allocation, une reversion pour les enfants handicapés pour qu'après la mort du papa et de la maman, il puisse y avoir une reversion de la pension."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Notre position, ça a toujours été une position favorable pour la réforme des retraites."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Simplement, si demain, on veut garantir des nouveaux droits, on n'est pas des faux monnayeurs en générosité."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Première chose, garantir le pouvoir d'achat demain à nos retraités."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Deuxième chose, faire comme dans le service public, avoir un minimum garanti de 1 200 euros."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau souhaite aussi créer une réversion pour les enfants handicapés dont les parents décèdent."
     },
-    {
-        "abstractive": {
-            "text": "Pour cela, Bruno retailleau veut augmenter l'âge de départ à la retraite à 64 ans ainsi qu'augmenter le nombre d'annuités."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Et moi, je suis favorable à actionner les deux leviers, le levier du report de l'âge, autour de 64 ans, et le levier aussi de la durée de cotisation."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Et enfin, une allocation, une reversion pour les enfants handicapés pour qu'après la mort du papa et de la maman, il puisse y avoir une reversion de la pension."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour cela, Bruno Retailleau veut augmenter l'âge de départ à la retraite à 64 ans ainsi qu'augmenter le nombre d'annuités."
     },
-    {
-        "abstractive": {
-            "text": "Aurélien Pradié ne veut pas changer l'âge de la retraite, et explique que la réforme est injuste pour les gens qui commencent à travailler tôt."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Aurélien Pradier, vous ne souhaitez pas le report de l'âge légal de départ à la retraite, qui est une proposition que la droite fait depuis des années, et on vient encore de l'entendre."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Cette réforme juste, c'est celle qui consiste à dire une chose simple, celui qui a commencé à travailler tôt, finit tôt."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Et moi, je suis favorable à actionner les deux leviers, le levier du report de l'âge, autour de 64 ans, et le levier aussi de la durée de cotisation."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Aurélien Pradié ne veut pas changer l'âge de la retraite, et explique que la réforme est injuste pour les gens qui commencent à travailler tôt."
     },
-    {
-        "abstractive": {
-            "text": "Aurélien Pradié explique que l'augmentation de l'âge à la retraite est contreproductive car les gens reçoivent des pensions d'invalidité et sont au chômage avant l'âge de la retraite."
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Il y a dans ce report de l'âge légal, à mon sens, une double hypocrisie."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "La première, c'est que nous oublions de dire qu'aujourd'hui, un Français sur 10, avant de partir à la retraite, est en pension d'invalidité."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Ça coûte 8 milliards d'euros par an, par an aux contribuables les pensions d'invalidité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Aurélien Pradier, vous ne souhaitez pas le report de l'âge légal de départ à la retraite, qui est une proposition que la droite fait depuis des années, et on vient encore de l'entendre."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Cette réforme juste, c'est celle qui consiste à dire une chose simple, celui qui a commencé à travailler tôt, finit tôt."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Aurélien Pradié explique que l'augmentation de l'âge à la retraite est contreproductive car les gens reçoivent des pensions d'invalidité et sont au chômage avant l'âge de la retraite."
     },
-    {
-        "abstractive": {
-            "text": "Aurélien Pradié explique que la réforme de la retraite est faite pour pouvoir payer les autres dépenses publiques comme dans l'hôpital."
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "La seconde hypocrisie, c'est qu'en réalité, Emmanuel Macron l'a dit, sa réforme des retraites à 64 ans, elle est faite pour quoi?"
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Elle est faite pour financer toutes les autres dépenses publiques dans lesquelles on est incapable de faire du ménage."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Il y a dans ce report de l'âge légal, à mon sens, une double hypocrisie."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "La première, c'est que nous oublions de dire qu'aujourd'hui, un Français sur 10, avant de partir à la retraite, est en pension d'invalidité."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Ça coûte 8 milliards d'euros par an, par an aux contribuables les pensions d'invalidité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Aurélien Pradié explique que la réforme de la retraite est faite pour pouvoir payer les autres dépenses publiques comme dans l'hôpital."
     },
-    {
-        "abstractive": {
-            "text": "Eric Ciotti souhaite créer un système ou les gens peuvent partir à la retraite dès qu'ils ont soit 65 ans, soit 45 annuités."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "La France, les Français travaillent beaucoup moins sur la durée d'une vie que dans tous les pays européens et chez tous nos grands concurrents."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Donc, il faut, si on veut sauver le système de retraite, protéger nos retraités, il faut cotiser plus."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "D'abord, on travaille globalement 2 à 3 ans de plus."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Et chaque personne qui va aller à la retraite, qui va ouvrir ses droits à la retraite choisit, soit il part à 65 ans, soit il part quand il a 45 ans d'annuité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "La seconde hypocrisie, c'est qu'en réalité, Emmanuel Macron l'a dit, sa réforme des retraites à 64 ans, elle est faite pour quoi?"
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Elle est faite pour financer toutes les autres dépenses publiques dans lesquelles on est incapable de faire du ménage."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti souhaite créer un système ou les gens peuvent partir à la retraite dès qu'ils ont soit 65 ans, soit 45 annuités."
     },
-    {
-        "abstractive": {
-            "text": "Bruno Retailleau et Eric Ciotti voteront la réforme d'Emmanuel Macron, Aurélien Pradié non"
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Juste un petit mot, mais vraiment en 10 secondes, il y aura une réforme des retraites qui va être présentée, tel qu’on vous entends, vous la voterez, vous la voterez, vous la voterez elle?"
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Je ne ferai pas la courte échelle à Emmanuel Macron sur la réforme des retraites."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Si la réforme des retraites qui nous est proposée correspond à ce qu'on a toujours souhaité, il n'y a aucune raison que je ne la vote pas."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Donc si ça sauve le système de retraite et si ça protège les retraités d'aujourd'hui et de demain, je la voterai"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "La France, les Français travaillent beaucoup moins sur la durée d'une vie que dans tous les pays européens et chez tous nos grands concurrents."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Donc, il faut, si on veut sauver le système de retraite, protéger nos retraités, il faut cotiser plus."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "D'abord, on travaille globalement 2 à 3 ans de plus."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Et chaque personne qui va aller à la retraite, qui va ouvrir ses droits à la retraite choisit, soit il part à 65 ans, soit il part quand il a 45 ans d'annuité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau et Eric Ciotti voteront la réforme d'Emmanuel Macron, Aurélien Pradié non."
+    },
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Juste un petit mot, mais vraiment en 10 secondes, il y aura une réforme des retraites qui va être présentée, tel qu’on vous entends, vous la voterez, vous la voterez, vous la voterez elle?"
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Je ne ferai pas la courte échelle à Emmanuel Macron sur la réforme des retraites."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Si la réforme des retraites qui nous est proposée correspond à ce qu'on a toujours souhaité, il n'y a aucune raison que je ne la vote pas."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Donc si ça sauve le système de retraite et si ça protège les retraités d'aujourd'hui et de demain, je la voterai"
+      }
+    ]
+  }
 ]

@@ -1,212 +1,212 @@
 [
-    {
-        "abstractive": {
-            "text": "Les deux candidats sont d’accord pour soutenir l’euro."
-        },
-        "extractive": [
-            {
-                "speaker": "Laurence Ferrari",
-                "text": "Vous êtes d'accord tous les deux pour soutenir l'euro."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Les deux candidats sont d’accord pour soutenir l’euro."
     },
-    {
-        "abstractive": {
-            "text": "Hollande commence par critiquer le pacte budgétaire ; il comprend que des règles communes doivent exister, mais regrette que la croissance ne soit pas prise en compte."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Il a été signé un pacte budgétaire, c'était à la fin de l'année, il a été confirmé au mois de mars, qui instaure des disciplines, des sanctions pour les pays qui ne respecteraient pas les disciplines."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Mais là où je conteste, c'est qu'il n'y a eu aucune dimension de croissance."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Laurence Ferrari",
+        "text": "Vous êtes d'accord tous les deux pour soutenir l'euro."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande commence par critiquer le pacte budgétaire ; il comprend que des règles communes doivent exister, mais regrette que la croissance ne soit pas prise en compte."
     },
-    {
-        "abstractive": {
-            "text": "Il souhaite créer des euro-bonds pour financer de grands projets, avoir recours à la banque européenne d’investissement pour financer l’innovation, mobiliser des fonds structurels inutilisés et enfin, mettre en place une taxe sur les transactions financières."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Premier point, que nous puissions créer, enfin, ces euro-bounds, cette capacité d'emprunt qui serait donnée à l'Union européenne pour qu'elle finance des projets d'infrastructures, des projets d'économies d'énergie, des projets industriels."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Deuxième point, mobiliser la Banque européenne d'investissement, augmenter son capital et faire en sorte que nous puissions financer l'innovation, la recherche et un certain nombre de projets que poursuivent nos collectivités locales."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Troisième point, mobiliser les fonds structurels qui sont aujourd'hui inutilisés."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Et quatrième point, créer une taxe sur les transactions financières d'un certain niveau, et qui puisse permettre d'avoir une ressource supplémentaire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Il a été signé un pacte budgétaire, c'était à la fin de l'année, il a été confirmé au mois de mars, qui instaure des disciplines, des sanctions pour les pays qui ne respecteraient pas les disciplines."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Mais là où je conteste, c'est qu'il n'y a eu aucune dimension de croissance."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il souhaite créer des euro-bonds pour financer de grands projets, avoir recours à la Banque européenne d'investissement pour financer l’innovation, mobiliser des fonds structurels inutilisés et enfin, mettre en place une taxe sur les transactions financières."
     },
-    {
-        "abstractive": {
-            "text": "Sarkozy explique de son coté que la France n’a jamais emprunté à des taux aussi bas, et qu’on ne peut vouloir la croissance au détriment de la dette."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "La France n'a jamais emprunté aussi peu cher qu'elle emprunte aujourd'hui."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Deuxième point, la croissance bien sûr, mais la croissance ne peut pas être échangée contre la réduction de nos déficits, de nos dépenses et de notre endettement."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Premier point, que nous puissions créer, enfin, ces euro-bounds, cette capacité d'emprunt qui serait donnée à l'Union européenne pour qu'elle finance des projets d'infrastructures, des projets d'économies d'énergie, des projets industriels."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Deuxième point, mobiliser la Banque européenne d'investissement, augmenter son capital et faire en sorte que nous puissions financer l'innovation, la recherche et un certain nombre de projets que poursuivent nos collectivités locales."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Troisième point, mobiliser les fonds structurels qui sont aujourd'hui inutilisés."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Et quatrième point, créer une taxe sur les transactions financières d'un certain niveau, et qui puisse permettre d'avoir une ressource supplémentaire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique de son côté que la France n’a jamais emprunté à des taux aussi bas, et qu’on ne peut vouloir la croissance au détriment de la dette."
     },
-    {
-        "abstractive": {
-            "text": "Concernant la taxe sur les transactions financières, il affirme l’avoir fait voter, ce que son adversaire conteste : Sarkozy aurait en réalité supprimé une taxe boursière avant de la rétablir."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Il veut une taxe sur les transactions financières."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Je l'ai fait voter !"
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Ce n'est pas vrai."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Vous aviez supprimé ce que l'on appelait l'impôt de bourse au lendemain de votre élection, et vous l'avez rétabli."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "La France n'a jamais emprunté aussi peu cher qu'elle emprunte aujourd'hui."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Deuxième point, la croissance bien sûr, mais la croissance ne peut pas être échangée contre la réduction de nos déficits, de nos dépenses et de notre endettement."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Concernant la taxe sur les transactions financières, il affirme l’avoir fait voter, ce que son adversaire conteste : Nicolas Sarkozy aurait en réalité supprimé une taxe boursière avant de la rétablir."
     },
-    {
-        "abstractive": {
-            "text": "Sarkozy dément ce point, avant de préciser que cette mesure rapporte un milliard d’euros par an."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Sur la taxe financière, nous l'avons créée en France, elle rapportera un milliard d'euros."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Il veut une taxe sur les transactions financières."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Je l'ai fait voter !"
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Ce n'est pas vrai."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Vous aviez supprimé ce que l'on appelait l'impôt de bourse au lendemain de votre élection, et vous l'avez rétabli."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy dément ce point, avant de préciser que cette mesure rapporte un milliard d’euros par an."
     },
-    {
-        "abstractive": {
-            "text": "Du reste, la mobilisation de la banque européenne d’investissement est déjà prévue dans les traités, et le recours aux fonds structurels a déjà lieu ; en somme, Hollande ne proposerait rien de nouveau."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "L'augmentation du capital de la BEI, c'est prévu dans le traité."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "La mobilisation des fonds structurels, mais vous inventez le fil à couper le beurre une nouvelle fois !"
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "C'est déjà fait."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Sur la taxe financière, nous l'avons créée en France, elle rapportera un milliard d'euros."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Du reste, la mobilisation de la Banque européenne d'investissement est déjà prévue dans les traités, et le recours aux fonds structurels a déjà lieu ; en somme, François Hollande ne proposerait rien de nouveau."
     },
-    {
-        "abstractive": {
-            "text": "Sur les euro-bonds, Sarkozy pense que cette mesure mettrait en commun les dettes de chaque État, ce qui ne serait guère productif pour inciter à réduire les déficits."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "L'euro-bound ça veut dire quoi, que nous financerons, nous les Allemands et les Français, la dette des autres ?"
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Je n'en veux pas, parce que j'estime qu'on ne réduit pas nos dépenses, nos déficits et nos dettes en envoyant en Europe des dettes qui seront garanties par qui, si ce n'est par les deux pays les plus forts de l'Europe, l'Allemagne et la France ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "L'augmentation du capital de la BEI, c'est prévu dans le traité."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "La mobilisation des fonds structurels, mais vous inventez le fil à couper le beurre une nouvelle fois !"
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "C'est déjà fait."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Sur les euro-bonds, Nicolas Sarkozy pense que cette mesure mettrait en commun les dettes de chaque État, ce qui ne serait guère productif pour inciter à réduire les déficits."
     },
-    {
-        "abstractive": {
-            "text": "Hollande souligne néanmoins que ces euro-bonds n’ont pas pour but de mutualiser les dettes mais bien de financer une politique de grands travaux."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Il ne s'agit pas de mutualiser la dette des autres."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Il s'agit de lever un emprunt qui serve à financer des grands travaux d'infrastructure."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "L'euro-bound ça veut dire quoi, que nous financerons, nous les Allemands et les Français, la dette des autres ?"
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Je n'en veux pas, parce que j'estime qu'on ne réduit pas nos dépenses, nos déficits et nos dettes en envoyant en Europe des dettes qui seront garanties par qui, si ce n'est par les deux pays les plus forts de l'Europe, l'Allemagne et la France ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande souligne néanmoins que ces euro-bonds n’ont pas pour but de mutualiser les dettes mais bien de financer une politique de grands travaux."
     },
-    {
-        "abstractive": {
-            "text": "Sarkozy défend ensuite son bilan : en dépit de la crise, les pensions et les bourses n’ont pas été dévalorisées et le pouvoir d’achat des fonctionnaires a même augmenté de 10 %."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Deuxièmement, l'austérité, je ne l'ai pas voulue en France, les pensions de retraite ont été actualisées, les bourses des étudiants, nous les avons passées à dix mois, les allocations chômage, nous ne les avons pas baissées."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Le pouvoir d'achat des fonctionnaires en France a augmenté de 10 %."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Il ne s'agit pas de mutualiser la dette des autres."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Il s'agit de lever un emprunt qui serve à financer des grands travaux d'infrastructure."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy défend ensuite son bilan : en dépit de la crise, les pensions et les bourses n’ont pas été dévalorisées et le pouvoir d’achat des fonctionnaires a même augmenté de 10 %."
     },
-    {
-        "abstractive": {
-            "text": "Toutefois, Hollande l’accuse de n’avoir pas tenu bon dans les négociations avec l’Allemagne."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "En l'occurrence, par rapport à l'Allemagne, vous n'avez pas tenu bon."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Deuxièmement, l'austérité, je ne l'ai pas voulue en France, les pensions de retraite ont été actualisées, les bourses des étudiants, nous les avons passées à dix mois, les allocations chômage, nous ne les avons pas baissées."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Le pouvoir d'achat des fonctionnaires en France a augmenté de 10 %."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Toutefois, François Hollande l’accuse de n’avoir pas tenu bon dans les négociations avec l’Allemagne."
     },
-    {
-        "abstractive": {
-            "text": "Il se croit capable de donner une autre orientation à l’Europe."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Et donc mon devoir, si je deviens le prochain président de la République, c'est de donner une autre orientation de l'Europe que celle que vous avez subie."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "En l'occurrence, par rapport à l'Allemagne, vous n'avez pas tenu bon."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il se croit capable de donner une autre orientation à l’Europe."
     },
-    {
-        "abstractive": {
-            "text": "Sarkozy conteste ces dires : il a obtenu la présidence stable du gouvernement économique ainsi que des taux à 1 % de la part de la BCE, en violation de la lettre des traités."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Vous osez dire que je n'ai rien obtenu de l'Allemagne, le gouvernement économique, la présidence stable du gouvernement économique, l'Allemagne le voulait ?"
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Deuxième élément, je n'ai rien obtenu de l'Allemagne, quand la BCE prête à 1 %, vous en parliez tout à l'heure, en violation de la lettre des traités, je l'ai obtenu au Sommet de Strasbourg, avec Monsieur Monti, de l'Allemagne."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Et donc mon devoir, si je deviens le prochain président de la République, c'est de donner une autre orientation de l'Europe que celle que vous avez subie."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy conteste ces dires : il a obtenu la présidence stable du gouvernement économique ainsi que des taux à 1 % de la part de la BCE, en violation de la lettre des traités."
     },
-    {
-        "abstractive": {
-            "text": "Il termine en évoquant Shenghen, qui, s’il ne change pas, devra être réformé afin de prévoir davantage de contrôles aux frontières."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Lorsque Schengen ne fonctionne pas, et Schengen ne fonctionne pas, j'ai dit, je persiste et je signe que si Schengen ne change pas et que la frontière entre la Grèce et la Turquie reste complètement ouverte, nous rétablirons des contrôles ciblés, unilatéralement, à nos frontières."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Vous osez dire que je n'ai rien obtenu de l'Allemagne, le gouvernement économique, la présidence stable du gouvernement économique, l'Allemagne le voulait ?"
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Deuxième élément, je n'ai rien obtenu de l'Allemagne, quand la BCE prête à 1 %, vous en parliez tout à l'heure, en violation de la lettre des traités, je l'ai obtenu au Sommet de Strasbourg, avec Monsieur Monti, de l'Allemagne."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il termine en évoquant Shengen, qui, s’il ne change pas, devra être réformé afin de prévoir davantage de contrôles aux frontières."
+    },
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Lorsque Schengen ne fonctionne pas, et Schengen ne fonctionne pas, j'ai dit, je persiste et je signe que si Schengen ne change pas et que la frontière entre la Grèce et la Turquie reste complètement ouverte, nous rétablirons des contrôles ciblés, unilatéralement, à nos frontières."
+      }
+    ]
+  }
 ]

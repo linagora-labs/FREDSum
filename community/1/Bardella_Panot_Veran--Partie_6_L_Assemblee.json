@@ -1,276 +1,276 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Jordan Bardella, Mathilde Panot, et Olivier Véran discutent des stratégies à l'assemblée nationale."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Je le disais, on passe à la deuxième partie de ce débat, consacré aux semaines, aux mois qui vont venir, ce qui va se passer à l'Assemblée, ce qui va se passer dans la rue, les grèves, Nouvelles Journées de Grève, le 31 janvier, d'autres déjà appelées, notamment du côté de la SNCF, pour les 7 et 8 février, une question, Jordan Bardella, est-ce que la rue peut être plus forte que l'Assemblée ?"
-            },
-            {
-                "speaker": "P1",
-                "text": "La question étant de savoir comment va se comporter aussi le rassemblement national à l'Assemblée, Jordan Bardella, est-ce que vous participeraient aussi à cette obstruction ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Jordan Bardella, Mathilde Panot, et Olivier Véran discutent des stratégies à l'Assemblée nationale."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique ne pas aller manifester car le rassemblement national mène le combat à l'assemblée nationale et propose qu'il y ait un référendum sur la réforme."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Les Français nous ont élus pour que nous menions ce combat précisément à l'Assemblée nationale."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Moi, je propose qu'il y ait un référendum sur ce texte."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Je le disais, on passe à la deuxième partie de ce débat, consacré aux semaines, aux mois qui vont venir, ce qui va se passer à l'Assemblée, ce qui va se passer dans la rue, les grèves, Nouvelles Journées de Grève, le 31 janvier, d'autres déjà appelées, notamment du côté de la SNCF, pour les 7 et 8 février, une question, Jordan Bardella, est-ce que la rue peut être plus forte que l'Assemblée ?"
+      },
+      {
+        "speaker": "P1",
+        "text": "La question étant de savoir comment va se comporter aussi le rassemblement national à l'Assemblée, Jordan Bardella, est-ce que vous participeraient aussi à cette obstruction ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique ne pas aller manifester car le rassemblement national mène le combat à l'Assemblée nationale et propose qu'il y ait un référendum sur la réforme."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique souhaiter que les oppositions se mettent en accord sur la motion référendaire."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Nous avons déposé avec l'ensemble de nos députés en tout cas une motion référendaire, et moi, je souhaiterais peut-être là que les oppositions se mettent d'accord, et viennent à la réforme."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Les Français nous ont élus pour que nous menions ce combat précisément à l'Assemblée nationale."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Moi, je propose qu'il y ait un référendum sur ce texte."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique souhaiter que les oppositions se mettent en accord sur la motion référendaire."
     },
-    {
-        "abstractive": {
-            "text": "Mathilde Panot rappelle que la première motion référendaire étudiée sera celle de la NUPES, et qu'il n'y aura pas besoin de voter celle du rassemblement national."
-        },
-        "extractive": [
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Alors, je vais vous expliquer quelque chose, puisque apparemment, il y a une partie du fonctionnement de l'Assemblée nationale que vous ne connaissez pas, c'est que nous avons d'ores et déjà déposé une motion référendaire avec la nupes."
-            },
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Et donc, ensuite, chaque député prendra ses responsabilités pour voter oui ou non cette motion référendaire, mais il y a une possibilité, effectivement, parce que je vois que dans la majorité macronistes, qui est aujourd'hui minoritaire à l'Assemblée, il y a des problèmes pour convaincre les uns et les autres."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Nous avons déposé avec l'ensemble de nos députés en tout cas une motion référendaire, et moi, je souhaiterais peut-être là que les oppositions se mettent d'accord, et viennent à la réforme."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Mathilde Panot rappelle que la première motion référendaire étudiée sera celle de la NUPES, et qu'il n'y aura pas besoin de voter celle du rassemblement national."
     },
-    {
-        "abstractive": {
-            "text": "Mathilde Panot condamne l'utilisation du 47-1 qui réduit le temps de discussion de la réforme à l'assemblée."
-        },
-        "extractive": [
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Trois jours de commissions et 11 jours pour discuter de la vie de millions de gens dans le pays et de l'avenir des générations futures."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Alors, je vais vous expliquer quelque chose, puisque apparemment, il y a une partie du fonctionnement de l'Assemblée nationale que vous ne connaissez pas, c'est que nous avons d'ores et déjà déposé une motion référendaire avec la nupes."
+      },
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Et donc, ensuite, chaque député prendra ses responsabilités pour voter oui ou non cette motion référendaire, mais il y a une possibilité, effectivement, parce que je vois que dans la majorité macronistes, qui est aujourd'hui minoritaire à l'Assemblée, il y a des problèmes pour convaincre les uns et les autres."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Mathilde Panot condamne l'utilisation du 47-1 qui réduit le temps de discussion de la réforme à l'assemblée."
     },
-    {
-        "abstractive": {
-            "text": "Olivier Véran demande à Mathilde Panot si elle condamne les coupures d'électricité faite chez les députés, et lui demande si elle considère le parlement comme une ZAD."
-        },
-        "extractive": [
-            {
-                "speaker": "Olivier Véran",
-                "text": "La première question que j'ai à vous poser, c'est est-ce que vous êtes en phase, avec certains leaders de la CGT, qui appellent à sanctionner, punir certains députés, parce qu'ils voteraient la réforme des retraites en leur coupant l'électricité chez eux ?"
-            },
-            {
-                "speaker": "Olivier Véran",
-                "text": "La deuxième question que j'ai à vous poser, qui me semble aussi assez importante, est-ce que vous considérez que le Parlement, c'est la maison du peuple, ou est-ce que c'est une zad ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Trois jours de commissions et 11 jours pour discuter de la vie de millions de gens dans le pays et de l'avenir des générations futures."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Olivier Véran demande à Mathilde Panot si elle condamne les coupures d'électricité faite chez les députés, et lui demande si elle considère le Parlement comme une ZAD."
     },
-    {
-        "abstractive": {
-            "text": "Olivier Véran explique aussi être contre la motion référendaire."
-        },
-        "extractive": [
-            {
-                "speaker": "Olivier Véran",
-                "text": "La majorité ne votera pas la motion référendaire, ça me semble aller de soi."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Olivier Véran",
+        "text": "La première question que j'ai à vous poser, c'est est-ce que vous êtes en phase, avec certains leaders de la CGT, qui appellent à sanctionner, punir certains députés, parce qu'ils voteraient la réforme des retraites en leur coupant l'électricité chez eux ?"
+      },
+      {
+        "speaker": "Olivier Véran",
+        "text": "La deuxième question que j'ai à vous poser, qui me semble aussi assez importante, est-ce que vous considérez que le Parlement, c'est la maison du peuple, ou est-ce que c'est une zad ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Olivier Véran explique aussi être contre la motion référendaire."
     },
-    {
-        "abstractive": {
-            "text": "Mathilde Panot explique être contre les coupures d'électricité des français, et qu'il n'y a eu des coupures que dans les permanences parlementaires."
-        },
-        "extractive": [
-            {
-                "speaker": "Mathilde Panot",
-                "text": "La première chose, c'est que j'aurais aimé que vous ayez la même indignation pour les 300 000 personnes à qui on coupe l'électricité chaque année dans notre pays."
-            },
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Il y a eu une coupure dans une permanence parlementaire, c'est-à-dire un lieu de travail."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Olivier Véran",
+        "text": "La majorité ne votera pas la motion référendaire, ça me semble aller de soi."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Mathilde Panot explique être contre les coupures d'électricité des Français, et qu'il n'y a eu des coupures que dans les permanences parlementaires."
     },
-    {
-        "abstractive": {
-            "text": "Mathilde Panot condamne la brutalité du gouvernement, et explique ne pas considérer l'assemblée comme une ZAD, mais comprendre l'utilisation du mot."
-        },
-        "extractive": [
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Je condamne la brutalité de votre gouvernement, monsieur Véran."
-            },
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Et non, je ne considère pas que l'Assemblée est une ZAD."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Mathilde Panot",
+        "text": "La première chose, c'est que j'aurais aimé que vous ayez la même indignation pour les 300 000 personnes à qui on coupe l'électricité chaque année dans notre pays."
+      },
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Il y a eu une coupure dans une permanence parlementaire, c'est-à-dire un lieu de travail."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Mathilde Panot condamne la brutalité du gouvernement, et explique ne pas considérer l'assemblée comme une ZAD, mais comprendre l'utilisation du mot."
     },
-    {
-        "abstractive": {
-            "text": "Mathilde Panot explique vouloir faire de l'obstruction parlementaire pour laisser le mouvement social s'organiser."
-        },
-        "extractive": [
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Ce que nous allons faire à l'Assemblée nationale, c'est faire obstruction à votre réforme des retraites."
-            },
-            {
-                "speaker": "Mathilde Panot",
-                "text": "La, après onze jours, il faut que les gens comprennent que le texte soit terminé ou non, après, onze jours, ça passe sans vote au Sénat."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Je condamne la brutalité de votre gouvernement, monsieur Véran."
+      },
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Et non, je ne considère pas que l'Assemblée est une ZAD."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Mathilde Panot explique vouloir faire de l'obstruction parlementaire pour laisser le mouvement social s'organiser."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique que le rassemblement national participera à tous les débats, et explique que le gouvernement n'a pas de majorité à l'assemblée nationale, et qu'il faut le prendre en compte."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Non, on participera à tous les débats et on défendra l'intérêt des Français."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Deuxièmement, Monsieur Véran, moi, ça me choque quand vous parlez des élections législatives comme d'une chance au grattage, une chance au tirage, le président de la République a été élu, mais permettez-moi de vous rappeler que si son programme avait été approuvé par une très large majorité de Français, il aurait eu la majorité absolue lors des dernières élections législatives, ce qui n'a pas été le cas, c'est-à-dire une première, en tout cas, une très rare fois sous la cinquième République."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Ce que nous allons faire à l'Assemblée nationale, c'est faire obstruction à votre réforme des retraites."
+      },
+      {
+        "speaker": "Mathilde Panot",
+        "text": "La, après onze jours, il faut que les gens comprennent que le texte soit terminé ou non, après, onze jours, ça passe sans vote au Sénat."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique que le rassemblement national participera à tous les débats, et explique que le gouvernement n'a pas de majorité à l'Assemblée nationale, et qu'il faut le prendre en compte."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella condamne toute violence faites aux élus."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Et pour une raison très simple, c'est que moi, je condamne les menaces qui sont faites sur les élus, quel que soit leur bord, d'ailleurs, que ce soit de ma chapelle, ou de toutes les autres chapelles, y compris les gens de la majorité, les menaces et les intimidations sur les élus, c'est inadmissible."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Non, on participera à tous les débats et on défendra l'intérêt des Français."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Deuxièmement, Monsieur Véran, moi, ça me choque quand vous parlez des élections législatives comme d'une chance au grattage, une chance au tirage, le président de la République a été élu, mais permettez-moi de vous rappeler que si son programme avait été approuvé par une très large majorité de Français, il aurait eu la majorité absolue lors des dernières élections législatives, ce qui n'a pas été le cas, c'est-à-dire une première, en tout cas, une très rare fois sous la cinquième République."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella condamne toute violence faites aux élus."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella appelle les oppositions à s'entendre, et accuse Mathile Panot d'aider le gouvernement en refusant de condamner les intimidations faites aux élus."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Et ça va être très important de voir comment vont se comporter les Républicains."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Donc, moi, je dis à toutes les oppositions, soyez raisonnables, arrêtez de penser à votre boutique, pensez à l'intérêt du peuple français."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "C'est-à-dire que Mme Panot est tellement caricatural ce soir en refusant, y compris de condamner les intimidations qui sont faites sur des élus de la République, censés être protégés pour pouvoir voter les lois, que c'est franchement un cadeau fait au gouvernement."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Et pour une raison très simple, c'est que moi, je condamne les menaces qui sont faites sur les élus, quel que soit leur bord, d'ailleurs, que ce soit de ma chapelle, ou de toutes les autres chapelles, y compris les gens de la majorité, les menaces et les intimidations sur les élus, c'est inadmissible."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella appelle les oppositions à s'entendre, et accuse Mathilde Panot d'aider le gouvernement en refusant de condamner les intimidations faites aux élus."
     },
-    {
-        "abstractive": {
-            "text": "Sur les manifestations, Olivier Véran explique que le nombre de gens dans la rue n'importe pas, et qu'il suffit de les convaincre, et que le 47-1 se prête à la réforme des retraites."
-        },
-        "extractive": [
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Est-ce que le fait qu'il y ait 2 millions de personnes dans la rue, vous fait changer une seule chose dans le fait de faire cette réforme?"
-            },
-            {
-                "speaker": "Olivier Véran",
-                "text": "Ce que j'ai dit, je le redis dit bien volontiers, j'ai dit la phrase suivante, qu'il y ait 700 000 ou 1 million 300 000 personnes dans la rue, nous considérons qu'un million de personnes dans la rue, c'est un million de personnes qu'on a envie de convaincre, parce qu'on a envie de dialoguer, de parler, de défendre la réforme."
-            },
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Expliquez-nous pourquoi vous ne passez pas par un projet de loi normal."
-            },
-            {
-                "speaker": "Olivier Véran",
-                "text": "Vous avez le Conseil d'Etat, c'est un organe indépendant qui conseille l'Etat, qui écrit noir sur blanc, que le budget de la sécu se prête bien à ce type de texte."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Et ça va être très important de voir comment vont se comporter les Républicains."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Donc, moi, je dis à toutes les oppositions, soyez raisonnables, arrêtez de penser à votre boutique, pensez à l'intérêt du peuple français."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "C'est-à-dire que Mme Panot est tellement caricatural ce soir en refusant, y compris de condamner les intimidations qui sont faites sur des élus de la République, censés être protégés pour pouvoir voter les lois, que c'est franchement un cadeau fait au gouvernement."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Sur les manifestations, Olivier Véran explique que le nombre de gens dans la rue n'importe pas, et qu'il suffit de les convaincre, et que le 47-1 se prête à la réforme des retraites."
     },
-    {
-        "abstractive": {
-            "text": "Olivier Véran explique qu'il n'aura pas besoin d'utiliser le 49-3 car la loi sera votée."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Est-ce que vous êtes prêts à aller jusqu'au 49-3?"
-            },
-            {
-                "speaker": "Olivier Véran",
-                "text": "Mais on est prêts à ne pas aller jusqu'au 49-3, c'est-à-dire qu'on est prêts à avoir une majorité, comme on l'a eu sur tous les textes depuis le début du mandat, sauf les textes budgétaires, c'est-à-dire qu'on est prêts à aller chercher, chez les députés d'opposition."
-            },
-            {
-                "speaker": "Mathilde Panot",
-                "text": "ils auront pas besoin de 49-3, puisque le fait que le débat soit limité dans le temps fait une sorte de 49-3 déguisé."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Est-ce que le fait qu'il y ait 2 millions de personnes dans la rue, vous fait changer une seule chose dans le fait de faire cette réforme?"
+      },
+      {
+        "speaker": "Olivier Véran",
+        "text": "Ce que j'ai dit, je le redis dit bien volontiers, j'ai dit la phrase suivante, qu'il y ait 700 000 ou 1 million 300 000 personnes dans la rue, nous considérons qu'un million de personnes dans la rue, c'est un million de personnes qu'on a envie de convaincre, parce qu'on a envie de dialoguer, de parler, de défendre la réforme."
+      },
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Expliquez-nous pourquoi vous ne passez pas par un projet de loi normal."
+      },
+      {
+        "speaker": "Olivier Véran",
+        "text": "Vous avez le Conseil d'Etat, c'est un organe indépendant qui conseille l'Etat, qui écrit noir sur blanc, que le budget de la sécu se prête bien à ce type de texte."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Olivier Véran explique qu'il n'aura pas besoin d'utiliser le 49-3 car la loi sera votée."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella appelle aux manifestations pacifique, mais condamne les blocages, qui créent une double peine pour les français qui ne pourront pas aller au travail, et qui devront travailler plus tard."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Donc si les Français voulaient très majoritairement la seule mesure sur laquelle vous avez fait campagne pendant l'élection présidentielle, c'est-à-dire la retraite à 65 ans qui a changé 4 fois depuis, eh bien vous auriez eu une majorité absolue à l'Assemblée nationale."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Donc moi, je dis aux Français, si vous avez l'occasion d'aller manifester pacifiquement, allez manifester pacifiquement, vous pouvez compter sur le rassemblement national à l'assemblée pour vous défendre."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "mais je veux dire que manifester, faire grève, c'est un droit, ce sont des droits fondamentaux qui sont protégés pour partie par la Constitution, mais le blocage du pays, c'est la double peine pour les Français, parce que les Français qui bossent, les Français qui travaillent, les Français qui ont besoin de leurs voitures qui doivent aller mettre de l'essence, ils ont la double peine, c'est-à-dire qu'ils ont à la fois la réforme à 64 ans du gouvernement, et en plus, l'impossibilité d'aller chercher de l'essence"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Est-ce que vous êtes prêts à aller jusqu'au 49-3?"
+      },
+      {
+        "speaker": "Olivier Véran",
+        "text": "Mais on est prêts à ne pas aller jusqu'au 49-3, c'est-à-dire qu'on est prêts à avoir une majorité, comme on l'a eu sur tous les textes depuis le début du mandat, sauf les textes budgétaires, c'est-à-dire qu'on est prêts à aller chercher, chez les députés d'opposition."
+      },
+      {
+        "speaker": "Mathilde Panot",
+        "text": "ils auront pas besoin de 49-3, puisque le fait que le débat soit limité dans le temps fait une sorte de 49-3 déguisé."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella appelle aux manifestations pacifiques, mais condamne les blocages, qui créent une double peine pour les Français qui ne pourront pas aller au travail, et qui devront travailler plus tard."
     },
-    {
-        "abstractive": {
-            "text": "Mathilde Panot explique être pour les blocages."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Mathilde panot. Est-ce que les manifestations suffisent ou est-ce que pour vous, il faut aller jusqu'au blocage du pays, comme ce qu'appellent un certain nombre de syndicats aujourd'hui."
-            },
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Ça, c'est les syndicalistes qui en décident, mais je crois que oui, dans le rapport de force populaire que nous avons à mener contre un gouvernement qui apparemment n'écoutent rien ni personne, il est important, et ça s'est vu dans d'autres mobilisations que nous avons gagnées sur les retraites, d'avoir à la fois des grèves, parce que s'il y a des gens dont on ne voit pas quand ils font grève dans le pays, si monsieur Véran faisait grève, on ne s'en apercevrait pas."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Donc si les Français voulaient très majoritairement la seule mesure sur laquelle vous avez fait campagne pendant l'élection présidentielle, c'est-à-dire la retraite à 65 ans qui a changé 4 fois depuis, eh bien vous auriez eu une majorité absolue à l'Assemblée nationale."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Donc moi, je dis aux Français, si vous avez l'occasion d'aller manifester pacifiquement, allez manifester pacifiquement, vous pouvez compter sur le rassemblement national à l'assemblée pour vous défendre."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "mais je veux dire que manifester, faire grève, c'est un droit, ce sont des droits fondamentaux qui sont protégés pour partie par la Constitution, mais le blocage du pays, c'est la double peine pour les Français, parce que les Français qui bossent, les Français qui travaillent, les Français qui ont besoin de leurs voitures qui doivent aller mettre de l'essence, ils ont la double peine, c'est-à-dire qu'ils ont à la fois la réforme à 64 ans du gouvernement, et en plus, l'impossibilité d'aller chercher de l'essence"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Mathilde Panot explique être pour les blocages."
     },
-    {
-        "abstractive": {
-            "text": "Olivier Véran explique respecter le droit de grève, mais condamne les blocages."
-        },
-        "extractive": [
-            {
-                "speaker": "Olivier Véran",
-                "text": "Non, mais moi, je respecte la manifestation, je respecte le droit de grève, c'est dans la Constitution."
-            },
-            {
-                "speaker": "Olivier Véran",
-                "text": "Ce que je demande, c'est de ne pas pénaliser le quotidien des Français qui sont en vacances, ou non d'ailleurs, parce qu'on me pose la question, est-ce qu'il faut bloquer, est-ce que bloquer les Français en vacances?"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Mathilde panot. Est-ce que les manifestations suffisent ou est-ce que pour vous, il faut aller jusqu'au blocage du pays, comme ce qu'appellent un certain nombre de syndicats aujourd'hui."
+      },
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Ça, c'est les syndicalistes qui en décident, mais je crois que oui, dans le rapport de force populaire que nous avons à mener contre un gouvernement qui apparemment n'écoutent rien ni personne, il est important, et ça s'est vu dans d'autres mobilisations que nous avons gagnées sur les retraites, d'avoir à la fois des grèves, parce que s'il y a des gens dont on ne voit pas quand ils font grève dans le pays, si monsieur Véran faisait grève, on ne s'en apercevrait pas."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Olivier Véran explique respecter le droit de grève, mais condamne les blocages."
+    },
+    "extractive": [
+      {
+        "speaker": "Olivier Véran",
+        "text": "Non, mais moi, je respecte la manifestation, je respecte le droit de grève, c'est dans la Constitution."
+      },
+      {
+        "speaker": "Olivier Véran",
+        "text": "Ce que je demande, c'est de ne pas pénaliser le quotidien des Français qui sont en vacances, ou non d'ailleurs, parce qu'on me pose la question, est-ce qu'il faut bloquer, est-ce que bloquer les Français en vacances?"
+      }
+    ]
+  }
 ]

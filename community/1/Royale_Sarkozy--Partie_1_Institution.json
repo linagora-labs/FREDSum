@@ -1,257 +1,257 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Nicolas Sarkozy et Ségolène Royal parlent de leur vision pour les institutions françaises. "
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Faut-il changer les institutions actuelles ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Nicolas Sarkozy et Ségolène Royal parlent de leur vision pour les institutions françaises."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que Ségolène Royal souhaite transférer le pouvoir aux régions, ce qui coûtera cher. "
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Mme Royal dit qu'elle va transférer aux régions, ce qui leur permettra de faire une autre augmentation après les autres augmentations faramineuses que vous avez faites les années passées."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Faut-il changer les institutions actuelles ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que Ségolène Royal souhaite transférer le pouvoir aux régions, ce qui coûtera cher."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique qu'il veut forcer les délinquants à suivre un traitement sans avoir à pointer au commissariat toutes les semaines. "
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Je veux que tous les délinquants s'engagent à suivre un traitement et sans être obligés de pointer au commissariat ou à la gendarmerie de son domicile toutes les semaines."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Mme Royal dit qu'elle va transférer aux régions, ce qui leur permettra de faire une autre augmentation après les autres augmentations faramineuses que vous avez faites les années passées."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique qu'il veut forcer les délinquants à suivre un traitement sans avoir à pointer au commissariat toutes les semaines."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique qu'il veut instaurer des peines planchers et résoudre l'impunité chez les mineurs, en jugeant les délinquants multirécidivistes de seize à dix-huit ans comme un majeur. "
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Autre proposition que je fais s'agissant des récidivistes, 50 % des crimes et délits sont le fait de 5 % de délinquants multirécidivistes, je propose d'instaurer des peines planchers"
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Troisième élément, il faut résoudre le problème des mineurs, l'impunité des mineurs est catastrophique, il faut réformer l'ordonnance pénale de 45 et, si je suis élu Président de la République, je proposerai qu'un mineur multirécidiviste entre 16 et 18 ans soit puni comme un majeur."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Je veux que tous les délinquants s'engagent à suivre un traitement et sans être obligés de pointer au commissariat ou à la gendarmerie de son domicile toutes les semaines."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique qu'il veut instaurer des peines planchers et résoudre l'impunité chez les mineurs, en jugeant les délinquants multirécidivistes de seize à dix-huit ans comme un majeur."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy souhaite baisser les effectifs dans la fonction publique au niveau de 1992, en justifiant l'amélioration de l'informatisation. "
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Avec ce que je propose, madame, nous reviendrons aux effectifs de la fonction publique en 1992, époque où Mitterrand était Président de la république."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "L'informatisation a fait des progrès considérables, notamment dans un ministère que j'ai dirigé, le ministère des Finances."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Autre proposition que je fais s'agissant des récidivistes, 50 % des crimes et délits sont le fait de 5 % de délinquants multirécidivistes, je propose d'instaurer des peines planchers"
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Troisième élément, il faut résoudre le problème des mineurs, l'impunité des mineurs est catastrophique, il faut réformer l'ordonnance pénale de 45 et, si je suis élu Président de la République, je proposerai qu'un mineur multirécidiviste entre 16 et 18 ans soit puni comme un majeur."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy souhaite baisser les effectifs dans la fonction publique au niveau de 1992, en justifiant l'amélioration de l'informatisation."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que les 35 heures ont mis à mal l'hôpital français."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Ce sont les 35 heures qui ont mis à bas l'hôpital public français."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Avec ce que je propose, madame, nous reviendrons aux effectifs de la fonction publique en 1992, époque où Mitterrand était Président de la république."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "L'informatisation a fait des progrès considérables, notamment dans un ministère que j'ai dirigé, le ministère des Finances."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que les 35 heures ont mis à mal l'hôpital français."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal explique que l'option des heures supplémentaires n'a pas été utilisée dans les hôpitaux et qu'il faudra y créer des postes, tout en diminuant le nombre de fonctionnaires au ministère des finances et dans les douanes."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "D'ailleurs, lorsque vous leur aviez proposé de travailler plus pour gagner plus, cette proposition n'a pas eu beaucoup de succès dans l'hôpital."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Oui, il va falloir créer des postes dans la fonction publique hospitalière."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Si nous pouvons, en effet, en diminuer au ministère des Finances, notamment dans les services des douanes, se sera pour en créer là où les besoins sont nécessaires pour remettre du service public là où il n'y en a plus, en milieu rural ou dans les quartiers dans lesquels, en effet, le manque de service public explique le délitement du lien républicain."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Ce sont les 35 heures qui ont mis à bas l'hôpital public français."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal explique que l'option des heures supplémentaires n'a pas été utilisée dans les hôpitaux et qu'il faudra y créer des postes, tout en diminuant le nombre de fonctionnaires au ministère des finances et dans les douanes."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal souhaite que certains types de criminels ne soient pas relâchés sans l'accord de la commission spéciale et que des soins doivent être donnés en prison."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Je demande que les pédophiles, en particulier, ne soient pas relâchés tant que la commission spéciale qui aurait dû être mise en place dans les prisons n'a pas formellement dit par expertise qu'ils sont désormais non nocifs."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Donc, je crois que l'urgence dans ce domaine, c'est que les soins soient donnés dans la prison."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "D'ailleurs, lorsque vous leur aviez proposé de travailler plus pour gagner plus, cette proposition n'a pas eu beaucoup de succès dans l'hôpital."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Oui, il va falloir créer des postes dans la fonction publique hospitalière."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Si nous pouvons, en effet, en diminuer au ministère des Finances, notamment dans les services des douanes, se sera pour en créer là où les besoins sont nécessaires pour remettre du service public là où il n'y en a plus, en milieu rural ou dans les quartiers dans lesquels, en effet, le manque de service public explique le délitement du lien républicain."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal souhaite que certains types de criminels ne soient pas relâchés sans l'accord de la commission spéciale et que des soins doivent être donnés en prison."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal explique qu'il doit y avoir une réponse forte aux premiers actes de délinquance et qu'il faut éviter la prison pour les mineurs avec de nouvelles solutions telles que l'encadrement militaire et les centres éducatifs renforcés."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Mais je pense que ce qui est plus urgent encore, c'est la question de la réponse au premier acte de délinquance."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Moi, je ferai, si je suis élue Présidente de la République, parce que je crois que la question de la lutte contre toutes les formes de violence et de délinquance et, en particulier, que le fait d'éviter aux mineurs la prison doit appeler à des solutions novatrices."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "J'ai parlé de l'encadrement militaire pour les mineurs et je le mettrai en place."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Les centres éducatifs renforcés seront effectivement créés, des peines adaptées, bien évidemment, au premier délit seront exécutées, car on sait bien que s'il y a une réponse au premier acte de délinquance, dans 70 % des cas, il n'y a pas de récidive."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Je demande que les pédophiles, en particulier, ne soient pas relâchés tant que la commission spéciale qui aurait dû être mise en place dans les prisons n'a pas formellement dit par expertise qu'ils sont désormais non nocifs."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Donc, je crois que l'urgence dans ce domaine, c'est que les soins soient donnés dans la prison."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal explique qu'il doit y avoir une réponse forte aux premiers actes de délinquance et qu'il faut éviter la prison pour les mineurs avec de nouvelles solutions telles que l'encadrement militaire et les centres éducatifs renforcés."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal souhaite relancer la croissance en faisant un nouveau pacte avec les entreprises, en améliorant la compétitivité des PME, le dialogue social et le levier écologique."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Je propose d'abord de relancer la croissance."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Je le ferai en faisant un nouveau pacte avec les entreprises."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Les trois piliers du développement économique demain seront la compétitivité des PME, celles qui ne dépendent pas des fonds de pension, c'est sur elles que je concentrerai les 63 milliards d'euros d'aide publique, qui, aujourd'hui, sont distribués de façon uniforme à toutes les entreprises."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Le deuxième axe de la relance de la croissance est la qualité du dialogue social, on sait que tous les pays du Nord de l'Europe qui ont réussi à relancer la croissance sont les pays qui ont mis en place un dialogue social de qualité, qui permet aux syndicats de faire des compromis sociaux et d'anticiper, c'est-à-dire d'être informés en amont des stratégies de l'entreprise pour y contribuer, pour y participer, pour faire les efforts de formation professionnelle, là où se trouvent des trésors de valeur ajoutée."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Enfin, je mettrai en mouvement le levier écologique, parce que je pense que c'est dans cette filière du développement écologique et des éco-industries que la France a des emplois à conquérir, sans doute plusieurs centaines de milliers d'emplois, à conquérir dans ce domaine."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Mais je pense que ce qui est plus urgent encore, c'est la question de la réponse au premier acte de délinquance."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Moi, je ferai, si je suis élue Présidente de la République, parce que je crois que la question de la lutte contre toutes les formes de violence et de délinquance et, en particulier, que le fait d'éviter aux mineurs la prison doit appeler à des solutions novatrices."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "J'ai parlé de l'encadrement militaire pour les mineurs et je le mettrai en place."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Les centres éducatifs renforcés seront effectivement créés, des peines adaptées, bien évidemment, au premier délit seront exécutées, car on sait bien que s'il y a une réponse au premier acte de délinquance, dans 70 % des cas, il n'y a pas de récidive."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal souhaite relancer la croissance en faisant un nouveau pacte avec les entreprises, en améliorant la compétitivité des PME, le dialogue social et le levier écologique."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal explique que tous les profits au-dessus de 2,5% de croissance seront consacrés au remboursement de la dette."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "S'il y a davantage de croissance, je prends l'engagement que tout ce qui sera au-dessus de 2,5 % de croissance sera consacré au remboursement de la dette."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Je propose d'abord de relancer la croissance."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Je le ferai en faisant un nouveau pacte avec les entreprises."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Les trois piliers du développement économique demain seront la compétitivité des PME, celles qui ne dépendent pas des fonds de pension, c'est sur elles que je concentrerai les 63 milliards d'euros d'aide publique, qui, aujourd'hui, sont distribués de façon uniforme à toutes les entreprises."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Le deuxième axe de la relance de la croissance est la qualité du dialogue social, on sait que tous les pays du Nord de l'Europe qui ont réussi à relancer la croissance sont les pays qui ont mis en place un dialogue social de qualité, qui permet aux syndicats de faire des compromis sociaux et d'anticiper, c'est-à-dire d'être informés en amont des stratégies de l'entreprise pour y contribuer, pour y participer, pour faire les efforts de formation professionnelle, là où se trouvent des trésors de valeur ajoutée."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Enfin, je mettrai en mouvement le levier écologique, parce que je pense que c'est dans cette filière du développement écologique et des éco-industries que la France a des emplois à conquérir, sans doute plusieurs centaines de milliers d'emplois, à conquérir dans ce domaine."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal explique que tous les profits au-dessus de 2,5% de croissance seront consacrés au remboursement de la dette."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que Ségolène Royal n'a aucune piste d'économies et qu'elle n'a pas de moyen de relancer la croissance."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Il me semble que, s'agissant de la réduction de la dette, vous n'avez fixé aucune piste d'économies."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "La relance de la croissance, c'est encore plus intéressant, vous n'avez donné aucun moyen pour relancer la croissance."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "S'il y a davantage de croissance, je prends l'engagement que tout ce qui sera au-dessus de 2,5 % de croissance sera consacré au remboursement de la dette."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que Ségolène Royal n'a aucune piste d'économies et qu'elle n'a pas de moyen de relancer la croissance."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que la France a moins de croissance que les autres grandes démocraties car la France travaille moins et qu'il faut valoriser le travail."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Le problème de la France est qu'il y a 1 % de croissance de moins que les grandes démocraties, les grandes économies qui progressent dans le monde."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Parce qu'on travaille moins que les autres."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "C'est respecter le travail, récompenser le travail, valoriser le travail."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Il me semble que, s'agissant de la réduction de la dette, vous n'avez fixé aucune piste d'économies."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "La relance de la croissance, c'est encore plus intéressant, vous n'avez donné aucun moyen pour relancer la croissance."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que la France a moins de croissance que les autres grandes démocraties car la France travaille moins et qu'il faut valoriser le travail."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que tout est fait pour décourager les heures supplémentaires et que les nouvelles dépenses sont payées par les Français."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Tout est fait aujourd'hui pour décourager l'obtention des heures supplémentaires, toute entreprise qui donnera des heures supplémentaires ne paiera pas de charge dessus, tout salarié qui fera, sur la base du volontariat, des heures supplémentaires ne paiera pas d'impôt dessus, quand on est au Smic et qu'on travaille cinquante minutes de plus par jour, c'est 15 % d'augmentation de salaire."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "C'est bien beau de dire que l'on va faire de nouvelles dépenses, mais c'est l'argent des Français, l'argent qui taxe le travail, l'argent qui fait en sorte qu'il y a tant de délocalisations, car, les impôts et les charges sont si lourdes qu'il y a une tentation de délocaliser."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Le problème de la France est qu'il y a 1 % de croissance de moins que les grandes démocraties, les grandes économies qui progressent dans le monde."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Parce qu'on travaille moins que les autres."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "C'est respecter le travail, récompenser le travail, valoriser le travail."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que tout est fait pour décourager les heures supplémentaires et que les nouvelles dépenses sont payées par les Français."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique qu'il mettra fin aux préretraites. "
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Je mettrai un terme aux préretraites, cinq milliards d'euros chaque année, pour que des quinquagénaires pleins de jeunesse, peut-être comme nous, soient obligés de partir en retraite alors qu'ils veulent continuer à travailler."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Tout est fait aujourd'hui pour décourager l'obtention des heures supplémentaires, toute entreprise qui donnera des heures supplémentaires ne paiera pas de charge dessus, tout salarié qui fera, sur la base du volontariat, des heures supplémentaires ne paiera pas d'impôt dessus, quand on est au Smic et qu'on travaille cinquante minutes de plus par jour, c'est 15 % d'augmentation de salaire."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "C'est bien beau de dire que l'on va faire de nouvelles dépenses, mais c'est l'argent des Français, l'argent qui taxe le travail, l'argent qui fait en sorte qu'il y a tant de délocalisations, car, les impôts et les charges sont si lourdes qu'il y a une tentation de délocaliser."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique qu'il mettra fin aux préretraites."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal explique que la proposition des heures supplémentaires est inefficace, car elle encouragera à ne pas engager de nouveaux salariés."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Sur la question des heures supplémentaires, je crois que votre proposition est dangereuse et inefficace."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Si vous exonérez les heures supplémentaires, un employeur aura davantage intérêt à donner des heures supplémentaires à un salarié qu'à recruter un nouveau salarié."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Je mettrai un terme aux préretraites, cinq milliards d'euros chaque année, pour que des quinquagénaires pleins de jeunesse, peut-être comme nous, soient obligés de partir en retraite alors qu'ils veulent continuer à travailler."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal explique que la proposition des heures supplémentaires est inefficace, car elle encouragera à ne pas engager de nouveaux salariés."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal explique vouloir mettre en place l'emploi tremplin pour les jeunes."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Mon objectif est de faire en sorte que, en France, les jeunes ne restent pas pendant plus de 6 mois au chômage où en recherche d'activité, c'est emploi tremplin"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Sur la question des heures supplémentaires, je crois que votre proposition est dangereuse et inefficace."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Si vous exonérez les heures supplémentaires, un employeur aura davantage intérêt à donner des heures supplémentaires à un salarié qu'à recruter un nouveau salarié."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal explique vouloir mettre en place l'emploi tremplin pour les jeunes."
+    },
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Mon objectif est de faire en sorte que, en France, les jeunes ne restent pas pendant plus de 6 mois au chômage où en recherche d'activité, c'est emploi tremplin"
+      }
+    ]
+  }
 ]

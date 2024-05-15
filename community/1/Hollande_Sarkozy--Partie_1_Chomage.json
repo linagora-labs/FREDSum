@@ -1,273 +1,273 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, François Hollande et Nicolas Sarkozy discutent du chômage et de la relance de la croissance."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Comment peut-on relancer l'emploi en France ?"
-            },
-            {
-                "speaker": "P1",
-                "text": "Et, c'est totalement lié, comment fait-on pour renouer avec la croissance qui est synonyme d'emploi ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, François Hollande et Nicolas Sarkozy discutent du chômage et de la relance de la croissance."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande débute en expliquant que le chômage est à 10%, le double du but de Nicolas Sarkozy."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Donc, Nicolas Sarkozy vous aviez dit, c'était en 2007, que si le chômage ne tombait pas à 5 % de la population active, vous considéreriez que c'est un échec."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Nous sommes à 10."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Comment peut-on relancer l'emploi en France ?"
+      },
+      {
+        "speaker": "P1",
+        "text": "Et, c'est totalement lié, comment fait-on pour renouer avec la croissance qui est synonyme d'emploi ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande débute en expliquant que le chômage est à 10%, le double du but de Nicolas Sarkozy."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande souhaite relancer la production car l'industrie a été abandonnée, et souhaite créer une banque publique d'investissement pour accompagner le développement des entreprises."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Il nous faut de la production et donc la première exigence sera de relancer la production dans notre pays puisque l'industrie a été abandonnée : 400 000 emplois ont été perdus."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Donc, Nicolas Sarkozy vous aviez dit, c'était en 2007, que si le chômage ne tombait pas à 5 % de la population active, vous considéreriez que c'est un échec."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Nous sommes à 10."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande souhaite relancer la production car l'industrie a été abandonnée, et souhaite créer une banque publique d'investissement pour accompagner le développement des entreprises."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande souhaite mobiliser l'épargne des ménages pour l'affecter au financement des investissements."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Je créerai une banque publique d'investissement pour accompagner le développement des entreprises."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Je mobiliserai l'épargne des ménages pour l'affecter au financement des investissements notamment des PME."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Il nous faut de la production et donc la première exigence sera de relancer la production dans notre pays puisque l'industrie a été abandonnée : 400 000 emplois ont été perdus."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande souhaite mobiliser l'épargne des ménages pour l'affecter au financement des investissements."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande souhaite modifier la fiscalité des entreprises afin que le bénéfice qui a été réinvesti soit moins fiscalisé que celui qui a été distribué aux actionnaires."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Je modifierai la fiscalité des entreprises pour que le bénéficie qui est réinvesti dans la société soit moins fiscalisé que le bénéfice qui est distribué aux actionnaires."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Je créerai une banque publique d'investissement pour accompagner le développement des entreprises."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Je mobiliserai l'épargne des ménages pour l'affecter au financement des investissements notamment des PME."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande souhaite modifier la fiscalité des entreprises afin que le bénéfice qui a été réinvesti soit moins fiscalisé que celui qui a été distribué aux actionnaires."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande explique que les seniors sont ceux les plus affectés par le chômage, et propose de supprimer les cotisations sociales sur les emplois des entreprises qui engagent un jeune tout en gardant une personone âgée jusqu'à la retraite."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Ce sont les seniors qui sont les plus affectés par le chômage."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Donc la proposition que j'ai faite c'est que l'employeur qui gardera le senior le temps qu'il puisse partir à la retraite et donc avec ses droits qui lui donneront une pension à taux plein,  et qui embauchera un jeune avec un contrat à durée indéterminée, cet employeur-là ne paiera plus de cotisations sociales sur les deux emplois, celui du senior, celui du jeune."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Je modifierai la fiscalité des entreprises pour que le bénéficie qui est réinvesti dans la société soit moins fiscalisé que le bénéfice qui est distribué aux actionnaires."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande explique que les seniors sont ceux les plus affectés par le chômage, et propose de supprimer les cotisations sociales sur les emplois des entreprises qui engagent un jeune tout en gardant une personne âgée jusqu'à la retraite."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que la France a eu une meilleure croissance sur la période que de nombreux pays de la zone euros, et que le taux de chômage a augmenté plus lentement que la moyenne de la zone euro."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Sur la même période, il a augmenté de 37 % en Italie, de 60 % en Angleterre, de 191 % en Espagne après 7 années de socialisme, de 103 % aux Etats-Unis et dans la moyenne des pays de la zone euro ?"
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Nous avons un taux de chômage qui a augmenté deux fois moins que nos partenaires de la zone euro."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Ce sont les seniors qui sont les plus affectés par le chômage."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Donc la proposition que j'ai faite c'est que l'employeur qui gardera le senior le temps qu'il puisse partir à la retraite et donc avec ses droits qui lui donneront une pension à taux plein,  et qui embauchera un jeune avec un contrat à durée indéterminée, cet employeur-là ne paiera plus de cotisations sociales sur les deux emplois, celui du senior, celui du jeune."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que la France a eu une meilleure croissance sur la période que de nombreux pays de la zone euros, et que le taux de chômage a augmenté plus lentement que la moyenne de la zone euro."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy critique le contrat génération qui exonére de cotisations des emplois déjà crées."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Sur le contrat de génération, c'est sans doute un point intéressant de différence entre nous."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Sur la même période, il a augmenté de 37 % en Italie, de 60 % en Angleterre, de 191 % en Espagne après 7 années de socialisme, de 103 % aux Etats-Unis et dans la moyenne des pays de la zone euro ?"
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Nous avons un taux de chômage qui a augmenté deux fois moins que nos partenaires de la zone euro."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy critique le contrat génération qui exonère de cotisations des emplois déjà crées."
     },
-    {
-        "abstractive": {
-            "text": "Selon Nicolas Sarkozy, le coût du travail est trop élevé, et pour éviter les délocalisations, il souhaite le baisser."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Pourquoi donc faire des impôts et exonérer de cotisations un emploi qui est déjà créé dans une entreprise qui fonctionne ?"
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Premièrement, il y a un gigantesque problème de coût du travail."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Pour éviter le cancer des délocalisations, pour penser à ces ouvriers qui vivent la peur au ventre parce qu'ils ont peur que leurs usines ferment, il faut que le travail qui se délocalise ne se délocalise plus et pour cela il faut alléger le coût du travail."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Sur le contrat de génération, c'est sans doute un point intéressant de différence entre nous."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Selon Nicolas Sarkozy, le coût du travail est trop élevé, et pour éviter les délocalisations, il souhaite le baisser."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy propose d'exonérer toutes les entreprises des cotisations familiales, ce qu'il a déjà fait avec la taxe professionnelle."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "C'est la raison pour laquelle j'ai proposé d'exonérer toutes les entreprises des 5,4 % de cotisations familiales pour que le travail coûte moins cher et que nous puissions le garder."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "J'avais fait d'ailleurs la même chose avec la taxe professionnelle, la taxe professionnelle n'existait plus qu'en France, nous l'avons supprimée."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Deuxième remarque, un gigantesque effort de formation pour que les chômeurs d'aujourd'hui soient formés pour les emplois de demain et pas pour les emplois d'hier."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Pourquoi donc faire des impôts et exonérer de cotisations un emploi qui est déjà créé dans une entreprise qui fonctionne ?"
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Premièrement, il y a un gigantesque problème de coût du travail."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Pour éviter le cancer des délocalisations, pour penser à ces ouvriers qui vivent la peur au ventre parce qu'ils ont peur que leurs usines ferment, il faut que le travail qui se délocalise ne se délocalise plus et pour cela il faut alléger le coût du travail."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy propose d'exonérer toutes les entreprises des cotisations familiales, ce qu'il a déjà fait avec la taxe professionnelle."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy souhaite faire un effort de formation sur les chômeurs, et investir dans l'innovation."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Troisième élément : l'innovation."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "C'est la raison pour laquelle j'ai proposé d'exonérer toutes les entreprises des 5,4 % de cotisations familiales pour que le travail coûte moins cher et que nous puissions le garder."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "J'avais fait d'ailleurs la même chose avec la taxe professionnelle, la taxe professionnelle n'existait plus qu'en France, nous l'avons supprimée."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Deuxième remarque, un gigantesque effort de formation pour que les chômeurs d'aujourd'hui soient formés pour les emplois de demain et pas pour les emplois d'hier."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy souhaite faire un effort de formation sur les chômeurs, et investir dans l'innovation."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande critique ces approches, comme la TVA sociale qui va baisser le pouvoir d'achats des français indépendemment de leur revenu, ainsi que les allégement de cotisations sociales, qui aide plus les services que l'industrie."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "TVA sociale : 13 milliards d'euros, qui va d'ailleurs être prélevée sur tous les Français, 300 euros de moins sur leur pouvoir d'achat, ce qui va bien entendu dégrader la croissance."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Le reste, vous savez qui touche les allégements de cotisations sociales ?"
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Les services pour 8 milliards, la banque, les banques, pour 700 millions d'euros, trois fois plus que l'industrie automobile dont vous avez parlé."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Donc ça veut dire que vous inventez une taxe nouvelle sur les Français, qui va être prélevée sur leur consommation, affaiblir la croissance, pour avoir un effet sur les entreprises industrielles de très faible ampleur et donner un cadeau supplémentaire aux entreprises de service."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Troisième élément : l'innovation."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande critique ces approches, comme la TVA sociale qui va baisser le pouvoir d'achats des Français indépendamment de leur revenu, ainsi que les allégements de cotisations sociales, qui aide plus les services que l'industrie."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande explique qu'il n'y a que dix pourcent des chômeurs à qui sont proposés des formations."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Nous sommes tous d'accord sur la formation, 10 %, seulement 10 % des demandeurs d'emploi dans notre pays sont proposés des formations ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "TVA sociale : 13 milliards d'euros, qui va d'ailleurs être prélevée sur tous les Français, 300 euros de moins sur leur pouvoir d'achat, ce qui va bien entendu dégrader la croissance."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Le reste, vous savez qui touche les allégements de cotisations sociales ?"
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Les services pour 8 milliards, la banque, les banques, pour 700 millions d'euros, trois fois plus que l'industrie automobile dont vous avez parlé."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Donc ça veut dire que vous inventez une taxe nouvelle sur les Français, qui va être prélevée sur leur consommation, affaiblir la croissance, pour avoir un effet sur les entreprises industrielles de très faible ampleur et donner un cadeau supplémentaire aux entreprises de service."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande explique qu'il n'y a que dix pourcent des chômeurs à qui sont proposés des formations."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que ses propositions sont celles qui sont faite en Allemagne, comme la TVA anti-délocalisation, la règle d'or, et les accords compétitivité emploi."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "L'Allemagne a fait le contraire de la politique que vous proposez aux Français."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "L'Allemagne a fait la TVA anti-délocalisation que je propose, trois points, vous la refusez."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Elle a, deuxième point, fait la règle d'or que vous refusez."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Troisième point, elle fait les accords compétitivité emploi que vous refusez, c'est-à-dire la possibilité pour les salariés et les chefs d'entreprise de discuter de la durée de travail et salaire dans l'entreprise."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Nous sommes tous d'accord sur la formation, 10 %, seulement 10 % des demandeurs d'emploi dans notre pays sont proposés des formations ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que ses propositions sont celles qui sont faites en Allemagne, comme la TVA anti-délocalisation, la règle d'or, et les accords compétitivité emploi."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que la tva pèsera sur les importations, et qu'il baissera largement les cotisations des employés agricoles et industriel."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Enfin, deux dernières remarques sur la TVA : la TVA pèsera sur les importations."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Mais je vais vous donner deux chiffres : avec ce que je propose et qui entrera en vigueur au 1er octobre, 94 % des employés agricoles, 94 % , auront 1 800 euros de cotisations en moins."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "L'Allemagne a fait le contraire de la politique que vous proposez aux Français."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "L'Allemagne a fait la TVA anti-délocalisation que je propose, trois points, vous la refusez."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Elle a, deuxième point, fait la règle d'or que vous refusez."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Troisième point, elle fait les accords compétitivité emploi que vous refusez, c'est-à-dire la possibilité pour les salariés et les chefs d'entreprise de discuter de la durée de travail et salaire dans l'entreprise."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que la tva pèsera sur les importations, et qu'il baissera largement les cotisations des employés agricoles et industriel."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande explique que pour améliorer la compétitivité, il faut travailler sur l'innovation et l'investissement en plus que sur la baisse du coût du travail."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Maintenant sur la compétitivité, qu'est-ce qu'on peut faire de mieux ?"
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Il y a l'innovation, l'investissement et pas seulement la baisse du coût du travail."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Enfin, deux dernières remarques sur la TVA : la TVA pèsera sur les importations."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Mais je vais vous donner deux chiffres : avec ce que je propose et qui entrera en vigueur au 1er octobre, 94 % des employés agricoles, 94 % , auront 1 800 euros de cotisations en moins."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande explique que pour améliorer la compétitivité, il faut travailler sur l'innovation et l'investissement en plus que sur la baisse du coût du travail."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que les accords compétitivité emploi permet de travailler plus de 35 heures dans des industries si les accords sont faits, et explique que la France est le pays qui a fait le mieux en terme de croissance en europe depuis 2009"
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Les accords compétitivité-emploi, il faut que ceux qui nous regardent comprennent ce dont il s'agit."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "L'idée, c'est de garder une loi : à partir de 35 heures, ce seront des heures supplémentaires."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Mais si dans l'entreprise, salariés et chefs d'entreprise se mettent d'accord pour augmenter les salaires, pour augmenter la durée du travail ou au contraire pour réduire la durée de travail parce que le carnet de commandes ne va pas, l'accord dans l'Entreprise prime sur la loi et sur le contrat individuel."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Y a-t-il un pays d'Europe et de l'OCDE qui ait fait mieux en termes que croissance que la France depuis 2009 ?"
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Si vous permettez : les États-Unis ont fait mieux que nous en termes de croissance, l'Allemagne a fait mieux en termes de croissance"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Maintenant sur la compétitivité, qu'est-ce qu'on peut faire de mieux ?"
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Il y a l'innovation, l'investissement et pas seulement la baisse du coût du travail."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que les accords compétitivité emploi permet de travailler plus de 35 heures dans des industries si les accords sont faits, et explique que la France est le pays qui a fait le mieux en terme de croissance en Europe depuis 2009."
+    },
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Les accords compétitivité-emploi, il faut que ceux qui nous regardent comprennent ce dont il s'agit."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "L'idée, c'est de garder une loi : à partir de 35 heures, ce seront des heures supplémentaires."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Mais si dans l'entreprise, salariés et chefs d'entreprise se mettent d'accord pour augmenter les salaires, pour augmenter la durée du travail ou au contraire pour réduire la durée de travail parce que le carnet de commandes ne va pas, l'accord dans l'Entreprise prime sur la loi et sur le contrat individuel."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Y a-t-il un pays d'Europe et de l'OCDE qui ait fait mieux en termes que croissance que la France depuis 2009 ?"
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Si vous permettez : les États-Unis ont fait mieux que nous en termes de croissance, l'Allemagne a fait mieux en termes de croissance"
+      }
+    ]
+  }
 ]

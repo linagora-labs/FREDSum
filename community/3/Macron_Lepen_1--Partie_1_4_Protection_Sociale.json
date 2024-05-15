@@ -1,190 +1,190 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Macron et Le Pen discutent de la protection sociale."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Je voudrais savoir, quelles sont les protections sociales que vous proposez aux Français en termes de remboursement par la sécurité sociale."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Emmanuel Macron et Marine Le Pen discutent de la protection sociale."
     },
-    {
-        "abstractive": {
-            "text": "Le Pen trouve que les propositions de son adversaire sur le remboursement des soins ne sont pas claires."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "On parle de financement d’ailleurs, puisque monsieur Macron vous avez fait toute une série de remboursements de système optique, etc."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Mais vous êtes resté extrêmement flou."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Je voudrais savoir, quelles sont les protections sociales que vous proposez aux Français en termes de remboursement par la sécurité sociale."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen trouve que les propositions de son adversaire sur le remboursement des soins ne sont pas claires."
     },
-    {
-        "abstractive": {
-            "text": "Elle propose de vendre les médicaments à l’unité et de supprimer le numérus clausus pour avoir plus de médecins ; ceux-ci auront un stage à effectuer dans les déserts médicaux durant leurs années d’internat."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Par exemple la vente à l’unité des médicaments, tout cela n’est pas mis en place, et ça pourrait être mis en place de manière extrêmement simple."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "D’abord augmenter le numérus clausus auquel vous n’avez pas touché lorsque vous étiez aux responsabilités."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Il faut mettre en place un stage d’internat dans des territoires qui sont sous denses en matière de santé."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "On parle de financement d’ailleurs, puisque monsieur Macron vous avez fait toute une série de remboursements de système optique, etc."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Mais vous êtes resté extrêmement flou."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle propose de vendre les médicaments à l’unité et de supprimer le numerus clausus pour avoir plus de médecins ; ceux-ci auront un stage à effectuer dans les déserts médicaux durant leurs années d’internat."
     },
-    {
-        "abstractive": {
-            "text": "Plus globalement, Le Pen souhaite réduire la fiscalité des médecins souhaitant partir à la retraite pour les pousser à exercer leur profession plus longtemps dans ces territoires."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Il faut proposer des baisses de fiscalité pour les médecins qui sont à la retraite pour leur suggérer de rester pendant un certain nombre de mois, un certain nombre d’années."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Par exemple la vente à l’unité des médicaments, tout cela n’est pas mis en place, et ça pourrait être mis en place de manière extrêmement simple."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "D’abord augmenter le numérus clausus auquel vous n’avez pas touché lorsque vous étiez aux responsabilités."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Il faut mettre en place un stage d’internat dans des territoires qui sont sous denses en matière de santé."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Plus globalement, Marine Le Pen souhaite réduire la fiscalité des médecins souhaitant partir à la retraite pour les pousser à exercer leur profession plus longtemps dans ces territoires."
     },
-    {
-        "abstractive": {
-            "text": "Par ailleurs, elle entend baisser le coûts des médicaments afin que l’État puisse rembourser davantage, sans que cela ne lui coûte plus."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Car si on obtient la baisse du coût des médicaments alors on en remboursera plus et alors on pourra se servir de ces fonds pour pouvoir rembourser des choses qui aujourd’hui restent à la charge de nos compatriotes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Il faut proposer des baisses de fiscalité pour les médecins qui sont à la retraite pour leur suggérer de rester pendant un certain nombre de mois, un certain nombre d’années."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Par ailleurs, elle entend baisser le coût des médicaments afin que l’État puisse rembourser davantage, sans que cela ne lui coûte plus."
     },
-    {
-        "abstractive": {
-            "text": "Pour Macron, cette dernière proposition est absurde car 80 % des médicaments sont fabriquées à l’étranger ; or, Le Pen veut taxer les importations."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Alors déjà j’ai une mauvaise nouvelle, après je parlerai des recommandations, parce que 80% des médicaments sont faits à l’étranger."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Car si on obtient la baisse du coût des médicaments alors on en remboursera plus et alors on pourra se servir de ces fonds pour pouvoir rembourser des choses qui aujourd’hui restent à la charge de nos compatriotes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Macron, cette dernière proposition est absurde car 80 % des médicaments sont fabriqués à l’étranger ; or, Marine Le Pen veut taxer les importations."
     },
-    {
-        "abstractive": {
-            "text": "Son discours est donc contradictoire."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Comme vous taxez les importations, on va augmenter le prix, pas de chance pour toutes celles et ceux qui nous écoutent avec Mme Le Pen on a une taxe."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Alors déjà j’ai une mauvaise nouvelle, après je parlerai des recommandations, parce que 80% des médicaments sont faits à l’étranger."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Son discours est donc contradictoire."
     },
-    {
-        "abstractive": {
-            "text": "On ne peut du reste produire rapidement l’essentiel des médicaments en France."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais on ne va pas, du jour au lendemain, faire 80% des médicaments qu’on importe."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Comme vous taxez les importations, on va augmenter le prix, pas de chance pour toutes celles et ceux qui nous écoutent avec Mme Le Pen on a une taxe."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "On ne peut du reste produire rapidement l’essentiel des médicaments en France."
     },
-    {
-        "abstractive": {
-            "text": "Pour aider ces zones, il entend investir davantage dans les maisons  pluridisciplinaires de santé, et améliorer l’articulation entre médecine privée et publique."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Alors sur le reste, l’un des vrais problèmes, ce sont nos déserts médicaux, ça c’est tout à fait juste, 30% de départements n’ont plus de continuité des soins, et donc, on doit investir dans ces maisons pluridisciplinaires de santé, dans une meilleure organisation entre la médecine publique et la médecine privée."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais on ne va pas, du jour au lendemain, faire 80% des médicaments qu’on importe."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour aider ces zones, il entend investir davantage dans les maisons pluridisciplinaires de santé, et améliorer l’articulation entre médecine privée et publique."
     },
-    {
-        "abstractive": {
-            "text": "Il désire en particulier aider les départements d’Outre-mer."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Je pense d’ailleurs, en particulier à nos territoires d’outre-mer où là il y a un besoin criant de santé."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Alors sur le reste, l’un des vrais problèmes, ce sont nos déserts médicaux, ça c’est tout à fait juste, 30% de départements n’ont plus de continuité des soins, et donc, on doit investir dans ces maisons pluridisciplinaires de santé, dans une meilleure organisation entre la médecine publique et la médecine privée."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il désire en particulier aider les départements d’Outre-mer."
     },
-    {
-        "abstractive": {
-            "text": "Pour Le Pen, le souci de ces territoires vient de l’immigration massive qui engorge le système de santé."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Monsieur Macron, il y a surtout un énorme problème d’immigration clandestine et le système de santé est noyé par l’immigration clandestine en Guyane et à Mayotte."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Je pense d’ailleurs, en particulier à nos territoires d’outre-mer où là il y a un besoin criant de santé."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Le Pen, le souci de ces territoires vient de l’immigration massive qui engorge le système de santé."
     },
-    {
-        "abstractive": {
-            "text": "Macron est d’accord pour dire que cela cause des problèmes."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "On y reviendra mais il y a aussi un problème d’immigration, vous avez tout à fait raison, sur ces deux territoires."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Monsieur Macron, il y a surtout un énorme problème d’immigration clandestine et le système de santé est noyé par l’immigration clandestine en Guyane et à Mayotte."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron est d’accord pour dire que cela cause des problèmes."
     },
-    {
-        "abstractive": {
-            "text": "Il continue à détailler son programme sur la santé en détaillant les remboursements qu’il veut renforcer (prothèses auditives, dentaires, verres et montures pour l’optique)."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Et, si on veut réduire le reste à charge, sur les médicaments comme sur les autres prothèses, c'est-à-dire, la prothèse auditive, le dentaire et l’optique - et quand je parle de l’optique c’est évidemment la monture et le verre, ce que je souhaite moi, c’est d’avoir une clarification de la relation entre la sécurité sociale, la mutuelle et les professionnels, qu’ils soient les prothésistes ou les médecins."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "On y reviendra mais il y a aussi un problème d’immigration, vous avez tout à fait raison, sur ces deux territoires."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il continue à détailler son programme sur la santé en détaillant les remboursements qu’il veut renforcer (prothèses auditives, dentaires, verres et montures pour l’optique)."
     },
-    {
-        "abstractive": {
-            "text": "Il propose également une simplification des contrats de mutuelle pour accroître la visibilité des Français sur leur reste à charge."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Parce qu’on a des contrats-types qu’on ne peut pas comparer, moi c’est une réforme que je veux, qu’on ait trois contrats-types pour tous les concitoyens, un contrat moyen, un contrat qui couvre tout et un contrat renforcé qu’on puisse comparer."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Et, si on veut réduire le reste à charge, sur les médicaments comme sur les autres prothèses, c'est-à-dire, la prothèse auditive, le dentaire et l’optique - et quand je parle de l’optique c’est évidemment la monture et le verre, ce que je souhaite moi, c’est d’avoir une clarification de la relation entre la sécurité sociale, la mutuelle et les professionnels, qu’ils soient les prothésistes ou les médecins."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il propose également une simplification des contrats de mutuelle pour accroître la visibilité des Français sur leur reste à charge."
     },
-    {
-        "abstractive": {
-            "text": "Enfin, il rappelle l’importance de la prévention à l’école et dans les maisons de retraites."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais derrière on doit tout faire pour améliorer la prévention dans les écoles, dans les maisons de retraite."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Parce qu’on a des contrats-types qu’on ne peut pas comparer, moi c’est une réforme que je veux, qu’on ait trois contrats-types pour tous les concitoyens, un contrat moyen, un contrat qui couvre tout et un contrat renforcé qu’on puisse comparer."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Enfin, il rappelle l’importance de la prévention à l’école et dans les maisons de retraite."
     },
-    {
-        "abstractive": {
-            "text": "Le Pen lui rétorque néamoins que la loi El Khomri a détruit le système de santé en milieu professionnel."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Mais ça ne vous a pas ennuyé dans la loi El-Khomri d’effondrer la santé en milieu professionnel"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais derrière on doit tout faire pour améliorer la prévention dans les écoles, dans les maisons de retraite."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen lui rétorque néanmoins que la loi El Khomri a détruit le système de santé en milieu professionnel."
+    },
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Mais ça ne vous a pas ennuyé dans la loi El-Khomri d’effondrer la santé en milieu professionnel"
+      }
+    ]
+  }
 ]

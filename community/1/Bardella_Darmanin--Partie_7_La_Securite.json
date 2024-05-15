@@ -1,137 +1,137 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Jordan Bardella et Gérald Darmanin discutent de l'état de la sécurité en france."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Précisément, ce que je vous propose, c'est qu'on passe au chapitre sur la sécurité."
-            },
-            {
-                "speaker": "P1",
-                "text": "Un homme condamné à six mois de prison ferme, aujourd'hui, la peine est aménagée, il n'est pas incarcéré, demain, si votre candidate est élue, cet homme va-t-il en prison ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Jordan Bardella et Gérald Darmanin discutent de l'état de la sécurité en France."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique qu'il n'y aura plus  de remise de peine sur les peines six mois ferme et plus, avec obligation d'exécuter au moins les deux tiers de la peine."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Oui, à partir de six mois ferme, il n'y aura aucun aménagement, et il y aura même obligation, sur l'intégralité de la peine, d'exécuter deux tiers de la peine."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Précisément, ce que je vous propose, c'est qu'on passe au chapitre sur la sécurité."
+      },
+      {
+        "speaker": "P1",
+        "text": "Un homme condamné à six mois de prison ferme, aujourd'hui, la peine est aménagée, il n'est pas incarcéré, demain, si votre candidate est élue, cet homme va-t-il en prison ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique qu'il n'y aura plus de remise de peine sur les peines six mois fermes et plus, avec obligation d'exécuter au moins les deux tiers de la peine."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique vouloir supprmier les remises automatiques de peines et rétablir les peines plancher."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Donc il faut aujourd'hui réaffirmer la chaîne pénale, et vous savez que nous souhaitons même aller plus loin, en supprimant les remises automatiques de peine, et, euh, en rétablissant les peines plancher."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Oui, à partir de six mois ferme, il n'y aura aucun aménagement, et il y aura même obligation, sur l'intégralité de la peine, d'exécuter deux tiers de la peine."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique vouloir supprimer les remises automatiques de peines et rétablir les peines plancher."
     },
-    {
-        "abstractive": {
-            "text": "Gérald Darmmanin explique que les remises automatiques de peines ont déjà été supprimée, et explique qu'il souhaite développer les travaux d'intérêt généraux ainsi que les amendes forfaitaires pour avoir plus de place en prison."
-        },
-        "extractive": [
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Oui, alors, d'abord, les remises de peines automatiques ont été supprimées par le garde des sceaux, eric dupond moretti, c'est passé, il y a un an."
-            },
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "On a beaucoup amélioré les travaux d'intérêt généraux, et, de mon expérience de maire, je sais que quelqu'un qui, par exemple, est condamné à quelques mois de prison parce qu'il a taggé un bâtiment public, et que par ailleurs, il a fait des dégradations, il vaut mieux qu'il puisse réparer ce qu'il a fait, que de passer trois mois en prison."
-            },
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Pour les peines de moins d'un ans, des amendes forfaitaires dont je voudrais rappeler qu'elle marche très bien pour les consommations de cannabis, et qui sont des amendes pénales inscrites au casier judiciaire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Donc il faut aujourd'hui réaffirmer la chaîne pénale, et vous savez que nous souhaitons même aller plus loin, en supprimant les remises automatiques de peine, et, euh, en rétablissant les peines plancher."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gérald Darmanin explique que les remises automatiques de peines ont déjà été supprimée, et explique qu'il souhaite développer les travaux d'intérêt généraux ainsi que les amendes forfaitaires pour avoir plus de place en prison."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique que l'explosion de la délinquance ne sera pas combattue avec des amendes, et que la prison est devenue une alternative pour l'état car il n'y a pas assez de magistrats et de places de prison."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "On va combattre la, l'explosion, aujourd'hui, de la délinquance, sur tout le territoire français, avec des amendes forfaitaires ?"
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Le problème, c'est que les alternatives, euh, à la prison, aujourd'hui, les alternatives à l'incarcération, sont devenues la norme, et l'incarcération, c'est devenue une exception, et c'est devenue une exception pourquoi ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Oui, alors, d'abord, les remises de peines automatiques ont été supprimées par le garde des sceaux, eric dupond moretti, c'est passé, il y a un an."
+      },
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "On a beaucoup amélioré les travaux d'intérêt généraux, et, de mon expérience de maire, je sais que quelqu'un qui, par exemple, est condamné à quelques mois de prison parce qu'il a taggé un bâtiment public, et que par ailleurs, il a fait des dégradations, il vaut mieux qu'il puisse réparer ce qu'il a fait, que de passer trois mois en prison."
+      },
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Pour les peines de moins d'un ans, des amendes forfaitaires dont je voudrais rappeler qu'elle marche très bien pour les consommations de cannabis, et qui sont des amendes pénales inscrites au casier judiciaire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique que l'explosion de la délinquance ne sera pas combattue avec des amendes, et que la prison est devenue une alternative pour l'état car il n'y a pas assez de magistrats et de places de prison."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella propose de construire vingt milles cinq places de prisons, ainsi que doubler le nombre de magistrats."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "C'est la raison pour laquelle, vous l'avez rappelé, on propose le doublement du nombre de magistrats, et que nous souhaitons également construire de nouvelles places de prison, les portant de soixante mille à quatre-vingt-cinq mille."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Mais, l'insécurité, la violence, n’est pas un sentiment, monsieur darmanin, en france, c'est votre bilan, et je vous met en cause directement, comme je mets en cause le président de la république, parce que cela relève de vos prérogatives, une agression gratuite, toutes les quarante-quatre secondes dans notre pays."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "On va combattre la, l'explosion, aujourd'hui, de la délinquance, sur tout le territoire français, avec des amendes forfaitaires ?"
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Le problème, c'est que les alternatives, euh, à la prison, aujourd'hui, les alternatives à l'incarcération, sont devenues la norme, et l'incarcération, c'est devenue une exception, et c'est devenue une exception pourquoi ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella propose de construire vingt mille cinq places de prisons, ainsi que doubler le nombre de magistrats."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique vouloir augmenter les moyens des forces de l'ordre ainsi que mettre en place la présomption de légitime défense, car les policiers ont besoin d'un soutien moral."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Il faut donner beaucoup plus de moyens à nos forces de l'ordre, il faut les protéger par la présomption de légitime défense, que vous ne soutenez pas, et sur laquelle vous êtes, euh, opposé."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "D'abord on va protéger ceux qui nous protègent, je l'ai dit, avec la présomption d’innocence."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "La présomption de légitime défense, c'est qu'à partir du moment où un policier est pris à partie, à partir du moment un policier est attaqué, agressé, qu'il fait usage de la force, il est présumé comme en état de légitime défense."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Eh bien moi, je n'accepte pas cela, et nous serons aux côtés des policiers, parce qu'être aux côtés des policiers, c'est protéger ceux qui nous protègent, et qui sont en lutte contre la violence, tous les jours, dans notre pays monsieur le ministre"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "C'est la raison pour laquelle, vous l'avez rappelé, on propose le doublement du nombre de magistrats, et que nous souhaitons également construire de nouvelles places de prison, les portant de soixante mille à quatre-vingt-cinq mille."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Mais, l'insécurité, la violence, n’est pas un sentiment, monsieur darmanin, en france, c'est votre bilan, et je vous met en cause directement, comme je mets en cause le président de la république, parce que cela relève de vos prérogatives, une agression gratuite, toutes les quarante-quatre secondes dans notre pays."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique vouloir augmenter les moyens des forces de l'ordre ainsi que mettre en place la présomption de légitime défense, car les policiers ont besoin d'un soutien moral."
     },
-    {
-        "abstractive": {
-            "text": "Gérald Darmanin explique qu'ils ont construits 7000 places de prissons, et que les crimes sur les biens ont baissé."
-        },
-        "extractive": [
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "On en a construit sept mille, on n'a pas pu construire les trois mille de plus parce que je vous rappelle que beaucoup de maires ne veulent pas accueillir des prisons."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Il faut donner beaucoup plus de moyens à nos forces de l'ordre, il faut les protéger par la présomption de légitime défense, que vous ne soutenez pas, et sur laquelle vous êtes, euh, opposé."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "D'abord on va protéger ceux qui nous protègent, je l'ai dit, avec la présomption d’innocence."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "La présomption de légitime défense, c'est qu'à partir du moment où un policier est pris à partie, à partir du moment un policier est attaqué, agressé, qu'il fait usage de la force, il est présumé comme en état de légitime défense."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Eh bien moi, je n'accepte pas cela, et nous serons aux côtés des policiers, parce qu'être aux côtés des policiers, c'est protéger ceux qui nous protègent, et qui sont en lutte contre la violence, tous les jours, dans notre pays monsieur le ministre"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gérald Darmanin explique qu'ils ont construit 7000 places de prisons, et que les crimes sur les biens ont baissé."
     },
-    {
-        "abstractive": {
-            "text": "Gérald Darmanin explique que l'augmentation numérique des aggressions vient du fait qu'il y a eu un véritable effort  de l'état pour aider les femmes à poser plainte pour violence conjugale."
-        },
-        "extractive": [
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Deuxièmement, elle n'existe pas, cette explosion de délinquance, monsieur Bardella, pour les biens, moins vingt-six pour cent de cambriolages en cinq ans, moins vingt-et-un pour cent de vols de véhicules, moins dix-sept pour cent de vol avec arme, moins trente-et-un pour cent de vol sans armes."
-            },
-            {
-                "speaker": "Gérald Darmanin",
-                "text": "Il faut bien comprendre que ces augmentations des violences aux personnes, à quatre-vingt-cinq pour cent, ce sont les plaintes que déposent désormais, depuis deux mille dix-sept, le grenelle des violences conjugales, et depuis tous ce que font les policiers, les gendarmes, les associations, les médias, pour que les femmes, aujourd'hui, déposent des plaintes lorsqu'elles sont violentées par leur mari ou leur compagnon, ce qu'elle ne faisaient pas, ou très peu, y a cinq, dix, quinze ou vingt ans."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "On en a construit sept mille, on n'a pas pu construire les trois mille de plus parce que je vous rappelle que beaucoup de maires ne veulent pas accueillir des prisons."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gérald Darmanin explique que l'augmentation numérique des agressions vient du fait qu'il y ait eu un véritable effort de l'état pour aider les femmes à porter plainte pour violence conjugale."
+    },
+    "extractive": [
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Deuxièmement, elle n'existe pas, cette explosion de délinquance, monsieur Bardella, pour les biens, moins vingt-six pour cent de cambriolages en cinq ans, moins vingt-et-un pour cent de vols de véhicules, moins dix-sept pour cent de vol avec arme, moins trente-et-un pour cent de vol sans armes."
+      },
+      {
+        "speaker": "Gérald Darmanin",
+        "text": "Il faut bien comprendre que ces augmentations des violences aux personnes, à quatre-vingt-cinq pour cent, ce sont les plaintes que déposent désormais, depuis deux mille dix-sept, le grenelle des violences conjugales, et depuis tous ce que font les policiers, les gendarmes, les associations, les médias, pour que les femmes, aujourd'hui, déposent des plaintes lorsqu'elles sont violentées par leur mari ou leur compagnon, ce qu'elle ne faisaient pas, ou très peu, y a cinq, dix, quinze ou vingt ans."
+      }
+    ]
+  }
 ]

@@ -1,156 +1,156 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, François Hollande et Nicolas Sarkozy discutent de leur plan pour le nucléaire."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Quelle est votre philosophie en termes de nucléaire ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, François Hollande et Nicolas Sarkozy discutent de leur plan pour le nucléaire."
     },
-    {
-        "abstractive": {
-            "text": "Nicols Sarkozy débute en expliquant que le nucléaire est un atout français, qui permet à la france de payer l'électricité trente cinq pour cent moins cher que les allemands."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Le nucléaire, depuis le Général De Gaulle, François Mitterrand, Valéry Giscard d'Estaing, Jacques Chirac, fait l'objet d'un consensus, c'est un atout français, il y a 58 réacteurs."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Nous avons une électricité moins chère de 35 % que nos partenaires allemands."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Quelle est votre philosophie en termes de nucléaire ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy débute en expliquant que le nucléaire est un atout français, qui permet à la France de payer l'électricité trente cinq pour cent moins cher que les Allemands."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que le nucléaire a créé 240 mille emplois, et que François Hollande souhaite fermer la centrale de Fessenheim."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Ce sont 240 000 emplois, c'est un avantage considérable pour notre industrie et pour nos compatriotes qui se chauffent à l'électricité ou qui ont besoin de l'électricité."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Monsieur Hollande propose de revenir de 75 à 50 % de la production nucléaire, c'est-à-dire de fermer 24 réacteurs nucléaires."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Enfin, le nucléaire ne nous empêche pas de développer les énergies renouvelables."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Le nucléaire, depuis le Général De Gaulle, François Mitterrand, Valéry Giscard d'Estaing, Jacques Chirac, fait l'objet d'un consensus, c'est un atout français, il y a 58 réacteurs."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Nous avons une électricité moins chère de 35 % que nos partenaires allemands."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que le nucléaire a créé 240 mille emplois, et que François Hollande souhaite fermer la centrale de Fessenheim."
     },
-    {
-        "abstractive": {
-            "text": "Il explique qu'il faut huit mille éoliennes pour remplacer Fessenheim, et que la france a besoin des deux."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Depuis que je suis président de la République, nous sommes passés de 10,5 % d'énergies renouvelables dans notre paquet énergétique à 13 %."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Les deux ensemble, parce que nous n'avons pas de pétrole, parce que nous n'avons pas de gaz et parce que nous n'avons pas d'énergies fossiles."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Et deuxièmement, fermer Fessenheim, ce sont 8 000 éoliennes en Alsace pour remplacer Fessenheim, il ne nous faut pas le nucléaire ou le renouvelable, il nous faut le nucléaire et le renouvelable."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Ce sont 240 000 emplois, c'est un avantage considérable pour notre industrie et pour nos compatriotes qui se chauffent à l'électricité ou qui ont besoin de l'électricité."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Monsieur Hollande propose de revenir de 75 à 50 % de la production nucléaire, c'est-à-dire de fermer 24 réacteurs nucléaires."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Enfin, le nucléaire ne nous empêche pas de développer les énergies renouvelables."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il explique qu'il faut huit mille éoliennes pour remplacer Fessenheim, et que la France a besoin des deux."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande répond en expliquant que la France dépend trop du pétrole et du nucléaire."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Nous avons en France une double dépendance : une dépendance à l'égard du pétrole, nous en avons parlé, et une dépendance du nucléaire, qui se situe à un niveau très élevé."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Depuis que je suis président de la République, nous sommes passés de 10,5 % d'énergies renouvelables dans notre paquet énergétique à 13 %."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Les deux ensemble, parce que nous n'avons pas de pétrole, parce que nous n'avons pas de gaz et parce que nous n'avons pas d'énergies fossiles."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Et deuxièmement, fermer Fessenheim, ce sont 8 000 éoliennes en Alsace pour remplacer Fessenheim, il ne nous faut pas le nucléaire ou le renouvelable, il nous faut le nucléaire et le renouvelable."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande répond en expliquant que la France dépend trop du pétrole et du nucléaire."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande souhaite baisser de 75% a 50% l'utilisation du nucléaire dans la part énergétique française, et explique qu'il souhaite fermer Fessenheim qui est la centrale la plus vieille de france, et qui est construite sur une zone sismique."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "J'ai donc considéré que nous devions avoir un objectif de long terme, c'est-à-dire garder le nucléaire comme source principale de production de l'électricité mais réduire sa part à mesure que les énergies renouvelables allaient être stimulées et relevées : 50 % de production d'électricité de source nucléaire à l'horizon 2025."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Nous avons en France une double dépendance : une dépendance à l'égard du pétrole, nous en avons parlé, et une dépendance du nucléaire, qui se situe à un niveau très élevé."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande souhaite baisser de 75% à 50% l'utilisation du nucléaire dans la part énergétique française, et explique qu'il souhaite fermer Fessenheim qui est la centrale la plus vieille de France, et qui est construite sur une zone sismique."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande souhaite améliorer la part d'énergie renouvelable."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Je ferai donc l'effort pour que les énergies renouvelables soient considérablement développées."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "J'ai donc considéré que nous devions avoir un objectif de long terme, c'est-à-dire garder le nucléaire comme source principale de production de l'électricité mais réduire sa part à mesure que les énergies renouvelables allaient être stimulées et relevées : 50 % de production d'électricité de source nucléaire à l'horizon 2025."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande souhaite améliorer la part d'énergie renouvelable."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande explique que l'argent à dépenser pour rénover les vieilles centrales est mieux utiliser pour les énergies renouvelables, mais qu'il continuera le chantier de l'EPR."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Vous dites que vous avez favorisé le solaire, c'est faux puisqu'il y a eu l'arrêt de tout ce qui était incitation au photovoltaïque et notamment les prix de rachat."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Moi, je ne suis candidat que pour les cinq prochaines années : une seule centrale fermera, Fessenheim."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Par ailleurs, vous savez que j'ai accepté, et ce n'était pas facile, j'ai accepté de prolonger le chantier de l'EPR ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Je ferai donc l'effort pour que les énergies renouvelables soient considérablement développées."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande explique que l'argent à dépenser pour rénover les vieilles centrales est mieux utiliser pour les énergies renouvelables, mais qu'il continuera le chantier de l'EPR."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que si les centrales sont dangereuse, ils faut les fermer, ce à quoi François Hollande répond qu'il ne souhaite fermer Fessenheim que car c'est la centrale la plus ancienne, et que la rénover coûterait trop cher"
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Je ne comprends pas : soit le nucléaire est dangereux, soit il ne l'est pas."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Si le nucléaire est dangereux, il faut le fermer."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Je veux la fermer pour deux raisons : la première est que c'est la centrale la plus ancienne."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Vous avez affaibli considérablement Areva, et donc il nous faudra remettre un certain nombre de moyens dans Areva pour que nous ayons à la fois du nucléaire, plus sûr encore ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Vous dites que vous avez favorisé le solaire, c'est faux puisqu'il y a eu l'arrêt de tout ce qui était incitation au photovoltaïque et notamment les prix de rachat."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Moi, je ne suis candidat que pour les cinq prochaines années : une seule centrale fermera, Fessenheim."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Par ailleurs, vous savez que j'ai accepté, et ce n'était pas facile, j'ai accepté de prolonger le chantier de l'EPR ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que si les centrales sont dangereuses, il faut les fermer, ce à quoi François Hollande répond qu'il ne souhaite fermer Fessenheim que car c'est la centrale la plus ancienne, et que la rénover coûterait trop cher."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que le nucléaire français est reconnu comme le plus sûr du monde, et qu'il faut écouter les autorités sur la question"
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Nous avons le nucléaire le plus sûr du monde, reconnu comme tel."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "C'est extrêmement important d'en terminer par là. Il y a une autorité indépendante de sûreté nucléaire, il me semble que le devoir de Président de la République, c'est d'écouter ce que cette autorité a à dire"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Je ne comprends pas : soit le nucléaire est dangereux, soit il ne l'est pas."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Si le nucléaire est dangereux, il faut le fermer."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Je veux la fermer pour deux raisons : la première est que c'est la centrale la plus ancienne."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Vous avez affaibli considérablement Areva, et donc il nous faudra remettre un certain nombre de moyens dans Areva pour que nous ayons à la fois du nucléaire, plus sûr encore ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que le nucléaire Français est reconnu comme le plus sûr du monde, et qu'il faut écouter les autorités sur la question."
+    },
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Nous avons le nucléaire le plus sûr du monde, reconnu comme tel."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "C'est extrêmement important d'en terminer par là. Il y a une autorité indépendante de sûreté nucléaire, il me semble que le devoir de Président de la République, c'est d'écouter ce que cette autorité a à dire"
+      }
+    ]
+  }
 ]

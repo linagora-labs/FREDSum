@@ -1,129 +1,129 @@
 [
-    {
-        "abstractive": {
-            "text": "Pécresse reproche également à Zemmour de ne pas distinguer l’Islam de l’islamisme, ce que Zemmour assume."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Moi, je ne confonds pas l'islamisme et l'islam."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse reproche également à Eric Zemmour de ne pas distinguer l’Islam de l’islamisme, ce que Eric Zemmour assume."
     },
-    {
-        "abstractive": {
-            "text": "Elle rappelle qu’elle a contribué à l’interdiction de la burqa, qu’elle a refusé de donner de l’argent aux associations prosélytes et qu’elle a lutté contre la radicalisation dans les clubs sportifs."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "En deux mille dix, euh, quand, euh, je me suis aperçu que, dans ma région, y avait des femmes intégralement voilées, j'ai pris la tête, avec jean-françois copé à l'époque du combat contre la burqa dans l'espace public, et nous avons convaincu nicolas sarkozy de voter une loi pour interdire la burqa dans l'espace public."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "J’ai mis en place un plan pour lutter contre la radicalisation dans les clubs sportifs, un plan de lanceurs d'alerte, parce que il y avait des terroristes islamistes, et des, des radicalisés, qui étaient infiltrés dans les clubs de sport, et on a eu plus de plusieurs dizaines de signalements, qui ont permis à l'état de dire qu'on était exemplaire, et de faire la même chose."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Moi, je ne confonds pas l'islamisme et l'islam."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle rappelle qu’elle a contribué à l’interdiction de la burqa, qu’elle a refusé de donner de l’argent aux associations prosélytes et qu’elle a lutté contre la radicalisation dans les clubs sportifs."
     },
-    {
-        "abstractive": {
-            "text": "Pécresse ne veut en revanche pas interdire le voile dans l’espace public, contrairement à Zemmour."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "De deux manières, dans les services publics, on ne porte pas de voile."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Moi, je ne veux pas qu'il y ait des voiles dans les compétitions sportives."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Et puis, par ailleurs, je ne veux pas du voile forcé."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "En deux mille dix, euh, quand, euh, je me suis aperçu que, dans ma région, y avait des femmes intégralement voilées, j'ai pris la tête, avec jean-françois copé à l'époque du combat contre la burqa dans l'espace public, et nous avons convaincu nicolas sarkozy de voter une loi pour interdire la burqa dans l'espace public."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "J’ai mis en place un plan pour lutter contre la radicalisation dans les clubs sportifs, un plan de lanceurs d'alerte, parce que il y avait des terroristes islamistes, et des, des radicalisés, qui étaient infiltrés dans les clubs de sport, et on a eu plus de plusieurs dizaines de signalements, qui ont permis à l'état de dire qu'on était exemplaire, et de faire la même chose."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse ne veut en revanche pas interdire le voile dans l’espace public, contrairement à Zemmour."
     },
-    {
-        "abstractive": {
-            "text": "Il préfère distinguer l’Islam des musulmans, lesquels doivent selon lui faire preuve de discrétion dans l’espace public."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Oui, l'islam et l'islamisme, c'est la même chose."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Les français de confession musulmane peuvent avoir une pratique qui est à la française, c'est-à-dire qui respecte la discrétion dans l'espace public."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "De deux manières, dans les services publics, on ne porte pas de voile."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Moi, je ne veux pas qu'il y ait des voiles dans les compétitions sportives."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Et puis, par ailleurs, je ne veux pas du voile forcé."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il préfère distinguer l’Islam des musulmans, lesquels doivent selon lui faire preuve de discrétion dans l’espace public."
     },
-    {
-        "abstractive": {
-            "text": "Il reproche aussi à sa rivale d’avoir financé des associations défendant l’immigration et l’Islam et de ne pas avoir interdit le voile à l’université, alors qu’il souhaite lui l’interdire jusque dans la rue."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Par exemple, elle a donné, en tant que présidente de région, un million d'euros à des associations pro migrants, madame pécresse."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Oui, l'islam et l'islamisme, c'est la même chose."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Les français de confession musulmane peuvent avoir une pratique qui est à la française, c'est-à-dire qui respecte la discrétion dans l'espace public."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il reproche aussi à sa rivale d’avoir financé des associations défendant l’immigration et l’Islam et de ne pas avoir interdit le voile à l’université, alors qu’il souhaite lui l’interdire jusque dans la rue."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour veut également fermer les mosquée salafistes."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je ferme toutes les mosquées Salafistes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Par exemple, elle a donné, en tant que présidente de région, un million d'euros à des associations pro migrants, madame pécresse."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour veut également fermer les mosquées salafistes."
     },
-    {
-        "abstractive": {
-            "text": "Pécresse rappelle que la lutte contre l’islamisme passe par la destruction des ghettos et la mixité sociale."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Non, c'est simple, c'est, je souhaite ça, c'est ça que je souhaite, c'est que l'islam respecte les lois de la république."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Moi, ce que je propose, c'est, évidemment, que toutes les mosquées dans lesquelles il y a des prêcheurs de haine soient fermées."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Je propose que les, je veux que les prêches soient en français, et je veux que les prêcheurs de haine soient soit en prison, soit dans l'avion."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je ferme toutes les mosquées Salafistes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse rappelle que la lutte contre l’islamisme passe par la destruction des ghettos et la mixité sociale."
     },
-    {
-        "abstractive": {
-            "text": "Pécresse veut mettre un seuil maximum de trente pour cent de logements sociaux par quartier."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Moi, je pense qu'on peut déghettoïser."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Il faut remettre de la sécurité, de la mixité sociale et de la réussite dans chaque quartier, et ça marche."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Non, c'est simple, c'est, je souhaite ça, c'est ça que je souhaite, c'est que l'islam respecte les lois de la république."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Moi, ce que je propose, c'est, évidemment, que toutes les mosquées dans lesquelles il y a des prêcheurs de haine soient fermées."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Je propose que les, je veux que les prêches soient en français, et je veux que les prêcheurs de haine soient soit en prison, soit dans l'avion."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse veut mettre un seuil maximum de trente pour cent de logements sociaux par quartier."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour va plus loin : il veut abroger la loi RSU qui oblige les communes à avoir vingt-cinq pour cent de logements sociaux."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "C'est que, simplement, elle va mettre, dans tous les petits villages à proximité de toutes les villes et les villages de france, des barres de hlm, et des immeuble, avec des immigrés, parce que madame pécresse ne supprime pas la loi SRU, que moi je supprime."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Moi, je pense qu'on peut déghettoïser."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Il faut remettre de la sécurité, de la mixité sociale et de la réussite dans chaque quartier, et ça marche."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour va plus loin : il veut abroger la loi RSU qui oblige les communes à avoir vingt-cinq pour cent de logements sociaux."
+    },
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "C'est que, simplement, elle va mettre, dans tous les petits villages à proximité de toutes les villes et les villages de france, des barres de hlm, et des immeuble, avec des immigrés, parce que madame pécresse ne supprime pas la loi SRU, que moi je supprime."
+      }
+    ]
+  }
 ]

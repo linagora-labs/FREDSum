@@ -1,76 +1,76 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Clémentine Autain, Gabriel Attal et Jordan Bardella discutent des mesures écologiques à mettre en place."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "L'autre question de l'actualité qui s'impose dans ce débat ce soir c'est évidemment la canicule les 40 degrés ont été dépassés aujourd'hui pour la première fois de l'année, 12 départements sont ce soir en alerte rouge c'est la canicule la plus précoce jamais constatée en France quelle est Jordan Bardella une fois l'élection de dimanche passée la première mesure à prendre ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Clémentine Autain, Gabriel Attal et Jordan Bardella discutent des mesures écologiques à mettre en place."
     },
-    {
-        "abstractive": {
-            "text": "Gabriel Attal explique que son gouvernement a investit dans le nucléaire et les énergies renouvelables."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Ce qui se passe avec cette canicule, c’est qu’elle nous rappelle une chose importante c'est que quand on parle du réchauffement climatique, on ne parle pas seulement de l'impact qu'il aura sur les générations à venir, on parle de l'impact qu'il a déjà sur les populations aujourd'hui."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Nous avons fixé un objectif que je veux rappeler c'est être le premier grand pays au monde à sortir des énergies fossiles, sortir du gas, sortir du pétrole, du charbon, ça ne sera pas du jour au lendemain mais c'est possible si on investit massivement."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "L'autre question de l'actualité qui s'impose dans ce débat ce soir c'est évidemment la canicule les 40 degrés ont été dépassés aujourd'hui pour la première fois de l'année, 12 départements sont ce soir en alerte rouge c'est la canicule la plus précoce jamais constatée en France quelle est Jordan Bardella une fois l'élection de dimanche passée la première mesure à prendre ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal explique que son gouvernement a investit dans le nucléaire et les énergies renouvelables."
     },
-    {
-        "abstractive": {
-            "text": "Gabriel Attal explique que ses adversaires supportent des candidats qui ne veulent pas utiliser à la foi le nucléaire et les énergies renouvelables."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "J'ai face à moi deux personnalités politiques qui soutiennent des candidats à la présidentielle qui nous expliquent qu'on pourrait se priver soit du nucléaire pour madame Autain, soit des énergies renouvelables pour monsieur Bardella, alors qu'on sait qu'on a besoin des deux."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Ce qui se passe avec cette canicule, c’est qu’elle nous rappelle une chose importante c'est que quand on parle du réchauffement climatique, on ne parle pas seulement de l'impact qu'il aura sur les générations à venir, on parle de l'impact qu'il a déjà sur les populations aujourd'hui."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Nous avons fixé un objectif que je veux rappeler c'est être le premier grand pays au monde à sortir des énergies fossiles, sortir du gas, sortir du pétrole, du charbon, ça ne sera pas du jour au lendemain mais c'est possible si on investit massivement."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal explique que ses adversaires supportent des candidats qui ne veulent pas utiliser à la fois le nucléaire et les énergies renouvelables."
     },
-    {
-        "abstractive": {
-            "text": "Clémentine Autain répond qu'il faut créer des mesures d'urgence, et des mesures de fonds pour la transition écologique, comme l'arrêt des subventions des énergies fossiles."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Il y a les mesures immédiates d’urgence car on va être de plus en plus confrontés à ces vagues de canicule, il faut savoir que par exemple chez les jeunes générations ceux qui naissent là dans les années 2020, ils vont connaître probablement 7 fois plus d'épisodes de canicule que ce que nous avons connu."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Or les politiques publiques pour les avoir suivis à l'Assemblée nationale depuis 5 ans, elles sont marquées par l'incapacité à changer en profondeur notre modèle de développement, c'est à dire qu'il faut pas simplement une mesure dans un coin, bien sûr qu'il y a des mesures phares, il faut arrêter de subventionner les énergies fossiles, mais il faut investir dans la transition de notre modèle de développement."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "J'ai face à moi deux personnalités politiques qui soutiennent des candidats à la présidentielle qui nous expliquent qu'on pourrait se priver soit du nucléaire pour madame Autain, soit des énergies renouvelables pour monsieur Bardella, alors qu'on sait qu'on a besoin des deux."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Clémentine Autain répond qu'il faut créer des mesures d'urgence, et des mesures de fonds pour la transition écologique, comme l'arrêt des subventions des énergies fossiles."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique que les dégâts sur l'environnement sont produits par le modèle économique basé sur dese échanges globaux."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Nous n'avons pas de planète de rechange, ce qui crée aujourd'hui les conditions d'un dégâts sur l'environnement et de dégâts planétaires c'est ce modèle économique qui est basé sur fabrication de produits en Chine, à l'Est, en Asie une consommation en Europe et un recyclage en Afrique."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Il y a les mesures immédiates d’urgence car on va être de plus en plus confrontés à ces vagues de canicule, il faut savoir que par exemple chez les jeunes générations ceux qui naissent là dans les années 2020, ils vont connaître probablement 7 fois plus d'épisodes de canicule que ce que nous avons connu."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Or les politiques publiques pour les avoir suivis à l'Assemblée nationale depuis 5 ans, elles sont marquées par l'incapacité à changer en profondeur notre modèle de développement, c'est à dire qu'il faut pas simplement une mesure dans un coin, bien sûr qu'il y a des mesures phares, il faut arrêter de subventionner les énergies fossiles, mais il faut investir dans la transition de notre modèle de développement."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique que les dégâts sur l'environnement sont produits par le modèle économique basé sur des échanges globaux."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique qu'il souhaite favoriser le localisme et le patriotisme économique"
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Je pense qu’il faut changer de modèle économique, il faut faire le localisme, il faut développer les circuits courts, il faut développer la proximité, il faut faire le patriotisme économique, il faut faire en sorte que plus vous allez vous fournir près du territoire près de votre ville près de votre métropole moins le produit est cher."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Nous n'avons pas de planète de rechange, ce qui crée aujourd'hui les conditions d'un dégâts sur l'environnement et de dégâts planétaires c'est ce modèle économique qui est basé sur fabrication de produits en Chine, à l'Est, en Asie une consommation en Europe et un recyclage en Afrique."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique qu'il souhaite favoriser le localisme et le patriotisme économique."
+    },
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Je pense qu’il faut changer de modèle économique, il faut faire le localisme, il faut développer les circuits courts, il faut développer la proximité, il faut faire le patriotisme économique, il faut faire en sorte que plus vous allez vous fournir près du territoire près de votre ville près de votre métropole moins le produit est cher."
+      }
+    ]
+  }
 ]

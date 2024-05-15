@@ -1,190 +1,190 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Eric Zemmour et Jean luc Mélenchon débattent de la réduction du CO2 dans l'atmosphère."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Je vais me tourner vers vous euh éric zemmour, réduire nos gazs, nos émissions de gaz à effet de serre, est-ce que vous diriez, vous président, que c&#x27;est la priorité des priorités ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Eric Zemmour et Jean Luc Mélenchon débattent de la réduction du CO2 dans l'atmosphère."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique que l'écologie n'est pas sa priorité, et qu'il n'est pas spécialiste, mais que c'est la droite qui a parlé d'écologie en premier, contre la gauche qui favorisait le productivisme."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Non, moi j'ai dit ma priorité déjà, j'ai dit la priorité c'est euh la lutte contre l'immigration."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Donc sur l'environnement, euh effectivement, il y a apparemment, je ne suis pas un spécialiste, mais si j'en crois euh tous les scientifiques, en tous cas, beaucoup de scientifiques, parce que apparemment il y a des débats, euh il y a une augmentation euh du CO2 dans l'atmosphère."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Bon maintenant, euh c'est euh, si vous voulez, et nous avons une vieille discussion avec monsieur mélenchon sur ce thème parce que, euh je vois qu'il s'approprie avec brio et avait entrain l'écologie, alors que il vient d'une tradition politique qui l’a longtemps méprisé, parce que dans le débat entre la nature et la culture, entre euh la droite et la gauche, c'est la droite qui la première a compris, a senti, a dénoncé euh l'arraisonnement de la nature par la technique à l'époque, euh à l’époque les euh frères aînés de monsieur mélenchon, et monsieur mélenchon lui-même, était, ne jurait que par le productivisme, les usines, euh les fumées d'usines et caetera, et se moquait de ces gens qui voulaient euh défendre la nature."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Je vais me tourner vers vous euh éric zemmour, réduire nos gazs, nos émissions de gaz à effet de serre, est-ce que vous diriez, vous président, que c&#x27;est la priorité des priorités ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique que l'écologie n'est pas sa priorité, et qu'il n'est pas spécialiste, mais que c'est la droite qui a parlé d'écologie en premier, contre la gauche qui favorisait le productivisme."
     },
-    {
-        "abstractive": {
-            "text": "Jean Luc Mélenchon explique que tous le monde était productiviste à l'époque."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Mais à l'époque, il faut dire les choses comme elles sont, les libéraux comme euh le mouvement ouvrier, comme à peu près tout le monde, était sur la ligne du productivisme."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Non, moi j'ai dit ma priorité déjà, j'ai dit la priorité c'est euh la lutte contre l'immigration."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Donc sur l'environnement, euh effectivement, il y a apparemment, je ne suis pas un spécialiste, mais si j'en crois euh tous les scientifiques, en tous cas, beaucoup de scientifiques, parce que apparemment il y a des débats, euh il y a une augmentation euh du CO2 dans l'atmosphère."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Bon maintenant, euh c'est euh, si vous voulez, et nous avons une vieille discussion avec monsieur mélenchon sur ce thème parce que, euh je vois qu'il s'approprie avec brio et avait entrain l'écologie, alors que il vient d'une tradition politique qui l’a longtemps méprisé, parce que dans le débat entre la nature et la culture, entre euh la droite et la gauche, c'est la droite qui la première a compris, a senti, a dénoncé euh l'arraisonnement de la nature par la technique à l'époque, euh à l’époque les euh frères aînés de monsieur mélenchon, et monsieur mélenchon lui-même, était, ne jurait que par le productivisme, les usines, euh les fumées d'usines et caetera, et se moquait de ces gens qui voulaient euh défendre la nature."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon explique que tous le monde était productiviste à l'époque."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique que l'écologie a été prise en otage par l'extrême gauche, et qu'il faut réinventer une écologie de droite."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Mais justement, alors donc, simplement je voulais dire que, il faut voir que l'écologie a été prise en otage par l'extrême gauche."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Ils ont pris en otage l'écologie, il faudrait réinventer une écologie euh de droite, enracinée près de la nature près de euh qui défend, à la fois."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Mais à l'époque, il faut dire les choses comme elles sont, les libéraux comme euh le mouvement ouvrier, comme à peu près tout le monde, était sur la ligne du productivisme."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique que l'écologie a été prise en otage par l'extrême gauche, et qu'il faut réinventer une écologie de droite."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour rappelle que la france est le pays qui émet le moins de CO2 grâce au nucléaire, et accuse Jean Luc Mélenchon de vouloir fermer le nucléaire."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "On devrait dire on devrait féliciter notre pays tous les jours car nous sommes le pays qui émettons le moins de CO2, parce que nous avons un mix comme on dit aujourd'hui électrique qui repose à soixante-quinze pour cent sur le nucléaire."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Et monsieur mélenchon arrive, comme les carabiniers donc le grand écologistes après avoir été le grand productiviste et il nous dit il faut fermer le nucléaire et il nous dit il faut mettre des éoliennes partout."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Mais justement, alors donc, simplement je voulais dire que, il faut voir que l'écologie a été prise en otage par l'extrême gauche."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Ils ont pris en otage l'écologie, il faudrait réinventer une écologie euh de droite, enracinée près de la nature près de euh qui défend, à la fois."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour rappelle que la France est le pays qui émet le moins de CO2 grâce au nucléaire, et accuse Jean Luc Mélenchon de vouloir fermer le nucléaire."
     },
-    {
-        "abstractive": {
-            "text": "Jean Luc mélenchon explique que le nucléaire est dangereux, et qu'il n'est pas souverain car l'uranium n'est pas acheté en france."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Le nucléaire on nous avait dit, et je sais, que les gens qui l'ont fait l'ont fait avec bonne foi pensant se rendre utile, qui l'ont fait avec brio, avec intelligence, mais nous savons tous depuis il y a eu tchernobyl."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "On devrait dire on devrait féliciter notre pays tous les jours car nous sommes le pays qui émettons le moins de CO2, parce que nous avons un mix comme on dit aujourd'hui électrique qui repose à soixante-quinze pour cent sur le nucléaire."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Et monsieur mélenchon arrive, comme les carabiniers donc le grand écologistes après avoir été le grand productiviste et il nous dit il faut fermer le nucléaire et il nous dit il faut mettre des éoliennes partout."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon explique que le nucléaire est dangereux, et qu'il n'est pas souverain car l'uranium n'est pas acheté en France."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique qu'abandonner le nucléaire est abandonner la souveraineté nationale ainsi qu'inviter la décroissance, et que le nucléaire représente une grande filière d'emploi."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je note que vous ne voulez pas me laisser parler parce que ça vous embête, parce que effectivement le nucléaire, c'est d'abord, abandonner le nucléaire c'est abandonner notre souveraineté nationale."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Peut-être bien, mais l’uranium vous les achetez pas en france."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Deuxièmement, je répète qu'abandonner le nucléaire, ça veut dire, abandonner deux cent mille emplois directs et une filière de quatre cent mille emplois."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je répète que c'est à l'abandon de souverainetée, et je répète que en vérité, c'est, euh une acceptation d'une décroissance qui ne dit pas son nom."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Le nucléaire on nous avait dit, et je sais, que les gens qui l'ont fait l'ont fait avec bonne foi pensant se rendre utile, qui l'ont fait avec brio, avec intelligence, mais nous savons tous depuis il y a eu tchernobyl."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique qu'abandonner le nucléaire est abandonner la souveraineté nationale ainsi qu'inviter la décroissance, et que le nucléaire représente une grande filière d'emploi."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique qu'il faut travailler sur la recherche dans le nucléaire, pour pouvoir s'occuper des déchets nucléaires."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Vous savez aussi que, il y avait une technologie, qui était la technologie astrid, et que malheureusement monsieur macron a abandonnée, et qui permettait, qui permettait, de créer de l'énergie en travaillant sur les déchets, justement."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Donc les choses, quand je vous ai connu monsieur mélenchon, là aussi vous étiez non seulement productiviste mais vous étiez favorable à la science, vous pensiez que le progrès technique réglerait les problèmes créés par le progrès technique."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je note que vous ne voulez pas me laisser parler parce que ça vous embête, parce que effectivement le nucléaire, c'est d'abord, abandonner le nucléaire c'est abandonner notre souveraineté nationale."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Peut-être bien, mais l’uranium vous les achetez pas en france."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Deuxièmement, je répète qu'abandonner le nucléaire, ça veut dire, abandonner deux cent mille emplois directs et une filière de quatre cent mille emplois."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je répète que c'est à l'abandon de souverainetée, et je répète que en vérité, c'est, euh une acceptation d'une décroissance qui ne dit pas son nom."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique qu'il faut travailler sur la recherche dans le nucléaire, pour pouvoir s'occuper des déchets nucléaires."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique que les éoliennes ne sont pas écologique car les pâles ne sont pas renouvelables, et que la suppression du nucléaire n'est pas écologique car l'énergie est remplacée par le gaz, qui est plus polluant."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je veux simplement dire je pense simplement dire tout le mal que je pense des éoliennes, à la fois pour la santé des gens, à la fois pour la beauté des paysages, à la fois vous savez très bien que euh celles qui sont fabriqués avec des pales, et des socles en béton, qui ne sont absolument pas euh renouvelable."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Vous savez que quand on réduira, y a un une étude et j'ai fini quand on réduira euh la part du nucléaire cinquante pour cent du mix électrique, on doit selon une étude du ministère de l'écologie humaine créer vingt centrales à gaz, et donc, ça augmentera la production de CO2."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Vous savez aussi que, il y avait une technologie, qui était la technologie astrid, et que malheureusement monsieur macron a abandonnée, et qui permettait, qui permettait, de créer de l'énergie en travaillant sur les déchets, justement."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Donc les choses, quand je vous ai connu monsieur mélenchon, là aussi vous étiez non seulement productiviste mais vous étiez favorable à la science, vous pensiez que le progrès technique réglerait les problèmes créés par le progrès technique."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique que les éoliennes ne sont pas écologique car les pâles ne sont pas renouvelables, et que la suppression du nucléaire n'est pas écologique car l'énergie est remplacée par le gaz, qui est plus polluant."
     },
-    {
-        "abstractive": {
-            "text": "Jean luc mélenchon explique qu'il ne souhaite pas abandonner le nucléaire mais en sortir progressivement, et qu'il faut traviller sur la recherche fondamentales pour refroidir les déchets."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Je trouve intéressant qu'on ait essayé de bien faire, on a bien fait, il y a des gens qui y travaillent qui font bien leur travail, Et évidemment il n'est pas question d'abandonner, il est question de sortir du nucléaire."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Et nous avons besoin notamment de recherche fondamentale pour savoir comment refroidir les déchets radioactifs, parce qu'ils sont là pour dix mille ans, pour vingt mille ans, et que on n'a pas trouvé encore d'autre solution que de les enfouir."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "En ce qui concerne cette énergie, nous savons tous que le risque existe, et que en sortir serait une bonne chose."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je veux simplement dire je pense simplement dire tout le mal que je pense des éoliennes, à la fois pour la santé des gens, à la fois pour la beauté des paysages, à la fois vous savez très bien que euh celles qui sont fabriqués avec des pales, et des socles en béton, qui ne sont absolument pas euh renouvelable."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Vous savez que quand on réduira, y a un une étude et j'ai fini quand on réduira euh la part du nucléaire cinquante pour cent du mix électrique, on doit selon une étude du ministère de l'écologie humaine créer vingt centrales à gaz, et donc, ça augmentera la production de CO2."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon explique qu'il ne souhaite pas abandonner le nucléaire mais en sortir progressivement, et qu'il faut travailler sur la recherche fondamentale pour refroidir les déchets."
     },
-    {
-        "abstractive": {
-            "text": "Jean luc mélenchon explique qu'il faut redéployer un système d'énergie inoffensif, et ne souhaite pas recaréner les centrales nucléaires."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "L'idée c'est de redéployer un appareil de production d'énergie, car nous avons besoin d'énergie, qui soit inoffensive contre la nature et contre le futur."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Deuxièmement, non au grand recarénage des centrales nucléaires."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Je trouve intéressant qu'on ait essayé de bien faire, on a bien fait, il y a des gens qui y travaillent qui font bien leur travail, Et évidemment il n'est pas question d'abandonner, il est question de sortir du nucléaire."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Et nous avons besoin notamment de recherche fondamentale pour savoir comment refroidir les déchets radioactifs, parce qu'ils sont là pour dix mille ans, pour vingt mille ans, et que on n'a pas trouvé encore d'autre solution que de les enfouir."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "En ce qui concerne cette énergie, nous savons tous que le risque existe, et que en sortir serait une bonne chose."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon explique qu'il faut redéployer un système d'énergie inoffensif, et ne souhaite pas recaréner les centrales nucléaires."
     },
-    {
-        "abstractive": {
-            "text": "Jean luc mélenchon souhaite travailler sur les énergies renouvelables comme les hydroliennes et l'énergie géothermique, ce qui créera des emplois"
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "écoutez, c'est le moment où l'on peut par exemple se poser la question d'un redéploiement général des hydroliennes."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Il y a l'énergie géothermique, et il y a surtout monsieur zemmour vous et quelques autres, la sobriété dans la consommation énergétique."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Donc la sobriété, la sortie du nucléaire, l'installation d'autres moyens, c'est un grand plan, ça va mettre au travail des dizaines de milliers de gens pour faire tout ça"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "L'idée c'est de redéployer un appareil de production d'énergie, car nous avons besoin d'énergie, qui soit inoffensive contre la nature et contre le futur."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Deuxièmement, non au grand recarénage des centrales nucléaires."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon souhaite travailler sur les énergies renouvelables comme les hydroliennes et l'énergie géothermique, ce qui créera des emplois."
+    },
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "écoutez, c'est le moment où l'on peut par exemple se poser la question d'un redéploiement général des hydroliennes."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Il y a l'énergie géothermique, et il y a surtout monsieur zemmour vous et quelques autres, la sobriété dans la consommation énergétique."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Donc la sobriété, la sortie du nucléaire, l'installation d'autres moyens, c'est un grand plan, ça va mettre au travail des dizaines de milliers de gens pour faire tout ça"
+      }
+    ]
+  }
 ]

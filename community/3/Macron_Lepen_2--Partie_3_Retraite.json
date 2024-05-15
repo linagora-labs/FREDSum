@@ -1,255 +1,255 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, EMMANUEL MACRON et MARINE LE PEN discutent de la question des retraites. "
-        },
-        "extractive": [
-            {
-                "speaker": "Léa Salamé",
-                "text": "Jusqu'à quel âge devrons-nous travailler si vous êtes élus l'un et l'autre ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Emmanuel Macron et Marine Le Pen discutent de la question des retraites."
     },
-    {
-        "abstractive": {
-            "text": "MARINE LE PEN propose la retraite à 60 ans avec 40 annuités pour ceux ayant commencé à travailler avant 20 ans ; pour les autres, elle propose une progressivité bornée à 62 ans, avec 42 annuités."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Tous ceux qui auront eu un premier emploi significatif avant l'âge de 20 ans, entre 17 et 20 ans, pourront partir à la retraite à 60 ans après 40 annuités."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Et progressivement, au fur et à mesure de l'âge auquel on rentre dans le système, et bien on obtiendra maximum 42 annuités et 62 ans."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Léa Salamé",
+        "text": "Jusqu'à quel âge devrons-nous travailler si vous êtes élus l'un et l'autre ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen propose la retraite à 60 ans avec 40 annuités pour ceux ayant commencé à travailler avant 20 ans ; pour les autres, elle propose une progressivité bornée à 62 ans, avec 42 annuités."
     },
-    {
-        "abstractive": {
-            "text": "Cependant, les dispositifs carrières longues s’appliqueront s’ils sont plus avantageux que ces limites standards. "
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Si quelqu'un a, grâce à un dispositif de carrière longue un bénéfice plus avantageux pour lui, alors c'est le système de carrière longue qui s'appliquera."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Tous ceux qui auront eu un premier emploi significatif avant l'âge de 20 ans, entre 17 et 20 ans, pourront partir à la retraite à 60 ans après 40 annuités."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Et progressivement, au fur et à mesure de l'âge auquel on rentre dans le système, et bien on obtiendra maximum 42 annuités et 62 ans."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Cependant, les dispositifs carrières longues s’appliqueront s’ils sont plus avantageux que ces limites standards."
     },
-    {
-        "abstractive": {
-            "text": "Face à cette vision, EMMANUEL MACRON défend un minimum retraite contributif à 1100 euros. "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Moi je propose, y compris pour toutes celles et ceux qui sont aujourd'hui à la retraite, de passer ce qu'on appelle le minimum contributif c'est-à-dire quelqu'un qui a une retraite complète à 1100 euros."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Si quelqu'un a, grâce à un dispositif de carrière longue un bénéfice plus avantageux pour lui, alors c'est le système de carrière longue qui s'appliquera."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Face à cette vision, Emmanuel Macron défend un minimum retraite contributif à 1100 euros."
     },
-    {
-        "abstractive": {
-            "text": "Toutefois, il ne souhaite ni augmenter les impôts, ni créer de nouvelles dettes pour financer ce système. "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Donc je ne veux pas monter les impôts, je veux qu'ils baissent."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Je ne veux pas augmenter notre dette, je veux commencer à la rembourser sous ce quinquennat qui vient si les Françaises et les Français me font confiance."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Moi je propose, y compris pour toutes celles et ceux qui sont aujourd'hui à la retraite, de passer ce qu'on appelle le minimum contributif c'est-à-dire quelqu'un qui a une retraite complète à 1100 euros."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Toutefois, il ne souhaite ni augmenter les impôts, ni créer de nouvelles dettes pour financer ce système."
     },
-    {
-        "abstractive": {
-            "text": "Par conséquent, il est nécessaire d’augmenter progressivement l’âge de la retraite jusqu’à 65 ans en 2031 pour conserver un équilibre comptable."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Réussir à faire, comme ce que l'on a réussi à faire sous ce quinquennat et le deuxième pilier qui est de décaler l'âge légal qui est de 62 aujourd'hui de 4 mois par an."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Ce qui veut dire que vous atteindrez en 2028 64 ans et en 2031 65 ans."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Donc je ne veux pas monter les impôts, je veux qu'ils baissent."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Je ne veux pas augmenter notre dette, je veux commencer à la rembourser sous ce quinquennat qui vient si les Françaises et les Français me font confiance."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Par conséquent, il est nécessaire d’augmenter progressivement l’âge de la retraite jusqu’à 65 ans en 2031 pour conserver un équilibre comptable."
     },
-    {
-        "abstractive": {
-            "text": "Il désire par ailleurs conserver le système carrière longue et le compte pénibilité, qu’il reproche à son adversaire de vouloir supprimer. "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Le premier, carrière longue, il faut garder un tel dispositif, vous avez raison."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Vous, vous proposez de supprimer le système de pénibilité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Réussir à faire, comme ce que l'on a réussi à faire sous ce quinquennat et le deuxième pilier qui est de décaler l'âge légal qui est de 62 aujourd'hui de 4 mois par an."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Ce qui veut dire que vous atteindrez en 2028 64 ans et en 2031 65 ans."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il désire par ailleurs conserver le système carrière longue et le compte pénibilité, qu’il reproche à son adversaire de vouloir supprimer."
     },
-    {
-        "abstractive": {
-            "text": "Enfin, il compte mettre fin aux régimes spéciaux (notamment RATP et EDF). "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Et trois, il faut supprimer les principaux régimes spéciaux, et donc les personnes que l'on embauche dans ces régimes, en particulier, la RATP, EDF ne doivent plus être embauché dans un régime spécial, eux doivent rentrer dans le système général."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Le premier, carrière longue, il faut garder un tel dispositif, vous avez raison."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Vous, vous proposez de supprimer le système de pénibilité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Enfin, il compte mettre fin aux régimes spéciaux (notamment RATP et EDF)."
     },
-    {
-        "abstractive": {
-            "text": "Il attaque ensuite MARINE LE PEN, lui reprochant de ne pouvoir financer sa réforme. "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Vous, vous n'expliquez jamais comment vous financez vos progrès."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Et trois, il faut supprimer les principaux régimes spéciaux, et donc les personnes que l'on embauche dans ces régimes, en particulier, la RATP, EDF ne doivent plus être embauché dans un régime spécial, eux doivent rentrer dans le système général."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il attaque ensuite MARINE LE PEN, lui reprochant de ne pouvoir financer sa réforme."
     },
-    {
-        "abstractive": {
-            "text": "MARINE LE PEN estime néanmoins ne pas avoir de critiques à recevoir de la part d’EMMANUEL MACRON, ce dernier étant responsable de 600 milliard de dettes à cause du covid. "
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Pardon M. Macron mais je rappelle que vous êtes le président qui a créé 600 milliards d'euros de dette supplémentaire en cinq ans dont deux tiers n'ont rien à voir avec le covid."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Vous, vous n'expliquez jamais comment vous financez vos progrès."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen estime néanmoins ne pas avoir de critiques à recevoir de la part d’EMMANUEL MACRON, ce dernier étant responsable de 600 milliards de dettes à cause du covid."
     },
-    {
-        "abstractive": {
-            "text": "EMMANUEL MACRON explique avoir baissé le déficit avant le covid ; par ailleurs, la dette n’est pas seulement celle de l’État, mais aussi celle de la sécurité sociale et des collectivités locales. "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "On a baissé le déficit les premières années du quinquennat et la dette a commencé à être remboursée."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Pardon M. Macron mais je rappelle que vous êtes le président qui a créé 600 milliards d'euros de dette supplémentaire en cinq ans dont deux tiers n'ont rien à voir avec le covid."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron explique avoir baissé le déficit avant le covid ; par ailleurs, la dette n’est pas seulement celle de l’État, mais aussi celle de la sécurité sociale et des collectivités locales."
     },
-    {
-        "abstractive": {
-            "text": "Il justifie ce montant comme étant nécessaire pour financer les aides aux entreprises pendant la crise, aides que MARINE LE PEN n’a pas voté. "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Les 600 milliards d'euros de dettes, c'est 200 milliards de la partie de l'État, le reste c'est la sécurité sociale et les collectivités locales."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais « le quoi qu'il en coûte », Madame Le Pen, vous avez voté contre."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "On a baissé le déficit les premières années du quinquennat et la dette a commencé à être remboursée."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il justifie ce montant comme étant nécessaire pour financer les aides aux entreprises pendant la crise, aides que Marine Le Pen n’a pas voté."
     },
-    {
-        "abstractive": {
-            "text": "Cependant, pour MARINE LE PEN, il n’y a eu ni succès dans la lutte contre le chômage, ni diminution de la pauvreté. "
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Donc, en matière de succès sur le chômage, permettez-moi tout de même d'être dubitative."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Moi ce que je vois c'est qu'il y a 400 milles pauvres supplémentaires sous votre quinquennat."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Les 600 milliards d'euros de dettes, c'est 200 milliards de la partie de l'État, le reste c'est la sécurité sociale et les collectivités locales."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais « le quoi qu'il en coûte », Madame Le Pen, vous avez voté contre."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Cependant, pour MARINE LE PEN, il n’y a eu ni succès dans la lutte contre le chômage, ni diminution de la pauvreté."
     },
-    {
-        "abstractive": {
-            "text": "Cela est faux, continue EMMANUEL MACRON : les commerçants et entrepreneurs ont été sauvés par ces fonds. "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais que les restaurateurs, que les artisans, que les commerçants, que les petits industriels qui nous écoutent aujourd'hui mais viennent témoigner, viennent vous parler et vous dire qui les a aidés pendant la crise covid, qui les a aidés avec le fonds de solidarité, avec le chômage partiel, avec les prêts garantis, avec la prise en charge parfois de leurs propres cotisations, c'est le gouvernement."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Donc, en matière de succès sur le chômage, permettez-moi tout de même d'être dubitative."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Moi ce que je vois c'est qu'il y a 400 milles pauvres supplémentaires sous votre quinquennat."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Cela est faux, continue EMMANUEL MACRON : les commerçants et entrepreneurs ont été sauvés par ces fonds."
     },
-    {
-        "abstractive": {
-            "text": "Il affirme ensuite que le chômage aurait baissé de 9,6 à 7,4 %. "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Ce qui fait qu'aujourd'hui Mme Le Pen alors qu'on a vécu une pandémie comme on n'en avait pas vécu depuis un siècle, on a malgré tout, contrairement aux chiffres que vous pouvez donner, baissé le chômage qui est passé de 9,6 à 7,4 %."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais que les restaurateurs, que les artisans, que les commerçants, que les petits industriels qui nous écoutent aujourd'hui mais viennent témoigner, viennent vous parler et vous dire qui les a aidés pendant la crise covid, qui les a aidés avec le fonds de solidarité, avec le chômage partiel, avec les prêts garantis, avec la prise en charge parfois de leurs propres cotisations, c'est le gouvernement."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il affirme ensuite que le chômage aurait baissé de 9,6 à 7,4 %."
     },
-    {
-        "abstractive": {
-            "text": "MARINE LE PEN, elle, aurait directement donné des fonds aux entreprises, et non simplement des lignes de crédit, comme EMMANUEL MACRON. "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais la vie de nos commerçants, de nos artisans, c'est ça la dette covid."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Vous avez voté contre, expliquez-moi quels centimes ?"
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "J'avais proposé 1 500 euros par entreprise, 1 000 euros par salarié."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Ce qui fait qu'aujourd'hui Mme Le Pen alors qu'on a vécu une pandémie comme on n'en avait pas vécu depuis un siècle, on a malgré tout, contrairement aux chiffres que vous pouvez donner, baissé le chômage qui est passé de 9,6 à 7,4 %."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "MARINE LE PEN, elle, aurait directement donné des fonds aux entreprises, et non simplement des lignes de crédit, comme EMMANUEL MACRON."
     },
-    {
-        "abstractive": {
-            "text": "Du reste, le décalage des prêts proposé par EMMANUEL MACRON n’est pas suffisant dans la mesure où les entreprises restent endettées aux yeux des banques. "
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Vous avez fait le choix d'un certain nombre de prêts (des PGE) qui aujourd'hui doivent être remboursés par des entreprises."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais à chaque fois, on les a laissés, on les décalera."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais la vie de nos commerçants, de nos artisans, c'est ça la dette covid."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Vous avez voté contre, expliquez-moi quels centimes ?"
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "J'avais proposé 1 500 euros par entreprise, 1 000 euros par salarié."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Du reste, le décalage des prêts proposé par Emmanuel Macron n’est pas suffisant dans la mesure où les entreprises restent endettées aux yeux des banques."
     },
-    {
-        "abstractive": {
-            "text": "Enfin, MARINE LE PEN critique les couvres feu et confinements qui étaient inutiles, à l’exception du premier. "
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Mais en les décalant M. Macron, vous savez ce que vous faites, vous les inscrivez sur les fichiers des banques."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Après le premier confinement vous avez continué les couvre-feux, vous avez continué de fermer les commerces en considérant qu'il y avait les essentiels et les non essentiels."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Et bien avec tout cela j'étais en désaccord pour une raison simple, c'est qu'à cette époque-là après le premier confinement on savait qu'en réalité, les petits commerces n'étaient pas le lieu de transmission du virus."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Vous avez fait le choix d'un certain nombre de prêts (des PGE) qui aujourd'hui doivent être remboursés par des entreprises."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais à chaque fois, on les a laissés, on les décalera."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Enfin, Marine Le Pen critique les couvres feu et confinements qui étaient inutiles, à l’exception du premier."
     },
-    {
-        "abstractive": {
-            "text": "EMMANUEL MACRON est en désaccord et veut être fier de la politique qu’il a mené durant cette crise. "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Si vous voulez tous vos amis, tous vos amis quand je regarde comment ils ont géré la crise covid, je suis plutôt fier de la manière dont on l'a géré"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Mais en les décalant M. Macron, vous savez ce que vous faites, vous les inscrivez sur les fichiers des banques."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Après le premier confinement vous avez continué les couvre-feux, vous avez continué de fermer les commerces en considérant qu'il y avait les essentiels et les non essentiels."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Et bien avec tout cela j'étais en désaccord pour une raison simple, c'est qu'à cette époque-là après le premier confinement on savait qu'en réalité, les petits commerces n'étaient pas le lieu de transmission du virus."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron est en désaccord et veut être fier de la politique qu’il a mené durant cette crise."
+    },
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Si vous voulez tous vos amis, tous vos amis quand je regarde comment ils ont géré la crise covid, je suis plutôt fier de la manière dont on l'a géré"
+      }
+    ]
+  }
 ]

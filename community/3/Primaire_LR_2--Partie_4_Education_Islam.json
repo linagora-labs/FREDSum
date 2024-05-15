@@ -1,151 +1,151 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Pradié, Retailleau et Ciotti discutent de la question de la laïcité à l’école."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "720 atteintes à la laïcité ont été remarquées en octobre selon les statistiques du ministère de l'Education nationale dans les collèges et dans les lycées."
-            },
-            {
-                "speaker": "P2",
-                "text": "Vous pensez que vous pourriez  faire appliquer vos interdictions facilement, dans l'avenir?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Pradié, Bruno Retailleau et Eric Ciotti discutent de la question de la laïcité à l’école."
     },
-    {
-        "abstractive": {
-            "text": "Face aux atteintes à la laïcité, Ciotti appelle à être intransigeant, contrairement à un gouvernement qu’il considère comme lâche."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Il faut du courage pour le faire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "720 atteintes à la laïcité ont été remarquées en octobre selon les statistiques du ministère de l'Education nationale dans les collèges et dans les lycées."
+      },
+      {
+        "speaker": "P2",
+        "text": "Vous pensez que vous pourriez  faire appliquer vos interdictions facilement, dans l'avenir?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Face aux atteintes à la laïcité, Eric Ciotti appelle à être intransigeant, contrairement à un gouvernement qu’il considère comme lâche."
     },
-    {
-        "abstractive": {
-            "text": "Il souhaite exclure les élèves ne se pliant pas aux règles de la laïcité et veut appliquer la loi de 2004 de Jacques Chirac sur les signes religieux."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Il faut exclure ces élèves, il faut soutenir les enseignants, il faut être intransigeant."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Il y a une loi, c'est celle de Jacques Chirac."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Il faut du courage pour le faire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il souhaite exclure les élèves ne se pliant pas aux règles de la laïcité et veut appliquer la loi de 2004 de Jacques Chirac sur les signes religieux."
     },
-    {
-        "abstractive": {
-            "text": "Pradié soutient également l’uniforme pour éviter la présence de vêtements religieux"
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Je propose que désormais, tous les élèves portent la même tenue vestimentaire."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Oui, y compris à l'université."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Il faut exclure ces élèves, il faut soutenir les enseignants, il faut être intransigeant."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Il y a une loi, c'est celle de Jacques Chirac."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Aurélien Pradié soutient également l’uniforme pour éviter la présence de vêtements religieux."
     },
-    {
-        "abstractive": {
-            "text": "Cela permettrait aussi de diminuer les différences sociales qui se manifestent dans les vêtements."
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "J'en ai assez de repérer dans les salles de classe, à la tenue qu'ils portent, les enfants issus de milieux favorisés et ceux issus de milieux défavorisés."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Je propose que désormais, tous les élèves portent la même tenue vestimentaire."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Oui, y compris à l'université."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Cela permettrait aussi de diminuer les différences sociales qui se manifestent dans les vêtements."
     },
-    {
-        "abstractive": {
-            "text": "Il propose d’ouvrir un débat concernant les tenues religieuses dans l’espace public. "
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Je veux que nous ouvrions le débat sur le port des tenues religieuses dans les espaces publics."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "J'en ai assez de repérer dans les salles de classe, à la tenue qu'ils portent, les enfants issus de milieux favorisés et ceux issus de milieux défavorisés."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il propose d’ouvrir un débat concernant les tenues religieuses dans l’espace public."
     },
-    {
-        "abstractive": {
-            "text": "Retailleau rappelle l’importance du combat culturel et pense qu’il faut être intransigeant sur cette question dans les services publics. "
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Je pense que l'islamisme, c'est un combat culturel."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Je pense qu’il faut, dans les services publics, être absolument intransigeants."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Je veux que nous ouvrions le débat sur le port des tenues religieuses dans les espaces publics."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau rappelle l’importance du combat culturel et pense qu’il faut être intransigeant sur cette question dans les services publics."
     },
-    {
-        "abstractive": {
-            "text": "Ciotti et Pradié saluent tous deux Jacques Chirac et sa loi de 2004. "
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "On a tellement de lois en France que d'abord, appliquons-les, 2004, c'est cette loi qui permet de faire obstacle aux tenues longues islamistes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Je pense que l'islamisme, c'est un combat culturel."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Je pense qu’il faut, dans les services publics, être absolument intransigeants."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti et Aurélien Pradié saluent tous deux Jacques Chirac et sa loi de 2004."
     },
-    {
-        "abstractive": {
-            "text": "Ciotti et Retailleau rejoignent Pradié sur l’uniforme à l’école, mais pensent que cela n’est pas nécessaire à l’université. "
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "C'est vrai qu'à l'école, on peut avoir des tenues uniformes."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Je doute de l'application des tenues uniformes à l'université."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "L'uniforme, je pense que ça doit être appliqué jusqu'au lycée."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Je ne suis pas certain que pour un adulte à l'université, ce soit aujourd'hui admis, on aurait quelques mouvements, sans doute dans les amphithéâtres, de réaction."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "On a tellement de lois en France que d'abord, appliquons-les, 2004, c'est cette loi qui permet de faire obstacle aux tenues longues islamistes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti et Bruno Retailleau rejoignent Aurélien Pradié sur l’uniforme à l’école, mais pensent que cela n’est pas nécessaire à l’université."
     },
-    {
-        "abstractive": {
-            "text": "Il souhaite également priver de droits sociaux les personnes en burka qui seraient récidivistes. "
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Quand il y a récidive, une femme porte la burka, prise une fois, deux fois, on la prive, bien entendu, des droits sociaux, notamment d'un certain nombre d'allocations."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "C'est vrai qu'à l'école, on peut avoir des tenues uniformes."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Je doute de l'application des tenues uniformes à l'université."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "L'uniforme, je pense que ça doit être appliqué jusqu'au lycée."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Je ne suis pas certain que pour un adulte à l'université, ce soit aujourd'hui admis, on aurait quelques mouvements, sans doute dans les amphithéâtres, de réaction."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il souhaite également priver de droits sociaux les personnes en burka qui seraient récidivistes."
     },
-    {
-        "abstractive": {
-            "text": "Enfin, Ciotti et Retailleau mentionnent tous deux leurs actions en tant que parlementaires sur ces questions là (amendements contre le voile, loi contre le burkini etc)."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "J'ai défendu systématiquement, depuis quasiment 10 ans, ces amendements, interdiction du voile, pour les usagers des services publics"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Quand il y a récidive, une femme porte la burka, prise une fois, deux fois, on la prive, bien entendu, des droits sociaux, notamment d'un certain nombre d'allocations."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Enfin, Eric Ciotti et Bruno Retailleau mentionnent tous deux leurs actions en tant que parlementaires sur ces questions là (amendements contre le voile, loi contre le burkini etc)."
+    },
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "J'ai défendu systématiquement, depuis quasiment 10 ans, ces amendements, interdiction du voile, pour les usagers des services publics"
+      }
+    ]
+  }
 ]

@@ -1,320 +1,320 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Emmanuel Macron et Marine Le Pen discutent de leur visions pour l'éducation française."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Tous les classements internationaux montrent encore et encore que le niveau de connaissance des élèves français baisse."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Emmanuel Macron et Marine Le Pen discutent de leurs visions pour l'éducation française."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron explique qu'il a commencé à investir sur les petites classe en réduisant le nombre d'élèves par classes."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "D'abord, on a commencé à le faire puisque l'investissement qui a été fait en CP, CE1, pour les plus petites classes, donc qui ne sont prises en compte dans ces fameux tests PISA qui ne sont faits qu'au collège, a permis, et ça on le mesure puisqu'on a mis en place des tests annuels pour les enfants de la République qui sont les plus en difficulté et bien de rattraper puisqu'on a fait des classes plus petites."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "On a mis douze élèves par classe."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Tous les classements internationaux montrent encore et encore que le niveau de connaissance des élèves français baisse."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron explique qu'il a commencé à investir sur les petites classe en réduisant le nombre d'élèves par classes."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron souhaite investir dans les savoirs fondamentaux comme les mathématiques jusqu'au baccalauréat, et souhaite mettre en place une demi heure obligatoire de sport quotidienne."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Ce que je veux faire, c'est continuer à investir sur notre école, les fondamentaux, en remettant les fondamentaux, les mathématiques jusqu'au baccalauréat."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Ensuite, en mettant la demi-heure de sport quotidienne qui est un point très important, y compris pour mieux apprendre."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "D'abord, on a commencé à le faire puisque l'investissement qui a été fait en CP, CE1, pour les plus petites classes, donc qui ne sont prises en compte dans ces fameux tests PISA qui ne sont faits qu'au collège, a permis, et ça on le mesure puisqu'on a mis en place des tests annuels pour les enfants de la République qui sont les plus en difficulté et bien de rattraper puisqu'on a fait des classes plus petites."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "On a mis douze élèves par classe."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron souhaite investir dans les savoirs fondamentaux comme les mathématiques jusqu'au baccalauréat, et souhaite mettre en place une demi heure obligatoire de sport quotidienne."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron souhaite investir sur les  classes de 6ème et seconde qui sont les classes où se font les décrochages, en dédoublant les classes."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Ensuite c'est de mettre les moyens sur les classes de 6ème et de seconde qui sont les classes charnière où les décrochages se font."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Là aussi en permettant, partout où c'est nécessaire, de dédoubler."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Ce que je veux faire, c'est continuer à investir sur notre école, les fondamentaux, en remettant les fondamentaux, les mathématiques jusqu'au baccalauréat."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Ensuite, en mettant la demi-heure de sport quotidienne qui est un point très important, y compris pour mieux apprendre."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron souhaite investir sur les classes de 6ème et seconde qui sont les classes où se font les décrochages, en dédoublant les classes."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron souhaite améliorer l'orientation dès la 5ème en mettant en place des stages d'ouverture à des métiers."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Ensuite c'est d'améliorer l'orientation dès la 5ème, en permettant quoi ?"
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais, en leur permettant au collège d'avoir accès à des métiers à l'extérieur, d'être ouvert au reste du monde pour comprendre ce vers quoi ils veulent aller, aider à l'orientation, parce que c'est un des drames qu'a notre jeunesse aujourd'hui."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Ensuite c'est de mettre les moyens sur les classes de 6ème et de seconde qui sont les classes charnière où les décrochages se font."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Là aussi en permettant, partout où c'est nécessaire, de dédoubler."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron souhaite améliorer l'orientation dès la 5ème en mettant en place des stages d'ouverture à des métiers."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron souhaite réformer le lycée professionnel afin qu'ils aient des stages payés."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Puis je veux mener une grande réforme du lycée professionnel, parce qu'il y a un tiers de nos lycéens qui sont au lycée professionnel."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Les stagiaires ne sont pas payés, ce qui est un scandale aujourd'hui, je veux pouvoir les payer."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Ensuite c'est d'améliorer l'orientation dès la 5ème, en permettant quoi ?"
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais, en leur permettant au collège d'avoir accès à des métiers à l'extérieur, d'être ouvert au reste du monde pour comprendre ce vers quoi ils veulent aller, aider à l'orientation, parce que c'est un des drames qu'a notre jeunesse aujourd'hui."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron souhaite réformer le lycée professionnel afin qu'ils aient des stages payés."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron souhaite réformer l'université pour rendre les débouchés plus clair, et en baissant les prix des mutuelles et de la sécurité sociale étudiante, toute en aidant sur le logement."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Fort de celles-ci, je veux réformer le lycée professionnel et puis aller vers une réforme de l'université en ouvrant des filières là aussi avec des débouchés plus clairs, en continuant d'aider nos étudiants, études gratuites, on va continuer ce qu'on a fait justement sur la baisse des mutuelles et de la sécurité sociale étudiante, et en accompagnant mieux, en particulier sur le logement."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "La méthode, je la veux profondément différente, sur la santé comme sur l'école, je veux une méthode où les grands objectifs seront fixés nationalement mais où on déclinera ensuite localement, les voies et moyens d'y arriver."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Puis je veux mener une grande réforme du lycée professionnel, parce qu'il y a un tiers de nos lycéens qui sont au lycée professionnel."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Les stagiaires ne sont pas payés, ce qui est un scandale aujourd'hui, je veux pouvoir les payer."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron souhaite réformer l'université pour rendre les débouchés plus clairs, et en baissant les prix des mutuelles et de la sécurité sociale étudiante, toute en aidant sur le logement."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron souhaite donner des directives nationalement déclinées localement, revaloriser les professeurs en augmentant les salaires jusqu'à 20%."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "On ira au bout de la revalorisation commencée pour les professeurs à qui nous devons tant parce que nous avons rouvert l'école grâce à eux."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Et donc on va tous les revaloriser comme on a commencé de le faire mais on revalorisera très substantiellement celles et ceux qui vont, jusqu'à 20 %, celles et ceux qui vont sur les méthodes qui sont les plus innovantes et en permettant plus de liberté justement sur le terrain à nos professeurs."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Fort de celles-ci, je veux réformer le lycée professionnel et puis aller vers une réforme de l'université en ouvrant des filières là aussi avec des débouchés plus clairs, en continuant d'aider nos étudiants, études gratuites, on va continuer ce qu'on a fait justement sur la baisse des mutuelles et de la sécurité sociale étudiante, et en accompagnant mieux, en particulier sur le logement."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "La méthode, je la veux profondément différente, sur la santé comme sur l'école, je veux une méthode où les grands objectifs seront fixés nationalement mais où on déclinera ensuite localement, les voies et moyens d'y arriver."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron souhaite donner des directives nationalement déclinées localement, revaloriser les professeurs en augmentant les salaires jusqu'à 20%."
     },
-    {
-        "abstractive": {
-            "text": "Marine le Pen débute en expliquant que la jeunesse française a souffert du covid, et que c'est pourquoi elle fait de la jeunesse une priorité."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je vais vous répondre, mais d'abord pour vous dire que la jeunesse française a tellement souffert, tellement souffert dans les deux dernières années, deux dernières années et demie."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Privée de liens sociaux, privée de leur famille, bien souvent, privée de leurs petits boulots donc jetée dans la précarité, développant des problèmes psychologiques pour certains lourds parce qu'ils ont très, très mal vécus, évidemment la crise sanitaire que c'était une évidence pour moi qu'il fallait que je fasse de la jeunesse la priorité d'un quinquennat si les Français me font cette confiance."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Et c'est la raison pour laquelle j'ai construit autour de la jeunesse énormément d'aides, de mesures et notamment autour de la valeur travail."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "On ira au bout de la revalorisation commencée pour les professeurs à qui nous devons tant parce que nous avons rouvert l'école grâce à eux."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Et donc on va tous les revaloriser comme on a commencé de le faire mais on revalorisera très substantiellement celles et ceux qui vont, jusqu'à 20 %, celles et ceux qui vont sur les méthodes qui sont les plus innovantes et en permettant plus de liberté justement sur le terrain à nos professeurs."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen débute en expliquant que la jeunesse française a souffert du covid, et que c'est pourquoi elle fait de la jeunesse une priorité."
     },
-    {
-        "abstractive": {
-            "text": "Marine le pen souhaite revaloriser les filières professionnelles, l'alternance et l'apprentissage, en augmentant les revenus des apprentis et des alternants."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je vous l'ai dit tout à l'heure, je veux revaloriser les filières professionnelles, l'alternance, l'apprentissage."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Mais moi ce que je veux c'est augmenter les revenus de ces apprentis et de ces alternants."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je vais vous répondre, mais d'abord pour vous dire que la jeunesse française a tellement souffert, tellement souffert dans les deux dernières années, deux dernières années et demie."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Privée de liens sociaux, privée de leur famille, bien souvent, privée de leurs petits boulots donc jetée dans la précarité, développant des problèmes psychologiques pour certains lourds parce qu'ils ont très, très mal vécus, évidemment la crise sanitaire que c'était une évidence pour moi qu'il fallait que je fasse de la jeunesse la priorité d'un quinquennat si les Français me font cette confiance."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Et c'est la raison pour laquelle j'ai construit autour de la jeunesse énormément d'aides, de mesures et notamment autour de la valeur travail."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen souhaite revaloriser les filières professionnelles, l'alternance et l'apprentissage, en augmentant les revenus des apprentis et des alternants."
     },
-    {
-        "abstractive": {
-            "text": "Marine le Pen souhaite aider les étudiants qui travaillent avec un complément de salaire."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Deuxièmement, je souhaite que les étudiants qui travaillent soient aidés, je pense qu'il faut qu'ils aient un complément de salaire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je vous l'ai dit tout à l'heure, je veux revaloriser les filières professionnelles, l'alternance, l'apprentissage."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Mais moi ce que je veux c'est augmenter les revenus de ces apprentis et de ces alternants."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen souhaite aider les étudiants qui travaillent avec un complément de salaire."
     },
-    {
-        "abstractive": {
-            "text": "Marine le pen souhaite la gratuité aux heures creuses des trains pour les jeunes."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je suis pour la gratuité aux heures creuses des trains même des grandes lignes d'ailleurs pour les 18-25 ans."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Deuxièmement, je souhaite que les étudiants qui travaillent soient aidés, je pense qu'il faut qu'ils aient un complément de salaire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen souhaite la gratuité aux heures creuses des trains pour les jeunes."
     },
-    {
-        "abstractive": {
-            "text": "Marine le pen explique que les diplômes donnés durant le covid ont été dévalorisé, elle souhaite augmenter le niveau du baccalauréat, en remettant aussi les filières littéraires, scientifiques et économiques en place, et elle souhaite faire un effort sur les savoirs fondamentaux."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Mais ce qui a été terrible aussi pendant cette crise sanitaire c'est qu'ils ont eu des diplômes qui ont été dévalorisés, et de manière générale, d'ailleurs, les diplômes sont dévalorisés parce que d'abord le baccalauréat est dévalorisé."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Donc je veux faire du baccalauréat un examen dont on ne détermine pas à l'avance si on va le donner à 95% ou 98% de la classe d'âge parce que ça ne rend pas service en réalité à nos jeunes ; Deuxièmement je souhaite le retour des filières littéraires, scientifiques, économiques."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Et je souhaite, bien entendu, faire un effort tout particulier sur les savoirs fondamentaux en primaire parce que c'est effectivement là que tout se joue."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je suis pour la gratuité aux heures creuses des trains même des grandes lignes d'ailleurs pour les 18-25 ans."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen explique que les diplômes donnés durant le covid ont été dévalorisés, elle souhaite augmenter le niveau du baccalauréat, en remettant aussi les filières littéraires, scientifiques et économiques en place, et elle souhaite faire un effort sur les savoirs fondamentaux."
     },
-    {
-        "abstractive": {
-            "text": "Marine le Pen explique vouloir aussi travailler sur la sécurité à l'école, qui peut être très mauvaise selon les zones."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "C'est le sujet de la sécurité à l'école, de la discipline et puis du respect des professeurs."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je trouve que c'est profondément injuste, vous savez très bien que selon l'endroit où les professeurs professent, où ils enseignent, et bien, les niveaux des élèves ne sont pas toujours le même."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Mais ce qui a été terrible aussi pendant cette crise sanitaire c'est qu'ils ont eu des diplômes qui ont été dévalorisés, et de manière générale, d'ailleurs, les diplômes sont dévalorisés parce que d'abord le baccalauréat est dévalorisé."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Donc je veux faire du baccalauréat un examen dont on ne détermine pas à l'avance si on va le donner à 95% ou 98% de la classe d'âge parce que ça ne rend pas service en réalité à nos jeunes ; Deuxièmement je souhaite le retour des filières littéraires, scientifiques, économiques."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Et je souhaite, bien entendu, faire un effort tout particulier sur les savoirs fondamentaux en primaire parce que c'est effectivement là que tout se joue."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen explique vouloir aussi travailler sur la sécurité à l'école, qui peut être très mauvaise selon les zones."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron explique qu'il a pris ça en compte avec les primes pour les professeurs en REP."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Je le sais d'autant plus que j'ai accordé une prime de 4 000 euros à tous les professeurs qui sont en REP et REP+."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "C'est le sujet de la sécurité à l'école, de la discipline et puis du respect des professeurs."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je trouve que c'est profondément injuste, vous savez très bien que selon l'endroit où les professeurs professent, où ils enseignent, et bien, les niveaux des élèves ne sont pas toujours le même."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron explique qu'il a pris ça en compte avec les primes pour les professeurs en REP."
     },
-    {
-        "abstractive": {
-            "text": "Marine le pen souhaite revaloriser les professeurs de 3% par an jusqu'à 16%, ainsi que mettre une demi journée de plus de travail le mercredi matin."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Ce que vous souhaitez c'est en réalité les payer en fonction des résultats de leur année et en fonction de ce qu'ils seraient capables de faire à côté d'ailleurs."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je le dis, je souhaite les revaloriser de 3 % par an jusqu’à 16 %."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "En les faisant travailler une demi-journée de plus."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Non car ils seront payés en plus pour cette demi-journée, au primaire, le mercredi matin."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Je le sais d'autant plus que j'ai accordé une prime de 4 000 euros à tous les professeurs qui sont en REP et REP+."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen souhaite revaloriser les professeurs de 3% par an jusqu'à 16%, ainsi que mettre une demi journée de plus de travail le mercredi matin."
     },
-    {
-        "abstractive": {
-            "text": "Marine le pen souhaite remettre en place les exclusions et les sanctions plus facilement pour les élèvèes avec des problèmes de comportements."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Ce dont vous n'avez pas parlé, c'est la sécurité à l'école."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Et je pense qu'il faut être beaucoup plus sévère, qu'il faut arrêter de mettre la poussière sous le tapis, d'arrêter « le pas de vague » dont beaucoup de professeurs se sont plaints d'ailleurs et qui fait qu'on ne prend plus de décisions, que le conseil de discipline n'ose plus prendre de sanctions, d'exclusions y compris d'exclusions définitives, je le dis, quitte à ouvrir encore une fois des internats qui soient spécifiques à ces enfants qui ont des problèmes de délinquance, des problèmes de comportements mais qui ne doivent pas empêcher les autres de réussir."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Ce que vous souhaitez c'est en réalité les payer en fonction des résultats de leur année et en fonction de ce qu'ils seraient capables de faire à côté d'ailleurs."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je le dis, je souhaite les revaloriser de 3 % par an jusqu’à 16 %."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "En les faisant travailler une demi-journée de plus."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Non car ils seront payés en plus pour cette demi-journée, au primaire, le mercredi matin."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen souhaite remettre en place les exclusions et les sanctions plus facilement pour les élèves avec des problèmes de comportement."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron explique qu'il fera une ravalorisation d'environ 10% des enseignants."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Elle conduira et je veux la poursuivre et la poursuivre dès le début si les Français et les Françaises me font confiance, ce qui que de manière inconditionnelle, il y a une revalorisation d'environ 10 % des enseignants."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Ce dont vous n'avez pas parlé, c'est la sécurité à l'école."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Et je pense qu'il faut être beaucoup plus sévère, qu'il faut arrêter de mettre la poussière sous le tapis, d'arrêter « le pas de vague » dont beaucoup de professeurs se sont plaints d'ailleurs et qui fait qu'on ne prend plus de décisions, que le conseil de discipline n'ose plus prendre de sanctions, d'exclusions y compris d'exclusions définitives, je le dis, quitte à ouvrir encore une fois des internats qui soient spécifiques à ces enfants qui ont des problèmes de délinquance, des problèmes de comportements mais qui ne doivent pas empêcher les autres de réussir."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron explique qu'il fera une revalorisation d'environ 10% des enseignants."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron critique Marine le pen qui s'est opposée à la réouverture des écoles pendant le covid."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Et bien si nous n'avions pas rouvert l'école grâce à nos enseignants dès le 11 mai 2020, je sais que vous vous êtes ô combien opposée à cette mesure, nous n'aurions pas pu parfois fournir un repas par jour à ces enfants et leur permettre d'avoir une année justement des plus correctes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Elle conduira et je veux la poursuivre et la poursuivre dès le début si les Français et les Françaises me font confiance, ce qui que de manière inconditionnelle, il y a une revalorisation d'environ 10 % des enseignants."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron critique Marine Le Pen qui s'est opposée à la réouverture des écoles pendant le covid."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron veut plus de liberté pour travailler avec les parents d'élèves et les périscolaire."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Je veux reconnaitre aussi le fait qu'ils ont besoin d'avoir plus de liberté pour travailler avec les parents d'élèves, avec les directrices et directeurs d'école, avec celles et ceux qui font le périscolaire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Et bien si nous n'avions pas rouvert l'école grâce à nos enseignants dès le 11 mai 2020, je sais que vous vous êtes ô combien opposée à cette mesure, nous n'aurions pas pu parfois fournir un repas par jour à ces enfants et leur permettre d'avoir une année justement des plus correctes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron veut plus de liberté pour travailler avec les parents d'élèves et les périscolaire."
     },
-    {
-        "abstractive": {
-            "text": "Marine le pen critique Emmanuel Macron qui ignore l'école en campagne au profit de l'école en banlieue."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Le problème M. Macron c'est que on a l'impression que dans votre vision tout s'arrête en fait aux grandes villes."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Par exemple le dédoublement des classes de primaire vous l'avez réservé pour les quartiers difficiles."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Je veux reconnaitre aussi le fait qu'ils ont besoin d'avoir plus de liberté pour travailler avec les parents d'élèves, avec les directrices et directeurs d'école, avec celles et ceux qui font le périscolaire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen critique Emmanuel Macron qui ignore l'école en campagne au profit de l'école en banlieue."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron explique qu'il fallait faire des choix et qu'il est impossible de dédoubler les classes dans la france entière, mais qu'il a interdis la fermeture des classes en campagne sans l'accord du maire"
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Le dédoublement des CP CE1, vous ne pouvez pas le faire en France entière, c'est impossible."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Ben non pas bien sûr, parce que j'ai mis fin à la fermeture des classes sans l'accord du maire"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Le problème M. Macron c'est que on a l'impression que dans votre vision tout s'arrête en fait aux grandes villes."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Par exemple le dédoublement des classes de primaire vous l'avez réservé pour les quartiers difficiles."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron explique qu'il fallait faire des choix et qu'il est impossible de dédoubler les classes dans la France entière, mais qu'il a interdit la fermeture des classes en campagne sans l'accord du maire."
+    },
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Le dédoublement des CP CE1, vous ne pouvez pas le faire en France entière, c'est impossible."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Ben non pas bien sûr, parce que j'ai mis fin à la fermeture des classes sans l'accord du maire"
+      }
+    ]
+  }
 ]

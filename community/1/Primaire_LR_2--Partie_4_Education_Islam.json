@@ -1,119 +1,119 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Eric ciotti, bruno retailleau et Aurélien Pradié discutent des atteintes à la laïcité à l'école."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "720 atteintes à la laïcité ont été remarquées en octobre selon les statistiques du ministère de l'Education nationale dans les collèges et dans les lycées."
-            },
-            {
-                "speaker": "P2",
-                "text": "Vous pensez que vous pourriez faire appliquer vos interdictions facilement, dans l'avenir?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Eric Ciotti, Bruno Retailleau et Aurélien Pradié discutent des atteintes à la laïcité à l'école."
     },
-    {
-        "abstractive": {
-            "text": "Eric Ciotti attaque la lâchetée d'emmanuel Macron et explique qu'il faut exclure ces élèves et soutenir les enseignants."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "C'est le préfet de l'Hérault qui doit prendre des dispositions parce que le ministère de l'Éducation ne les prend pas face à la montée de ses atteintes, les abayas, qui sont des provocations où les islamistes testent la République."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Il faut exclure ces élèves, il faut soutenir les enseignants, il faut être intransigeant."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "720 atteintes à la laïcité ont été remarquées en octobre selon les statistiques du ministère de l'Education nationale dans les collèges et dans les lycées."
+      },
+      {
+        "speaker": "P2",
+        "text": "Vous pensez que vous pourriez faire appliquer vos interdictions facilement, dans l'avenir?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti attaque la lâcheté d'Emmanuel Macron et explique qu'il faut exclure ces élèves et soutenir les enseignants."
     },
-    {
-        "abstractive": {
-            "text": "Aurélien Pradié explique vouloir mettre en place l'uniformer obligatoire à l'école jusqu'à l'université."
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Je propose que désormais, tous les élèves portent la même tenue vestimentaire."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Mais aussi pour un autre objectif, plus social."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Oui, y compris à l'université."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "C'est le préfet de l'Hérault qui doit prendre des dispositions parce que le ministère de l'Éducation ne les prend pas face à la montée de ses atteintes, les abayas, qui sont des provocations où les islamistes testent la République."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Il faut exclure ces élèves, il faut soutenir les enseignants, il faut être intransigeant."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Aurélien Pradié explique vouloir mettre en place l'uniforme obligatoire à l'école jusqu'à l'université."
     },
-    {
-        "abstractive": {
-            "text": "Aurélien Pradié explique vouloir ouvrir le débat sur les tenues religieuses dans les espaces publics."
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Un objectif de laïcité impératif."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "D'abord parce que je considère que le voile porté par les femmes, dans des conditions qui sont celles de nos écoles, de nos collèges, de nos lycées ou de nos universités, ne sont pas des signes d'émancipation."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Je veux que nous ouvrions le débat sur le port des tenues religieuses dans les espaces publics."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Je propose que désormais, tous les élèves portent la même tenue vestimentaire."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Mais aussi pour un autre objectif, plus social."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Oui, y compris à l'université."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Aurélien Pradié explique vouloir ouvrir le débat sur les tenues religieuses dans les espaces publics."
     },
-    {
-        "abstractive": {
-            "text": "Bruno Retailleau explique que le droite doit porter un projet de civilisation."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "J'ai souvent dit que la droite devait porter un projet de civilisation, voilà un bel exemple."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Je pense que l'islamisme, c'est un combat culturel."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Un objectif de laïcité impératif."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "D'abord parce que je considère que le voile porté par les femmes, dans des conditions qui sont celles de nos écoles, de nos collèges, de nos lycées ou de nos universités, ne sont pas des signes d'émancipation."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Je veux que nous ouvrions le débat sur le port des tenues religieuses dans les espaces publics."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau explique que la droite doit porter un projet de civilisation."
     },
-    {
-        "abstractive": {
-            "text": "Bruno retailleau souhaite faire appliquer les lois qui existent et les compléter."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Un, appliquer les lois qui existent. On a tellement de lois en France que d'abord, appliquons-les, 2004, c'est cette loi qui permet de faire obstacle aux tenues longues islamistes."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Deuxième chose, il faut compléter la loi."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Au Sénat, on a voté l'interdiction du voile, des signes ostentatoires pour les sorties scolaires, pour les compétitions sportives, l'interdiction du burkini aussi pour les piscines."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "J'ai souvent dit que la droite devait porter un projet de civilisation, voilà un bel exemple."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Je pense que l'islamisme, c'est un combat culturel."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau souhaite faire appliquer les lois qui existent et les compléter."
     },
-    {
-        "abstractive": {
-            "text": "Bruno retailleau et Eric Ciotti sont aussi pour l'obligation de l'uniforme à l'école."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "C'est vrai qu'à l'école, on peut avoir des tenues uniformes."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "L'uniforme, je l'ai défendu dans la loi sur l'école, il y a 3 ans"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Un, appliquer les lois qui existent. On a tellement de lois en France que d'abord, appliquons-les, 2004, c'est cette loi qui permet de faire obstacle aux tenues longues islamistes."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Deuxième chose, il faut compléter la loi."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Au Sénat, on a voté l'interdiction du voile, des signes ostentatoires pour les sorties scolaires, pour les compétitions sportives, l'interdiction du burkini aussi pour les piscines."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau et Eric Ciotti sont aussi pour l'obligation de l'uniforme à l'école."
+    },
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "C'est vrai qu'à l'école, on peut avoir des tenues uniformes."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "L'uniforme, je l'ai défendu dans la loi sur l'école, il y a 3 ans"
+      }
+    ]
+  }
 ]

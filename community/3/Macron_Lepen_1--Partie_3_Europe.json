@@ -1,348 +1,348 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Le Pen et Macron discutent de la question européenne."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Pouvez-vous chacun nous donner votre vision de l’Europe de demain ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Marine Le Pen et Emmanuel Macron discutent de la question européenne."
     },
-    {
-        "abstractive": {
-            "text": "Le Pen souhaite une union de nations libres et indépendantes."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Oui bien entendu et bien l’Union européenne aura laissé la place à l’Alliance européenne des nations libres et souveraines."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Pouvez-vous chacun nous donner votre vision de l’Europe de demain ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen souhaite une union de nations libres et indépendantes."
     },
-    {
-        "abstractive": {
-            "text": "Chaque pays maîtrisera ainsi ses frontières et sa monnaie ; il sera possible avec ces instruments de combattre le chômage de masse, et d’instaurer du protectionnisme économique pour lutter contre le dumping social et environnemental."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Ils maitriseront, par exemple, leurs frontières et pourront décider de qui rentre et qui ne rentre pas sur leur territoire."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Ils auront la maîtrise de leur monnaie, pour pouvoir adapter cette monnaie à leur économie pour pouvoir éviter de se retrouver avec cette situation, que nous connaissons, de chômage de masse et de perte de compétitivité, que M. Macron essaie de résoudre en proposant soit de baisser les salaires, soit d’effondrer le système d’indemnisation chômage, c'est-à-dire en fait le système de protection sociale."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Puis surtout nous retrouverons la souveraineté économique, c'est-à-dire la liberté de faire du patriotisme économique, de donner un avantage à nos entreprises françaises dans les marchés publics, de faire du protectionnisme intelligent, c'est-à-dire de mettre en place les écluses qui sont nécessaires pour que des productions ne viennent pas nous concurrencer en faisant du dumping sanitaire, du dumping social, du dumping environnemental."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Oui bien entendu et bien l’Union européenne aura laissé la place à l’Alliance européenne des nations libres et souveraines."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Chaque pays maîtrisera ainsi ses frontières et sa monnaie ; il sera possible avec ces instruments de combattre le chômage de masse, et d’instaurer du protectionnisme économique pour lutter contre le dumping social et environnemental."
     },
-    {
-        "abstractive": {
-            "text": "Sur la méthode, Le Pen propose un premier référendum pour inverser la hiérarchie des normes ; puis un second pour inviter les Français à se prononcer sur le résultat de sa négociation avec les autres chefs d’État, laquelle vise à fonder l’union des nations qu’elle défend."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Donc je souhaite entrer en négociation pour faire naître cette alliance européenne, organiser une conférence des chefs d’États et de Gouvernements, un petit peu sur le modèle de la conférence de Messine."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Le référendum constitutionnel sera en septembre, précisément en septembre, où j’indiquerai que toute loi nouvelle a une autorité supérieure aux traités précédents européens."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Ils maitriseront, par exemple, leurs frontières et pourront décider de qui rentre et qui ne rentre pas sur leur territoire."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Ils auront la maîtrise de leur monnaie, pour pouvoir adapter cette monnaie à leur économie pour pouvoir éviter de se retrouver avec cette situation, que nous connaissons, de chômage de masse et de perte de compétitivité, que M. Macron essaie de résoudre en proposant soit de baisser les salaires, soit d’effondrer le système d’indemnisation chômage, c'est-à-dire en fait le système de protection sociale."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Puis surtout nous retrouverons la souveraineté économique, c'est-à-dire la liberté de faire du patriotisme économique, de donner un avantage à nos entreprises françaises dans les marchés publics, de faire du protectionnisme intelligent, c'est-à-dire de mettre en place les écluses qui sont nécessaires pour que des productions ne viennent pas nous concurrencer en faisant du dumping sanitaire, du dumping social, du dumping environnemental."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Sur la méthode, Marine Le Pen propose un premier référendum pour inverser la hiérarchie des normes ; puis un second pour inviter les Français à se prononcer sur le résultat de sa négociation avec les autres chefs d’État, laquelle vise à fonder l’union des nations qu’elle défend."
     },
-    {
-        "abstractive": {
-            "text": "Elle entend notamment grâce à ces négociations transformer l’euro en union commune."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je me tournerai vers les Français et je leur livrerai l’issue de la négociation, je leur dirai voilà ce que j’ai réussi à obtenir, est-ce que vous considérez que c’est suffisant ou est-ce que vous considérez que ça n’est pas suffisant ?"
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "D’accord, donc on revient au franc, donc vous proposez bien de sortir de l’euro ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Donc je souhaite entrer en négociation pour faire naître cette alliance européenne, organiser une conférence des chefs d’États et de Gouvernements, un petit peu sur le modèle de la conférence de Messine."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Le référendum constitutionnel sera en septembre, précisément en septembre, où j’indiquerai que toute loi nouvelle a une autorité supérieure aux traités précédents européens."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle entend notamment grâce à ces négociations transformer l’euro en union commune."
     },
-    {
-        "abstractive": {
-            "text": "Les banques centrales et les grandes entreprises pourront donc payer en euro ; ce sera en somme un retour au SME, le système monétaire européen de 1993 à 2002."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Non, je vais renégocier pour que l’euro on s’en libère et on le transforme en monnaie commune."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Les banques centrales payeront avec de l’euro si elles le souhaitent, les grandes entreprises payeront avec l’euro si elles le souhaitent."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Vous le savez très bien il a fonctionné dans le cas du SME et honnêtement de 1993 à 2002 c’était plutôt performant."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je me tournerai vers les Français et je leur livrerai l’issue de la négociation, je leur dirai voilà ce que j’ai réussi à obtenir, est-ce que vous considérez que c’est suffisant ou est-ce que vous considérez que ça n’est pas suffisant ?"
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "D’accord, donc on revient au franc, donc vous proposez bien de sortir de l’euro ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Les banques centrales et les grandes entreprises pourront donc payer en euro ; ce sera en somme un retour au SME, le système monétaire européen de 1993 à 2002."
     },
-    {
-        "abstractive": {
-            "text": "Toutefois Macron explique que ce système ne permettait en réalité pas aux entreprises de payer de la sorte."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais c’est fondamental parce qu’une grande entreprise elle ne pourra pas payer en euros d’un côté et payer ses salariés, de l’autre, en francs."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Non, je vais renégocier pour que l’euro on s’en libère et on le transforme en monnaie commune."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Les banques centrales payeront avec de l’euro si elles le souhaitent, les grandes entreprises payeront avec l’euro si elles le souhaitent."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Vous le savez très bien il a fonctionné dans le cas du SME et honnêtement de 1993 à 2002 c’était plutôt performant."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Toutefois Emmanuel Macron explique que ce système ne permettait en réalité pas aux entreprises de payer de la sorte."
     },
-    {
-        "abstractive": {
-            "text": "La monnaie commune n’était qu’une unité de référence."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "L’écu c’était une monnaie de référence, personne ne payait en écu."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais c’est fondamental parce qu’une grande entreprise elle ne pourra pas payer en euros d’un côté et payer ses salariés, de l’autre, en francs."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "La monnaie commune n’était qu’une unité de référence."
     },
-    {
-        "abstractive": {
-            "text": "Le Pen pense alors que son adversaire agite des peurs irrationnelles, comme pour le Brexit."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Tiens, je vois revenir le projet peur, le projet peur que vous aviez développé au moment du Brexit."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "L’écu c’était une monnaie de référence, personne ne payait en écu."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen pense alors que son adversaire agite des peurs irrationnelles, comme pour le Brexit."
     },
-    {
-        "abstractive": {
-            "text": "Cependant, selon Macron, le Brexit ne peut être comparable à la sortie de l’euro de la France dans la mesure où la Grande-Bretagne n’était pas dans la zone euro ; le problème est donc différent."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais, Madame Le Pen, la Grande Bretagne elle n’a jamais été dans l’euro."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Tiens, je vois revenir le projet peur, le projet peur que vous aviez développé au moment du Brexit."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Cependant, selon Macron, le Brexit ne peut être comparable à la sortie de l’euro de la France dans la mesure où la Grande-Bretagne n’était pas dans la zone euro ; le problème est donc différent."
     },
-    {
-        "abstractive": {
-            "text": "Toutefois, pour Le Pen, la sortie de l’UE de la Grande-Bretagne est un exemple révélateur : Macron promettait une catastrophe économique avec récession et chômage, or c’est l’inverse qui se passe."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Vous avez dit aux Britanniques si jamais vous sortez de l’Union européenne, et ne parlons même pas de la monnaie, ils n’étaient pas dans l’euro, donc Si jamais vous sortez de l'Union européenne, vous allez voir, ça va être dramatique, votre économie va s’effondrer, vous allez rentrer en récession, le chômage va exploser et bien c’est exactement l’inverse qui s’est déroulé."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais, Madame Le Pen, la Grande Bretagne elle n’a jamais été dans l’euro."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Toutefois, pour Le Pen, la sortie de l’UE de la Grande-Bretagne est un exemple révélateur : Emmanuel Macron promettait une catastrophe économique avec récession et chômage, or c’est l’inverse qui se passe."
     },
-    {
-        "abstractive": {
-            "text": "Macron refuse le projet de Le Pen, qu’il juge dangereux."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Moi je dis que c’est un projet mortifère et que c’est un projet dangereux et que votre bidouillage que vous nous avez fait dans le week-end avec M. Dupont-Aignan n’a aucun sens."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Vous avez dit aux Britanniques si jamais vous sortez de l’Union européenne, et ne parlons même pas de la monnaie, ils n’étaient pas dans l’euro, donc Si jamais vous sortez de l'Union européenne, vous allez voir, ça va être dramatique, votre économie va s’effondrer, vous allez rentrer en récession, le chômage va exploser et bien c’est exactement l’inverse qui s’est déroulé."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron refuse le projet de Le Pen, qu’il juge dangereux."
     },
-    {
-        "abstractive": {
-            "text": "Il faut au contraire un euro fort avec un politique européenne au sein de laquelle il faut défendre les intérêt de la France."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Non mais ma vision de l’Europe c’est justement de construire un euro fort, de construire une politique européenne qui sera forte et dans laquelle nous défendrons les intérêts de la France."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Moi je dis que c’est un projet mortifère et que c’est un projet dangereux et que votre bidouillage que vous nous avez fait dans le week-end avec M. Dupont-Aignan n’a aucun sens."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il faut au contraire un euro fort avec une politique européenne au sein de laquelle il faut défendre les intérêts de la France."
     },
-    {
-        "abstractive": {
-            "text": "La sortie de l’euro rendrait les échanges difficiles et détruirait l’épargne des Français par la dévaluation."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Chaque pays aura sa monnaie Monsieur Macron."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Celui qui fait des pommes et qui les vend aujourd’hui en euros, qui a besoin de l’euro comme monnaie commune, demain il ne l’aura plus."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "L’épargnant qui nous écoute, le jour où vous faites cette sortie parce que comment vous faites votre programme ?"
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Vous dévaluez le nouveau franc de 20 à 30%."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Même ce qui est fait en France a besoin du reste de l’Europe."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Non mais ma vision de l’Europe c’est justement de construire un euro fort, de construire une politique européenne qui sera forte et dans laquelle nous défendrons les intérêts de la France."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "La sortie de l’euro rendrait les échanges difficiles et détruirait l’épargne des Français par la dévaluation."
     },
-    {
-        "abstractive": {
-            "text": "A terme, privée d’échanges avec ses partenaires, la France perdrait en compétitivité."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais vous allez baisser leur compétitivité, nous sommes dans le monde."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Chaque pays aura sa monnaie Monsieur Macron."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Celui qui fait des pommes et qui les vend aujourd’hui en euros, qui a besoin de l’euro comme monnaie commune, demain il ne l’aura plus."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "L’épargnant qui nous écoute, le jour où vous faites cette sortie parce que comment vous faites votre programme ?"
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Vous dévaluez le nouveau franc de 20 à 30%."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Même ce qui est fait en France a besoin du reste de l’Europe."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "À terme, privée d’échanges avec ses partenaires, la France perdrait en compétitivité."
     },
-    {
-        "abstractive": {
-            "text": "Le Pen pense l’inverse, car l’Allemagne, par l’appréciation de sa monnaie, perdrait en compétitivité par rapport à la France."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Attends, nous allons gagner de la compétitivité."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Précisément parce que justement ça va s’apprécier et que l’Allemagne va en perdre, justement."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais vous allez baisser leur compétitivité, nous sommes dans le monde."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen pense l’inverse, car l’Allemagne, par l’appréciation de sa monnaie, perdrait en compétitivité par rapport à la France."
     },
-    {
-        "abstractive": {
-            "text": "Macron rappelle que ce sera une perte de pouvoir d’achat et d’emplois ; la solution consiste à entreprendre des réformes."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais je ne veux pas, pour nos concitoyens, qu’ils perdent du pouvoir d’achat, des emplois, de la compétitivité, par la sortie de l’euro et c’est ce que vous proposez."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Moi ce que je veux c’est une France qui fait les réformes, qui prend ses responsabilités."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Attends, nous allons gagner de la compétitivité."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Précisément parce que justement ça va s’apprécier et que l’Allemagne va en perdre, justement."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron rappelle que ce sera une perte de pouvoir d’achat et d’emplois ; la solution consiste à entreprendre des réformes."
     },
-    {
-        "abstractive": {
-            "text": "Il précise que lorsque l’euro n’existait, le chômage était plus élevé dans l’UE."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Donc, au début des années 90, quand il y avait la vraie guerre des monnaies et que la France n’était pas encore entrée dans une convergence, en particulier avec l’Allemagne, il y avait plus de chômeurs qu'aujourd'hui."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais je ne veux pas, pour nos concitoyens, qu’ils perdent du pouvoir d’achat, des emplois, de la compétitivité, par la sortie de l’euro et c’est ce que vous proposez."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Moi ce que je veux c’est une France qui fait les réformes, qui prend ses responsabilités."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il précise que lorsque l’euro n’existait pas, le chômage était plus élevé dans l’UE."
     },
-    {
-        "abstractive": {
-            "text": "Macron rejette ensuite le contrôle des capitaux et se dit favorable à changer la directive travailleurs détachés."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Je ne veux pas du contrôle des capitaux ce sera la panique bancaire et le projet c’est l’affaiblissement de notre industrie."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Donc, au début des années 90, quand il y avait la vraie guerre des monnaies et que la France n’était pas encore entrée dans une convergence, en particulier avec l’Allemagne, il y avait plus de chômeurs qu'aujourd'hui."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron rejette ensuite le contrôle des capitaux et se dit favorable à changer la directive travailleurs détachés."
     },
-    {
-        "abstractive": {
-            "text": "Il souhaite également que les marchés européens soient réservés pour au moins 50 % à des entreprises européennes."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Et, moi je veux dans cette Europe, dès le début profondément changer la directive travailleur détaché."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Donc, ce que je propose c’est clair, c’est cohérent, c’est d’avoir une Europe qui protège davantage, avec des marchés européens qui sont réservés à au moins 50% des entreprises européennes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Je ne veux pas du contrôle des capitaux ce sera la panique bancaire et le projet c’est l’affaiblissement de notre industrie."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il souhaite également que les marchés européens soient réservés pour au moins 50 % à des entreprises européennes."
     },
-    {
-        "abstractive": {
-            "text": "Enfin, il veut soutenir une politique commerciale protectrice, appuyée par un euro fort et davantage d’investissements."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Un euro fort avec plus d’investissements européens, parce que nous en avons besoin, avoir un vrai contrôle, un travail détaché qui est mieux contrôlé qu'aujourd’hui, et enfin, c’est d’avoir une politique commerciale qui protège plus qu’aujourd’hui."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Et, moi je veux dans cette Europe, dès le début profondément changer la directive travailleur détaché."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Donc, ce que je propose c’est clair, c’est cohérent, c’est d’avoir une Europe qui protège davantage, avec des marchés européens qui sont réservés à au moins 50% des entreprises européennes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Enfin, il veut soutenir une politique commerciale protectrice, appuyée par un euro fort et davantage d’investissements."
     },
-    {
-        "abstractive": {
-            "text": "Ce discours est tenu depuis trop longtemps pour être crédible, d’après Le Pen."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Monsieur Macron, ça fait vingt-cinq ans que vous promettez l’Europe sociale, vous et vos amis socialistes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Un euro fort avec plus d’investissements européens, parce que nous en avons besoin, avoir un vrai contrôle, un travail détaché qui est mieux contrôlé qu'aujourd’hui, et enfin, c’est d’avoir une politique commerciale qui protège plus qu’aujourd’hui."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ce discours est tenu depuis trop longtemps pour être crédible, d’après Le Pen."
     },
-    {
-        "abstractive": {
-            "text": "C’est l’État stratège, selon elle, qui protégera les Français ; elle explique que si rien n’est fait, les banques pourraient ponctionner l’épargne des citoyens, comme à Chypre."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Si l’État stratège, que je mènerai, n’est pas là pour taper du poing sur la table et pour empêcher la loi sur l’union bancaire, qui en cas de défaillance bancaire ira piocher directement dans les comptes en banque des épargnants ainsi que dans leur assurance vie, c’est d’ailleurs ce qu’ils ont fait à Chypre, si ce n’est pas moi qui avec l’État stratège dis Non, je protègerai l’épargne des Français quel qu’en soit le prix et quelle qu’en soit la bagarre que je dois mener avec l’Union européenne, alors les Français se feront ponctionner leur épargne."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Monsieur Macron, ça fait vingt-cinq ans que vous promettez l’Europe sociale, vous et vos amis socialistes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "C’est l’État stratège, selon elle, qui protégera les Français ; elle explique que si rien n’est fait, les banques pourraient ponctionner l’épargne des citoyens, comme à Chypre."
     },
-    {
-        "abstractive": {
-            "text": "Macron rappelle néanmoins que c’est la menace de la sortie de l’euro qui a entraîné la panique bancaire à Chypre et en Grèce."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "La panique bancaire quand elle a eu lieu à Chypre, quand elle a eu lieu à Athènes, c’était quoi, c’était la menace de la sortie de l’euro, justement."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Si l’État stratège, que je mènerai, n’est pas là pour taper du poing sur la table et pour empêcher la loi sur l’union bancaire, qui en cas de défaillance bancaire ira piocher directement dans les comptes en banque des épargnants ainsi que dans leur assurance vie, c’est d’ailleurs ce qu’ils ont fait à Chypre, si ce n’est pas moi qui avec l’État stratège dis Non, je protègerai l’épargne des Français quel qu’en soit le prix et quelle qu’en soit la bagarre que je dois mener avec l’Union européenne, alors les Français se feront ponctionner leur épargne."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron rappelle néanmoins que c’est la menace de la sortie de l’euro qui a entraîné la panique bancaire à Chypre et en Grèce."
     },
-    {
-        "abstractive": {
-            "text": "Il se place ensuite dans les pas de de Gaulle et Adenauer pour refonder l’Europe."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Il y a eu des dirigeants visionnaires, le Général de Gaulle et le Chancelier Adenauer, ils ont su travailler ensemble, ils l’ont fait le avec."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "La panique bancaire quand elle a eu lieu à Chypre, quand elle a eu lieu à Athènes, c’était quoi, c’était la menace de la sortie de l’euro, justement."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il se place ensuite dans les pas de de Gaulle et Adenauer pour refonder l’Europe."
     },
-    {
-        "abstractive": {
-            "text": "Par opposition au nationalisme et à l’isolationnisme de Le Pen, Macron défend une Europe unie, forte et soudée ; or, cette vision s’appuie pour son adversaire sur un déséquilibre entre la France et l’Allemagne, lequel pourrait engendrer la guerre"
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Ils ne voulaient pas cette Europe-là."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais je ne rigole pas avec ça. Madame Le Pen, le protectionnisme, l'isolationnisme, le nationalisme, c'est votre projet."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "C’est le déséquilibre entre les rapports entre l’Allemagne et la France, qui sont en réalité les germes de la guerre."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Il y a eu des dirigeants visionnaires, le Général de Gaulle et le Chancelier Adenauer, ils ont su travailler ensemble, ils l’ont fait le avec."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Par opposition au nationalisme et à l’isolationnisme de Le Pen, Emmanuel Macron défend une Europe unie, forte et soudée ; or, cette vision s’appuie pour son adversaire sur un déséquilibre entre la France et l’Allemagne, lequel pourrait engendrer la guerre."
+    },
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Ils ne voulaient pas cette Europe-là."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais je ne rigole pas avec ça. Madame Le Pen, le protectionnisme, l'isolationnisme, le nationalisme, c'est votre projet."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "C’est le déséquilibre entre les rapports entre l’Allemagne et la France, qui sont en réalité les germes de la guerre."
+      }
+    ]
+  }
 ]

@@ -1,132 +1,132 @@
 [
-    {
-        "abstractive": {
-            "text": "Alors que Le Pen souhaite abroger la loi El Khomri, Macron est favorable à une réforme du marché du travail par ordonnance."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Marine Le Pen vous considérez que le code du travail n'est pas un frein à l'embauche, vous voulez abroger la loi El Khomri."
-            },
-            {
-                "speaker": "P1",
-                "text": "Vous, Emmanuel Macron, vous voulez réformer le marché du travail et dès cet été, et par ordonnance."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Alors que Marine Le Pen souhaite abroger la loi El Khomri, Emmanuel Macron est favorable à une réforme du marché du travail par ordonnance."
     },
-    {
-        "abstractive": {
-            "text": "Il compte donner un droit à l’erreur pour tous les acteurs économiques, supprimer le RSI pour les commerçants et artisans, et rendre possible des accords majoritaires d’entreprise ou de branches dans le cadre d’ajustements du droit du travail."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Le problème de la France depuis 30 ans, c'est le taux de chômage."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "C'est pour cela que moi, je veux de la simplicité, d'abord en créant un droit à l'erreur pour tous les acteurs économiques dès cet été."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Ensuite, c'est supprimer le RSI pour les commerçants et les artisans, fondamental là aussi pour pouvoir croître et embaucher."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Et enfin, c'est davoir un droit du travail qui n'est pas, comme aujourd'hui, déterminé partout, pour tout, toutes les catégories, tous les secteurs dans une loi qui est devenue trop rigide ; mais qui puisse renvoyer à des accords majoritaires d'entreprise ou des accords majoritaires de branche."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Marine Le Pen vous considérez que le code du travail n'est pas un frein à l'embauche, vous voulez abroger la loi El Khomri."
+      },
+      {
+        "speaker": "P1",
+        "text": "Vous, Emmanuel Macron, vous voulez réformer le marché du travail et dès cet été, et par ordonnance."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il compte donner un droit à l’erreur pour tous les acteurs économiques, supprimer le RSI pour les commerçants et artisans, et rendre possible des accords majoritaires d’entreprise ou de branches dans le cadre d’ajustements du droit du travail."
     },
-    {
-        "abstractive": {
-            "text": "Le Pen l’attaque alors sur son bilan : elle lui reproche ne pas avoir baissé les charges sur les PME et TPE et de pas avoir cherché à raccourcir leurs délais de paiement, de ne pas avoir simplifié les procédures administratives, et d’avoir encouragé les travailleurs détachés."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Vous n'avez pas baissé les charges des TPE, PME, vous n'avez pas mis en oeuvre des délais de paiement pour les TPE, PME ; pas de guichet unique ; pas de simplification administrative ; pas de patriotisme économique, ça vous horrifie car vous êtes un européiste convaincu."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Le problème de la France depuis 30 ans, c'est le taux de chômage."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "C'est pour cela que moi, je veux de la simplicité, d'abord en créant un droit à l'erreur pour tous les acteurs économiques dès cet été."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Ensuite, c'est supprimer le RSI pour les commerçants et les artisans, fondamental là aussi pour pouvoir croître et embaucher."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Et enfin, c'est davoir un droit du travail qui n'est pas, comme aujourd'hui, déterminé partout, pour tout, toutes les catégories, tous les secteurs dans une loi qui est devenue trop rigide ; mais qui puisse renvoyer à des accords majoritaires d'entreprise ou des accords majoritaires de branche."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen l’attaque alors sur son bilan : elle lui reproche ne pas avoir baissé les charges sur les PME et TPE et de ne pas avoir cherché à raccourcir leurs délais de paiement, de ne pas avoir simplifié les procédures administratives, et d’avoir encouragé les travailleurs détachés."
     },
-    {
-        "abstractive": {
-            "text": "Elle fustige également la vente de plusieurs groupes français lorsqu’il était ministre de l’économie."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Ah si, un certain nombre, pardon encore une fois, de grandes entreprises vous ont vu, ce sont celles que vous avez fait acheter par des grands groupes américains évidemment au détriment de l'intérêt national, c'est Alstom, cest Technip, il y en a eu toute une série d'autres avec, dans le cadre du conflit d'intérêts, les problématiques avec l'ancienne banque chez qui vous travailliez."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Vous n'avez pas baissé les charges des TPE, PME, vous n'avez pas mis en oeuvre des délais de paiement pour les TPE, PME ; pas de guichet unique ; pas de simplification administrative ; pas de patriotisme économique, ça vous horrifie car vous êtes un européiste convaincu."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle fustige également la vente de plusieurs groupes français lorsqu’il était ministre de l'Économie."
     },
-    {
-        "abstractive": {
-            "text": "Concernant son programme, Le Pen défend une baisse de la fiscalité pour les petites et moyennes entreprises, le CICE n’ayant selon elle profité qu’aux grands groupes."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je vous ai dit, baisse des charges des TPE, PME, baisse de la fiscalité, je vous ai tout donné Monsieur Macron."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Ah si, un certain nombre, pardon encore une fois, de grandes entreprises vous ont vu, ce sont celles que vous avez fait acheter par des grands groupes américains évidemment au détriment de l'intérêt national, c'est Alstom, cest Technip, il y en a eu toute une série d'autres avec, dans le cadre du conflit d'intérêts, les problématiques avec l'ancienne banque chez qui vous travailliez."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Concernant son programme, Marine Le Pen défend une baisse de la fiscalité pour les petites et moyennes entreprises, le CICE n’ayant selon elle profité qu’aux grands groupes."
     },
-    {
-        "abstractive": {
-            "text": "Pour Macron, Le Pen ment et se contente de souligner les problèmes sans ne jamais proposer de solutions."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Madame Le Pen, ce qui est extraordinaire c'est que votre stratégie, et c'est normal ça fait des décennies que ça dure, votre stratégie c'est seulement de dire beaucoup de mensonges et de dire tout ce qui ne va pas dans le pays mais vous ne proposez rien."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je vous ai dit, baisse des charges des TPE, PME, baisse de la fiscalité, je vous ai tout donné Monsieur Macron."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Macron, Marine Le Pen ment et se contente de souligner les problèmes sans ne jamais proposer de solutions."
     },
-    {
-        "abstractive": {
-            "text": "Il la blâme ensuite sur les exemples qu’elle cite ; Le Pen confond en effet la vente de SFR, entreprise privée dans laquelle l’État n’est pas impliqué, avec celle d’Alstom."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Je n'étais pas ministre quand SFR a été vendu et SFR était la propriété d'un groupe totalement privé qui était Vivendi."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Vous parlez d'Alstom et de General Electric."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Madame Le Pen, ce qui est extraordinaire c'est que votre stratégie, et c'est normal ça fait des décennies que ça dure, votre stratégie c'est seulement de dire beaucoup de mensonges et de dire tout ce qui ne va pas dans le pays mais vous ne proposez rien."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il la blâme ensuite sur les exemples qu’elle cite ; Marine Le Pen confond en effet la vente de SFR, entreprise privée dans laquelle l’État n’est pas impliqué, avec celle d’Alstom."
     },
-    {
-        "abstractive": {
-            "text": "Macron rappelle alors s’être battu pour sauver cette entreprise."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Quant à General Electric et Alstom, M. Montebourg s'est battu, je me suis battu à ses côtés pour que ça ne soit pas vendu."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Je n'étais pas ministre quand SFR a été vendu et SFR était la propriété d'un groupe totalement privé qui était Vivendi."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Vous parlez d'Alstom et de General Electric."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron rappelle alors s’être battu pour sauver cette entreprise."
     },
-    {
-        "abstractive": {
-            "text": "Le Pen l’accuse au contraire d’avoir bradé l’industrie française et avec elle, les intérêts nationaux."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Vous savez tout vendre vous, le seul problème c'est que vous savez tout vendre mais pas au bénéfice des intérêts nationaux."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Quant à General Electric et Alstom, M. Montebourg s'est battu, je me suis battu à ses côtés pour que ça ne soit pas vendu."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen l’accuse au contraire d’avoir bradé l’industrie française et avec elle, les intérêts nationaux."
     },
-    {
-        "abstractive": {
-            "text": "Macron clôt la discussion en appelant à être pragmatique et à relancer l’investissement privé comme public"
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "On a besoin d'avoir beaucoup plus de pragmatisme et on a besoin d'avoir une politique en faveur de l'investissement privé et public"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Vous savez tout vendre vous, le seul problème c'est que vous savez tout vendre mais pas au bénéfice des intérêts nationaux."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron clôt la discussion en appelant à être pragmatique et à relancer l’investissement privé comme public."
+    },
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "On a besoin d'avoir beaucoup plus de pragmatisme et on a besoin d'avoir une politique en faveur de l'investissement privé et public"
+      }
+    ]
+  }
 ]

@@ -1,329 +1,329 @@
 [
-    {
-        "abstractive": {
-            "text": "François Mitterrand débute en prétendant représenter la france qui travaille, contrairement à Valéry Giscard d'Estaing qui présente un programme sans risque pour les plus riches."
-        },
-        "extractive": [
-            {
-                "speaker": "François Mitterrand",
-                "text": "Il y avait un mot important dans vos premières phrases, c'était lorsque vous avez dit, euh, ce ne sera pas la même chose."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Quoiqu'il advienne, de toute façon, vous serez, vous resterez, très représentatif des forces politiques qui vous soutiennent, que, moi, je classe, de la façon que vous savez, je l'ai dit, mais vous faites partie de la france, et vous représentez un courant important de la vie nationale."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Est-ce que le vrai sujet n'est pas de savoir si, après l'élection du président de la république, les français, vivront mieux, autrement, d’une façon plus juste, avec plus de chances de participer aux progrès du pays."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Voyez-vous le changement sans risque, dont vous avez parlé ?"
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Il est sans risque, naturellement, pour des gens comme vous."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "François Mitterrand débute en prétendant représenter la France qui travaille, contrairement à Valéry Giscard D'Estaing qui présente un programme sans risque pour les plus riches."
     },
-    {
-        "abstractive": {
-            "text": "Valéry giscard d'estaing explique que les deux candidats représentent la france qui travaille."
-        },
-        "extractive": [
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Je représente des électeurs qui sont aussi modeste que les vôtres."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Je ne veux pas vous laisser, parce que, en fait, c'est une présentation très habile, une présentation très politique des choses, de laisser croire que vous représentez la catégorie des travailleurs, et je représenterait une autre catégorie, favorisée, ou privilégiée, monsieur mitterrand."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Nous avons chacun le droit de représenter la france qui travaille."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Mitterrand",
+        "text": "Il y avait un mot important dans vos premières phrases, c'était lorsque vous avez dit, euh, ce ne sera pas la même chose."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Quoiqu'il advienne, de toute façon, vous serez, vous resterez, très représentatif des forces politiques qui vous soutiennent, que, moi, je classe, de la façon que vous savez, je l'ai dit, mais vous faites partie de la france, et vous représentez un courant important de la vie nationale."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Est-ce que le vrai sujet n'est pas de savoir si, après l'élection du président de la république, les français, vivront mieux, autrement, d’une façon plus juste, avec plus de chances de participer aux progrès du pays."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Voyez-vous le changement sans risque, dont vous avez parlé ?"
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Il est sans risque, naturellement, pour des gens comme vous."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valéry Giscard D'Estaing explique que les deux candidats représentent la France qui travaille."
     },
-    {
-        "abstractive": {
-            "text": "François Mitterrand explique ensuite les difficultés pour les ménagères française, qui subissent l'inflation."
-        },
-        "extractive": [
-            {
-                "speaker": "François Mitterrand",
-                "text": "On peut penser, par exemple, à des gens qui, habitant une hlm, par exemple, F quatre, et qui, euh, payent un loyer de combien, sept cent trente-sept francs, avec les charges locatives, qui sont très lourdes, euh, et plus lourde encore, depuis, euh, les augmentations du fioul, c'est-à-dire plus des deux tiers du smic, lorsque la la ménagère, la mère de famille, qui, euh, s'intéresse à notre débat ce soir, monsieur giscard d'estaing, s'intéresse à notre débat."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Elle est là, et, et elle a besoin qu'on, qu'on lui parle de choses pratiques, quand on parle de progrès, quand on parle de changement, elle, qu'est ce qu'elle se dit ?"
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Elle se dit que, lorsqu'elle va au marché, elle aperçoit que, en dépit de l'indice des prix, qui est déjà très effrayant, car, comme vous le savez, si la courbe continue, euh, telle qu'elle a commencée au cours du premier trimestre de cette année, d'après les chiffres de l'insee, et elle atteindra dix-sept pour cent d'augmentation cette année."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Ensuite, lorsqu'elle se rend compte des immenses difficultées qu’elle a par exemple, lorsqu'elles habitent dans un quartier éloigné, pour placer son enfant dans une école maternelle."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Je représente des électeurs qui sont aussi modeste que les vôtres."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Je ne veux pas vous laisser, parce que, en fait, c'est une présentation très habile, une présentation très politique des choses, de laisser croire que vous représentez la catégorie des travailleurs, et je représenterait une autre catégorie, favorisée, ou privilégiée, monsieur mitterrand."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Nous avons chacun le droit de représenter la france qui travaille."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Mitterrand explique ensuite les difficultés pour les ménagères françaises, qui subissent l'inflation."
     },
-    {
-        "abstractive": {
-            "text": "François Mitterrand explique aussi que les étudiants français ne trouvent pas de travail."
-        },
-        "extractive": [
-            {
-                "speaker": "François Mitterrand",
-                "text": "Lorsqu'elle arrivera, à la fin des études de cet enfant, les immenses difficultés qu'elle aura pour, euh, lui, voir obtenir un premier emploi, lorsque le garçon ou la fille aura obtenu un diplôme d'un institut technologique, on lui aura pas reconnu les équivalences nécessaires, histoire de l'université, le, de l'école du peuple."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Mitterrand",
+        "text": "On peut penser, par exemple, à des gens qui, habitant une hlm, par exemple, F quatre, et qui, euh, payent un loyer de combien, sept cent trente-sept francs, avec les charges locatives, qui sont très lourdes, euh, et plus lourde encore, depuis, euh, les augmentations du fioul, c'est-à-dire plus des deux tiers du smic, lorsque la la ménagère, la mère de famille, qui, euh, s'intéresse à notre débat ce soir, monsieur giscard d'estaing, s'intéresse à notre débat."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Elle est là, et, et elle a besoin qu'on, qu'on lui parle de choses pratiques, quand on parle de progrès, quand on parle de changement, elle, qu'est ce qu'elle se dit ?"
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Elle se dit que, lorsqu'elle va au marché, elle aperçoit que, en dépit de l'indice des prix, qui est déjà très effrayant, car, comme vous le savez, si la courbe continue, euh, telle qu'elle a commencée au cours du premier trimestre de cette année, d'après les chiffres de l'insee, et elle atteindra dix-sept pour cent d'augmentation cette année."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Ensuite, lorsqu'elle se rend compte des immenses difficultées qu’elle a par exemple, lorsqu'elles habitent dans un quartier éloigné, pour placer son enfant dans une école maternelle."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Mitterrand explique aussi que les étudiants français ne trouvent pas de travail."
     },
-    {
-        "abstractive": {
-            "text": "François Mitterrand explique aussi que les personnes âgées ne sont pas bien traitées."
-        },
-        "extractive": [
-            {
-                "speaker": "François Mitterrand",
-                "text": "Les personnes âgées, euh, je leur ai dit, dès le premier jour que je comptais doubler, euh, d'augmenter, le minimum d'augmentation vieillesse, pouvant aller donc jusqu'à vingt et un francs, euh, trente, par jour."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Mitterrand",
+        "text": "Lorsqu'elle arrivera, à la fin des études de cet enfant, les immenses difficultés qu'elle aura pour, euh, lui, voir obtenir un premier emploi, lorsque le garçon ou la fille aura obtenu un diplôme d'un institut technologique, on lui aura pas reconnu les équivalences nécessaires, histoire de l'université, le, de l'école du peuple."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Mitterrand explique aussi que les personnes âgées ne sont pas bien traitées."
     },
-    {
-        "abstractive": {
-            "text": "François Mitterrand finit en expliquant que les richesses ne sont pas partagées."
-        },
-        "extractive": [
-            {
-                "speaker": "François Mitterrand",
-                "text": "Or, l’explication, c'est que vous n'avez pas consacré aux équipements sociaux, l'hôpital, la maison de retraite pour les personnes âgées, l'école les sommes, que vous auriez pu leur consacrer, après avoir constaté la richesse de la france."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "La richesse de la france, qui est le fruit du travail de tous, est confisqué par une minorité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Mitterrand",
+        "text": "Les personnes âgées, euh, je leur ai dit, dès le premier jour que je comptais doubler, euh, d'augmenter, le minimum d'augmentation vieillesse, pouvant aller donc jusqu'à vingt et un francs, euh, trente, par jour."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Mitterrand finit en expliquant que les richesses ne sont pas partagées."
     },
-    {
-        "abstractive": {
-            "text": "Valéry Giscard D'Estaing se défend en expliquant qu'il propose le doublement du minimum vieillesse."
-        },
-        "extractive": [
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Le doublement du minimum vieillesse ne conduit pas vingt-et-un francs."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Le doublement, si on faisait le doublement, conduirait à vingt-huit francs quarante, car, actuellement, le minimum vieillesse est de quatorze francs vingt par jour."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Mitterrand",
+        "text": "Or, l’explication, c'est que vous n'avez pas consacré aux équipements sociaux, l'hôpital, la maison de retraite pour les personnes âgées, l'école les sommes, que vous auriez pu leur consacrer, après avoir constaté la richesse de la france."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "La richesse de la france, qui est le fruit du travail de tous, est confisqué par une minorité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valéry Giscard D'Estaing se défend en expliquant qu'il propose le doublement du minimum vieillesse."
     },
-    {
-        "abstractive": {
-            "text": "Valéry Giscard D'estaing explique ensuite comment le progrès économique de la france a profité aux travailleurs français."
-        },
-        "extractive": [
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Le gouvernement, moi-même, nous sommes efforcés, au cours des dernières années, de remédier à ces difficultés quotidiennes des français."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Ce que nous voulons faire, c'est d'apporter des solutions plus larges, et plus en plus ample encore à ces difficultés."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Alors, il considère que le progrès économique de la france n'a pas profité aux travailleurs de ce pays."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "La question est de savoir si ce progrès aurait pu profiter davantage aux travailleurs de ce pays."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Le doublement du minimum vieillesse ne conduit pas vingt-et-un francs."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Le doublement, si on faisait le doublement, conduirait à vingt-huit francs quarante, car, actuellement, le minimum vieillesse est de quatorze francs vingt par jour."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valéry Giscard D'Estaing explique ensuite comment le progrès économique de la France a profité aux travailleurs français."
     },
-    {
-        "abstractive": {
-            "text": "Il explique que les français ont un plus grand accès à l'automobile, à la télévision, et explique que le smic augmente plus rapidement que la moyenne des revenus."
-        },
-        "extractive": [
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Entre mille neuf cent soixante-deux et mille neuf cent soixante-treize, il y avait, en mille neuf cent soixante-deux, vingt-quatre pour cent d'ouvriers qui possédaient une voiture automobile, et, en mille neuf cent soixante-treize, il y en a quatre-vingt dix pour cent."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "La télévision, vous, qui nous regardez, en mille neuf cent soixante, parmi les ménages ouvriers, il y avait quatorze pour cent de français, qui avaient la télévision."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "À l'heure actuelle, il y a quatre-vingt-trois pour cent, c'est-à-dire la même proportion que dans la catégorie des cadres supérieurs, ce qui montre bien qu'il y a eu, et c’est heureux, c'est naturel, d'ailleurs, un progrès considérable du niveau de vie en france."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "La création du smic, elle remonte à mille neuf cent soixante-neuf, monsieur mitterrand, le smic n'existait pas avant, et les gouvernements successifs, de ce dont vous parliez, c'est-à-dire, monsieur chaban-delmas, monsieur messmer, ont fait progresser le smic beaucoup plus rapidement, au cours des dernières années, que la moyenne des revenus en france."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Le gouvernement, moi-même, nous sommes efforcés, au cours des dernières années, de remédier à ces difficultés quotidiennes des français."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Ce que nous voulons faire, c'est d'apporter des solutions plus larges, et plus en plus ample encore à ces difficultés."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Alors, il considère que le progrès économique de la france n'a pas profité aux travailleurs de ce pays."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "La question est de savoir si ce progrès aurait pu profiter davantage aux travailleurs de ce pays."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il explique que les Français ont un plus grand accès à l'automobile, à la télévision, et explique que le SMIC augmente plus rapidement que la moyenne des revenus."
     },
-    {
-        "abstractive": {
-            "text": "Valéry Giscard D'estaing explique que les efforts réalisés pour les personnes âgées est le plus important qui a jamais été réalisé."
-        },
-        "extractive": [
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "L'effort, en ce qui concerne les personnes âgées, au cours des dix-huit mois, a été le plus important pourcentage qui a jamais été réalisé, et, donc, il y a eu un effort actif de meilleure répartition des des ressources en france, et le problème, c'est d'accentuer cet effort, de le poursuivre, et non pas du tout, de revenir en arrière, pour discuter sur ce qui aurait pu être fait, d'autant plus facilement, monsieur mitterrand, que l'on ne portait pas le poids des choses, car il est très facile, en effet, lorsqu'on a été éloigné du pouvoir, qu'on n'a pas connu les crises, intérieures ou extérieures, les difficultés monétaires, euh, les incertitudes de l'inflation mondiale, en mille neuf cent soixante-douze mille neuf cent soixante-treize, de procéder à une sorte de discours distributif, où l'on répartit une richesse que l'on n'a pas créé soit même."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Entre mille neuf cent soixante-deux et mille neuf cent soixante-treize, il y avait, en mille neuf cent soixante-deux, vingt-quatre pour cent d'ouvriers qui possédaient une voiture automobile, et, en mille neuf cent soixante-treize, il y en a quatre-vingt dix pour cent."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "La télévision, vous, qui nous regardez, en mille neuf cent soixante, parmi les ménages ouvriers, il y avait quatorze pour cent de français, qui avaient la télévision."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "À l'heure actuelle, il y a quatre-vingt-trois pour cent, c'est-à-dire la même proportion que dans la catégorie des cadres supérieurs, ce qui montre bien qu'il y a eu, et c’est heureux, c'est naturel, d'ailleurs, un progrès considérable du niveau de vie en france."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "La création du smic, elle remonte à mille neuf cent soixante-neuf, monsieur mitterrand, le smic n'existait pas avant, et les gouvernements successifs, de ce dont vous parliez, c'est-à-dire, monsieur chaban-delmas, monsieur messmer, ont fait progresser le smic beaucoup plus rapidement, au cours des dernières années, que la moyenne des revenus en france."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valéry Giscard D'Estaing explique que les efforts réalisés pour les personnes âgées est le plus important qui a jamais été réalisé."
     },
-    {
-        "abstractive": {
-            "text": "Valéry Giscard D'Estaing explique qu'il y a eu une création d'emploi de plus d'un million deux cent mille emplois qui a permis de maintenir une situation de plein emploi."
-        },
-        "extractive": [
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Bien, concernant l'emploi, il faut savoir que, depuis mille neuf cent soixante-neuf, c'est un chiffre très frappant, il a été créé en france, Je ne dis même pas j'ai créé, je ne prétends pas du tout que ce soit moi, Il a été créé, en france, plus d'un million deux cent mille emplois, c'est à dire plus que dans les soixante-dix années précédentes, et ceci a permis de maintenir, en france, une situation de plein emploi."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "L'effort, en ce qui concerne les personnes âgées, au cours des dix-huit mois, a été le plus important pourcentage qui a jamais été réalisé, et, donc, il y a eu un effort actif de meilleure répartition des des ressources en france, et le problème, c'est d'accentuer cet effort, de le poursuivre, et non pas du tout, de revenir en arrière, pour discuter sur ce qui aurait pu être fait, d'autant plus facilement, monsieur mitterrand, que l'on ne portait pas le poids des choses, car il est très facile, en effet, lorsqu'on a été éloigné du pouvoir, qu'on n'a pas connu les crises, intérieures ou extérieures, les difficultés monétaires, euh, les incertitudes de l'inflation mondiale, en mille neuf cent soixante-douze mille neuf cent soixante-treize, de procéder à une sorte de discours distributif, où l'on répartit une richesse que l'on n'a pas créé soit même."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valéry Giscard D'Estaing explique qu'il y a eu une création d'emplois de plus d'un million deux cent mille emplois qui a permis de maintenir une situation de plein emploi."
     },
-    {
-        "abstractive": {
-            "text": "Valéry giscard d'estaing explique que le groupe le plus désavantagé est les retraités, et que c'est la raison pour laquelle ils sont à la tête de son programme."
-        },
-        "extractive": [
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "J'ai étudié, par exemple, le niveau de consommation des différents groupes sociaux français, c'est-à-dire, les travailleurs, les agriculteurs, les salariés agricoles, les cadres, les commerçants et les artisans, et ce qu'on appelle les inactifs, et qui sont les personnes âgées."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Et, bien, d'abord, on constate qu'au cours des dernières années, l'écart entre les niveaux de consommation de ces groupes c'est resserré, au lieu de s'accroître, c'est-à-dire qu'il y a eu un resserrement des écarts dans la société française."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Mais j'ai constaté que le groupe qui avait le niveau de ressources, qui étaient, à l'heure actuelle, le plus en retard, c'était le groupe des inactifs, c'est-à-dire celui des personnes âgées, et c'est le motif pour lequel j'ai mis en tête de mon programme, effectivement, des mesures concernant le personnes âgées."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Bien, concernant l'emploi, il faut savoir que, depuis mille neuf cent soixante-neuf, c'est un chiffre très frappant, il a été créé en france, Je ne dis même pas j'ai créé, je ne prétends pas du tout que ce soit moi, Il a été créé, en france, plus d'un million deux cent mille emplois, c'est à dire plus que dans les soixante-dix années précédentes, et ceci a permis de maintenir, en france, une situation de plein emploi."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valéry Giscard D'Estaing explique que le groupe le plus désavantagé est les retraités, et que c'est la raison pour laquelle ils sont à la tête de son programme."
     },
-    {
-        "abstractive": {
-            "text": "Valéry Giscard D'Estaing accuse ensuite François Mitterrand de vouloir désorganiser l'économie française à travers un programme de nationalisation et la réévaluation du franc."
-        },
-        "extractive": [
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Justement, vous ne parlez jamais du futur, parce que vous ne pouvez pas parler du futur, car, dans votre programme, il y a la désorganisation de l'économie française. Il y a la désorganisation, de deux manières, d'abord, à court terme, et, ensuite, à plus long terme."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "À court terme, parce que les mesures que vous comptez prendre, dès le départ, désorganiseront l'économie française."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Je parle, par exemple, du premier programme de nationalisation."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Vous savez très bien que c'est inexact, j’ai là le programme sous les yeux, il y a neuf nationalisations industrielles, et il y a ensuite la nationalisation de secteurs entiers, comme le secteur du crédit, comme le secteur des assurances, comme le secteur des sociétés de portefeuille."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Et, si je prends votre programme à court terme, votre programme des trois mois, alors, d'abord, vous créez le déficit budgétaire, tout de suite, vous n'attendez pas, vous le créez."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Car dans votre programme, il y a des dépenses, et ces dépenses ne sont pas financées, et, ensuite, il y a un emprunt."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Pas du tout, car vous avez dit, par la suite, notamment à toulouse, que votre emprunt serait dépensé, donc il y aura des dépenses budgétaires non financées, et il y aura un emprunt dépensé, ce qui veut dire que, dans les six premiers mois, vous recréez, aussitôt, et, d'ailleurs, je le crois, le déficit budgétaire, et vous proposez une autre mesure, sur laquelle je souhaiterais vous expliquer parce que nous ne l'avons jamais fait jusqu'ici."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Alors, je vous pose la question suivante, monsieur mitterrand, pourquoi voulez-vous essayez de réévaluer le franc ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "J'ai étudié, par exemple, le niveau de consommation des différents groupes sociaux français, c'est-à-dire, les travailleurs, les agriculteurs, les salariés agricoles, les cadres, les commerçants et les artisans, et ce qu'on appelle les inactifs, et qui sont les personnes âgées."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Et, bien, d'abord, on constate qu'au cours des dernières années, l'écart entre les niveaux de consommation de ces groupes c'est resserré, au lieu de s'accroître, c'est-à-dire qu'il y a eu un resserrement des écarts dans la société française."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Mais j'ai constaté que le groupe qui avait le niveau de ressources, qui étaient, à l'heure actuelle, le plus en retard, c'était le groupe des inactifs, c'est-à-dire celui des personnes âgées, et c'est le motif pour lequel j'ai mis en tête de mon programme, effectivement, des mesures concernant le personnes âgées."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valéry Giscard D'Estaing accuse ensuite François Mitterrand de vouloir désorganiser l'économie française à travers un programme de nationalisation et la réévaluation du franc."
     },
-    {
-        "abstractive": {
-            "text": "François Mitterrand répond en expliquant qu'il ne pense pas que les écarts sociaux aient rétrécis."
-        },
-        "extractive": [
-            {
-                "speaker": "François Mitterrand",
-                "text": "Vous m'avez répondu, en m’expliquant que les catégories sociales les plus modestes avaient plus profités que je ne le croyais du progrès social."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Justement, vous ne parlez jamais du futur, parce que vous ne pouvez pas parler du futur, car, dans votre programme, il y a la désorganisation de l'économie française. Il y a la désorganisation, de deux manières, d'abord, à court terme, et, ensuite, à plus long terme."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "À court terme, parce que les mesures que vous comptez prendre, dès le départ, désorganiseront l'économie française."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Je parle, par exemple, du premier programme de nationalisation."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Vous savez très bien que c'est inexact, j’ai là le programme sous les yeux, il y a neuf nationalisations industrielles, et il y a ensuite la nationalisation de secteurs entiers, comme le secteur du crédit, comme le secteur des assurances, comme le secteur des sociétés de portefeuille."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Et, si je prends votre programme à court terme, votre programme des trois mois, alors, d'abord, vous créez le déficit budgétaire, tout de suite, vous n'attendez pas, vous le créez."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Car dans votre programme, il y a des dépenses, et ces dépenses ne sont pas financées, et, ensuite, il y a un emprunt."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Pas du tout, car vous avez dit, par la suite, notamment à toulouse, que votre emprunt serait dépensé, donc il y aura des dépenses budgétaires non financées, et il y aura un emprunt dépensé, ce qui veut dire que, dans les six premiers mois, vous recréez, aussitôt, et, d'ailleurs, je le crois, le déficit budgétaire, et vous proposez une autre mesure, sur laquelle je souhaiterais vous expliquer parce que nous ne l'avons jamais fait jusqu'ici."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Alors, je vous pose la question suivante, monsieur mitterrand, pourquoi voulez-vous essayez de réévaluer le franc ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Mitterrand répond en expliquant qu'il ne pense pas que les écarts sociaux aient rétrécis."
     },
-    {
-        "abstractive": {
-            "text": "François Mitterrand explique que le smic a baissé par rapport au salaire moyen."
-        },
-        "extractive": [
-            {
-                "speaker": "François Mitterrand",
-                "text": "Euh, je m'inscris en faux, cependant, de façon la plus précise, contre le fait, euh, ou votre affirmation, que le smic, euh, aurait été augmenté davantage que le salaire moyen."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Le smic, qui était de soixante-quatre pour cent du salaire moyen en mille neuf cent cinquante, n'est plus, aujourd'hui, que de cinquante-trois pour cent."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "L'évolution du pouvoir d'achat des salaires est plus lente que chez tous les membres de la communauté économique européenne, sauf la grande-bretagne."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Mitterrand",
+        "text": "Vous m'avez répondu, en m’expliquant que les catégories sociales les plus modestes avaient plus profités que je ne le croyais du progrès social."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Mitterrand explique que le SMIC a baissé par rapport au salaire moyen."
     },
-    {
-        "abstractive": {
-            "text": "François Mitterrand explique aussi que beaucoup d'entreprises ont fermées."
-        },
-        "extractive": [
-            {
-                "speaker": "François Mitterrand",
-                "text": "Et j'ajoute que, pour reprendre le thème du changement sans risque, changement sans risque, monsieur giscard d'estaing, pour les agriculteurs dont vous avez parlé, huit cent mille, huit cent mille exploitations, euh, moyennes ou petites, agricole, qui ont disparues au cours de ces dernières années, on a même calculé le chiffre exact, euh, six par heure, disparaissent aujourd'hui."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Vous savez combien ont disparu de de commerce de l'alimentation au cours de ces dernières années, disons, depuis neuf ans ?"
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "cinquante mille."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Combien de petites et moyennes entreprises ?"
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "soixante mille."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Combien de petites et moyennes entreprises ont fermées, au mois de janvier de cette année mille neuf cent soixante-quatorze, combien ?"
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "mille sept cent quarante."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Mitterrand",
+        "text": "Euh, je m'inscris en faux, cependant, de façon la plus précise, contre le fait, euh, ou votre affirmation, que le smic, euh, aurait été augmenté davantage que le salaire moyen."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Le smic, qui était de soixante-quatre pour cent du salaire moyen en mille neuf cent cinquante, n'est plus, aujourd'hui, que de cinquante-trois pour cent."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "L'évolution du pouvoir d'achat des salaires est plus lente que chez tous les membres de la communauté économique européenne, sauf la grande-bretagne."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Mitterrand explique aussi que beaucoup d'entreprises ont fermé."
     },
-    {
-        "abstractive": {
-            "text": "Valéry Giscard D'Estaing finit en en expliquant que les chiffres ne sont pas des fermetures d'entreprises"
-        },
-        "extractive": [
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "J'ai regardé si c'était exact, et j'ai constaté que ça n'était pas le nombre de faillites qui avaient eu lieu."
-            },
-            {
-                "speaker": "Valéry Giscard D'Estaing",
-                "text": "Ça n'est donc pas des fermetures d'entreprises, c'est des faillites judiciaires prononcée, et, d'ailleurs, après le mois de janvier, ce nombre est redevenu normal, et à diminuer fortement en février et en mars."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "François Mitterrand",
+        "text": "Et j'ajoute que, pour reprendre le thème du changement sans risque, changement sans risque, monsieur giscard d'estaing, pour les agriculteurs dont vous avez parlé, huit cent mille, huit cent mille exploitations, euh, moyennes ou petites, agricole, qui ont disparues au cours de ces dernières années, on a même calculé le chiffre exact, euh, six par heure, disparaissent aujourd'hui."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Vous savez combien ont disparu de de commerce de l'alimentation au cours de ces dernières années, disons, depuis neuf ans ?"
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "cinquante mille."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Combien de petites et moyennes entreprises ?"
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "soixante mille."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Combien de petites et moyennes entreprises ont fermées, au mois de janvier de cette année mille neuf cent soixante-quatorze, combien ?"
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "mille sept cent quarante."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valéry Giscard D'Estaing finit en expliquant que les chiffres ne sont pas des fermetures d'entreprises."
+    },
+    "extractive": [
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "J'ai regardé si c'était exact, et j'ai constaté que ça n'était pas le nombre de faillites qui avaient eu lieu."
+      },
+      {
+        "speaker": "Valéry Giscard D'Estaing",
+        "text": "Ça n'est donc pas des fermetures d'entreprises, c'est des faillites judiciaires prononcée, et, d'ailleurs, après le mois de janvier, ce nombre est redevenu normal, et à diminuer fortement en février et en mars."
+      }
+    ]
+  }
 ]

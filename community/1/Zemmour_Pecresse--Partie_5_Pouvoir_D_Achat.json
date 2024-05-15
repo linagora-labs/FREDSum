@@ -1,129 +1,129 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Eric Zemmour et Valérie Pécresse discutent du pouvoir d'achat des français."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Parlons du sujet qui intéresse les Français, leur pouvoir d'achat."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Eric Zemmour et Valérie Pécresse discutent du pouvoir d'achat des Français."
     },
-    {
-        "abstractive": {
-            "text": "Les présentateurs demandent si la france doit faire un embargo sur le gaz et le pétrole russe, et comment les candidats peuvent protéger les français de la hausse des prix."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Deux pays importants, les Etats-Unis, le Royaume-Uni, se sont engagés à ne plus acheter une goutte de pétrole et de gaz russe."
-            },
-            {
-                "speaker": "P1",
-                "text": "Faut-il faire pareil, doit-on, peut on se passer de cette arme économique de la Russie que sont le gaz et le pétrole ?"
-            },
-            {
-                "speaker": "P2",
-                "text": "Euh, comment, est-ce qu'on protège les français de la hausse du pétrole, de la hausse de l'essence ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Parlons du sujet qui intéresse les Français, leur pouvoir d'achat."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Les présentateurs demandent si la France doit faire un embargo sur le gaz et le pétrole russe, et comment les candidats peuvent protéger les Français de la hausse des prix."
     },
-    {
-        "abstractive": {
-            "text": "Valérie Pécresse explique qu'elle ne souhaite pas un embargo sur le gaz et le pétrole car les pays européen sont trop dépendants de la russie."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Aujourd'hui, l'europe n'est pas d'accord pour déclarer un embargo sur le pétrole, sur les achats de pétrole et gaz russes, parce que il y a un certain nombre de pays européens qui sont trop dépendants, mais nous devons sortir, aujourd'hui, de cette dépendance au pétrole et au gaz Russe."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Deux pays importants, les Etats-Unis, le Royaume-Uni, se sont engagés à ne plus acheter une goutte de pétrole et de gaz russe."
+      },
+      {
+        "speaker": "P1",
+        "text": "Faut-il faire pareil, doit-on, peut on se passer de cette arme économique de la Russie que sont le gaz et le pétrole ?"
+      },
+      {
+        "speaker": "P2",
+        "text": "Euh, comment, est-ce qu'on protège les français de la hausse du pétrole, de la hausse de l'essence ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse explique qu'elle ne souhaite pas un embargo sur le gaz et le pétrole car les pays européens sont trop dépendants de la Russie."
     },
-    {
-        "abstractive": {
-            "text": "Valérie Pécresse explique qu'elle souhaite sortir de cette dépendance à l'aide de l'industrie nucléaire."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Et, pour ça, nous avons une arme, nous avons, nous, l'énergie nucléaire, qui est une énergie totalement décarbonée, que nous devons pousser."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Donc, oui, y a la possibilité de sortir de la dépendance au gaz, et il va falloir faire des contrats à long terme d'approvisionnement en gaz."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Aujourd'hui, l'europe n'est pas d'accord pour déclarer un embargo sur le pétrole, sur les achats de pétrole et gaz russes, parce que il y a un certain nombre de pays européens qui sont trop dépendants, mais nous devons sortir, aujourd'hui, de cette dépendance au pétrole et au gaz Russe."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse explique qu'elle souhaite sortir de cette dépendance à l'aide de l'industrie nucléaire."
     },
-    {
-        "abstractive": {
-            "text": "Valérie Pécresse souhaite aussi reverser les taxes qui viennent de l'augmentation du prix du pétrole aux français, ainsi que la déconnection du prix de l'électricité en france par rapport au prix du gaz."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Là encore, c'est l'europe qui peut nous y aider, mais il faut, évidemment, à court terme, aider les français, et, vous le savez, à chaque fois que les prix de l'essence augmentent, il y a des taxes qui sont touchées par le gouvernement."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Donc, moi, je souhaite que ces taxes, qui sont perçues par le gouvernement, puissent être reversées aux français, et je souhaite aussi la déconnection du prix de l'électricité en France, par rapport au prix du gaz."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Et, pour ça, nous avons une arme, nous avons, nous, l'énergie nucléaire, qui est une énergie totalement décarbonée, que nous devons pousser."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Donc, oui, y a la possibilité de sortir de la dépendance au gaz, et il va falloir faire des contrats à long terme d'approvisionnement en gaz."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse souhaite aussi reverser les taxes qui viennent de l'augmentation du prix du pétrole aux Français, ainsi que la déconnexion du prix de l'électricité en France par rapport au prix du gaz."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour souhaite le blocage du prix de l'essence à un virgule huit euros."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Prenons les mesures d'urgence, les mesures d'urgence, c’est le blocage des prix du pétrole, de, de l'essence à la pompe, à un virgule huit euros."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Là encore, c'est l'europe qui peut nous y aider, mais il faut, évidemment, à court terme, aider les français, et, vous le savez, à chaque fois que les prix de l'essence augmentent, il y a des taxes qui sont touchées par le gouvernement."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Donc, moi, je souhaite que ces taxes, qui sont perçues par le gouvernement, puissent être reversées aux français, et je souhaite aussi la déconnection du prix de l'électricité en France, par rapport au prix du gaz."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour souhaite le blocage du prix de l'essence à un virgule huit euros."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour souhaite aussi rembourser la moitié des frais kilométriques des français qui prennent la voiture pour aller travailler, en défiscalisant ces remboursements pour les entreprises."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Donc, j'ai proposé de rembourser la moitié des frais kilométriques des dix-huit millions de français qui prennent la voiture pour aller travailler."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Prenons les mesures d'urgence, les mesures d'urgence, c’est le blocage des prix du pétrole, de, de l'essence à la pompe, à un virgule huit euros."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour souhaite aussi rembourser la moitié des frais kilométriques des Français qui prennent la voiture pour aller travailler, en défiscalisant ces remboursements pour les entreprises."
     },
-    {
-        "abstractive": {
-            "text": "Valérie Pécresse souhaite aussi la même chose."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "C’est pas vous qui payez, c’est les entreprises."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Ils pourront déduire de leur base fiscale."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Ca c’est ma proposition, ma proposition, c'est de défiscaliser les remboursements kilométriques des entreprises"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Donc, j'ai proposé de rembourser la moitié des frais kilométriques des dix-huit millions de français qui prennent la voiture pour aller travailler."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse souhaite aussi la même chose."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour souhaite aussi améliorer l'industrie nucléaire français"
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je veux parler de gaz Parce que c'est madame merkel qui a arrêtée, le, le nucléaire, alors que madame pécresse, elle, en deux mille dix-huit, disait qu'il, qu'il fallait sortir du nucléaire, et qui pousse les énergies renouvelables, alors que ce sont les énergies renouvelables comme, l'éolien, euh, euh, qui oblige à aller chercher le gaz, et ce qui fait qu'aujourd'hui, les allemands sont dépendants à soixante pour cent de leurs gaz."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Et, deuxièmement, c'est, c'est parce qu'on s'est agrégé à l'europe qu'on a pas pu profiter de la spécificité française et du nucléaire."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "C’est pas vous qui payez, c’est les entreprises."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Ils pourront déduire de leur base fiscale."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Ca c’est ma proposition, ma proposition, c'est de défiscaliser les remboursements kilométriques des entreprises"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour souhaite aussi améliorer l'industrie nucléaire française."
+    },
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je veux parler de gaz Parce que c'est madame merkel qui a arrêtée, le, le nucléaire, alors que madame pécresse, elle, en deux mille dix-huit, disait qu'il, qu'il fallait sortir du nucléaire, et qui pousse les énergies renouvelables, alors que ce sont les énergies renouvelables comme, l'éolien, euh, euh, qui oblige à aller chercher le gaz, et ce qui fait qu'aujourd'hui, les allemands sont dépendants à soixante pour cent de leurs gaz."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Et, deuxièmement, c'est, c'est parce qu'on s'est agrégé à l'europe qu'on a pas pu profiter de la spécificité française et du nucléaire."
+      }
+    ]
+  }
 ]

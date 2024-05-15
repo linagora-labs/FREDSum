@@ -1,115 +1,115 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Eric Ciotti, Bruno Retailleau et Aurélien Pradié discutent des réductions des dépenses."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Tout le monde dit toujours qu'on va réduire les dépenses, quelles dépenses faut-il réduire Eric Ciotti ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Eric Ciotti, Bruno Retailleau et Aurélien Pradié discutent des réductions des dépenses."
     },
-    {
-        "abstractive": {
-            "text": "Eric Ciotti explique qu'il faut baisser les impôts, notamment l'impôt sur la succession et les surtaxes sur les carburants."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Je veux commencer par baisser les impôts, nous sommes le pays au monde, avec le Danemark, qui paie le plus d'impôts."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Il faut commencer par supprimer l'impôt sur la mort, l'impôt sur les successions, qui est une injustice."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Il faut supprimer la taxe sur la taxe, sur les carburants."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Ce qui n'est pas sérieux, c'est que nous ayons, en moyenne, 5 % de taux de prélèvement obligatoire de plus que la moyenne européenne."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Donc, ça veut dire que baisser les impôts sera source de croissance, source de création d'emplois"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Tout le monde dit toujours qu'on va réduire les dépenses, quelles dépenses faut-il réduire Eric Ciotti ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti explique qu'il faut baisser les impôts, notamment l'impôt sur la succession et les surtaxes sur les carburants."
     },
-    {
-        "abstractive": {
-            "text": "Eric Ciotti souhaite aussi baisser l'impôt sur le revenu."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Il faut arrêter le poids de l'impôt sur le revenu sur quelques dizaines de pourcents de Français."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Je veux commencer par baisser les impôts, nous sommes le pays au monde, avec le Danemark, qui paie le plus d'impôts."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Il faut commencer par supprimer l'impôt sur la mort, l'impôt sur les successions, qui est une injustice."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Il faut supprimer la taxe sur la taxe, sur les carburants."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Ce qui n'est pas sérieux, c'est que nous ayons, en moyenne, 5 % de taux de prélèvement obligatoire de plus que la moyenne européenne."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Donc, ça veut dire que baisser les impôts sera source de croissance, source de création d'emplois"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti souhaite aussi baisser l'impôt sur le revenu."
     },
-    {
-        "abstractive": {
-            "text": "Eric Ciotti explique que baisser les impôts plutôt que distribuer des chèques créera un cercle vertueux."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Commençons par baisser les impôts plutôt que de distribuer des chèques sans provision."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Il faut arrêter le poids de l'impôt sur le revenu sur quelques dizaines de pourcents de Français."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti explique que baisser les impôts plutôt que distribuer des chèques créera un cercle vertueux."
     },
-    {
-        "abstractive": {
-            "text": "Pour réduire les dépenses, Eric Ciotti souhaite supprimer des postes de l'administration superflus."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "On supprime aujourd'hui l'administration qui ne sert à rien."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Commençons par baisser les impôts plutôt que de distribuer des chèques sans provision."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour réduire les dépenses, Eric Ciotti souhaite supprimer des postes de l'administration superflus."
     },
-    {
-        "abstractive": {
-            "text": "Aurélien Pradié explique qu'il faut mettre en place un examen annuel des projets de finance de la sécurité sociale, de la nation et de la gestion de la dette afin de savoir quelles dépenses peuvent être économisées."
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Avant d'être le parti de la baisse des impôts, ce que nous souhaitons évidemment tous, pour libérer ce pays de tous les carcans, y compris fiscaux injustes, nous devons être le parti de la baisse de la dépense publique."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Je vais commencer comme président des républicains, à proposer un plan de bataille pour baisser les dépenses, et Eric proposera un plan de bataille pour baisser les impôts."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Et je veux que nous ayons, chaque année, après l'examen du projet de loi de finance de la sécurité sociale, du projet de loi de finance de la nation, un projet de loi de finance et de gestion de la dette."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "On supprime aujourd'hui l'administration qui ne sert à rien."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Aurélien Pradié explique qu'il faut mettre en place un examen annuel des projets de finance de la sécurité sociale, de la nation et de la gestion de la dette afin de savoir quelles dépenses peuvent être économisées."
     },
-    {
-        "abstractive": {
-            "text": "Bruno Retailleau souhaite débureaucratiser et simplifier les systèmes CERFA"
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "En France, on est champion du monde de la dépense publique, et pour autant, nos services publics fonctionnent mal."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "D'abord, je m'attaque à la dépense publique, la débureaucratisation, l'enfer normatif, le royaume du CERFA."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "On sort, on essaie de simplifie, pas par le haut, avec des hauts fonctionnaires des ministres, par le bas, dans chaque département, avec un plan de ce que j’appelle le désherbage, d'une mauvaise herbe normative."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Ensuite, la débureaucratisation."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Avant d'être le parti de la baisse des impôts, ce que nous souhaitons évidemment tous, pour libérer ce pays de tous les carcans, y compris fiscaux injustes, nous devons être le parti de la baisse de la dépense publique."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Je vais commencer comme président des républicains, à proposer un plan de bataille pour baisser les dépenses, et Eric proposera un plan de bataille pour baisser les impôts."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Et je veux que nous ayons, chaque année, après l'examen du projet de loi de finance de la sécurité sociale, du projet de loi de finance de la nation, un projet de loi de finance et de gestion de la dette."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau souhaite débureaucratiser et simplifier les systèmes CERFA."
+    },
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "En France, on est champion du monde de la dépense publique, et pour autant, nos services publics fonctionnent mal."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "D'abord, je m'attaque à la dépense publique, la débureaucratisation, l'enfer normatif, le royaume du CERFA."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "On sort, on essaie de simplifie, pas par le haut, avec des hauts fonctionnaires des ministres, par le bas, dans chaque département, avec un plan de ce que j’appelle le désherbage, d'une mauvaise herbe normative."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Ensuite, la débureaucratisation."
+      }
+    ]
+  }
 ]

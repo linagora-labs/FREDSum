@@ -1,292 +1,292 @@
 [
-    {
-        "abstractive": {
-            "text": "Un intervenant commence à prendre la parole : en raison de la démographie du pays, la réforme est une nécessité ; il propose par ailleurs de baisser les charges sociales sur les emplois des seniors afin de favoriser l’emploi jusqu’à l’âge de la retraite. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Donc lorsque l'on regarde l'évolution démographique, et ça, c'est le principe des réalités, si nous ne faisons rien, notre régime par répartition va vite se trouver en péril."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "C'est pour ça qu'à la CPME nous prenons le contrepied, pourquoi ne pas inciter, on n'en parle pas, de maintenir les seigneurs d'emploi à partir de 57 ans, par exemple baisser les charges sociales pour faire en sorte que ça soit intéressant financièrement de conserver les seniors et de les embaucher."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Un intervenant commence à prendre la parole : en raison de la démographie du pays, la réforme est une nécessité ; il propose par ailleurs de baisser les charges sociales sur les emplois des seniors afin de favoriser l’emploi jusqu’à l’âge de la retraite."
     },
-    {
-        "abstractive": {
-            "text": "Or, selon Autain, les seniors cherchent avant tout du travail pour compléter leurs trimestres de cotisation ; augmenter l’âge de la retraite diminuera donc leur taux d’emploi. "
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "On a des seniors qui cherchent du travail parce qu'ils n'ont pas leur carrière complète, plus vous allongez l'âge à partir duquel ils ont le droit de partir et le nombre d'annuités plus vous compliquez le départ."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Donc lorsque l'on regarde l'évolution démographique, et ça, c'est le principe des réalités, si nous ne faisons rien, notre régime par répartition va vite se trouver en péril."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "C'est pour ça qu'à la CPME nous prenons le contrepied, pourquoi ne pas inciter, on n'en parle pas, de maintenir les seigneurs d'emploi à partir de 57 ans, par exemple baisser les charges sociales pour faire en sorte que ça soit intéressant financièrement de conserver les seniors et de les embaucher."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Or, selon Autain, les seniors cherchent avant tout du travail pour compléter leurs trimestres de cotisation ; augmenter l’âge de la retraite diminuera donc leur taux d’emploi."
     },
-    {
-        "abstractive": {
-            "text": "Attal lui rétorque que la nupes défend des mesures défavorables à l’emploi, comme le fait de compter une période de RSA comme une période de cotisation, ou l’augmentation des charges sociales. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Vous défendez au Parlement des amendements qui vise à dire que quelqu'un qui a passé un trimestre au RSA, ça doit compter comme quelqu'un qui a passé un trimestre en travaillant toute sa vie."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Vous proposez un amendement pour financer les pensions de retraite qui vise à faire passer ce coût de 1780 euros à 2500 euros."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "On a des seniors qui cherchent du travail parce qu'ils n'ont pas leur carrière complète, plus vous allongez l'âge à partir duquel ils ont le droit de partir et le nombre d'annuités plus vous compliquez le départ."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal lui rétorque que la nupes défend des mesures défavorables à l’emploi, comme le fait de compter une période de RSA comme une période de cotisation, ou l’augmentation des charges sociales."
     },
-    {
-        "abstractive": {
-            "text": "Autain estime néanmoins que le souci pour les TPE et PME ne vient pas du coût du travail mais de la différence d’imposition entre elles et les grands groupes ; Attal balaye l’argument : le gouvernement a diminué l’impôt sur les sociétés de 8 points. "
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Le problème majeur des TPE-PME c'est l'écart considérable d'imposition, de cotisations sociales et non pas de charges."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "l'impôt sur les sociétés qu'on a baissé, qu'on a passé 33% à 25%."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Vous défendez au Parlement des amendements qui vise à dire que quelqu'un qui a passé un trimestre au RSA, ça doit compter comme quelqu'un qui a passé un trimestre en travaillant toute sa vie."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Vous proposez un amendement pour financer les pensions de retraite qui vise à faire passer ce coût de 1780 euros à 2500 euros."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Clémentine Autain estime néanmoins que le souci pour les TPE et PME ne vient pas du coût du travail mais de la différence d’imposition entre elles et les grands groupes ; Gabriel Attal balaye l’argument : le gouvernement a diminué l’impôt sur les sociétés de 8 points."
     },
-    {
-        "abstractive": {
-            "text": "Mais l’exemple n’est pas pertinent selon Autain dans la mesure où de nombreuses aides ont été versées aux grands groupes. "
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Nous nous estimons que le problème majeur il est dans la politique que vous faites de faire des aides aux grands groupes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Le problème majeur des TPE-PME c'est l'écart considérable d'imposition, de cotisations sociales et non pas de charges."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "l'impôt sur les sociétés qu'on a baissé, qu'on a passé 33% à 25%."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Mais l’exemple n’est pas pertinent selon Clémentine Autain dans la mesure où de nombreuses aides ont été versées aux grands groupes."
     },
-    {
-        "abstractive": {
-            "text": "Bardella explique ensuite que 42 % des gens arrivant à la retraite sont sans activité. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Je pense qu'il y a un élément qu'on ne met c'est que 42% des gens qui aujourd'hui, au moment où on se parle en autre pays, arrivent à la retraite sont sans activité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Nous nous estimons que le problème majeur il est dans la politique que vous faites de faire des aides aux grands groupes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique ensuite que 42 % des gens arrivant à la retraite sont sans activité."
     },
-    {
-        "abstractive": {
-            "text": "Il estime que la proposition visant à contraindre les entreprises à dévoiler leur taux de seniors est inutile. "
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Est-ce qu'il faut durcir l'index?"
-            },
-            {
-                "speaker": "P2",
-                "text": "C'est-à-dire le fait de publier la part de seniors entre 55 et 75 ans."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Je pense que c'est un gadget et je pense que c'est un gadget qui ne résoudra rien."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Je pense qu'il y a un élément qu'on ne met c'est que 42% des gens qui aujourd'hui, au moment où on se parle en autre pays, arrivent à la retraite sont sans activité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il estime que la proposition visant à contraindre les entreprises à dévoiler leur taux de seniors est inutile."
     },
-    {
-        "abstractive": {
-            "text": "Il faut avant tout renforcer la formation et les reconversions professionnelles. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "En revanche dans beaucoup d'autres pays, on parlait de la Suède mais il y a beaucoup d'autres pays européens qui font des efforts importants et qui mettent beaucoup plus de moyens sur la table et qui mettent le paquet sur la formation, sur les reconversions professionnelles pour permettre aussi des passerelles et pour permettre des embauches."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Est-ce qu'il faut durcir l'index?"
+      },
+      {
+        "speaker": "P2",
+        "text": "C'est-à-dire le fait de publier la part de seniors entre 55 et 75 ans."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Je pense que c'est un gadget et je pense que c'est un gadget qui ne résoudra rien."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il faut avant tout renforcer la formation et les reconversions professionnelles."
     },
-    {
-        "abstractive": {
-            "text": "En outre, il faut selon lui évoquer l’emploi des jeunes ; la réforme est d’autant plus injuste que ceux arrivant sur le marché du travail tard (24-25 ans) devront cotiser moins que ceux commençant tôt. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "En revanche on ne parle pas suffisamment de l'emploi des jeunes et le problème de cette réforme c'est qu'elle vous incite à rentrer le plus tard possible sur le marché du travail parce qu'en commençant à travailler au 24-25 ans vous allez devoir cotiser beaucoup moins longtemps que si vous commencez à travailler raisonnablement tôt."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "En revanche dans beaucoup d'autres pays, on parlait de la Suède mais il y a beaucoup d'autres pays européens qui font des efforts importants et qui mettent beaucoup plus de moyens sur la table et qui mettent le paquet sur la formation, sur les reconversions professionnelles pour permettre aussi des passerelles et pour permettre des embauches."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "En outre, il faut selon lui évoquer l’emploi des jeunes ; la réforme est d’autant plus injuste que ceux arrivant sur le marché du travail tard (24-25 ans) devront cotiser moins que ceux commençant tôt."
     },
-    {
-        "abstractive": {
-            "text": "Ciotti est d’accord pour dire que le taux d’emploi est trop faible. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "C'est vrai qu'on a un taux d'emploi qui est aujourd'hui trop faible."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "En revanche on ne parle pas suffisamment de l'emploi des jeunes et le problème de cette réforme c'est qu'elle vous incite à rentrer le plus tard possible sur le marché du travail parce qu'en commençant à travailler au 24-25 ans vous allez devoir cotiser beaucoup moins longtemps que si vous commencez à travailler raisonnablement tôt."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti est d’accord pour dire que le taux d’emploi est trop faible."
     },
-    {
-        "abstractive": {
-            "text": "Il pense que la réforme arrive trop tard et aurait du être réalisée avant, ce qui aurait atténué le choc pour les Français. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Donc pour que l'équilibre soit maintenu il y a cette réforme naturellement si on l'avait commencé en 2017 déjà le rythme, la pente c'est facile à comprendre elle serait beaucoup moins forte elle serait plus douce on paye les les inconséquences"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "C'est vrai qu'on a un taux d'emploi qui est aujourd'hui trop faible."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il pense que la réforme arrive trop tard et aurait dû être réalisée avant, ce qui aurait atténué le choc pour les Français."
     },
-    {
-        "abstractive": {
-            "text": "Il critique également le passage à la retraite à 60 ans porté par Mitterrand qu’il estime comme étant à l’origine de 2000 milliards de dettes. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Rappelez-vous quand même que si on en est là aussi c'est pas ce qu'il y a eu la retraite à 60 ans en 1982 porté par François Mitterrand oui mais elle nous a coûtés combien, 2000 milliards d'euros ça veut dire qu'aujourd'hui on donnait les deux tiers de dette en moins le service de la dette c'est 60 milliards d'euros dans le budget de l'Etat oui mais on en est là pour cela aussi c'est parce qu'il y a eu des erreurs que d'autres pays n'ont pas fait il y a un problème démographique, il y a un problème budgétaire et il faut comparer avec les autres pays on n'est pas plus malin que les autres tous les autres pays l'ont fait."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Donc pour que l'équilibre soit maintenu il y a cette réforme naturellement si on l'avait commencé en 2017 déjà le rythme, la pente c'est facile à comprendre elle serait beaucoup moins forte elle serait plus douce on paye les les inconséquences"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il critique également le passage à la retraite à 60 ans porté par François Mitterrand qu’il estime comme étant à l’origine de 2000 milliards de dettes."
     },
-    {
-        "abstractive": {
-            "text": "Face à ce problème d’emploi, Attal souhaite inciter les entreprises à recruter plus de seniors, quitte à les contraindre davantage ; il défend le gouvernement, car celui-ci a baissé les charges sur le SMIC, ce qui concerne surtout les jeunes. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Le chômage des seniors aujourd'hui il est la moitié de celui des jeunes maintenant c'est vrai que c'est un enjeu, c'est vrai qu'il faut prendre des mesures pour inciter davantage des entreprises à recruter des seniors."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "il n'y a pas de baisse de cotisations ciblées sur les jeunes vous avez des baisse de cotisations ciblées sur un niveau de revenu en l'occurrence le SMIC il se trouve que c'est principalement des jeunes qui sont recrutés au SMIC il n'y a pas de cotisations qui sont liées à l'âge"
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Il y a des possibilités d'agir nous on propose effectivement d'imposer aux entreprises de faire la transparence sur le nombre de seniors qu'elles embauchent sur la progression des carrières."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "j'ai déjà eu l'occasion de dire que j'étais favorable à ce qu'on ailles vers plus de contraintes, à condition évidemment que ce soit applicable."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Rappelez-vous quand même que si on en est là aussi c'est pas ce qu'il y a eu la retraite à 60 ans en 1982 porté par François Mitterrand oui mais elle nous a coûtés combien, 2000 milliards d'euros ça veut dire qu'aujourd'hui on donnait les deux tiers de dette en moins le service de la dette c'est 60 milliards d'euros dans le budget de l'Etat oui mais on en est là pour cela aussi c'est parce qu'il y a eu des erreurs que d'autres pays n'ont pas fait il y a un problème démographique, il y a un problème budgétaire et il faut comparer avec les autres pays on n'est pas plus malin que les autres tous les autres pays l'ont fait."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Face à ce problème d’emploi, Gabriel Attal souhaite inciter les entreprises à recruter plus de seniors, quitte à les contraindre davantage ; il défend le gouvernement, car celui-ci a baissé les charges sur le SMIC, ce qui concerne surtout les jeunes."
     },
-    {
-        "abstractive": {
-            "text": "Pourtant, d’après Autain, le débat n’a pas de sens car la productivité a considérablement augmenté : nous pouvons travailler moins pour produire plus de richesses. "
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "On est beaucoup plus productifs Mme Saint-Criq qu'il y a 50 ans."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Donc ça la tendance logique c'est qu'il y ait moins besoin de travail pour produire plus de richesses."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Le chômage des seniors aujourd'hui il est la moitié de celui des jeunes maintenant c'est vrai que c'est un enjeu, c'est vrai qu'il faut prendre des mesures pour inciter davantage des entreprises à recruter des seniors."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "il n'y a pas de baisse de cotisations ciblées sur les jeunes vous avez des baisse de cotisations ciblées sur un niveau de revenu en l'occurrence le SMIC il se trouve que c'est principalement des jeunes qui sont recrutés au SMIC il n'y a pas de cotisations qui sont liées à l'âge"
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Il y a des possibilités d'agir nous on propose effectivement d'imposer aux entreprises de faire la transparence sur le nombre de seniors qu'elles embauchent sur la progression des carrières."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "j'ai déjà eu l'occasion de dire que j'étais favorable à ce qu'on ailles vers plus de contraintes, à condition évidemment que ce soit applicable."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pourtant, d’après Autain, le débat n’a pas de sens car la productivité a considérablement augmenté : nous pouvons travailler moins pour produire plus de richesses."
     },
-    {
-        "abstractive": {
-            "text": "Elle défend donc la retraite à 60 ans avec 40 annuités et évoque la possibilité de taxer à 2 % les milliardaires français. "
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Nous nous sommes pour la retraite à 60 ans ça suffit après 40 années les gens sont fatigués"
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Si on taxait à 2% les 42 milliardaires que nous avons aujourd'hui en france, qui se sont enrichis pendant la crise du Covid on aurait déjà réglé le problèmes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "On est beaucoup plus productifs Mme Saint-Criq qu'il y a 50 ans."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Donc ça la tendance logique c'est qu'il y ait moins besoin de travail pour produire plus de richesses."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle défend donc la retraite à 60 ans avec 40 annuités et évoque la possibilité de taxer à 2 % les milliardaires français."
     },
-    {
-        "abstractive": {
-            "text": "Ciotti, agacé, estime qu’il s’agit d’une proposition démagogique. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "C'est de la démagogie, c'est pas des milliardaires, c'est des actionnaires et donc des emplois."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Nous nous sommes pour la retraite à 60 ans ça suffit après 40 années les gens sont fatigués"
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Si on taxait à 2% les 42 milliardaires que nous avons aujourd'hui en france, qui se sont enrichis pendant la crise du Covid on aurait déjà réglé le problèmes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ciotti, agacé, estime qu’il s’agit d’une proposition démagogique."
     },
-    {
-        "abstractive": {
-            "text": "Il redoute que les entreprises délocalisent davantage à causes de semblables mesures. "
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Combien des entreprises françaises que vous allez taxer les milliards d'air et que vous allez faire délocaliser."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "C'est de la démagogie, c'est pas des milliardaires, c'est des actionnaires et donc des emplois."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il redoute que les entreprises délocalisent davantage à cause de semblables mesures."
     },
-    {
-        "abstractive": {
-            "text": "Autain continue à évoquer ses propositions pour financer le système : hausse des salaires, dégèlement du point d’indice des fonctionnaires et égalité salariale. "
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Si vous augmentez les salaires, si vous augmentez les salaires, si vous dégelez le point d'indice des fonctionnaires, si vous faites l'égalité salariale entre les hommes et les femmes, vous faites entrer alors énormément d'argent dans les caisses, dans les caisses des retraites."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Combien des entreprises françaises que vous allez taxer les milliards d'air et que vous allez faire délocaliser."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Clémentine Autain continue à évoquer ses propositions pour financer le système : hausse des salaires, dégèlement du point d’indice des fonctionnaires et égalité salariale."
     },
-    {
-        "abstractive": {
-            "text": "Pour Attal, tout le monde est favorable à cette égalité salariale, mais cela ne se décrète pas ; il estime les autres mesures contre productives car destructrices d’emplois. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Comme si on pouvait tout décréter on peut agir on peut faire des réformes évidemment c'est ce qu'on fait pour aller vers l'égalité salariale."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Vous proposez des mesures, proposez des mesures qui vont faire qu'on va détruire du travail et de l'emploi dans notre pays ce qui est l'inverse de ce qu'il faut faire pour financer un modèle qui repose quand même sur la répartition."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Si vous augmentez les salaires, si vous augmentez les salaires, si vous dégelez le point d'indice des fonctionnaires, si vous faites l'égalité salariale entre les hommes et les femmes, vous faites entrer alors énormément d'argent dans les caisses, dans les caisses des retraites."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Attal, tout le monde est favorable à cette égalité salariale, mais cela ne se décrète pas ; il estime les autres mesures contre productives car destructrices d’emplois."
     },
-    {
-        "abstractive": {
-            "text": "Pour Bardella, le financement doit passer par la relocalisation et la réindustrialisation, afin de créer des emplois à forte valeur ajoutée. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Donc c'est en faisant monter en gamme notre économie en faisant le patriotisme économique en supprimant les impôts de production pour permettre à des entreprises de s'installer en France, de créer en France, pour aussi conserver nos cerveaux parce que le problème on parle beaucoup de l'emploi des seniors mais c'est que les jeunes qui obtiennent des diplômes dans notre pays sont de plus en plus tentés d'aller à l'étranger."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Comme si on pouvait tout décréter on peut agir on peut faire des réformes évidemment c'est ce qu'on fait pour aller vers l'égalité salariale."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Vous proposez des mesures, proposez des mesures qui vont faire qu'on va détruire du travail et de l'emploi dans notre pays ce qui est l'inverse de ce qu'il faut faire pour financer un modèle qui repose quand même sur la répartition."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Bardella, le financement doit passer par la relocalisation et la réindustrialisation, afin de créer des emplois à forte valeur ajoutée."
     },
-    {
-        "abstractive": {
-            "text": "Cependant, Attal explique que de nombreux emplois ont été créés dans les 6 dernières années, avec un taux de CDI exceptionnellement haut, et ce grâce à la baisse du coût du travail. "
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Il y a eu 2 millions 200 000 emplois créés ces 6 dernières années Pour la première fois la part des recrutements en CDI est au-dessus de 50%."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Parce qu'on a fait baisser le coût du travail."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Donc c'est en faisant monter en gamme notre économie en faisant le patriotisme économique en supprimant les impôts de production pour permettre à des entreprises de s'installer en France, de créer en France, pour aussi conserver nos cerveaux parce que le problème on parle beaucoup de l'emploi des seniors mais c'est que les jeunes qui obtiennent des diplômes dans notre pays sont de plus en plus tentés d'aller à l'étranger."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Cependant, Gabriel Attal explique que de nombreux emplois ont été créés dans les 6 dernières années, avec un taux de CDI exceptionnellement haut, et ce grâce à la baisse du coût du travail."
     },
-    {
-        "abstractive": {
-            "text": "Autain argue alors que le prix de cette politique fut trop élevé (réduction des droits au chômage). "
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "à quel prix monsieur Attal, mais vous vous rendez compte, ils ont fait je ne sais combien de réformes sur le chômage où vous réduisez le droit au chômage"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Il y a eu 2 millions 200 000 emplois créés ces 6 dernières années Pour la première fois la part des recrutements en CDI est au-dessus de 50%."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Parce qu'on a fait baisser le coût du travail."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Clémentine Autain argue alors que le prix de cette politique fut trop élevé (réduction des droits au chômage)."
+    },
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "à quel prix monsieur Attal, mais vous vous rendez compte, ils ont fait je ne sais combien de réformes sur le chômage où vous réduisez le droit au chômage"
+      }
+    ]
+  }
 ]

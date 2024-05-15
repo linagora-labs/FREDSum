@@ -1,113 +1,113 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, EMMANUEL MACRON et MARINE LE PEN discutent de la question des institutions de la République."
-        },
-        "extractive": [
-            {
-                "speaker": "Gilles Bouleau",
-                "text": "Emmanuel Macron, si vous êtes réélu, allez-vous avoir recours fréquemment ou plus fréquemment au référendum, allez-vous instaurer la proportionnelle et amener le septennat ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Emmanuel Macron et Marine Le Pen discutent de la question des institutions de la République."
     },
-    {
-        "abstractive": {
-            "text": "Après avoir rappelé qu’un changement d’organisation en Europe donnerait lieu à un référendum, EMMANUEL MACRON explique que l’élection présidentielle ne donne pas le droit de changer la constitution, car il s’agit du cadre même de l’élection."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Et si nous étions amenés à changer notre organisation, en Europe, parce qu'elle sera à refonder après la guerre, c'est évident, le référendum pour moi sera l'option retenue."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gilles Bouleau",
+        "text": "Emmanuel Macron, si vous êtes réélu, allez-vous avoir recours fréquemment ou plus fréquemment au référendum, allez-vous instaurer la proportionnelle et amener le septennat ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Après avoir rappelé qu’un changement d’organisation en Europe donnerait lieu à un référendum, Emmanuel Macron explique que l’élection présidentielle ne donne pas le droit de changer la constitution, car il s’agit du cadre même de l’élection."
     },
-    {
-        "abstractive": {
-            "text": "A titre personnel, il se dit néanmoins favorable à l’introduction une part de proportionnelle à l’assemblée nationale."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Par contre, je vais ici le dire très clairement, être élu par le peuple souverain ne donne pas le droit de changer sa Constitution sans respecter celle-ci, parce que la Constitution est le cadre même de notre élection, parce que je pense que ce que vous proposez n'est pas constitutionnel ce qui est à mes yeux un problème."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Ce que je veux faire c'est dès le début, là, mettre toutes les forces politiques y compris celles qui ne sont pas assez représentées à l'Assemblée, parce que l'Assemblée qui sera élue dans quelques semaines ne sera pas élue à la proportionnelle, puisque je n'ai pas réussi à faire ce changement, je veux, j'y suis favorable pour ma part à titre personnel, on pourra peut-être y revenir, et nous avons discuté et je pense que là-dessus nous avons les mêmes opinions."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Et si nous étions amenés à changer notre organisation, en Europe, parce qu'elle sera à refonder après la guerre, c'est évident, le référendum pour moi sera l'option retenue."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "À titre personnel, il se dit néanmoins favorable à l’introduction une part de proportionnelle à l'Assemblée nationale."
     },
-    {
-        "abstractive": {
-            "text": "Plus globalement, il souhaite changer sa méthode de gouvernance en collaborant davantage avec les autres partis pour engager les grands chantiers sur l’école et la santé."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Et donc ce que je veux pouvoir faire c'est une autre méthode de la pratique du pouvoir, c'est avec vous et qui en particulier sur le chantier de l'école ou de la santé va conduire à fixer au niveau de la nation, des grandes orientations, mais à assumer d'avoir des conférences de partis pour agir et qui vont prendre des décisions qui sont ainsi mises en œuvre sous la houlette de nos préfets."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Par contre, je vais ici le dire très clairement, être élu par le peuple souverain ne donne pas le droit de changer sa Constitution sans respecter celle-ci, parce que la Constitution est le cadre même de notre élection, parce que je pense que ce que vous proposez n'est pas constitutionnel ce qui est à mes yeux un problème."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Ce que je veux faire c'est dès le début, là, mettre toutes les forces politiques y compris celles qui ne sont pas assez représentées à l'Assemblée, parce que l'Assemblée qui sera élue dans quelques semaines ne sera pas élue à la proportionnelle, puisque je n'ai pas réussi à faire ce changement, je veux, j'y suis favorable pour ma part à titre personnel, on pourra peut-être y revenir, et nous avons discuté et je pense que là-dessus nous avons les mêmes opinions."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Plus globalement, il souhaite changer sa méthode de gouvernance en collaborant davantage avec les autres partis pour engager les grands chantiers sur l’école et la santé."
     },
-    {
-        "abstractive": {
-            "text": "MARINE LE PEN se moque de cette idée, dans la mesure où elle semble se substituer à l’assemblée."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Vous êtes à deux doigts de nous inventer l'Assemblée nationale."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Et donc ce que je veux pouvoir faire c'est une autre méthode de la pratique du pouvoir, c'est avec vous et qui en particulier sur le chantier de l'école ou de la santé va conduire à fixer au niveau de la nation, des grandes orientations, mais à assumer d'avoir des conférences de partis pour agir et qui vont prendre des décisions qui sont ainsi mises en œuvre sous la houlette de nos préfets."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen se moque de cette idée, dans la mesure où elle semble se substituer à l’assemblée."
     },
-    {
-        "abstractive": {
-            "text": "Elle appelle de son côté à un renouveau démocratique en s’appuyant sur le référendum d’initiative citoyenne ; elle estime également qu’EMMANUEL MACRON aurai très bien pu instaurer une dose de proportionnelle pendant son premier quinquennat."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Une renaissance démocratique avec une Assemblée nationale qui ai plus de pouvoir mais surtout avec la mise en œuvre effectivement du référendum d'initiative citoyenne."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Vous êtes à deux doigts de nous inventer l'Assemblée nationale."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle appelle de son côté à un renouveau démocratique en s’appuyant sur le référendum d’initiative citoyenne ; elle estime également qu’Emmanuel Macron aurait très bien pu instaurer une dose de proportionnelle pendant son premier quinquennat."
     },
-    {
-        "abstractive": {
-            "text": "Elle défend en outre une révision constitutionnelle dans le cadre de son référendum sur l’immigration."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Les gilets jaunes vous l'ont dit, ils aspiraient à de la démocratie, ils n'ont pas été entendu, ni sur la proportionnelle que vous n'avez pas souhaité mettre en œuvre et je n'ai toujours pas compris pourquoi car en réalité, c'est l'Assemblée nationale qui a le dernier mot sur ce sujet de la proportionnelle, vous auriez donc parfaitement pu faire passer cette proportionnelle, vous avez fait le choix de ne pas le faire."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Mais je souhaite également et je le dis, faire une révision constitutionnelle, parce que dans mon référendum d'initiative, dans mon référendum sur l'immigration, il y a une révision constitutionnelle, il y a un certain nombre de choses qui rentrent dans la constitution."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Une renaissance démocratique avec une Assemblée nationale qui ai plus de pouvoir mais surtout avec la mise en œuvre effectivement du référendum d'initiative citoyenne."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle défend en outre une révision constitutionnelle dans le cadre de son référendum sur l’immigration."
     },
-    {
-        "abstractive": {
-            "text": "Pour EMMANUEL MACRON, les mesures de son adversaires contreviennent à la constitution."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Vous proposez de ne pas respecter la Constitution française."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Les gilets jaunes vous l'ont dit, ils aspiraient à de la démocratie, ils n'ont pas été entendu, ni sur la proportionnelle que vous n'avez pas souhaité mettre en œuvre et je n'ai toujours pas compris pourquoi car en réalité, c'est l'Assemblée nationale qui a le dernier mot sur ce sujet de la proportionnelle, vous auriez donc parfaitement pu faire passer cette proportionnelle, vous avez fait le choix de ne pas le faire."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Mais je souhaite également et je le dis, faire une révision constitutionnelle, parce que dans mon référendum d'initiative, dans mon référendum sur l'immigration, il y a une révision constitutionnelle, il y a un certain nombre de choses qui rentrent dans la constitution."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour EMMANUEL MACRON, les mesures de son adversaire contreviennent à la constitution."
     },
-    {
-        "abstractive": {
-            "text": "Selon MARINE LE PEN toutefois, le seul souverain étant le peuple, il est possible de réformer la constitution via référendum."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Non, le seul souverain c'est le peuple, comme la Constitution et la loi suprême du peuple, seul le peuple peut la changer, c'est ça la réalité."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Et je vous rappelle quand même que dans notre constitution, il est indiqué que la souveraineté appartient au peuple, qui l'exerce par la voix de ses représentants, et par le référendum."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Vous proposez de ne pas respecter la Constitution française."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Selon Marine Le Pen toutefois, le seul souverain étant le peuple, il est possible de réformer la constitution via référendum."
+    },
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Non, le seul souverain c'est le peuple, comme la Constitution et la loi suprême du peuple, seul le peuple peut la changer, c'est ça la réalité."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Et je vous rappelle quand même que dans notre constitution, il est indiqué que la souveraineté appartient au peuple, qui l'exerce par la voix de ses représentants, et par le référendum."
+      }
+    ]
+  }
 ]

@@ -1,170 +1,170 @@
 [
-    {
-        "abstractive": {
-            "text": "Le présentateur s’étonne de l’absence d’engagement à réduire les dépenses chez Bertrand."
-        },
-        "extractive": [
-            {
-                "speaker": "David Pujadas",
-                "text": "On ne trouve dans votre programme aucun engagement de réduction de dépenses ou de réduction de la dette, donc, est ce que c'est LR qui c'est trompé il y a cinq ans ou est ce que c'est l'air du temps qui a complètement changé?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Le présentateur s’étonne de l’absence d’engagement à réduire les dépenses chez Bertrand."
     },
-    {
-        "abstractive": {
-            "text": "Ce dernier mentionne la réforme des retraites, la simplification administrative et l’obligation pour les chômeur d’accepter les offres d’emplois proposées."
-        },
-        "extractive": [
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "La réforme des retraites, la réforme de l'assurance chômage, le changement au travers de la République des territoires, je veux mettre fin au millefeuille politico administratif français, notamment avec le conseiller territorial moins d'élus, moins d'administrations."
-            },
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "Par le travail et en faisant en sorte qu'il y ait moins d\te contraintes pour ceux qui donnent du travail, les entrepreneurs, que ceux qui travaillent gagnent vraiment leur vie, et aussi parce que c'est très important qu'il y ait un changement radical, qu'on ne puisse plus en France refuser des offres d'emploi comme c'est le cas aujourd'hui."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "David Pujadas",
+        "text": "On ne trouve dans votre programme aucun engagement de réduction de dépenses ou de réduction de la dette, donc, est ce que c'est LR qui c'est trompé il y a cinq ans ou est ce que c'est l'air du temps qui a complètement changé?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ce dernier mentionne la réforme des retraites, la simplification administrative et l’obligation pour les chômeurs d’accepter les offres d’emplois proposées."
     },
-    {
-        "abstractive": {
-            "text": "Barnier souhaite lui rassembler les bonnes idées de chacun, rappelant les réformes proposées par Bertrand ; il entend inverser progressivement la courbe de la dette."
-        },
-        "extractive": [
-            {
-                "speaker": "Michel Barnier",
-                "text": "Et moi, mon idée, c'est que dans ce projet, il faudra qu'on prenne les bonnes idées de chacun et qu'on les calcules, qu'on en fasse le compte parce qu'il y a une chose que les Français ne nous pardonneraient pas cette fois ci, c'est de dire des choses sans les avoir calculées, de dire n'importe quoi dans une campagne électorale pour ne pas être capable ensuite de faire ce qu'on a dit."
-            },
-            {
-                "speaker": "Michel Barnier",
-                "text": "Je prends l'engagement d'inverser progressivement la courbe de la dette, sans doute, il faudra plus d'un quinquennat, même si moi, je ne ferai qu'un quinquennat, ce qui est la raison et le bon sens."
-            },
-            {
-                "speaker": "Michel Barnier",
-                "text": "Il y a des économies possibles, celles que vous Xavier Bertrand a évoqué sur le régime des retraites, la réforme de l'Etat."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "La réforme des retraites, la réforme de l'assurance chômage, le changement au travers de la République des territoires, je veux mettre fin au millefeuille politico administratif français, notamment avec le conseiller territorial moins d'élus, moins d'administrations."
+      },
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "Par le travail et en faisant en sorte qu'il y ait moins d\te contraintes pour ceux qui donnent du travail, les entrepreneurs, que ceux qui travaillent gagnent vraiment leur vie, et aussi parce que c'est très important qu'il y ait un changement radical, qu'on ne puisse plus en France refuser des offres d'emploi comme c'est le cas aujourd'hui."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Michel Barnier souhaite lui rassembler les bonnes idées de chacun, rappelant les réformes proposées par Bertrand ; il entend inverser progressivement la courbe de la dette."
     },
-    {
-        "abstractive": {
-            "text": "Pécresse appelle aussi à faire une réforme des retraites (65 ans) et mentionne également la décentralisation, la lutte contre la bureaucratisation et la suppression de 200 000 postes de fonctionnaires."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Les économies, je les ferais avec quatre grandes réformes la réforme des retraites, jusqu'à 65 ans, la réforme de l'assurance chômage avec une vraie dégressivité pour toutes les personnes de moins de 50 ans qui gagnent jusqu'à 2 SMIC, la réforme que nous voulions faire, la réforme de la décentralisation, la réforme de la bureaucratisation et je ne suis pas d'accord."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Michel Barnier",
+        "text": "Et moi, mon idée, c'est que dans ce projet, il faudra qu'on prenne les bonnes idées de chacun et qu'on les calcules, qu'on en fasse le compte parce qu'il y a une chose que les Français ne nous pardonneraient pas cette fois ci, c'est de dire des choses sans les avoir calculées, de dire n'importe quoi dans une campagne électorale pour ne pas être capable ensuite de faire ce qu'on a dit."
+      },
+      {
+        "speaker": "Michel Barnier",
+        "text": "Je prends l'engagement d'inverser progressivement la courbe de la dette, sans doute, il faudra plus d'un quinquennat, même si moi, je ne ferai qu'un quinquennat, ce qui est la raison et le bon sens."
+      },
+      {
+        "speaker": "Michel Barnier",
+        "text": "Il y a des économies possibles, celles que vous Xavier Bertrand a évoqué sur le régime des retraites, la réforme de l'Etat."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse appelle aussi à faire une réforme des retraites (65 ans) et mentionne également la décentralisation, la lutte contre la bureaucratisation et la suppression de 200 000 postes de fonctionnaires."
     },
-    {
-        "abstractive": {
-            "text": "Elle évoque enfin la nécessité de supprimer ou de fusionner certaines agences de l’État."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Et je supprimerait 200 000 postes et non pas 150000, 200 000 postes pour en recréer 50 000 dans les trois missions essentielles de l'Etat qui sont protéger, éduquer et soigner."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Il y a aujourd'hui 700 agences para étatiques, 584 opérateurs de l'Etat, on peut les fusionner, on peut les réduire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Les économies, je les ferais avec quatre grandes réformes la réforme des retraites, jusqu'à 65 ans, la réforme de l'assurance chômage avec une vraie dégressivité pour toutes les personnes de moins de 50 ans qui gagnent jusqu'à 2 SMIC, la réforme que nous voulions faire, la réforme de la décentralisation, la réforme de la bureaucratisation et je ne suis pas d'accord."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle évoque enfin la nécessité de supprimer ou de fusionner certaines agences de l’État."
     },
-    {
-        "abstractive": {
-            "text": "Ciotti défend une réduction de 100 milliards des dépenses publics."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Il faut réduire les dépenses publiques."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "100 milliards d'euros."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Et je supprimerait 200 000 postes et non pas 150000, 200 000 postes pour en recréer 50 000 dans les trois missions essentielles de l'Etat qui sont protéger, éduquer et soigner."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Il y a aujourd'hui 700 agences para étatiques, 584 opérateurs de l'Etat, on peut les fusionner, on peut les réduire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti défend une réduction de 100 milliards des dépenses publiques."
     },
-    {
-        "abstractive": {
-            "text": "En accord avec Bertrand, Juvin et Pécresse, il reprend l’idée d’une réforme des retraites et d’une suppressions des strates administratives (fusion des métropoles, départements et régions)."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "La retraite, je crois qu'on est tous d'accord à 65 ans."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Des strates de collectivités locales, les Communes, cellule de base de la démocratie et une super collectivités locales au dessus, qui serait la fusion des métropoles, des départements, des régions."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Il faut réduire les dépenses publiques."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "100 milliards d'euros."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "En accord avec Bertrand, Philippe Juvin et Pécresse, il reprend l’idée d’une réforme des retraites et d’une suppression des strates administratives (fusion des métropoles, départements et régions)."
     },
-    {
-        "abstractive": {
-            "text": "Il veut aussi baisser le nombre de fonctionnaires."
-        },
-        "extractive": [
-            {
-                "speaker": "Ruth Elkrief",
-                "text": "sur les 250.000 suppressions d'emplois publics, où est ce que vous voulez les supprimer ?"
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "J'ai mis deux exceptions les métiers de la sécurité qui concourent à la sécurité, la défense, la sécurité, la justice, ce qui fait l'Etat, le régalien, ce pourquoi l'Etat est faible, alors qu'il s'est tellement aujourd'hui amoindri dans son efficacité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "La retraite, je crois qu'on est tous d'accord à 65 ans."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Des strates de collectivités locales, les Communes, cellule de base de la démocratie et une super collectivités locales au dessus, qui serait la fusion des métropoles, des départements, des régions."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il veut aussi baisser le nombre de fonctionnaires."
     },
-    {
-        "abstractive": {
-            "text": "Juvin n’entend lui pas diminuer le nombre de fonctionnaires contrairement à Ciotti et Pécresse mais simplement leur retirer des tâches administratives pour gagner en efficacité."
-        },
-        "extractive": [
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Je crois que pour recréer de la richesse, il y a 3, il y a deux sujets principaux en termes de recettes, c'est évidemment une réforme des retraites."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Donc, je vous le dis, moi, je ne baisserait pas le nombre de fonctionnaires sur 5 ans, je redistribue 200 000 postes en passant de fonctionnaires qui sont, bon, on va dire, dans des emplois de bureau vers des emplois au contact avec nos administrés, des justiciables de la justice, des patients à l'hôpital."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ruth Elkrief",
+        "text": "sur les 250.000 suppressions d'emplois publics, où est ce que vous voulez les supprimer ?"
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "J'ai mis deux exceptions les métiers de la sécurité qui concourent à la sécurité, la défense, la sécurité, la justice, ce qui fait l'Etat, le régalien, ce pourquoi l'Etat est faible, alors qu'il s'est tellement aujourd'hui amoindri dans son efficacité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Philippe Juvin n’entend lui pas diminuer le nombre de fonctionnaires contrairement à Eric Ciotti et Valérie Pécresse mais simplement leur retirer des tâches administratives pour gagner en efficacité."
     },
-    {
-        "abstractive": {
-            "text": "Bertrand continue en appelant à la fin des 35 h dans la fonction publique et à l’augmentation des contrôles contre la fraude fiscale."
-        },
-        "extractive": [
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "Je veux que l'on sorte des 35 heures, si l'ensemble des agents publics travaillent davantage, payé davantage dans ces cas là, s'ils sont à 39 heures, ce sont 200 000 emplois."
-            },
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "Il y a trop de fonctionnaires qui contrôlent les autres et qui contrôlent les Français, mais par contre, il n'y en a pas assez pour contrôler et agir pour lutter contre les fraudes sociales."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Je crois que pour recréer de la richesse, il y a 3, il y a deux sujets principaux en termes de recettes, c'est évidemment une réforme des retraites."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Donc, je vous le dis, moi, je ne baisserait pas le nombre de fonctionnaires sur 5 ans, je redistribue 200 000 postes en passant de fonctionnaires qui sont, bon, on va dire, dans des emplois de bureau vers des emplois au contact avec nos administrés, des justiciables de la justice, des patients à l'hôpital."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Xavier Bertrand continue en appelant à la fin des 35 h dans la fonction publique et à l’augmentation des contrôles contre la fraude fiscale."
     },
-    {
-        "abstractive": {
-            "text": "Barnier rappelle enfin la nécessité de réformer la fonction publique en supprimant les doublons."
-        },
-        "extractive": [
-            {
-                "speaker": "Michel Barnier",
-                "text": "En revanche, il y a des réponses à ou fait on des économies, et en effet, dans la réforme de l'Etat et de la fonction publique et des administrations, il y a des doublons, il y a des doubles tutelles, je vous promets que si on fait ce travail méthodiquement avec les régions, avec les départements, avec les communes, on fera des économies."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "Je veux que l'on sorte des 35 heures, si l'ensemble des agents publics travaillent davantage, payé davantage dans ces cas là, s'ils sont à 39 heures, ce sont 200 000 emplois."
+      },
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "Il y a trop de fonctionnaires qui contrôlent les autres et qui contrôlent les Français, mais par contre, il n'y en a pas assez pour contrôler et agir pour lutter contre les fraudes sociales."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Michel Barnier rappelle enfin la nécessité de réformer la fonction publique en supprimant les doublons."
     },
-    {
-        "abstractive": {
-            "text": "Pécresse termine sur les salaires des fonctionnaires qu’elle veut revaloriser"
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Mais moins de fonctionnaires, c'est aussi des fonctionnaires mieux payés"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Michel Barnier",
+        "text": "En revanche, il y a des réponses à ou fait on des économies, et en effet, dans la réforme de l'Etat et de la fonction publique et des administrations, il y a des doublons, il y a des doubles tutelles, je vous promets que si on fait ce travail méthodiquement avec les régions, avec les départements, avec les communes, on fera des économies."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse termine sur les salaires des fonctionnaires qu’elle veut revaloriser."
+    },
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Mais moins de fonctionnaires, c'est aussi des fonctionnaires mieux payés"
+      }
+    ]
+  }
 ]

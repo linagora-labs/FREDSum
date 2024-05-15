@@ -1,192 +1,192 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Macron et Le Pen discutent de la flexibilité du travail. "
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Marine Le Pen, les 35h vous conviennent donc aujourd’hui ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Emmanuel Macron et Marine Le Pen discutent de la flexibilité du travail."
     },
-    {
-        "abstractive": {
-            "text": "Le Pen explique que les négociations sur le temps de travail doivent avoir lieu par branche et non par entreprise, comme le souhaite Macron, car cela entraînerait une concurrence déloyale au sein même du pays. "
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Moi je veux que les négociations aient lieu par branche, M. Macron veut que les négociations aient lieu par entreprise."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Vous allez créer les conditions d’une concurrence nationale déloyale alors que déjà ils subissent une concurrence internationale déloyale."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Marine Le Pen, les 35h vous conviennent donc aujourd’hui ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen explique que les négociations sur le temps de travail doivent avoir lieu par branche et non par entreprise, comme le souhaite Macron, car cela entraînerait une concurrence déloyale au sein même du pays."
     },
-    {
-        "abstractive": {
-            "text": "Elle pense que son adversaire suit les recommandations de l’UE, lesquelles pourraient aller jusqu’à exiger la suppression du CDI. "
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je suppose qu’il y aura la disparition du CDI, enfin toute la feuille de route qui est celle de l’UE, que vous suivez, dont vous cochez les cases avec beaucoup de discipline, il faut le dire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Moi je veux que les négociations aient lieu par branche, M. Macron veut que les négociations aient lieu par entreprise."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Vous allez créer les conditions d’une concurrence nationale déloyale alors que déjà ils subissent une concurrence internationale déloyale."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle pense que son adversaire suit les recommandations de l’UE, lesquelles pourraient aller jusqu’à exiger la suppression du CDI."
     },
-    {
-        "abstractive": {
-            "text": "Elle réprouve sa participation à la mise en place de la loi El Khomri, instrument de précarisation du travail. "
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je sais bien que vous essayez de faire oublier que vous avez participé à un gouvernement qui a mis en oeuvre la loi El Khomri, qui a été une loi, encore une fois, de précarisation du travail, qui n'a pas créé un emploi, qui a créé un chômage qui est encore plus important depuis que vous êtes parti du gouvernement que quand vous y êtes entré."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je suppose qu’il y aura la disparition du CDI, enfin toute la feuille de route qui est celle de l’UE, que vous suivez, dont vous cochez les cases avec beaucoup de discipline, il faut le dire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle réprouve sa participation à la mise en place de la loi El Khomri, instrument de précarisation du travail."
     },
-    {
-        "abstractive": {
-            "text": "Macron lui reproche alors de ne pas répondre aux questions des journalistes et de se concentrer sur le passé. "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Ce qui est extraordinaire c’est que vous ne répondez en fait jamais aux questions, vous parlez toujours du passé et des autres."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je sais bien que vous essayez de faire oublier que vous avez participé à un gouvernement qui a mis en oeuvre la loi El Khomri, qui a été une loi, encore une fois, de précarisation du travail, qui n'a pas créé un emploi, qui a créé un chômage qui est encore plus important depuis que vous êtes parti du gouvernement que quand vous y êtes entré."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron lui reproche alors de ne pas répondre aux questions des journalistes et de se concentrer sur le passé."
     },
-    {
-        "abstractive": {
-            "text": "Il défend ensuite l’idée de la négociation par entreprise, laquelle a permis dans l’exemple des chantiers de l’Atlantique de sauver la société à la suite d’une période de chômage partiel. "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais toutes ces entreprises, l'entreprise d’un salarié jusqu'à cinq cents, elles veulent quoi ?"
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Elles veulent plus d'adaptation à leur réalité économique."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Donc, il faut leur laisser la possibilité de négocier, pour certaines, un accord majoritaire d'entreprise."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Les Chantiers de l'Atlantique, à Saint Nazaire, ils ont sauvé des emplois en négociant un accord d'entreprise qui a permis le chômage partiel."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Ce qui est extraordinaire c’est que vous ne répondez en fait jamais aux questions, vous parlez toujours du passé et des autres."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il défend ensuite l’idée de la négociation par entreprise, laquelle a permis dans l’exemple des chantiers de l’Atlantique de sauver la société à la suite d’une période de chômage partiel."
     },
-    {
-        "abstractive": {
-            "text": "Pour autant, il n’est pas défavorable à l’accord de branche ; seulement, on ne peut toujours compter sur ce type d’accord, dans la mesure où les grands groupes peuvent perturber les négociations, laissant peu de marge aux petites entreprises. "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais oui, j'ai compris que vous étiez aussi favorable pour la branche mais précisément pour éviter que les plus grosses ne perturbent le jeu il faut leur laisser aussi signer des accords de leur côté."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais toutes ces entreprises, l'entreprise d’un salarié jusqu'à cinq cents, elles veulent quoi ?"
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Elles veulent plus d'adaptation à leur réalité économique."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Donc, il faut leur laisser la possibilité de négocier, pour certaines, un accord majoritaire d'entreprise."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Les Chantiers de l'Atlantique, à Saint Nazaire, ils ont sauvé des emplois en négociant un accord d'entreprise qui a permis le chômage partiel."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour autant, il n’est pas défavorable à l’accord de branche ; seulement, on ne peut toujours compter sur ce type d’accord, dans la mesure où les grands groupes peuvent perturber les négociations, laissant peu de marge aux petites entreprises."
     },
-    {
-        "abstractive": {
-            "text": "Or, selon Le Pen, c’est justement cette politique de concurrence à outrance qui tue les petites entreprises et tire les salaires vers le bas. "
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Donc vous partez du principe que c'est le code du travail qui crée, en réalité, du chômage."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Ils savent ce qui les tue, c'est la politique que vous menez, c'est la politique de concurrence déloyale, c’est la politique qui fait que l'État stratège n’intervient pas et laisse, encore une fois, les gros manger les petits, laisse les entreprises chercher des travailleurs à bas coûts, comme ça a été le cas."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais oui, j'ai compris que vous étiez aussi favorable pour la branche mais précisément pour éviter que les plus grosses ne perturbent le jeu il faut leur laisser aussi signer des accords de leur côté."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Or, selon Le Pen, c’est justement cette politique de concurrence à outrance qui tue les petites entreprises et tire les salaires vers le bas."
     },
-    {
-        "abstractive": {
-            "text": "Elle propose ensuite de taxer les entreprises qui délocalisent et appelle à créer un fonds souverain pour venir en aide aux entreprises susceptibles d’être rachetées par des fonds spéculatifs. "
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Mais je leur propose de taxer les entreprises qui délocalisent."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Deuxièmement, je veux mettre en place un fonds souverain qui permette d’intervenir, par exemple dans un dossier comme Vivarte qui est en train d’être dépecé par des fonds vautours, et bien moi je crois que l’Etat doit intervenir, confier un fonds souverain à des chefs d’entreprise et avoir en même temps les deux qualités, celle de l’Etat qui est la durée et celle du privé qui est l’efficacité, en réclamant à des entreprises qui sont viables des rendements qui sont raisonnables."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Donc vous partez du principe que c'est le code du travail qui crée, en réalité, du chômage."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Ils savent ce qui les tue, c'est la politique que vous menez, c'est la politique de concurrence déloyale, c’est la politique qui fait que l'État stratège n’intervient pas et laisse, encore une fois, les gros manger les petits, laisse les entreprises chercher des travailleurs à bas coûts, comme ça a été le cas."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle propose ensuite de taxer les entreprises qui délocalisent et appelle à créer un fonds souverain pour venir en aide aux entreprises susceptibles d’être rachetées par des fonds spéculatifs."
     },
-    {
-        "abstractive": {
-            "text": "Macron lui rétorque que cela existe déjà : il s’agit de l’Agence des Participations de l’État. "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Y a quelque chose qui s'appelle l’Agence des participations de l’Etat, où l’Etat peut investir dans une entreprise."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Mais je leur propose de taxer les entreprises qui délocalisent."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Deuxièmement, je veux mettre en place un fonds souverain qui permette d’intervenir, par exemple dans un dossier comme Vivarte qui est en train d’être dépecé par des fonds vautours, et bien moi je crois que l’Etat doit intervenir, confier un fonds souverain à des chefs d’entreprise et avoir en même temps les deux qualités, celle de l’Etat qui est la durée et celle du privé qui est l’efficacité, en réclamant à des entreprises qui sont viables des rendements qui sont raisonnables."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron lui rétorque que cela existe déjà : il s’agit de l’Agence des Participations de l’État."
     },
-    {
-        "abstractive": {
-            "text": "Le Pen prend alors l’exemple de l’entreprise Whirlpool pour illustrer un cas possible de nationalisation que l’État pourrait effectuer. "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Parce que dans le cas de Whirlpool, ce que vous proposez, c’est rien."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Le soir vous faites un communiqué en proposant quoi ?"
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "La nationalisation de Whirlpool."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Y a quelque chose qui s'appelle l’Agence des participations de l’Etat, où l’Etat peut investir dans une entreprise."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen prend alors l’exemple de l’entreprise Whirlpool pour illustrer un cas possible de nationalisation que l’État pourrait effectuer."
     },
-    {
-        "abstractive": {
-            "text": "Macron n’est pas convaincu, Hollande ayant tenté d’employer de telles solutions, sans résultat. "
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "On la met sous nationalisation de l’État, le temps de trouver un repreneur."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "C’est exactement l'erreur qu’a faite Monsieur Hollande avec Florange."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Parce que dans le cas de Whirlpool, ce que vous proposez, c’est rien."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Le soir vous faites un communiqué en proposant quoi ?"
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "La nationalisation de Whirlpool."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron n’est pas convaincu, François Hollande ayant tenté d’employer de telles solutions, sans résultat."
     },
-    {
-        "abstractive": {
-            "text": "Il entend se battre pour éviter d’en arriver là. "
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Vous savez, j’ai eu des victoires, j’ai eu des échecs mais je me suis toujours battu et je continuerai à le faire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "On la met sous nationalisation de l’État, le temps de trouver un repreneur."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "C’est exactement l'erreur qu’a faite Monsieur Hollande avec Florange."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il entend se battre pour éviter d’en arriver là."
     },
-    {
-        "abstractive": {
-            "text": "Mais Le Pen pense qu’il ne fera que soutenir les fusions-acquisitions, se désintéressant de la protection des emplois. "
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Mais les victoires c’est pour protéger des emplois ou pour protéger des sociétés qui s’achètent les unes les autres et qui dégraissent"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Vous savez, j’ai eu des victoires, j’ai eu des échecs mais je me suis toujours battu et je continuerai à le faire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Mais Marine Le Pen pense qu’il ne fera que soutenir les fusions-acquisitions, se désintéressant de la protection des emplois."
+    },
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Mais les victoires c’est pour protéger des emplois ou pour protéger des sociétés qui s’achètent les unes les autres et qui dégraissent"
+      }
+    ]
+  }
 ]

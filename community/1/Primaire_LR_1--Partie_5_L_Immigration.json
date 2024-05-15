@@ -1,317 +1,317 @@
 [
-    {
-        "abstractive": {
-            "text": "Le sujet de ce débat est l'immigration."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Vous êtes tous pour reprendre le contrôle de l'immigration par la voie des quotas, tous pour des expulsions plus efficaces, plus effectives, tous pour la double peine, tous pour conditionner les aides sociales à des preuves d'intégration."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Le sujet de ce débat est l'immigration."
     },
-    {
-        "abstractive": {
-            "text": "Le premier sujet abordé est celui du grand remplacement, une expression qu'uniquement éric ciotti s'approprie."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Eric Ciotti Première question est ce que vous feriez vôtre l'expression : grand remplacement qui est utilisée par Eric Zemmour?"
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "En tout cas, 67, 67% des Français font leur cette expression et 83% pour cent des républicains."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Et aujourd'hui, pour reprendre le mot du président Giscard d'Estaing, c'était à la une du Figaro, en 1991, qui parlait d'invasion migratoire, aujourd'hui, nous sommes dans cette situation."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Aujourd'hui, 90% des 43 terroristes je rajoute celui de ce matin sont issus, sont étrangers ou issus de l'immigration."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Je déteste cette expression parce qu'elle donne le sentiment que tout est foutu."
-            },
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "Je vous ai dit que ça se produirait pas, monsieur Zemmour vous en parlait, Il est là parce que c'est l'échec de M.Macron et les Français."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Moi, je partage l'avis de Valérie Pécresse, utiliser cette expression laisse entendre qu'en fait, c'est fichu."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Donc, moi, je vous répondrai simplement le grand remplacement, il n'aura pas lieu parce que nous mettrons en place des mesures qui feront en sorte que tout cela sera efficace."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Vous êtes tous pour reprendre le contrôle de l'immigration par la voie des quotas, tous pour des expulsions plus efficaces, plus effectives, tous pour la double peine, tous pour conditionner les aides sociales à des preuves d'intégration."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Le premier sujet abordé est celui du grand remplacement, une expression qu'uniquement Eric Ciotti s'approprie."
     },
-    {
-        "abstractive": {
-            "text": "Michel Barnier souhaite mettre un moratoire à l'immigration, stoppant les régularisations, baissant le nombre d'étudiants étrangers de 45 000, et le regroupement familial, ainsi que l'apprentissage du français et une réduction de moitié de l'immigration du travail."
-        },
-        "extractive": [
-            {
-                "speaker": "Michel Barnier",
-                "text": "Je n'utiliserai pas ce mot, la réalité, c'est ce qui est le plus important, et j'ai essayé sérieusement de proposer une méthode globale pour traiter cette question enfin sérieusement, juridiquement, globalement et de manière pratique, à travers l'idée d'un moratoire qui sera immédiatement déclenché au lendemain de l'élection présidentielle, pendant trois, cinq ans, l'idée de remettre à plat tout ce qui ne fonctionne pas."
-            },
-            {
-                "speaker": "Michel Barnier",
-                "text": "Et donc, je veux proposer clairement si les Français me font confiance, ce moratoire accompagné d'un référendum qui nous apportera le bouclier constitutionnel dont nous avons besoin pour sécuriser les mesures que nous voulons prendre pour limiter le regroupement familial, pour expulser les gens qui doivent l'être et de manière absolument implacable."
-            },
-            {
-                "speaker": "P2",
-                "text": "Michel Barnier, parlons de votre mesure, rentrons dans la méthode, vous dites moratoire, est ce que ça signifie qu'on arrête tout, y compris l'immigration étudiante, y compris l'immigration de travail, y compris l'immigration d'asile, le droit d'asile, y compris de pays en guerre?"
-            },
-            {
-                "speaker": "Michel Barnier",
-                "text": "On ne va pas attendre de 3 à 5 ans, cher Xavier, on va prendre des mesures tout de suite comme celle que tu as proposée et notamment sur les régularisations, elles seront interrompues immédiatement, le nombre d'étudiants sera ramené à 45.000 au lieu de 90.000 et le regroupement familial, sur la base d'idées qui sont évoquées ici, sera strictement limité, avec des conditions de ressources supplémentaires et l'apprentissage du français."
-            },
-            {
-                "speaker": "Michel Barnier",
-                "text": "Et l'immigration de travail sera drastiquement diminuée au moins de moitié immédiatement."
-            },
-            {
-                "speaker": "Michel Barnier",
-                "text": "Pendant ce temps là, permettez moi de le dire, parce que c'est important dans le cadre de la reconstruction d'une vraie politique d'immigration dont nous avons la maîtrise, il y a la discussion que nous devons avoir avec nos partenaires européens, le contrôle de nos frontières qui sont de véritables passoires, une politique d'asile et une politique de visas européens et enfin, une négociation extrêmement dure qui ne sera pas facile avec les pays d'émigration et les pays d'Afrique notamment, vers lesquels nous voulons renvoyer des citoyens dont nous ne voulons plus chez nous en parle et qu'ils refusent d'accueillir chez eux pour l'instant."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Eric Ciotti Première question est ce que vous feriez vôtre l'expression : grand remplacement qui est utilisée par Eric Zemmour?"
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "En tout cas, 67, 67% des Français font leur cette expression et 83% pour cent des républicains."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Et aujourd'hui, pour reprendre le mot du président Giscard d'Estaing, c'était à la une du Figaro, en 1991, qui parlait d'invasion migratoire, aujourd'hui, nous sommes dans cette situation."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Aujourd'hui, 90% des 43 terroristes je rajoute celui de ce matin sont issus, sont étrangers ou issus de l'immigration."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Je déteste cette expression parce qu'elle donne le sentiment que tout est foutu."
+      },
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "Je vous ai dit que ça se produirait pas, monsieur Zemmour vous en parlait, Il est là parce que c'est l'échec de M.Macron et les Français."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Moi, je partage l'avis de Valérie Pécresse, utiliser cette expression laisse entendre qu'en fait, c'est fichu."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Donc, moi, je vous répondrai simplement le grand remplacement, il n'aura pas lieu parce que nous mettrons en place des mesures qui feront en sorte que tout cela sera efficace."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Michel Barnier souhaite mettre un moratoire à l'immigration, stoppant les régularisations, baissant le nombre d'étudiants étrangers de 45 000, et le regroupement familial, ainsi que l'apprentissage du français et une réduction de moitié de l'immigration du travail."
     },
-    {
-        "abstractive": {
-            "text": "Valérie Pécresse veut réguler les visas et réémigrer les clandestins, elle souhaite aussi traiter les cas des visas au cas par cas, pays par pays."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Je pense qu'une immigration incontrôlée, plus une intégration ratée ça disloque une nation et qu'on en est là aujourd'hui."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "On en est là aujourd'hui parce que l'immigration aujourd'hui a un lien avec la montée de l'islamisme et le terrorisme, parce que l'immigration a un lien aujourd'hui avec la montée de la violence et de la délinquance et que si on n'accepte pas de reconnaître ces liens, alors ce n'est pas égal, bien sûr."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Stop à l'immigration incontrôlée, et c'est pour ça que je propose une loi constitutionnelle avec des quotas qui permettront de limiter au maximum l'immigration et de choisir surtout les étrangers qu'on accueil."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Il faut pouvoir choisir qui on laisse rentrer parce que tous les pays ne posent pas les mêmes problèmes."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Il faut des règles du jeu internationales avec un rapport de force aujourd'hui pour moi c'est simple, c'est les visas d'entrée en conditions du retour des clandestins dans les pays d'origine."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Ça veut dire que ce n'est pas le même problème avec l'Algérie, le Pakistan ou le Mali, qui sont des pays qui refusent systématiquement de reconnaître leurs ressortissants et de reprendre leurs clandestins, leurs clandestins, donc, on votera chaque année au Parlement, Pays par pays, type d'immigration par type d'immigration, un nombre de visas annuels."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Michel Barnier",
+        "text": "Je n'utiliserai pas ce mot, la réalité, c'est ce qui est le plus important, et j'ai essayé sérieusement de proposer une méthode globale pour traiter cette question enfin sérieusement, juridiquement, globalement et de manière pratique, à travers l'idée d'un moratoire qui sera immédiatement déclenché au lendemain de l'élection présidentielle, pendant trois, cinq ans, l'idée de remettre à plat tout ce qui ne fonctionne pas."
+      },
+      {
+        "speaker": "Michel Barnier",
+        "text": "Et donc, je veux proposer clairement si les Français me font confiance, ce moratoire accompagné d'un référendum qui nous apportera le bouclier constitutionnel dont nous avons besoin pour sécuriser les mesures que nous voulons prendre pour limiter le regroupement familial, pour expulser les gens qui doivent l'être et de manière absolument implacable."
+      },
+      {
+        "speaker": "P2",
+        "text": "Michel Barnier, parlons de votre mesure, rentrons dans la méthode, vous dites moratoire, est ce que ça signifie qu'on arrête tout, y compris l'immigration étudiante, y compris l'immigration de travail, y compris l'immigration d'asile, le droit d'asile, y compris de pays en guerre?"
+      },
+      {
+        "speaker": "Michel Barnier",
+        "text": "On ne va pas attendre de 3 à 5 ans, cher Xavier, on va prendre des mesures tout de suite comme celle que tu as proposée et notamment sur les régularisations, elles seront interrompues immédiatement, le nombre d'étudiants sera ramené à 45.000 au lieu de 90.000 et le regroupement familial, sur la base d'idées qui sont évoquées ici, sera strictement limité, avec des conditions de ressources supplémentaires et l'apprentissage du français."
+      },
+      {
+        "speaker": "Michel Barnier",
+        "text": "Et l'immigration de travail sera drastiquement diminuée au moins de moitié immédiatement."
+      },
+      {
+        "speaker": "Michel Barnier",
+        "text": "Pendant ce temps là, permettez moi de le dire, parce que c'est important dans le cadre de la reconstruction d'une vraie politique d'immigration dont nous avons la maîtrise, il y a la discussion que nous devons avoir avec nos partenaires européens, le contrôle de nos frontières qui sont de véritables passoires, une politique d'asile et une politique de visas européens et enfin, une négociation extrêmement dure qui ne sera pas facile avec les pays d'émigration et les pays d'Afrique notamment, vers lesquels nous voulons renvoyer des citoyens dont nous ne voulons plus chez nous en parle et qu'ils refusent d'accueillir chez eux pour l'instant."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse veut réguler les visas et ré émigrer les clandestins, elle souhaite aussi traiter les cas des visas au cas par cas, pays par pays."
     },
-    {
-        "abstractive": {
-            "text": "Xavier Bertrand souhaite mettre un place un circulaire pour mettre un terme à la possibilité de régularisation des immigrants clandestins dès le début de son mandat."
-        },
-        "extractive": [
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "Je le dis à Michel Barnier ne veux pas attendre trois à cinq ans pour régler le problème, dans les premiers jours, je demanderai à mon ministre de l'Intérieur de prendre une circulaire pour mettre un terme à celle de novembre 2012 et que plus personne rentré clandestinement en France ne puisse jamais avoir le droit à régularisation."
-            },
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "D'autre part, à l'automne 2012, il y aura un référendum, mais je ne demanderait pas seulement aux parlementaires, je demanderai aux Français de se prononcer pour dire si oui ou non, ils veulent mettre en place une politique de quotas migratoires."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Je pense qu'une immigration incontrôlée, plus une intégration ratée ça disloque une nation et qu'on en est là aujourd'hui."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "On en est là aujourd'hui parce que l'immigration aujourd'hui a un lien avec la montée de l'islamisme et le terrorisme, parce que l'immigration a un lien aujourd'hui avec la montée de la violence et de la délinquance et que si on n'accepte pas de reconnaître ces liens, alors ce n'est pas égal, bien sûr."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Stop à l'immigration incontrôlée, et c'est pour ça que je propose une loi constitutionnelle avec des quotas qui permettront de limiter au maximum l'immigration et de choisir surtout les étrangers qu'on accueil."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Il faut pouvoir choisir qui on laisse rentrer parce que tous les pays ne posent pas les mêmes problèmes."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Il faut des règles du jeu internationales avec un rapport de force aujourd'hui pour moi c'est simple, c'est les visas d'entrée en conditions du retour des clandestins dans les pays d'origine."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Ça veut dire que ce n'est pas le même problème avec l'Algérie, le Pakistan ou le Mali, qui sont des pays qui refusent systématiquement de reconnaître leurs ressortissants et de reprendre leurs clandestins, leurs clandestins, donc, on votera chaque année au Parlement, Pays par pays, type d'immigration par type d'immigration, un nombre de visas annuels."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Xavier Bertrand souhaite mettre en place une circulaire pour mettre un terme à la possibilité de régularisation des immigrants clandestins dès le début de son mandat."
     },
-    {
-        "abstractive": {
-            "text": "Il souhaite aussi faire un référendum pour faire voter la politique de quotas migratoire."
-        },
-        "extractive": [
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "J'avais commencé à le faire quand j'étais ministre du Travail en 2011, en limitant l'immigration pour les métiers parce que je veux aussi remettre au travail nos chômeurs qui peuvent travailler, je veux diviser par trois l'immigration familiale, et que même pour l'immigration familiale, quand on viendra, il faudra parler le français, mais vraiment le parler."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "Je le dis à Michel Barnier ne veux pas attendre trois à cinq ans pour régler le problème, dans les premiers jours, je demanderai à mon ministre de l'Intérieur de prendre une circulaire pour mettre un terme à celle de novembre 2012 et que plus personne rentré clandestinement en France ne puisse jamais avoir le droit à régularisation."
+      },
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "D'autre part, à l'automne 2012, il y aura un référendum, mais je ne demanderait pas seulement aux parlementaires, je demanderai aux Français de se prononcer pour dire si oui ou non, ils veulent mettre en place une politique de quotas migratoires."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il souhaite aussi faire un référendum pour faire voter la politique de quotas migratoire."
     },
-    {
-        "abstractive": {
-            "text": "Il souhaite améliorer les conditions de l'assimilation à l'école"
-        },
-        "extractive": [
-            {
-                "speaker": "Philippe Juvin",
-                "text": "C'est vrai qu'il y a des quartiers où, dans les classes, la majorité des enfants ne parlent pas le français comme langue maternelle, et ça, c'est un sujet majeur parce qu'en fait, ça nuit à l'intégration."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Le vrai sujet de l'immigration, c'est notre capacité à agir, c'est notre capacité à accueillir, moi elle est la mon inquiétude, c'est qu'on n'a pas suffisamment de travail, il n'y a pas suffisamment de logements, et on continue à accueillir."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Comment obtient on des Etats d'origine qu'ils reprennent leurs ressortissants, il y a les visas, mais il y a aussi une arme qu'il faut que nous utilisions tous les ans, 15 milliards d'euros repartent de la France vers les pays d'origine par les travailleurs légaux, eh bien, ces 15 milliards doivent être taxés à hauteur de la non volonté des Etats de reprendre leurs ressortissants."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "J'avais commencé à le faire quand j'étais ministre du Travail en 2011, en limitant l'immigration pour les métiers parce que je veux aussi remettre au travail nos chômeurs qui peuvent travailler, je veux diviser par trois l'immigration familiale, et que même pour l'immigration familiale, quand on viendra, il faudra parler le français, mais vraiment le parler."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il veut aussi taxer l'argent que les migrants envoient à leur famille dans leur pays."
     },
-    {
-        "abstractive": {
-            "text": "Elle souhaite aussi un examen de français, et des prestations sociales qui ne peuvent être perçues qu'après 5 ans de résidence en France."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Et par ailleurs, ce que je demande, c'est Xavier a esquissé cette piste, un examen de français réussi."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Donc, c'est 5 ans de résidence régulière en France pour toucher les aides au logement, les prestations familiales il y a déjà 5 ans pour le RSA et pour le minimum vieillesse, mais on ira encore plus loin, et par ailleurs, le choix de la nationalité, il se fait à 18 ans, mais on donne des preuves pour un enfant né de parents étrangers en France."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Philippe Juvin",
+        "text": "C'est vrai qu'il y a des quartiers où, dans les classes, la majorité des enfants ne parlent pas le français comme langue maternelle, et ça, c'est un sujet majeur parce qu'en fait, ça nuit à l'intégration."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Le vrai sujet de l'immigration, c'est notre capacité à agir, c'est notre capacité à accueillir, moi elle est la mon inquiétude, c'est qu'on n'a pas suffisamment de travail, il n'y a pas suffisamment de logements, et on continue à accueillir."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Comment obtient on des Etats d'origine qu'ils reprennent leurs ressortissants, il y a les visas, mais il y a aussi une arme qu'il faut que nous utilisions tous les ans, 15 milliards d'euros repartent de la France vers les pays d'origine par les travailleurs légaux, eh bien, ces 15 milliards doivent être taxés à hauteur de la non volonté des Etats de reprendre leurs ressortissants."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle souhaite aussi un examen de Français, et des prestations sociales qui ne peuvent être perçues qu'après 5 ans de résidence en France."
     },
-    {
-        "abstractive": {
-            "text": "Eric Ciotti propose de mettre en place le droit du sang, et s'accorde sur les allocations non contributives."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "l'Immigration économique, c'est sept pour cent des visas, 33% pour les étudiants, 33% l'immigration familiale."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Moi, je propose des mesures simples le droit du sang pour ne plus devenir français par hasard, la priorité nationale."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Moi je dis, pour les allocations non contributives, il faut une présence durable sur le terrain, allocations familiales le RSA, ça existe déjà."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Il faut arrêter de verser des allocations à des personnes qui ne paient pas de cotisations."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Et par ailleurs, ce que je demande, c'est Xavier a esquissé cette piste, un examen de français réussi."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Donc, c'est 5 ans de résidence régulière en France pour toucher les aides au logement, les prestations familiales il y a déjà 5 ans pour le RSA et pour le minimum vieillesse, mais on ira encore plus loin, et par ailleurs, le choix de la nationalité, il se fait à 18 ans, mais on donne des preuves pour un enfant né de parents étrangers en France."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti propose de mettre en place le droit du sang, et s'accorde sur les allocations non contributives."
     },
-    {
-        "abstractive": {
-            "text": "Il propose aussi un permis à point."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Ensuite, je propose un permis à points migratoires."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "l'Immigration économique, c'est sept pour cent des visas, 33% pour les étudiants, 33% l'immigration familiale."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Moi, je propose des mesures simples le droit du sang pour ne plus devenir français par hasard, la priorité nationale."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Moi je dis, pour les allocations non contributives, il faut une présence durable sur le terrain, allocations familiales le RSA, ça existe déjà."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Il faut arrêter de verser des allocations à des personnes qui ne paient pas de cotisations."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il propose aussi un permis à point."
     },
-    {
-        "abstractive": {
-            "text": "Philippe Juvin est pour la traite des déboutés du droit d'asile qui doivent rentrer chez eux."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Philippe Juvin, préférence nationale, droit du sang à la place du droit du sol, est ce que vous adhérez?"
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Premièrement, reconduction, évidemment, des déboutés du droit d'asile."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Ensuite, je propose un permis à points migratoires."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Philippe Juvin est pour la traite des déboutés du droit d'asile qui doivent rentrer chez eux."
     },
-    {
-        "abstractive": {
-            "text": "Il veut aussi étudier les dossiers plus rapidement, à l'entrée au pays ou dans les quinze jours, citant l'impossibilité de départ des demandeurs d'asile qui sont présents sur le territoire depuis des mois."
-        },
-        "extractive": [
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Un des sujets, c'est qu'on met des mois à étudier le dossier, à la différence de pays voisins, ct c'est vrai qu'à partir du moment où vous êtes resté plusieurs mois sur le territoire national alors que vous étiez en demande de droit d'asile et bien souvent vous avez fait votre vie et vous ne repartez pas."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Philippe Juvin, préférence nationale, droit du sang à la place du droit du sol, est ce que vous adhérez?"
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Premièrement, reconduction, évidemment, des déboutés du droit d'asile."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il veut aussi étudier les dossiers plus rapidement, à l'entrée au pays ou dans les quinze jours, citant l'impossibilité de départ des demandeurs d'asile qui sont présents sur le territoire depuis des mois."
     },
-    {
-        "abstractive": {
-            "text": "Il s'accorde de puis sur les quotas et le renvoie au début des peines de prison des immigrés."
-        },
-        "extractive": [
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Deuxième point, évidemment, les quotas."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Troisième point il y a la question des condamnés définitifs et qui sont en prison en France, je souhaite non pas qu'ils soient renvoyés dans leur pays d'origine à l'issue de leur peine, je souhaite qu'ils soient renvoyés dans leur pays d'origine au début de leur peine parce que ça aura un effet extrêmement exemplaire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Un des sujets, c'est qu'on met des mois à étudier le dossier, à la différence de pays voisins, ct c'est vrai qu'à partir du moment où vous êtes resté plusieurs mois sur le territoire national alors que vous étiez en demande de droit d'asile et bien souvent vous avez fait votre vie et vous ne repartez pas."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il annonce son envie de retravailler l'espace Schengen avec d'autres pays s'accordant sur ces politiques migratoires."
     },
-    {
-        "abstractive": {
-            "text": "Il annonce son envie de retravailler l'espace Schengen avec d'autres pays s'accordant sur ces politiques migratoires."
-        },
-        "extractive": [
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Enfin, sur Schengen, Schengen, je veux suspendre Schengen, je veux un Schengen 2."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Deuxième point, évidemment, les quotas."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Troisième point il y a la question des condamnés définitifs et qui sont en prison en France, je souhaite non pas qu'ils soient renvoyés dans leur pays d'origine à l'issue de leur peine, je souhaite qu'ils soient renvoyés dans leur pays d'origine au début de leur peine parce que ça aura un effet extrêmement exemplaire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il finit en disant qu'il souhaite utiliser de l'argent européen, 50% des FEDER, pour le développement d'infrastructures en Afrique, pour baisser l'immigration de ces pays."
     },
-    {
-        "abstractive": {
-            "text": "Il finit en disant qu'il souhaite utiliser de l'argent européen, 50% des FEDER, pour le développement d'infrastructures en Afrique, pour baisser l'immigration de ces pays."
-        },
-        "extractive": [
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Enfin, dernier point, si vous me permettez, puisque je suis un peu en retard, tout ça ne servira à rien si nous ne nous attaquons pas au sujet majeur de la démographie, en particulier en Afrique."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Ce que je souhaite, c'est que nous prenions à bras le corps et très rapidement cette affaire en débloquant un grand plan, un grand plan de développement d'infrastructures en Afrique."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "La moitié de la somme des plans FEDER dans les 20 prochaines années doivent être affectés au développement des infrastructures en Afrique."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Enfin, sur Schengen, Schengen, je veux suspendre Schengen, je veux un Schengen 2."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Xavier Bertrand s'accorde avec la décision de ré émigrer les immigrants qui ne suivent pas leurs obligations de quitter le territoire français, 50% aujourd'hui."
     },
-    {
-        "abstractive": {
-            "text": "Xavier Bertrand s'accorde avec la décision de ré émigrer les immigrants qui ne suivent pas leur obligations de quitter le territoire français, 50% aujourd'hui."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Philippe Juvin a dit Il faut taxer les transferts d'argent des immigrés qui travaillent au quotidien en France, qui payent leurs impôts et qui envoient de l'argent dans leur pays, bon, est ce que ça fait partie des solutions, Xavier Bertrand, que vous envisagez, est ce que vous êtes prêt à aller à des crises diplomatiques, par exemple avec l'Algérie, sur la question des visas?"
-            },
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "La réponse est oui."
-            },
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "Je veux garder l'aide au développement, je rejoins Philippe Juvin là dessus."
-            },
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "Mais il faudra qu'il y ait de l'énergie pour qu'il y ait des entreprises, pour qu'il y ait des hôpitaux, parce qu'autrement, on peut se préparer à faire des murs de 10 mètres qu'il faudra porter à 15 mètres ou à 20 mètres dans les années qui viennent."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Enfin, dernier point, si vous me permettez, puisque je suis un peu en retard, tout ça ne servira à rien si nous ne nous attaquons pas au sujet majeur de la démographie, en particulier en Afrique."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Ce que je souhaite, c'est que nous prenions à bras le corps et très rapidement cette affaire en débloquant un grand plan, un grand plan de développement d'infrastructures en Afrique."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "La moitié de la somme des plans FEDER dans les 20 prochaines années doivent être affectés au développement des infrastructures en Afrique."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Quelque chose que Valérie Pécresse défend, avec l'utilisation de bateaux Charters pour reconduire les clandestins dans leur pays d'origine."
     },
-    {
-        "abstractive": {
-            "text": "Quelque chose que Valérie Pécresse défend, avec l'utilisation de bateaux Charters pour reconduire les clandestins dans leur pays d'origine."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Nicolas Sarkozy, quand il était au pouvoir, c'était 44%, des obligations du territoire qui étaient exécutées, et on est à 12%  aujourd'hui, donc il faisait mieux que le gouvernement Macron 3 fois mieux."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Alors pourquoi je parle de charters, c'est parce que moi aussi, comme Xavier Bertrand, je veux engager un bras de fer avec les pays d'origine et leur demander de les obliger à reprendre leurs ressortissants."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Philippe Juvin a dit Il faut taxer les transferts d'argent des immigrés qui travaillent au quotidien en France, qui payent leurs impôts et qui envoient de l'argent dans leur pays, bon, est ce que ça fait partie des solutions, Xavier Bertrand, que vous envisagez, est ce que vous êtes prêt à aller à des crises diplomatiques, par exemple avec l'Algérie, sur la question des visas?"
+      },
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "La réponse est oui."
+      },
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "Je veux garder l'aide au développement, je rejoins Philippe Juvin là dessus."
+      },
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "Mais il faudra qu'il y ait de l'énergie pour qu'il y ait des entreprises, pour qu'il y ait des hôpitaux, parce qu'autrement, on peut se préparer à faire des murs de 10 mètres qu'il faudra porter à 15 mètres ou à 20 mètres dans les années qui viennent."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": null
+    },
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Nicolas Sarkozy, quand il était au pouvoir, c'était 44%, des obligations du territoire qui étaient exécutées, et on est à 12%  aujourd'hui, donc il faisait mieux que le gouvernement Macron 3 fois mieux."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Alors pourquoi je parle de charters, c'est parce que moi aussi, comme Xavier Bertrand, je veux engager un bras de fer avec les pays d'origine et leur demander de les obliger à reprendre leurs ressortissants."
+      }
+    ]
+  }
 ]

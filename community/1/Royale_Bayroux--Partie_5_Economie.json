@@ -1,126 +1,126 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, François Bayrou et Ségolène Royal discutent de l'économie française."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Ce qui nous a frappé quand on regarde vos programmes respectifs, ou ce qui était le programme de François Bayrou, c'est que vous même Ségolène Royal à villepinte, vous avez après avoir parlé à ceux que vous aviez rencontré lors des débats participatifs, vous avez dit je veux vous parler de la dette, le poids de la dette, la question de la dette est une question insupportable, insoutenable."
-            },
-            {
-                "speaker": "P1",
-                "text": "Et vous François Bayrou dans votre programme vous disiez la lutte contre la dette est la priorité des priorités."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, François Bayrou et Ségolène Royal discutent de l'économie française."
     },
-    {
-        "abstractive": {
-            "text": "François Bayrou commence en expliquant que le programme de Ségolène Royal coûte trop cher."
-        },
-        "extractive": [
-            {
-                "speaker": "François Bayrou",
-                "text": "Je suis en désaccord avec l'orientation économique défendue par Ségolène Royal et le Parti socialiste, en désaccord assez profond."
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "D'abord parce que en dépit de la phrase prononcée par Ségolène Royal sur la dette, eh bien l'addition des promesses électorales, qui sont au même niveau que les promesses électorales de Nicolas Sarkozy à peu près 60 milliards, 62 milliards."
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "Je veux illustrer ce que j'ai dit."
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "Ségolène Royal dit, je vais faire un service public de la caution."
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "Et pour moi c'est, demander simplement, interdire les cautions et les dépôts de garantie, et rendez une assurance obligatoire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Ce qui nous a frappé quand on regarde vos programmes respectifs, ou ce qui était le programme de François Bayrou, c'est que vous même Ségolène Royal à villepinte, vous avez après avoir parlé à ceux que vous aviez rencontré lors des débats participatifs, vous avez dit je veux vous parler de la dette, le poids de la dette, la question de la dette est une question insupportable, insoutenable."
+      },
+      {
+        "speaker": "P1",
+        "text": "Et vous François Bayrou dans votre programme vous disiez la lutte contre la dette est la priorité des priorités."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Bayrou commence en expliquant que le programme de Ségolène Royal coûte trop cher."
     },
-    {
-        "abstractive": {
-            "text": "François Bayrou explique que donner de l'argent aux français ne relance pas la machine économique."
-        },
-        "extractive": [
-            {
-                "speaker": "François Bayrou",
-                "text": "Et je suis en désaccord avec une deuxième idée, qui consiste à penser, même si elle est attrayante comme ça au premier abord, qu’en donnant de l'argent un grand nombre de catégories de français on va relancer comme on dit la machine."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Bayrou",
+        "text": "Je suis en désaccord avec l'orientation économique défendue par Ségolène Royal et le Parti socialiste, en désaccord assez profond."
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "D'abord parce que en dépit de la phrase prononcée par Ségolène Royal sur la dette, eh bien l'addition des promesses électorales, qui sont au même niveau que les promesses électorales de Nicolas Sarkozy à peu près 60 milliards, 62 milliards."
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "Je veux illustrer ce que j'ai dit."
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "Ségolène Royal dit, je vais faire un service public de la caution."
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "Et pour moi c'est, demander simplement, interdire les cautions et les dépôts de garantie, et rendez une assurance obligatoire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Bayrou explique que donner de l'argent aux Français ne relance pas la machine économique."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal explique que son programme économique a été crée au contact des français."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Parce que je l'ai travaillé avec les Français au cours d'une campagne participative."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Bayrou",
+        "text": "Et je suis en désaccord avec une deuxième idée, qui consiste à penser, même si elle est attrayante comme ça au premier abord, qu’en donnant de l'argent un grand nombre de catégories de français on va relancer comme on dit la machine."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal explique que son programme économique a été créé au contact des Français."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal explique qu'il faut de la compétitivité économique et sociale."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Il n'y a pas de dogme il y a une nouvelle vision du développement économique, je considère aujourd'hui que la nouvelle croissance économique s'appuie sur 3 piliers."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Le pilier de la compétitivité économique, le pilier de la compétitivité sociale comme cela se fait dans tous les pays les plus performants de l'Europe, je suis allé voir l'exemple suédois par exemple je suis allé dans une entreprise Eriksson."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Parce que je l'ai travaillé avec les Français au cours d'une campagne participative."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal explique qu'il faut de la compétitivité économique et sociale."
     },
-    {
-        "abstractive": {
-            "text": "François Bayrou explique que le programme dépend trop de l'état."
-        },
-        "extractive": [
-            {
-                "speaker": "François Bayrou",
-                "text": "Je pense que dans votre projet ce qui est frappant c'est que vous en revenez à mon sens trop souvent à l'idée que l'État peut faire les choses à la place de la société."
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "Et donc je dis, laissez faire, laissez faire les partenaires sociaux, c'est eux qui devraient être en situation de responsabilité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Il n'y a pas de dogme il y a une nouvelle vision du développement économique, je considère aujourd'hui que la nouvelle croissance économique s'appuie sur 3 piliers."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Le pilier de la compétitivité économique, le pilier de la compétitivité sociale comme cela se fait dans tous les pays les plus performants de l'Europe, je suis allé voir l'exemple suédois par exemple je suis allé dans une entreprise Eriksson."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Bayrou explique que le programme dépend trop de l'état."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal explique que ses projets comme la sécurité sociale professionnelle ne seront pas financés par l'état."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Mais c'est précisément tout le contraire que je propose dans le pacte présidentiel, ce n'est pas l'État qui va mettre en place la sécurité sociale professionnelle."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Je fais confiance aux syndicats, aux associations, à la société civile, aux élus de proximité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Bayrou",
+        "text": "Je pense que dans votre projet ce qui est frappant c'est que vous en revenez à mon sens trop souvent à l'idée que l'État peut faire les choses à la place de la société."
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "Et donc je dis, laissez faire, laissez faire les partenaires sociaux, c'est eux qui devraient être en situation de responsabilité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal explique que ses projets comme la sécurité sociale professionnelle ne seront pas financés par l'état."
     },
-    {
-        "abstractive": {
-            "text": "Ségolène Royal explique qu'elle souhaite cibler les financements aux entreprises qui en ont le plus besoin, et explique que ses dépenses sont créatrice de richesse"
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Il y a un nouveau pacte avec les petites et moyennes entreprises pour en finir avec les aides uniformes aux entreprises, les soixante trois milliards d’aides publiques que paient le contribuable à l'ensemble des entreprises qu'elles aient de l'argent ou qu'elles n'en aient pas, qu'elles en aient besoin ou qu'elles n'en aient pas besoin, qu'elles soient florissantes ou qu'elles ne le soient pas."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Et le pacte présidentiel ne coûte pas 60 milliards mais 35 et ce sont des dépenses actives."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Mais c'est précisément tout le contraire que je propose dans le pacte présidentiel, ce n'est pas l'État qui va mettre en place la sécurité sociale professionnelle."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Je fais confiance aux syndicats, aux associations, à la société civile, aux élus de proximité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal explique qu'elle souhaite cibler les financements aux entreprises qui en ont le plus besoin, et explique que ses dépenses sont créatrices de richesse."
+    },
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Il y a un nouveau pacte avec les petites et moyennes entreprises pour en finir avec les aides uniformes aux entreprises, les soixante trois milliards d’aides publiques que paient le contribuable à l'ensemble des entreprises qu'elles aient de l'argent ou qu'elles n'en aient pas, qu'elles en aient besoin ou qu'elles n'en aient pas besoin, qu'elles soient florissantes ou qu'elles ne le soient pas."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Et le pacte présidentiel ne coûte pas 60 milliards mais 35 et ce sont des dépenses actives."
+      }
+    ]
+  }
 ]

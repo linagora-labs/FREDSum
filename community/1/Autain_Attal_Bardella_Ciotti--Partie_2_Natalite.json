@@ -1,204 +1,204 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Gabriel Attal, Clémentine Autain, Jordan Bardella et Eric Ciotti discutent de la natalité et du financement du système des retraites, et des seniors."
-        },
-        "extractive": [
-            {
-                "speaker": "Frédéric Souillot",
-                "text": "Et contrairement à ce que vient de dire le ministre Gabriel Attal, il n'y a pas de problème de financement, si on augmente de 10 points le taux d'emploi des seniors, c'est 50 milliards en 2032."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Gabriel Attal, Clémentine Autain, Jordan Bardella et Eric Ciotti discutent de la natalité et du financement du système des retraites, et des seniors."
     },
-    {
-        "abstractive": {
-            "text": "Gabriel Attal explique qu'il faut travailler sur l'emploi des seniors, qui a déjà augmenté ces dernières années."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Évidemment qu'il faut agir sur l'emploi des seniors."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "L'emploi des seniors a progressé ces dernières années de plus de 10 points pour reprendre les chiffres qui étaient évoqués."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Frédéric Souillot",
+        "text": "Et contrairement à ce que vient de dire le ministre Gabriel Attal, il n'y a pas de problème de financement, si on augmente de 10 points le taux d'emploi des seniors, c'est 50 milliards en 2032."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal explique qu'il faut travailler sur l'emploi des seniors, qui a déjà augmenté ces dernières années."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella critique la gestion de Gabriel Attal, dont le gouvernement a fait augmenter la dette significativement."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "C'est eux qui, cette année, pour la première fois depuis très longtemps dans notre pays, ont fait voter un budget avec 160 milliards d'euros de déficit."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Évidemment qu'il faut agir sur l'emploi des seniors."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "L'emploi des seniors a progressé ces dernières années de plus de 10 points pour reprendre les chiffres qui étaient évoqués."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella critique la gestion de Gabriel Attal, dont le gouvernement a fait augmenter la dette significativement."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella rappelle que Emmanuel Macron expliquait qu'il était impossible d'augmenter l'âge de départ à la retraite."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Excusez-moi, mais il y a deux ans Emmanuel Macron, il disait quoi ?"
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Pendant un peu plus de trois ans, 2019, lors des dernières élections européennes, il donnait une conférence de presse dans laquelle il disait mais jamais je ne reviendrai sur l'âge de départ à la retraite parce que ça serait, je vais vous lire sa phrase, je veux dire que quand on est peu qualifié, quand on vit dans une région qui est en difficulté industrielle, quand on a une carrière fracturée, bon courage déjà pour arriver à 62 ans, c'est ça la réalité dans notre pays."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "C'est eux qui, cette année, pour la première fois depuis très longtemps dans notre pays, ont fait voter un budget avec 160 milliards d'euros de déficit."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella rappelle que Emmanuel Macron expliquait qu'il était impossible d'augmenter l'âge de départ à la retraite."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique que la question de financement se pose car il n'y a pas assez de cotisants en France, et qu'il faut donc travailler sur le fait de relancer l'emploi, aini que de soutenir la natalité."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Mais la question des recettes se pose, elle se pose parce qu'on a plus assez de cotisants dans notre pays."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Donc il faut relancer l'emploi, il faut soutenir la natalité et il faut recréer des emplois qui amènent des cotisations."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Excusez-moi, mais il y a deux ans Emmanuel Macron, il disait quoi ?"
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Pendant un peu plus de trois ans, 2019, lors des dernières élections européennes, il donnait une conférence de presse dans laquelle il disait mais jamais je ne reviendrai sur l'âge de départ à la retraite parce que ça serait, je vais vous lire sa phrase, je veux dire que quand on est peu qualifié, quand on vit dans une région qui est en difficulté industrielle, quand on a une carrière fracturée, bon courage déjà pour arriver à 62 ans, c'est ça la réalité dans notre pays."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique que la question de financement se pose car il n'y a pas assez de cotisants en France, et qu'il faut donc travailler sur le fait de relancer l'emploi, ainsi que de soutenir la natalité."
     },
-    {
-        "abstractive": {
-            "text": "Clémentine Autain explique qu'il ne faut pas obliger les femmes à avoir des enfants."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Vous êtes en train d'expliquer aux femmes qui sont en train de nous regarder que si on veut sauver le système de retraite, il faut qu'elles fassent des enfants."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Vos amendements pour régler le problème, il s'agit d'aller chercher de l'argent sur le dos des immigrés."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Mais la question des recettes se pose, elle se pose parce qu'on a plus assez de cotisants dans notre pays."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Donc il faut relancer l'emploi, il faut soutenir la natalité et il faut recréer des emplois qui amènent des cotisations."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Clémentine Autain explique qu'il ne faut pas obliger les femmes à avoir des enfants."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella répond qu'il souhaite créer des aides pour que les femmes qui souhaitent avoir des enfants, mais qui ne le peuvent pas à cause de la crise du pouvoir d'achet puissent les avoir, en proposant des prêts issus par l'état."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Parce que la crise du pouvoir d'achat, parce que la crise de l'énergie, parce que le retour de la guerre à nos portes, parce que la crise sanitaire, parce que le réchauffement climatique, parce que la perte de notre société, et donc je pense qu'il faut encourager, soutenir la natalité, par des incitations fiscales, pour permettre aux femmes qui le souhaitent, de pouvoir faire des enfants, sans être impactées par cet effet."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "On avait proposé notamment de faire des prêts, de 100 000 euros, qui étaient faits par l'État, aux jeunes familles françaises."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Vous êtes en train d'expliquer aux femmes qui sont en train de nous regarder que si on veut sauver le système de retraite, il faut qu'elles fassent des enfants."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Vos amendements pour régler le problème, il s'agit d'aller chercher de l'argent sur le dos des immigrés."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella répond qu'il souhaite créer des aides pour que les femmes qui souhaitent avoir des enfants, mais qui ne le peuvent pas à cause de la crise du pouvoir d'achat puissent les avoir, en proposant des prêts issus par l'état."
     },
-    {
-        "abstractive": {
-            "text": "Gabriel Attal s'accorde avec Jordan Bardella sur le besoin de lever les freins qui poussent les couples à renoncer à avoir des enfants."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Moi je pense, pour répondre à votre question très concrète, qu'il faut agir pour lever les freins qui aujourd'hui font que vous avez des couples qui renoncent à avoir un enfant."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Parce que la crise du pouvoir d'achat, parce que la crise de l'énergie, parce que le retour de la guerre à nos portes, parce que la crise sanitaire, parce que le réchauffement climatique, parce que la perte de notre société, et donc je pense qu'il faut encourager, soutenir la natalité, par des incitations fiscales, pour permettre aux femmes qui le souhaitent, de pouvoir faire des enfants, sans être impactées par cet effet."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "On avait proposé notamment de faire des prêts, de 100 000 euros, qui étaient faits par l'État, aux jeunes familles françaises."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal s'accorde avec Jordan Bardella sur le besoin de lever les freins qui poussent les couples à renoncer à avoir des enfants."
     },
-    {
-        "abstractive": {
-            "text": "Gabriel Attal explique avoir proposé le service public de la petite enfance ainsi que des mesures fiscale en augmentant le crédit d'impôt de la garde d'enfant."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "On propose le service public de la petite enfance."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "On prend des mesures aussi fiscales très concrètes, je vous donne un exemple parce qu'il me tient à cœur, parce que ça a été voté dans le dernier budget, on réhausse le plafond du crédit d'impôt pour la garde de l'enfant."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Moi je pense, pour répondre à votre question très concrète, qu'il faut agir pour lever les freins qui aujourd'hui font que vous avez des couples qui renoncent à avoir un enfant."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal explique avoir proposé le service public de la petite enfance ainsi que des mesures fiscale en augmentant le crédit d'impôt de la garde d'enfants."
     },
-    {
-        "abstractive": {
-            "text": "Gabriel Attal explique que les alternatives à l'augmentation de l'âge de départ à la reraite est l'augmentation des impôts."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "La proposition alternative à la nôtre qui émerge, c'est l'augmentation massive des impôts."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "On propose le service public de la petite enfance."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "On prend des mesures aussi fiscales très concrètes, je vous donne un exemple parce qu'il me tient à cœur, parce que ça a été voté dans le dernier budget, on réhausse le plafond du crédit d'impôt pour la garde de l'enfant."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal explique que les alternatives à l'augmentation de l'âge de départ à la reraite est l'augmentation des impôts."
     },
-    {
-        "abstractive": {
-            "text": "Eric Ciotti explique que si les dépenses sont tenables, c'est car les retraites vont baisser, et que c'est injuste pour les français qui not travaillé toute leur vie."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Le président du cor, qui est intervenu à l'Assemblée nationale, dit oui, les dépenses sont tenables, mais il rajoute dans la phrase d'après, qui n'est jamais passée d'ailleurs, en disant, mais les retraites vont baisser."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Et c'est ça qui sera profondément injuste, parce qu'il y a des gens qui auront travaillé toute une vie et qui n'auront plus un niveau de retraite décent."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "La proposition alternative à la nôtre qui émerge, c'est l'augmentation massive des impôts."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti explique que si les dépenses sont tenables, c'est car les retraites vont baisser, et que c'est injuste pour les français qui ont travaillé toute leur vie."
     },
-    {
-        "abstractive": {
-            "text": "Eric Ciotti explique avoir négocié avec Madame Borne pour avoir rendue la réforme moins brutale, mais qu'il souhaite aussi la suppression des régimes spéciaux."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Mais j'assume d'être allé voir Mme Borne, parce que quand on a vu Mme Borne, on a obtenu que la retraite, la réforme, soit moins brutale, 64 ans."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Nous, nous voulons, la droite l'a toujours dit, la suppression des régimes spéciaux."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Le président du cor, qui est intervenu à l'Assemblée nationale, dit oui, les dépenses sont tenables, mais il rajoute dans la phrase d'après, qui n'est jamais passée d'ailleurs, en disant, mais les retraites vont baisser."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Et c'est ça qui sera profondément injuste, parce qu'il y a des gens qui auront travaillé toute une vie et qui n'auront plus un niveau de retraite décent."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti explique avoir négocié avec Madame Borne pour avoir rendu la réforme moins brutale, mais qu'il souhaite aussi la suppression des régimes spéciaux."
     },
-    {
-        "abstractive": {
-            "text": "Clémentine Autain rappelle que d'autres pays qui ont augmenté l'âge de départ à la retraite, comme la suède et l'allemagne, ont crée une paupérisation de la situation des retraités."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Moi, j'ai en tête le message qui a été adressé à Emmanuel Macron par celui qui a impulsé la réforme en Suède, qui a repoussé l'âge à 65 ans."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "On peut prendre un autre système qui peut être plus proche, c'est l'Allemagne, en Allemagne, vous savez ce qui se passe dans cette paupérisation."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Mais j'assume d'être allé voir Mme Borne, parce que quand on a vu Mme Borne, on a obtenu que la retraite, la réforme, soit moins brutale, 64 ans."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Nous, nous voulons, la droite l'a toujours dit, la suppression des régimes spéciaux."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Clémentine Autain rappelle que d'autres pays qui ont augmenté l'âge de départ à la retraite, comme la Suède et l'Allemagne, ont crée une paupérisation de la situation des retraités."
     },
-    {
-        "abstractive": {
-            "text": "Gabriel Attal explique qu'il souhaite lutter contre la précarité des retraités, et que pour augmenter leur retraite, il faut qu'ils travaillent plus longtemps"
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Moi je veux lutter contre la précarité, notamment chez les retraités."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Et la première cause de précarité chez les retraités, ce sera d'avoir un effondrement des pensions de retraite, comme on l'a vu dans des pays qui n'ont pas fait les réformes pour éviter d'en arriver à cette situation."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Plus vous augmentez les annuités, plus c'est difficile d'avoir une carrière complète."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Précisément, notre réforme, elle va permettre qu'on n'ait pas à baisser les pensions de retraite, parce que sinon, c'est ça qui va se passer"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Moi, j'ai en tête le message qui a été adressé à Emmanuel Macron par celui qui a impulsé la réforme en Suède, qui a repoussé l'âge à 65 ans."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "On peut prendre un autre système qui peut être plus proche, c'est l'Allemagne, en Allemagne, vous savez ce qui se passe dans cette paupérisation."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal explique qu'il souhaite lutter contre la précarité des retraités, et que pour augmenter leur retraite, il faut qu'ils travaillent plus longtemps."
+    },
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Moi je veux lutter contre la précarité, notamment chez les retraités."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Et la première cause de précarité chez les retraités, ce sera d'avoir un effondrement des pensions de retraite, comme on l'a vu dans des pays qui n'ont pas fait les réformes pour éviter d'en arriver à cette situation."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Plus vous augmentez les annuités, plus c'est difficile d'avoir une carrière complète."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Précisément, notre réforme, elle va permettre qu'on n'ait pas à baisser les pensions de retraite, parce que sinon, c'est ça qui va se passer"
+      }
+    ]
+  }
 ]

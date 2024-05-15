@@ -1,187 +1,187 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Eric Zemmour et Jean Luc Mélenchon discutent de l'abstention."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Est-ce que, euh comment dire qu'est-ce que pour vous, éric zemmour, cette abstention la traduit, et est-ce que vous craignez que la prochaine présidentielle dont vous disiez tout à l'heure qu'elle était extrêmement importante, est-ce que vous craignez qu'elles soit frappée également par ce désintérêt là ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Eric Zemmour et Jean Luc Mélenchon discutent de l'abstention."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique que les français considèrent qu'il ne sert à rien de voter, déjà car les anciennes politiques étaient trop similaire, mais aussi à cause du traité de maastricht."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je pense que les français considèrent de plus en plus, qu'il ne sert à rien de voter."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "D'abord parce que les politiques depuis trente ans se sont ressemblés comme soeur jumelles."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Tout cela depuis le fameux traité de maastricht, contre lesquels il était, et pour lequel monsieur mélenchon a voté oui, mais il va me dire que là aussi il a changé d'avis."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Donc, l'abstention, parce que je ça c'est la première chose, c'est que les politiques de droite et de gauche se sont ressemblés, d'ailleurs le le point d'orgue de de cette ressemblance c’est emmanuel macron, qui est l'enfant de valéry giscard d'estaing et de michel rocard."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Est-ce que, euh comment dire qu'est-ce que pour vous, éric zemmour, cette abstention la traduit, et est-ce que vous craignez que la prochaine présidentielle dont vous disiez tout à l'heure qu'elle était extrêmement importante, est-ce que vous craignez qu'elles soit frappée également par ce désintérêt là ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique que les Français considèrent qu'il ne sert à rien de voter, déjà car les anciennes politiques étaient trop similaires, mais aussi à cause du Traité de Maastricht."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique qu'Emmanuel Macron représente la quintessence des politiques uniformisées."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Et donc là ça a permis l'émergence d'Emmanuel macron qui est la quintessence des politiques uniformisée, euh décidée par l'europe, contrôlée par le juge, et qui ne concerne plus les français."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je pense que les français considèrent de plus en plus, qu'il ne sert à rien de voter."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "D'abord parce que les politiques depuis trente ans se sont ressemblés comme soeur jumelles."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Tout cela depuis le fameux traité de maastricht, contre lesquels il était, et pour lequel monsieur mélenchon a voté oui, mais il va me dire que là aussi il a changé d'avis."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Donc, l'abstention, parce que je ça c'est la première chose, c'est que les politiques de droite et de gauche se sont ressemblés, d'ailleurs le le point d'orgue de de cette ressemblance c’est emmanuel macron, qui est l'enfant de valéry giscard d'estaing et de michel rocard."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique qu'Emmanuel Macron représente la quintessence des politiques uniformisées."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique que l'on ne prends pas en compte la peur des français qu'est leur disparition et les thématiques qu'il présente."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "C'est que, euh les français considèrent qu'on ne prend pas en compte leur peur existentielle de disparaître."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Mais quand vous regardez les sondages, monsieur mélenchon vous constatez que, sur toutes les thématiques qui sont mes marottes comme vous dites, ce sont les marottes de soixante-dix pour cent des français, ne vous en déplaise."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "A partir du moment ou il y aura des gens qui le diront et euh là les français voteront."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Et donc là ça a permis l'émergence d'Emmanuel macron qui est la quintessence des politiques uniformisée, euh décidée par l'europe, contrôlée par le juge, et qui ne concerne plus les français."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique que l'on ne prend pas en compte la peur des Français qu'est leur disparition et les thématiques qu'il présente."
     },
-    {
-        "abstractive": {
-            "text": "Jean Luc Mélenchon explique lui aussi que le traité de Maastricht explique pourquoi les français ne veulent pas voter."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Alors y a un point qui est en effet centrale, c'est l'expérience qu'on fait des gens, cruels, que quoiqu'il vote le résultat est le même, et, l'exemple le plus spectaculaire, ce fut deux mille cinq."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "C'est que, euh les français considèrent qu'on ne prend pas en compte leur peur existentielle de disparaître."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Mais quand vous regardez les sondages, monsieur mélenchon vous constatez que, sur toutes les thématiques qui sont mes marottes comme vous dites, ce sont les marottes de soixante-dix pour cent des français, ne vous en déplaise."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "A partir du moment ou il y aura des gens qui le diront et euh là les français voteront."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon explique lui aussi que le Traité de Maastricht explique pourquoi les Français ne veulent pas voter."
     },
-    {
-        "abstractive": {
-            "text": "Jean luc mélenchon explique que les traités européens ne laissent pas assez de marge aux pays, et explique que si il est président, il sortirait de tout traités qui l'empêcherait d'appliquer son programme."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Et le fait est que nous sommes enfermés dans des traités européens qui font que, ceux qui gouvernent n’ont plus aucune marge, c'est pourquoi moi je veux sortir de ces traités, et qu'en tous cas je."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Quoi qu'il y ait dans ces traités, si les français votent pour mon programme, supposé que je devienne le président de la république, je prends l'engagement absolu que le programme sera appliqué, d’un bout à l'autre."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Et quand ça ne correspond pas aux traités européens, je ferai opt out comme on dit, c'est-à-dire la règle ne s'appliquera pas à la france."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Alors y a un point qui est en effet centrale, c'est l'expérience qu'on fait des gens, cruels, que quoiqu'il vote le résultat est le même, et, l'exemple le plus spectaculaire, ce fut deux mille cinq."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon explique que les traités européens ne laissent pas assez de marge aux pays, et explique que s'il est président, il sortirait de tout traités qui l'empêcherait d'appliquer son programme."
     },
-    {
-        "abstractive": {
-            "text": "Jean Luc Mélenchon critique aussi le système politique français, qui donne trop de pouvoir au président, et explique qu'il veut mettre en place une assemblée constituante, ainsi que des référendums d'initiative citoyenne et des référendum révocatoire, afin de rendre la souveraineté au peuple."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Deuxième chose, le système dans lequel nous vivons, est-ce que vous êtes conscient de son aberration ?"
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Ce pays est gouverné par un homme, tout seul, il y a plus de gouvernement, il se réunit dans son conseil de défense, le premier ministre, qui d'après l'article vingt de la constitution dirige et conduit la politique de la nation, je sais même pas si il dirige et conduit sa propre automobile."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "C'est la raison pour laquelle je suis pour qu'il y ait une assemblée constituante."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Et il faut donner une garantie aux gens, j'achève là-dessus, que la stabilité des institutions que nous imaginerons sera compensée par une possibilité à tout moment pour le peuple d'intervenir dans des référendums d'initiative citoyenne, et surtout de chasser s'il le décide quelques élus que ce soit, du conseiller municipal jusqu'au président de la république, par des référendum révocatoire."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Pour moi la souveraineté du peuple est la règle suprême."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Et le fait est que nous sommes enfermés dans des traités européens qui font que, ceux qui gouvernent n’ont plus aucune marge, c'est pourquoi moi je veux sortir de ces traités, et qu'en tous cas je."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Quoi qu'il y ait dans ces traités, si les français votent pour mon programme, supposé que je devienne le président de la république, je prends l'engagement absolu que le programme sera appliqué, d’un bout à l'autre."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Et quand ça ne correspond pas aux traités européens, je ferai opt out comme on dit, c'est-à-dire la règle ne s'appliquera pas à la france."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon critique aussi le système politique français, qui donne trop de pouvoir au président, et explique qu'il veut mettre en place une assemblée constituante, ainsi que des référendums d'initiative citoyenne et des référendum révocatoire, afin de rendre la souveraineté au peuple."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique qu'il souhaite remettre en cause des traités européens, notamment sur la concurrence, l'immigration et schengen."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Nous partons des mêmes présupposés, nous n'arrivons pas forcément aux mêmes conséquences, je suis tout à fait d'accord, on a dit la même chose sur évidemment l'europe, je suis d'accord aussi sur le fait que, euh il faudra multiplier les clauses de sortie, par exemple sur la concurrence sur euh sur le, sur l'immigration sur schengen évidemment."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Deuxième chose, le système dans lequel nous vivons, est-ce que vous êtes conscient de son aberration ?"
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Ce pays est gouverné par un homme, tout seul, il y a plus de gouvernement, il se réunit dans son conseil de défense, le premier ministre, qui d'après l'article vingt de la constitution dirige et conduit la politique de la nation, je sais même pas si il dirige et conduit sa propre automobile."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "C'est la raison pour laquelle je suis pour qu'il y ait une assemblée constituante."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Et il faut donner une garantie aux gens, j'achève là-dessus, que la stabilité des institutions que nous imaginerons sera compensée par une possibilité à tout moment pour le peuple d'intervenir dans des référendums d'initiative citoyenne, et surtout de chasser s'il le décide quelques élus que ce soit, du conseiller municipal jusqu'au président de la république, par des référendum révocatoire."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Pour moi la souveraineté du peuple est la règle suprême."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique qu'il souhaite remettre en cause des traités européens, notamment sur la concurrence, l'immigration et Schengen."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique qu'il ne faut pas retourner à la quatrième république, mais qu'il faut bien restaurer un usage du référendum."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Mais c'est justement le principe sur lequel était établi la cinquième république, contrairement à la quatrième république, qui à force de jeux parlementaire avait complètement occulté la souverainetée du peuple."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Il faut restaurer un usage massif du référendum."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Nous partons des mêmes présupposés, nous n'arrivons pas forcément aux mêmes conséquences, je suis tout à fait d'accord, on a dit la même chose sur évidemment l'europe, je suis d'accord aussi sur le fait que, euh il faudra multiplier les clauses de sortie, par exemple sur la concurrence sur euh sur le, sur l'immigration sur schengen évidemment."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique qu'il ne faut pas retourner à la Quatrième République, mais qu'il faut bien restaurer un usage du référendum."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique qu'il faut pouvoir passer au dela des institutions qui refusent des réformes décidées par le peuple, en créant une réforme constitutionnelle."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "C'est-à-dire que au nom de l'état de droit qui est une évidemment un bon principe au départ, on a des juges qui s'appellent le conseil constitutionnel, qui s'appellent le conseil d'état, qui s'appellent la cour européenne des droits de l'homme, qui s'appellent la cour de justice euh de l'union européenne, qui imposent leur vision idéologique et leur politique."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Quand vous voyez par exemple, que euh le conseil d'état a cassé une décision de réforme des allocations chômage, parce qu'il estimait que ce n'était pas le bon moment, vous voyez jusqu'où ils vont dans le principe d'opportunité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Mais c'est justement le principe sur lequel était établi la cinquième république, contrairement à la quatrième république, qui à force de jeux parlementaire avait complètement occulté la souverainetée du peuple."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Il faut restaurer un usage massif du référendum."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique qu'il faut pouvoir passer au delà des institutions qui refusent des réformes décidées par le peuple, en créant une réforme constitutionnelle."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour accuse Jean luc mélenchon de vouloir revenir à la quatrième république, ce que Jean Luc Mélenchon dément"
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Donc je pense qu'il faut aujourd'hui reprendre le pouvoir aux juges, et par le référendum, et par une réforme constitutionnelle, et c'est pour ça que euh monsieur mélenchon tout à l'heure m'asticotait sur les droits de l'homme."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Il veut nous remettre la quatrième république."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Non monsieur mélenchon, comme toute la gauche d'ailleurs, n'a jamais digéré la disparition de la quatrième république, et il veut nous la remettre sous couvert de souveraineté populaire, et d'abattre la monarchie républicaine."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Ce n’est pas mon modèle la quatrième république"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "C'est-à-dire que au nom de l'état de droit qui est une évidemment un bon principe au départ, on a des juges qui s'appellent le conseil constitutionnel, qui s'appellent le conseil d'état, qui s'appellent la cour européenne des droits de l'homme, qui s'appellent la cour de justice euh de l'union européenne, qui imposent leur vision idéologique et leur politique."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Quand vous voyez par exemple, que euh le conseil d'état a cassé une décision de réforme des allocations chômage, parce qu'il estimait que ce n'était pas le bon moment, vous voyez jusqu'où ils vont dans le principe d'opportunité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour accuse Jean Luc Mélenchon de vouloir revenir à la Quatrième République, ce que Jean Luc Mélenchon dément."
+    },
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Donc je pense qu'il faut aujourd'hui reprendre le pouvoir aux juges, et par le référendum, et par une réforme constitutionnelle, et c'est pour ça que euh monsieur mélenchon tout à l'heure m'asticotait sur les droits de l'homme."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Il veut nous remettre la quatrième république."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Non monsieur mélenchon, comme toute la gauche d'ailleurs, n'a jamais digéré la disparition de la quatrième république, et il veut nous la remettre sous couvert de souveraineté populaire, et d'abattre la monarchie républicaine."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Ce n’est pas mon modèle la quatrième république"
+      }
+    ]
+  }
 ]

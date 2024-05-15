@@ -1,152 +1,152 @@
 [
-    {
-        "abstractive": {
-            "text": "Pécresse souhaite accueillir les réfugiés issus de pays en guerre, en particulier les Ukrainiens."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Quand un peuple subit la guerre sur son sol, quand il est persécuté, il doit avoir une autorisation temporaire de séjour dans notre pays."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse souhaite accueillir les réfugiés issus de pays en guerre, en particulier les Ukrainiens."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour rappelle également que ces réfugiés seront peu nombreux en France car ils préfèrent aller en Pologne, pays qu’il faut donc aider."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Euh, ce que je j'ai dit, j'ai dit que les réfugiés ukrainiens voulait aller en pologne, et je le répète."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Quand un peuple subit la guerre sur son sol, quand il est persécuté, il doit avoir une autorisation temporaire de séjour dans notre pays."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour rappelle également que ces réfugiés seront peu nombreux en France car ils préfèrent aller en Pologne, pays qu’il faut donc aider."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour explique par ailleurs que la France peut accueillir des réfugiés Ukraniens car ceux-ci sont Chrétiens et européens donc plus proches de nous."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Donc ils ne veulent pas aller loin, et c'est pour ça que j'ai proposé d'aider les polonais, et madame pécresse, c'est pour ça que j'ai proposé que l'europe supprime les scandaleuses, euh, amendes, qu'ils ont infligé à la pologne."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Euh, ce que je j'ai dit, j'ai dit que les réfugiés ukrainiens voulait aller en pologne, et je le répète."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique par ailleurs que la France peut accueillir des réfugiés Ukraniens car ceux-ci sont Chrétiens et européens donc plus proches de nous."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour ironise alors en sous-entendant que sa rivale aurait pu accueillir les réfugiés syriens."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je signale à madame pécresse que, si, comme l'angleterre,  madame pécresse, que, si, ce sont ses principes d'accueillir des peuples qui sont victimes de la guerre, elle était donc favorable à l'accueil des migrants syriens en deux mille quinze, comme son modèle, madame merkel, qui en a accueilli un million."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Donc ils ne veulent pas aller loin, et c'est pour ça que j'ai proposé d'aider les polonais, et madame pécresse, c'est pour ça que j'ai proposé que l'europe supprime les scandaleuses, euh, amendes, qu'ils ont infligé à la pologne."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour ironise alors en sous-entendant que sa rivale aurait pu accueillir les réfugiés syriens."
     },
-    {
-        "abstractive": {
-            "text": "Pécresse explique ensuite qu’elle souhaite établir des quotas d’immigrés par branche professionnelle ; elle n’accordera plus de visas aux pays refusant de reprendre leurs ressortissants clandestins."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Donc, moi, ce que je souhaite, aujourd'hui, c'est cette politique de quotas."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Zéro, les clandestins, les clandestins, rentrent chez eux, et les pays qui refusent de reprendre leurs clandestins, c'est zéro visas."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Et la, la nationalité française, elle se demande à dix-huit ans, et on donne des preuves d’assimilation."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je signale à madame pécresse que, si, comme l'angleterre,  madame pécresse, que, si, ce sont ses principes d'accueillir des peuples qui sont victimes de la guerre, elle était donc favorable à l'accueil des migrants syriens en deux mille quinze, comme son modèle, madame merkel, qui en a accueilli un million."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse explique ensuite qu’elle souhaite établir des quotas d’immigrés par branche professionnelle ; elle n’accordera plus de visas aux pays refusant de reprendre leurs ressortissants clandestins."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour est plus radical car il souhaite expulser les délinquants étrangers et déchoir de leur nationalité les binationaux délinquants, supprimer le droit du sol et le regroupement familial, limiter considérablement les étudiants étrangers, renvoyer les immigrés en situation de chômage (plus de 6 mois) et retirer les allocations non contributives aux immigrés extra-européens."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Moi, je supprime, je supprime le droit du sol complètement."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Moi, je supprime le regroupement familial totalement."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Moi, je limite les étudiants, uniquement, les gens qui sont très, très fort."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Moi, je continue, j'expulse les délinquants étrangers."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je déchois de la  nationalité les délinquants bi nationaux, et, puis, je les expulse."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Par ailleurs, je, j'enlève les prestations sociales, non contributives, comme on dit, c'est-à-dire le rsa, l'allocation logement, le minimum vieillesse, euh, aux étrangers, non-européens, vous ne le faites pas."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Donc, moi, ce que je souhaite, aujourd'hui, c'est cette politique de quotas."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Zéro, les clandestins, les clandestins, rentrent chez eux, et les pays qui refusent de reprendre leurs clandestins, c'est zéro visas."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Et la, la nationalité française, elle se demande à dix-huit ans, et on donne des preuves d’assimilation."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour est plus radical car il souhaite expulser les délinquants étrangers et déchoir de leur nationalité les binationaux délinquants, supprimer le droit du sol et le regroupement familial, limiter considérablement les étudiants étrangers, renvoyer les immigrés en situation de chômage (plus de 6 mois) et retirer les allocations non contributives aux immigrés extra-européens."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour critique la politique de quotas de son adversaire car il pense que le patronat fera toujours pression pour avoir plus d’immigrés."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Donc, en vérité, ce que vous êtes en train de dire aux français, avec ce principe des quotas, c'est que, non seulement vous n'arrêtez pas les droits et l'immigration légale telle qu'on l'a aujourd'hui, deux cent soixante-quinze mille entrées légales en deux mille vingt, mais qu'en plus, vous allez nous rajouter des immigrés de travail alors qu'aujourd'hui, ils ne représentent que quatorze pour cent de cette, cette immigration, légale, et qu'il y a déjà, aujourd'hui cinquante-cinq pour cent des étrangers non-européens qui sont inactif"
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Moi, ce que je dis, c'est que, si un étranger est chômeur, au bout de six mois, je le renvoie."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Moi, je supprime, je supprime le droit du sol complètement."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Moi, je supprime le regroupement familial totalement."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Moi, je limite les étudiants, uniquement, les gens qui sont très, très fort."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Moi, je continue, j'expulse les délinquants étrangers."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je déchois de la  nationalité les délinquants bi nationaux, et, puis, je les expulse."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Par ailleurs, je, j'enlève les prestations sociales, non contributives, comme on dit, c'est-à-dire le rsa, l'allocation logement, le minimum vieillesse, euh, aux étrangers, non-européens, vous ne le faites pas."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour critique la politique de quotas de son adversaire car il pense que le patronat fera toujours pression pour avoir plus d’immigrés."
     },
-    {
-        "abstractive": {
-            "text": "Pécresse ajoute que le droit d’asile devra se demander aux frontières."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Moi, je demande que le droit d'asile soit fait à la frontière, pour lutter contre tous ces faux demandeurs d'asile, et on fera, euh, on est, on examinera leur demande dans un délai de un mois, et les faux demandeurs d'asile, ceux qui viennent pour de l'immigration économiques, ils rentrent chez eux."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Donc, en vérité, ce que vous êtes en train de dire aux français, avec ce principe des quotas, c'est que, non seulement vous n'arrêtez pas les droits et l'immigration légale telle qu'on l'a aujourd'hui, deux cent soixante-quinze mille entrées légales en deux mille vingt, mais qu'en plus, vous allez nous rajouter des immigrés de travail alors qu'aujourd'hui, ils ne représentent que quatorze pour cent de cette, cette immigration, légale, et qu'il y a déjà, aujourd'hui cinquante-cinq pour cent des étrangers non-européens qui sont inactif"
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Moi, ce que je dis, c'est que, si un étranger est chômeur, au bout de six mois, je le renvoie."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse ajoute que le droit d’asile devra se demander aux frontières."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour souhaite enfin que les français restent en France ; selon lui ils partent pour échapper au grand remplacement."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je considère que les états qui ne reprennent pas les clandestins s’opposent à la france, donc je prendrais toutes les mesures de coercition."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Par ailleurs, moi, ce que je veux, c'est que les français ne s'expatrient plus. Voyez-vous, les jeunes français, j'aimerais qu'ils restent en france, et, pour cela, je veux leur donner l'envie de rester en france, d'abord, parce que, euh, ils seront rassurés sur l'évolution de leur pays, ils ne seront pas sûrs que leur pays, euh, est en train de devenir le liban en grand, euh, et que, euh, nous allons, euh, effectivement, vers le grand remplacement."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Moi, je ne sors pas de l'Europe. Donc, il y a l'immigration européenne, il y a des polonais, il y, a, euh, des roumains, euh, ça, ce n'est pas de l'immigration extra-européenne, madame pécresse"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Moi, je demande que le droit d'asile soit fait à la frontière, pour lutter contre tous ces faux demandeurs d'asile, et on fera, euh, on est, on examinera leur demande dans un délai de un mois, et les faux demandeurs d'asile, ceux qui viennent pour de l'immigration économiques, ils rentrent chez eux."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour souhaite enfin que les Français restent en France ; selon lui ils partent pour échapper au grand remplacement."
     },
-    {
-        "abstractive": {
-            "text": "Cette expression désigne selon Pécresse une théorie complotiste"
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Pour moi, c’est une théorie complotiste, qui joue sur les peurs, et qui entraîne la haine."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je considère que les états qui ne reprennent pas les clandestins s’opposent à la france, donc je prendrais toutes les mesures de coercition."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Par ailleurs, moi, ce que je veux, c'est que les français ne s'expatrient plus. Voyez-vous, les jeunes français, j'aimerais qu'ils restent en france, et, pour cela, je veux leur donner l'envie de rester en france, d'abord, parce que, euh, ils seront rassurés sur l'évolution de leur pays, ils ne seront pas sûrs que leur pays, euh, est en train de devenir le liban en grand, euh, et que, euh, nous allons, euh, effectivement, vers le grand remplacement."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Moi, je ne sors pas de l'Europe. Donc, il y a l'immigration européenne, il y a des polonais, il y, a, euh, des roumains, euh, ça, ce n'est pas de l'immigration extra-européenne, madame pécresse"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Cette expression désigne selon Valérie Pécresse une théorie complotiste."
+    },
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Pour moi, c’est une théorie complotiste, qui joue sur les peurs, et qui entraîne la haine."
+      }
+    ]
+  }
 ]

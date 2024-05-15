@@ -1,93 +1,93 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Jean luc mélenchon et Henri guaino discutent de la responsabilité de la police dans les manifestations."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Jean luc mélenchon, un ministre de l'Intérieur doit-il démissionner dès lors qu'il y a un mort dans une manifestation ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Jean Luc Mélenchon et Henri Guaino discutent de la responsabilité de la police dans les manifestations."
     },
-    {
-        "abstractive": {
-            "text": "Jean luc Mélenchon débute en expliquant qu'il pense qu'une ministre de l'intérieur doit démissionner lorsqu'il y a un mort dans une manifestation."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Dans ce cas-là, en tout cas."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "D'abord, je commence par dire une chose, je suis persuadé que le gendarme qui a lancé cette le grenade n’avait pas l'intention de tuer ce jeune homme."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Sous le gouvernement de Jacques Chirac, le ministre qui avait provoqué toute cette histoire monsieur Devaquet avait démissionné après la mort de Malik."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Mais on a dit en quelques sorts, j'estime qu'on a organisé, mis en scène les conditions pour qu'il y ait des affrontements, et je trouve ça très condamnable."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Donc moi je dis la responsabilité politique de Bernard Cazeneuve est entière, et pour que la société aille au calme à l'apaisement, il faut qu'il démissionne, c'est-à-dire que la société assume sa responsabilité, et qu’elle dise, dans les manifs, personne ne meurt."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Jean luc mélenchon, un ministre de l'Intérieur doit-il démissionner dès lors qu'il y a un mort dans une manifestation ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon débute en expliquant qu'il pense qu'une ministre de l'intérieur doit démissionner lorsqu'il y a un mort dans une manifestation."
     },
-    {
-        "abstractive": {
-            "text": "Jean luc Mélenchon explique qu'une action de police est spéciale car personne ne meurt."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Mais exiger de la fermeté lorsqu'il y a justement des violences contre les forces de l'ordre, parce que là il y avait des violences contre les forces de l'ordre, pour vous c'est une faute ?"
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Vous devez répliquer avec technique et sans irresponsabilité."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Dans une action de police, personne ne meurt c'est pour ça que c'est une technique la police, ce n'est pas simplement supplément d'âme."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Les forces de l'ordre, c'est un maniement technique particulier et celui qui doit en assumer la responsabilité, c'est pas celui qui est devant avec son casque sur la tête, et le bouclier, c'est celui qui au dessus donne des ordres qui conduisent à cette violence"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Dans ce cas-là, en tout cas."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "D'abord, je commence par dire une chose, je suis persuadé que le gendarme qui a lancé cette le grenade n’avait pas l'intention de tuer ce jeune homme."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Sous le gouvernement de Jacques Chirac, le ministre qui avait provoqué toute cette histoire monsieur Devaquet avait démissionné après la mort de Malik."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Mais on a dit en quelques sorts, j'estime qu'on a organisé, mis en scène les conditions pour qu'il y ait des affrontements, et je trouve ça très condamnable."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Donc moi je dis la responsabilité politique de Bernard Cazeneuve est entière, et pour que la société aille au calme à l'apaisement, il faut qu'il démissionne, c'est-à-dire que la société assume sa responsabilité, et qu’elle dise, dans les manifs, personne ne meurt."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon explique qu'une action de police est spéciale car personne ne meurt."
     },
-    {
-        "abstractive": {
-            "text": "Henri Guaino répond que la france a une force de police extrêmement professionnelle."
-        },
-        "extractive": [
-            {
-                "speaker": "Henri Guaino",
-                "text": "Mais d'abord, nous avons des forces de police et de gendarmerie qui sont extrêmement professionnelles."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Mais exiger de la fermeté lorsqu'il y a justement des violences contre les forces de l'ordre, parce que là il y avait des violences contre les forces de l'ordre, pour vous c'est une faute ?"
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Vous devez répliquer avec technique et sans irresponsabilité."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Dans une action de police, personne ne meurt c'est pour ça que c'est une technique la police, ce n'est pas simplement supplément d'âme."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Les forces de l'ordre, c'est un maniement technique particulier et celui qui doit en assumer la responsabilité, c'est pas celui qui est devant avec son casque sur la tête, et le bouclier, c'est celui qui au dessus donne des ordres qui conduisent à cette violence"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Henri Guaino répond que la France a une force de police extrêmement professionnelle."
     },
-    {
-        "abstractive": {
-            "text": "Henri Guaino continue en expliquant que si la violence éclate dans une manifestation, des accidents peuvent arriver, et qu'il ne faut pas incriminer le ministre de l'intérieur"
-        },
-        "extractive": [
-            {
-                "speaker": "Henri Guaino",
-                "text": "Mais je crois vraiment qu'il faut se dire que à partir du moment où éclate la violence, un accident peut arriver, et il en arrive très peu."
-            },
-            {
-                "speaker": "Henri Guaino",
-                "text": "Parce que le jour où il y a plus de forces de l'ordre où elles sont plus capables de faire leur travail, il y a plus d’état."
-            },
-            {
-                "speaker": "Henri Guaino",
-                "text": "Ca c’est poser comme axiome qu’il ne peut pas y avoir d’accident, il peut y avoir des accidents."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Henri Guaino",
+        "text": "Mais d'abord, nous avons des forces de police et de gendarmerie qui sont extrêmement professionnelles."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Henri Guaino continue en expliquant que si la violence éclate dans une manifestation, des accidents peuvent arriver, et qu'il ne faut pas incriminer le ministre de l'intérieur."
+    },
+    "extractive": [
+      {
+        "speaker": "Henri Guaino",
+        "text": "Mais je crois vraiment qu'il faut se dire que à partir du moment où éclate la violence, un accident peut arriver, et il en arrive très peu."
+      },
+      {
+        "speaker": "Henri Guaino",
+        "text": "Parce que le jour où il y a plus de forces de l'ordre où elles sont plus capables de faire leur travail, il y a plus d’état."
+      },
+      {
+        "speaker": "Henri Guaino",
+        "text": "Ca c’est poser comme axiome qu’il ne peut pas y avoir d’accident, il peut y avoir des accidents."
+      }
+    ]
+  }
 ]

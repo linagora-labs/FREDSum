@@ -1,193 +1,193 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Jordan Bardella, Mathilde Panot, et Olivier Véran discutent de la position des femmes dans la prochaine réforme des retraites."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Est-ce que vous considérez que la réforme qui est en projet là est une réforme sexiste?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Jordan Bardella, Mathilde Panot, et Olivier Véran discutent de la position des femmes dans la prochaine réforme des retraites."
     },
-    {
-        "abstractive": {
-            "text": "Mathilde Panot explique que la réforme est sexiste, et qu'elle devront partir plus tard qu'avant."
-        },
-        "extractive": [
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Oui, c'est une réforme qui est anti-femme."
-            },
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Pourquoi cette réforme va pénaliser les femmes?"
-            },
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Pas de chance, dans le texte écrit noir sur blanc, il est dit que les femmes partiraient 8 à 9 mois après pour la génération entre 70 et 80, et quand vous regardez dans les détails, quand vous enlevez les femmes qui ne sont pas concernées par la réforme, j'entends, par exemple, les femmes en invalidité, les femmes qui partiront de toute façon à 67 ans pour ne pas avoir la décote, alors vous êtes plutôt à 15 mois."
-            },
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Non, c'est faux."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Est-ce que vous considérez que la réforme qui est en projet là est une réforme sexiste?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Mathilde Panot explique que la réforme est sexiste, et qu'elle devront partir plus tard qu'avant."
     },
-    {
-        "abstractive": {
-            "text": "Olivier Véran explique que la pluspart des femmes ne seront pas impactée, et que les carrières hachées seront protégées, et que les femmes partiront toujours avant les hommes."
-        },
-        "extractive": [
-            {
-                "speaker": "Olivier Véran",
-                "text": "Je vous entends depuis hier, je vous entends depuis hier, sur tous les plateaux télés et dans les meetings, prendres des exemples de carrières de femmes qui ne sont absolument pas concernées par la réforme."
-            },
-            {
-                "speaker": "Olivier Véran",
-                "text": "Les carrières hachées qui sont protégées, factuellement, ce qu'on peut dire, c'est qu'un, les femmes continueront, après la réforme, de partir à la retraite avant les hommes, vrai ou pas vrai?"
-            },
-            {
-                "speaker": "Olivier Véran",
-                "text": "Les femmes partiront, factuellement, plus tôt à la retraite."
-            },
-            {
-                "speaker": "Olivier Véran",
-                "text": "Oui ou non, est-ce que les pensions de retraite des femmes avec cette réforme vont augmenter de manière plus importante que les pensions de retraite des hommes ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Oui, c'est une réforme qui est anti-femme."
+      },
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Pourquoi cette réforme va pénaliser les femmes?"
+      },
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Pas de chance, dans le texte écrit noir sur blanc, il est dit que les femmes partiraient 8 à 9 mois après pour la génération entre 70 et 80, et quand vous regardez dans les détails, quand vous enlevez les femmes qui ne sont pas concernées par la réforme, j'entends, par exemple, les femmes en invalidité, les femmes qui partiront de toute façon à 67 ans pour ne pas avoir la décote, alors vous êtes plutôt à 15 mois."
+      },
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Non, c'est faux."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Olivier Véran explique que la plupart des femmes ne seront pas impactées, et que les carrières hachées seront protégées, et que les femmes partiront toujours avant les hommes."
     },
-    {
-        "abstractive": {
-            "text": "Mathilde Panot explique que la retraite à 1200€ promise par le gouvernement demande une carrière complète, ce que les femmes n'ont pas."
-        },
-        "extractive": [
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Vos 1200 euros que les gens ont compris qu'ils auront."
-            },
-            {
-                "speaker": "Mathilde Panot",
-                "text": "C'est à carrière complète, ce qui exclut les femmes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Olivier Véran",
+        "text": "Je vous entends depuis hier, je vous entends depuis hier, sur tous les plateaux télés et dans les meetings, prendres des exemples de carrières de femmes qui ne sont absolument pas concernées par la réforme."
+      },
+      {
+        "speaker": "Olivier Véran",
+        "text": "Les carrières hachées qui sont protégées, factuellement, ce qu'on peut dire, c'est qu'un, les femmes continueront, après la réforme, de partir à la retraite avant les hommes, vrai ou pas vrai?"
+      },
+      {
+        "speaker": "Olivier Véran",
+        "text": "Les femmes partiront, factuellement, plus tôt à la retraite."
+      },
+      {
+        "speaker": "Olivier Véran",
+        "text": "Oui ou non, est-ce que les pensions de retraite des femmes avec cette réforme vont augmenter de manière plus importante que les pensions de retraite des hommes ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Mathilde Panot explique que la retraite à 1200€ promise par le gouvernement demande une carrière complète, ce que les femmes n'ont pas."
     },
-    {
-        "abstractive": {
-            "text": "Mathilde Panot explique que la hausse de 2% des retraites des femmes pour les deux années de travails demandées sont plus basses que les surcôtes qu'elles auraient eu auparavant."
-        },
-        "extractive": [
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Donc, on nous dit que ce sera une hausse de 1 à 2%, il se trouve qu'avant, si une femme travaillait de 62 à 63 ans, alors sa pension avait une surcôte de 5 %."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Vos 1200 euros que les gens ont compris qu'ils auront."
+      },
+      {
+        "speaker": "Mathilde Panot",
+        "text": "C'est à carrière complète, ce qui exclut les femmes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Mathilde Panot explique que la hausse de 2% des retraites des femmes pour les deux années de travails demandées sont plus basses que les surcotes qu'elles auraient eu auparavant."
     },
-    {
-        "abstractive": {
-            "text": "Olivier Véran nuance en expliquant que la retraite des femmes augmentera plus que celle des hommes."
-        },
-        "extractive": [
-            {
-                "speaker": "Olivier Véran",
-                "text": "On vous montre que la hausse des pensions des femmes sera plus importante que la hausse des pensions des hommes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Donc, on nous dit que ce sera une hausse de 1 à 2%, il se trouve qu'avant, si une femme travaillait de 62 à 63 ans, alors sa pension avait une surcôte de 5 %."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Olivier Véran nuance en expliquant que la retraite des femmes augmentera plus que celle des hommes."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique que les 1200€ promis pour la retraite sont brut, à carrière complète au smic, ce qui représente une petite part ed la population."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Il faut juste comprendre que les 1200 € sont là pour vous faire avaler la pilule, les 1200 €, c'est brut, carrière complète, au smic."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Olivier Véran",
+        "text": "On vous montre que la hausse des pensions des femmes sera plus importante que la hausse des pensions des hommes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique que les 1200€ promis pour la retraite sont brutes, à carrière complète au SMIC, ce qui représente une petite part de la population."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique que la réforme des retraites va bénéficier à ceux qui commencent très tard, ou ceux qui commencent très tôt."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Et qu'en réalité, la part des gens qui vont bénéficier de ce système de retraite est très faible, c'est ceux qui ont commencé à travailler ultra tôt, c'est-à-dire ceux qui ont commencé à travailler à 16 ans."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Et c'est ceux qui ont commencé à travailler très tard, qui partaient à 67 ans et qui partiront à 67 ans."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Il faut juste comprendre que les 1200 € sont là pour vous faire avaler la pilule, les 1200 €, c'est brut, carrière complète, au smic."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique que la réforme des retraites va bénéficier à ceux qui commencent très tard, ou ceux qui commencent très tôt."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella rappelle que la réforme des retraites coûtera de l'argent sur les premières années."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "J'en termine là-dessus, il y a un rapport ce matin du Haut conseil pour les finances publiques qui est sorti, qui est tenu par M. Moskovici et je crois que vous avez été ensemble au Parti Socialiste, donc qui est plus proche de vous que de moi et qui dit que cette réforme va coûter de l'argent cette année et pour l'année prochaine, il dit, on ne sait pas, à l'État français parce que ça va évidemment, et c'est ce que disait aussi le Conseil d'orientation des retraites, une augmentation des dépenses sociales."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Et qu'en réalité, la part des gens qui vont bénéficier de ce système de retraite est très faible, c'est ceux qui ont commencé à travailler ultra tôt, c'est-à-dire ceux qui ont commencé à travailler à 16 ans."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Et c'est ceux qui ont commencé à travailler très tard, qui partaient à 67 ans et qui partiront à 67 ans."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella rappelle que la réforme des retraites coûtera de l'argent sur les premières années."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique que 42% des français arrivent à la retraite sans emploi, et que l'augmentation de l'âge de départ augmentera les décôtes et le RSA."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Je vous rappelle que 42% des Français, 42% des Français qui arrivent à la retraite, sont sans emploi."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "J'en termine là-dessus, il y a un rapport ce matin du Haut conseil pour les finances publiques qui est sorti, qui est tenu par M. Moskovici et je crois que vous avez été ensemble au Parti Socialiste, donc qui est plus proche de vous que de moi et qui dit que cette réforme va coûter de l'argent cette année et pour l'année prochaine, il dit, on ne sait pas, à l'État français parce que ça va évidemment, et c'est ce que disait aussi le Conseil d'orientation des retraites, une augmentation des dépenses sociales."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique que 42% des Français arrivent à la retraite sans emploi, et que l'augmentation de l'âge de départ augmentera les décôtes et le RSA."
     },
-    {
-        "abstractive": {
-            "text": "Olivier Véran explique qu'un français sur deux partira avant l'âge légal, car la réforme prends en compte les métiers difficiles et les carrières hachées, et que les pensions augmentent."
-        },
-        "extractive": [
-            {
-                "speaker": "Olivier Véran",
-                "text": "Factuellement, vous avez quasiment un Français sur deux qui partira à la retraite avant l'âge légal."
-            },
-            {
-                "speaker": "Olivier Véran",
-                "text": "Parce qu'on tient justement compte des gens qui ont des métiers difficiles, des carrières hachées, etc."
-            },
-            {
-                "speaker": "Olivier Véran",
-                "text": "Factuellement, comme vous êtes amené à travailler un peu plus longtemps, votre pension de retraite elle augmente."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Je vous rappelle que 42% des Français, 42% des Français qui arrivent à la retraite, sont sans emploi."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Olivier Véran explique qu'un Français sur deux partira avant l'âge légal, car la réforme prend en compte les métiers difficiles et les carrières hachées, et que les pensions augmentent."
     },
-    {
-        "abstractive": {
-            "text": "Mathilde Panot explique que seul 48 personnes toucheront la réhausse des retraites à 1200 euros."
-        },
-        "extractive": [
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Je vous ai demandé combien de personnes allait toucher 1 200 euros, mais pourquoi je la pose cette question?"
-            },
-            {
-                "speaker": "Mathilde Panot",
-                "text": "Médiapart a regardé, c'est des chercheurs qui ont regardé sur 21 millions de salariés, sur 2,5 millions de salariés, sur 21 ans Ils ont regardé que il y avait seulement 48 personnes qui correspondaient aux critères, c'est-à-dire carrières complètes, et ne pas dépasser le SMIC l'ensemble de sa vie."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Olivier Véran",
+        "text": "Factuellement, vous avez quasiment un Français sur deux qui partira à la retraite avant l'âge légal."
+      },
+      {
+        "speaker": "Olivier Véran",
+        "text": "Parce qu'on tient justement compte des gens qui ont des métiers difficiles, des carrières hachées, etc."
+      },
+      {
+        "speaker": "Olivier Véran",
+        "text": "Factuellement, comme vous êtes amené à travailler un peu plus longtemps, votre pension de retraite elle augmente."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Mathilde Panot explique que seul 48 personnes toucheront la rehausse des retraites à 1200 euros."
     },
-    {
-        "abstractive": {
-            "text": "Olivier Véran explique qu'il n'y aura pas de baisse de pension de retraite, et qu'1,8 millions de retraités verront leur retraite augmenter"
-        },
-        "extractive": [
-            {
-                "speaker": "Olivier Véran",
-                "text": "J'étais en train de vous dire, M. Bardella, c'est que ce que vous dites, que les gens n'auront pas de baisse de pension de retraite."
-            },
-            {
-                "speaker": "Olivier Véran",
-                "text": "Mme Panot, vous posez la question, factuellement, 1,8 million de retraités vont avoir, par le mécanisme de la retraite minimale, de retraités actuelles, 1,8 million vont avoir une augmentation de leur pension qui peut atteindre 100 euros par mois"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Je vous ai demandé combien de personnes allait toucher 1 200 euros, mais pourquoi je la pose cette question?"
+      },
+      {
+        "speaker": "Mathilde Panot",
+        "text": "Médiapart a regardé, c'est des chercheurs qui ont regardé sur 21 millions de salariés, sur 2,5 millions de salariés, sur 21 ans Ils ont regardé que il y avait seulement 48 personnes qui correspondaient aux critères, c'est-à-dire carrières complètes, et ne pas dépasser le SMIC l'ensemble de sa vie."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Olivier Véran explique qu'il n'y aura pas de baisse de pension de retraite, et qu'1,8 millions de retraités verront leur retraite augmenter."
+    },
+    "extractive": [
+      {
+        "speaker": "Olivier Véran",
+        "text": "J'étais en train de vous dire, M. Bardella, c'est que ce que vous dites, que les gens n'auront pas de baisse de pension de retraite."
+      },
+      {
+        "speaker": "Olivier Véran",
+        "text": "Mme Panot, vous posez la question, factuellement, 1,8 million de retraités vont avoir, par le mécanisme de la retraite minimale, de retraités actuelles, 1,8 million vont avoir une augmentation de leur pension qui peut atteindre 100 euros par mois"
+      }
+    ]
+  }
 ]

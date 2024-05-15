@@ -1,128 +1,128 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Gabriel Attal, Clémentine Autain, Jordan Bardella, et Eric Ciotti discutent de l'importance de la réforme des retraites."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Eric Ciotti, vous qui êtes à une force d'appoint essentielle pour éviter le 49-3, est-ce que vous considérez que vous avez été entendus, satisfaits ou alors vous dites franchement que la Premier ministre peut mieux faire ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Gabriel Attal, Clémentine Autain, Jordan Bardella, et Eric Ciotti discutent de l'importance de la réforme des retraites."
     },
-    {
-        "abstractive": {
-            "text": "Eric Ciotti explique qu'il faut faire une réforme pour sauver le système des retraites, mais il critique les explications de la première ministre qu'il a trouvé peu convaincante."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Pas force d'appoint naturellement, nous avons une attitude de cohérence parce que la situation des retraites aujourd'hui impose une réforme, ce soir j'ai trouvé la première ministre à la peine pour expliquer une réforme qui est pourtant nécessaire pour le pays, pour l'avenir du pays et il faut remettre ce dossier en perspective, je l'ai trouvé peu convaincante dans ses explications et rien de nouveau n'est sur la table aujourd'hui."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Eric Ciotti, vous qui êtes à une force d'appoint essentielle pour éviter le 49-3, est-ce que vous considérez que vous avez été entendus, satisfaits ou alors vous dites franchement que la Premier ministre peut mieux faire ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti explique qu'il faut faire une réforme pour sauver le système des retraites, mais il critique les explications de la première ministre qu'il a trouvé peu convaincante."
     },
-    {
-        "abstractive": {
-            "text": "Eric Ciotti explique que la réforme doit être brutale car les mesures auraient du être prise bien plus tôt."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Il faut les prendre, ça fait 12 ans qu'on ne les prend pas et c'est pour cela que la réforme elle est plus brutale."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Pas force d'appoint naturellement, nous avons une attitude de cohérence parce que la situation des retraites aujourd'hui impose une réforme, ce soir j'ai trouvé la première ministre à la peine pour expliquer une réforme qui est pourtant nécessaire pour le pays, pour l'avenir du pays et il faut remettre ce dossier en perspective, je l'ai trouvé peu convaincante dans ses explications et rien de nouveau n'est sur la table aujourd'hui."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti explique que la réforme doit être brutale car les mesures auraient dû être prises bien plus tôt."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique que le texte des retraite est très dur pour les français qui le rejette en très large majorité."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Une première ministre qui va imposer un texte qui va être très dur pour le peuple français et qu'une très large majorité de Français rejettent."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Il faut les prendre, ça fait 12 ans qu'on ne les prend pas et c'est pour cela que la réforme elle est plus brutale."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique que le texte des retraites est très dur pour les Français qui le rejette en très large majorité."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique que la réforme est injuste et injustifiée, car le système des retraites n'est pas en danger."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Donc cette réforme, elle est injuste, elle est injustifiée, elle est brutale et elle est basée sur un mensonge, celui qui vise à dire aux Français s'il n'y a pas cette réforme-là, c'est l'effondrement totale du système."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Une première ministre qui va imposer un texte qui va être très dur pour le peuple français et qu'une très large majorité de Français rejettent."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique que la réforme est injuste et injustifiée, car le système des retraites n'est pas en danger."
     },
-    {
-        "abstractive": {
-            "text": "Clémentine Autain explique que la réforme est injuste, et fait payer les plus modestes pour ne pas toucher aux grands groupes et aux hyper riches."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Parce que la réalité c'est que cette réforme elle est profondément, profondément injuste."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Injuste parce que le gouvernement veut faire payer au plus modeste le pognon de dingue qu'il a donné aux grands groupes et aux hyper riches."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Donc cette réforme, elle est injuste, elle est injustifiée, elle est brutale et elle est basée sur un mensonge, celui qui vise à dire aux Français s'il n'y a pas cette réforme-là, c'est l'effondrement totale du système."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Clémentine Autain explique que la réforme est injuste, et fait payer les plus modestes pour ne pas toucher aux grands groupes et aux hyper riches."
     },
-    {
-        "abstractive": {
-            "text": "Clémentine Autain explique que la réforme est injuste car les français qui ont commencé à travailler le plus tôt seront le plus impactés, que les femmes seront plus impactées que les hommes, et que les deux meilleures années de retraites sont transformées en deux pires années de travail."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Mais cette réforme elle est aussi injuste parce que ce sont ceux qui ont commencé à travailler le plus tôt, ceux qui ont les carrières les plus difficiles, les plus pénibles qui vont en payer le prix."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Injuste aussi cette réforme parce que ce sont les femmes, contrairement à ce qu'elle a dit, qui vont en payer le prix fort."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Et enfin, profondément injuste cette réforme Caroline Roux, parce qu'il s'agit de transformer les deux meilleures années de la retraite en deux pires années de travail."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Parce que la réalité c'est que cette réforme elle est profondément, profondément injuste."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Injuste parce que le gouvernement veut faire payer au plus modeste le pognon de dingue qu'il a donné aux grands groupes et aux hyper riches."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Clémentine Autain explique que la réforme est injuste car les français qui ont commencé à travailler le plus tôt seront le plus impactés, que les femmes seront plus impactées que les hommes, et que les deux meilleures années de retraites sont transformées en deux pires années de travail."
     },
-    {
-        "abstractive": {
-            "text": "Gabriel Attal explique que sans réforme, la france ne pourra plus payer les pensions de retraites."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Si il n'y a pas de réforme aujourd'hui, on aura un gros problème pour payer les pensions de retraite dans les années à venir."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Mais cette réforme elle est aussi injuste parce que ce sont ceux qui ont commencé à travailler le plus tôt, ceux qui ont les carrières les plus difficiles, les plus pénibles qui vont en payer le prix."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Injuste aussi cette réforme parce que ce sont les femmes, contrairement à ce qu'elle a dit, qui vont en payer le prix fort."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Et enfin, profondément injuste cette réforme Caroline Roux, parce qu'il s'agit de transformer les deux meilleures années de la retraite en deux pires années de travail."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal explique que sans réforme, la France ne pourra plus payer les pensions de retraite."
     },
-    {
-        "abstractive": {
-            "text": "Gabriel Attal critique l'approche de Clémentine Autain, dont le groupe parlementaire souhaite taxer les petites entreprises."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "C'est-à-dire madame Autain, votre groupe dépose des amendements, puisque c'est l'heure des choix aujourd'hui au Parlement, pour augmenter massivement les impôts, pas les impôts sur les plus riches spécifiquement, mais sur les petits patrons, sur les petites entreprises, sur les salariés qui travaillent, qui font des heures supplémentaires."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Évidemment que quelqu'un qui a commencé à travailler très tôt, que quelqu'un qui a été usé par son travail, il va pas travailler jusqu'à 64 ans."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Si il n'y a pas de réforme aujourd'hui, on aura un gros problème pour payer les pensions de retraite dans les années à venir."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal critique l'approche de Clémentine Autain, dont le groupe parlementaire souhaite taxer les petites entreprises."
     },
-    {
-        "abstractive": {
-            "text": "Gabriel Attal explique que les gens qui ont commencé à travailler tôt ne travaillerons pas jusqu'à 64 ans, et que le choix qui se profil est soit l'augmentation de l'âge de la retraite, soit l'augmentation massive des impôts"
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Et on voit d'ailleurs dans le débat parlementaire que ce qui se profile, c'est un choix clair, entre augmenter massivement les impôts sur tous les Français ou travailler un peu plus longtemps progressivement sur 10 ans en partageant les formes de retraite"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "C'est-à-dire madame Autain, votre groupe dépose des amendements, puisque c'est l'heure des choix aujourd'hui au Parlement, pour augmenter massivement les impôts, pas les impôts sur les plus riches spécifiquement, mais sur les petits patrons, sur les petites entreprises, sur les salariés qui travaillent, qui font des heures supplémentaires."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Évidemment que quelqu'un qui a commencé à travailler très tôt, que quelqu'un qui a été usé par son travail, il va pas travailler jusqu'à 64 ans."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal explique que les gens qui ont commencé à travailler tôt ne travaillerons pas jusqu'à 64 ans, et que le choix qui se profil est soit l'augmentation de l'âge de la retraite, soit l'augmentation massive des impôts."
+    },
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Et on voit d'ailleurs dans le débat parlementaire que ce qui se profile, c'est un choix clair, entre augmenter massivement les impôts sur tous les Français ou travailler un peu plus longtemps progressivement sur 10 ans en partageant les formes de retraite"
+      }
+    ]
+  }
 ]

@@ -1,78 +1,78 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, François Miterrand et Jacques Chirac parlent de leurs options pour faire baisser le taux de chômage."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Et ma question est la même pour vous deux, messieurs, j'aimerais vous demander très simplement et la réponse est complexe, surtout dans un laps de temps assez court : quel discours crédible pouvez-vous tenir aujourd'hui sur le chômage ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, François Mitterrand et Jacques Chirac parlent de leurs options pour faire baisser le taux de chômage."
     },
-    {
-        "abstractive": {
-            "text": "Jacques Chirac explique que l'emploi est créé dans les entreprises, et qu'il faut leur donner les moyens d'en crééer."
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "L'emploi ne sera créé que dans les entreprises et si l'on veut que celles-ci créent de l'emploi, il faut leur en donner les moyens."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Et ma question est la même pour vous deux, messieurs, j'aimerais vous demander très simplement et la réponse est complexe, surtout dans un laps de temps assez court : quel discours crédible pouvez-vous tenir aujourd'hui sur le chômage ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jacques Chirac explique que l'emploi est créé dans les entreprises, et qu'il faut leur donner les moyens d'en créer."
     },
-    {
-        "abstractive": {
-            "text": "Jacques Chirac rappelle aussi que le chômage a diminué de 5% depuis qu'il est premier ministre, et qu'il poursuivra la politique qu'il a mise en place, en donnant aux entreprises les moyens d'investir et de créer les emplois dont elles ont besoin. "
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "C'est que, depuis mars 1987, pour la première fois depuis 14 ans, le chômage a diminué, il a diminué de 5 %, très insuffisant !"
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Eh bien, je poursuivrai cette politique car l'emploi est pour moi, bien entendu, l'objectif prioritaire et je poursuivrai cette politique en donnant à nos entreprises les moyens d'investir et de créer les emplois qu'il leur faut, c'est vrai, notamment, pour les petites et moyennes entreprises."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "L'emploi ne sera créé que dans les entreprises et si l'on veut que celles-ci créent de l'emploi, il faut leur en donner les moyens."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jacques Chirac rappelle aussi que le chômage a diminué de 5% depuis qu'il est premier ministre, et qu'il poursuivra la politique qu'il a mise en place, en donnant aux entreprises les moyens d'investir et de créer les emplois dont elles ont besoin."
     },
-    {
-        "abstractive": {
-            "text": "François Mitterrand explique qu'il y a quatre manières de faire baisser le chômage, l'investissement éducatif et de recherche, qui modernise les entreprises, l'investissement économique, avec des exemptions fiscales données aux entreprises, l'investissement social, qui aide les travailleurs, et l'europe, qui permet de développer le travail et l'emploi."
-        },
-        "extractive": [
-            {
-                "speaker": "François Mitterrand",
-                "text": "Ce que je veux dire, c'est qu'il y a quatre manières de s'attaquer à ce problème et Dieu sait si nous sommes tous dans l'obligation absolue de pouvoir y répondre, quatre formes d'investissement : Premièrement, un investissement éducatif : vous ne moderniserez pas nos entreprises, elles ne deviendront pas plus compétitives, si vous ne formez pas davantage, si nous ne formons pas davantage, si la France ne forme pas mieux ses jeunes."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "En même temps, si vous ne développez pas la recherche, c'est-à-dire si vous n'avez pas les moyens par la science et la technique de fabriquer l'instrument, c'est-à-dire les machines, capable de supporter la concurrence américaine ou japonaise ou bien de quelques autres pays."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Deuxièmement, un investissement économique."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Troisièmement, l'investissement social."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Économique, je pense que certaines exemptions fiscales, puisque l'on en a parlé, seraient bien utiles ou des crédits d'impôt, chaque fois qu'une entreprise réinvestit ses bénéfices chez elle, plutôt que de dissiper ses bénéfices ailleurs."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "L'investissement social, ça veut dire simplement qu'il n'y aura pas de progrès économiques s'il n'y a pas de cohésion sociale, si ce mouvement en avant n'intéresse pas tous les travailleurs à quelque niveau qu'ils soient, ils souffrent vraiment d'injustices."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Quatrièmement, la dimension européenne."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "La dimension européenne nous permettra, sans aucune doute, si nous réussissons, si l'Europe réussit, de développer le travail et l'emploi dans des fortes proportions."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "C'est que, depuis mars 1987, pour la première fois depuis 14 ans, le chômage a diminué, il a diminué de 5 %, très insuffisant !"
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Eh bien, je poursuivrai cette politique car l'emploi est pour moi, bien entendu, l'objectif prioritaire et je poursuivrai cette politique en donnant à nos entreprises les moyens d'investir et de créer les emplois qu'il leur faut, c'est vrai, notamment, pour les petites et moyennes entreprises."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Mitterrand explique qu'il y a quatre manières de faire baisser le chômage, l'investissement éducatif et de recherche, qui modernise les entreprises, l'investissement économique, avec des exemptions fiscales données aux entreprises, l'investissement social, qui aide les travailleurs, et l'Europe, qui permet de développer le travail et l'emploi."
+    },
+    "extractive": [
+      {
+        "speaker": "François Mitterrand",
+        "text": "Ce que je veux dire, c'est qu'il y a quatre manières de s'attaquer à ce problème et Dieu sait si nous sommes tous dans l'obligation absolue de pouvoir y répondre, quatre formes d'investissement : Premièrement, un investissement éducatif : vous ne moderniserez pas nos entreprises, elles ne deviendront pas plus compétitives, si vous ne formez pas davantage, si nous ne formons pas davantage, si la France ne forme pas mieux ses jeunes."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "En même temps, si vous ne développez pas la recherche, c'est-à-dire si vous n'avez pas les moyens par la science et la technique de fabriquer l'instrument, c'est-à-dire les machines, capable de supporter la concurrence américaine ou japonaise ou bien de quelques autres pays."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Deuxièmement, un investissement économique."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Troisièmement, l'investissement social."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Économique, je pense que certaines exemptions fiscales, puisque l'on en a parlé, seraient bien utiles ou des crédits d'impôt, chaque fois qu'une entreprise réinvestit ses bénéfices chez elle, plutôt que de dissiper ses bénéfices ailleurs."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "L'investissement social, ça veut dire simplement qu'il n'y aura pas de progrès économiques s'il n'y a pas de cohésion sociale, si ce mouvement en avant n'intéresse pas tous les travailleurs à quelque niveau qu'ils soient, ils souffrent vraiment d'injustices."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Quatrièmement, la dimension européenne."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "La dimension européenne nous permettra, sans aucune doute, si nous réussissons, si l'Europe réussit, de développer le travail et l'emploi dans des fortes proportions."
+      }
+    ]
+  }
 ]

@@ -1,143 +1,143 @@
 [
-    {
-        "abstractive": {
-            "text": "Le présentateur débute en demandant si le président qui est parti à kiev est parti au bon moment."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Et d'abord l'image du jour, le président Emmanuel Macron qui est à Kiev aujourd'hui, qui a rencontré Volodymyr Zelensky, on va voir l'image de leur accolade, voilà, Clémentine Autain, est-ce que c'était le bon moment pour y aller?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Le présentateur débute en demandant si le président qui est parti à kiev est parti au bon moment."
     },
-    {
-        "abstractive": {
-            "text": "Clémentine Autain répond que c'est important que le président de la république aille à kiev pour affirmer le soutien de la france."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "C'était important en tout cas que le président de la République aille à Kiev affirmer le soutien de la France au peuple ukrainien qui est agressé par Vladimir Poutine."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "C'est une vraie question, on s'interroge en effet sur ce calendrier à quelques jours du deuxième tour de l'élection législative."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Et d'abord l'image du jour, le président Emmanuel Macron qui est à Kiev aujourd'hui, qui a rencontré Volodymyr Zelensky, on va voir l'image de leur accolade, voilà, Clémentine Autain, est-ce que c'était le bon moment pour y aller?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Clémentine Autain répond que c'est important que le président de la république aille à Kiev pour affirmer le soutien de la France."
     },
-    {
-        "abstractive": {
-            "text": "Clémentine Autain explique aussi que le calendrier de ce déplacement à quelques jours du deuxième tour des élections législative pose question et empêche le débat."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Donc effectivement on peut s'interroger, mais en tout cas je ne veux pas critiquer le fait qu'Emmanuel Macron aille à Kiev, je pense qu'il aurait pu le faire bien avant."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "C'était important en tout cas que le président de la République aille à Kiev affirmer le soutien de la France au peuple ukrainien qui est agressé par Vladimir Poutine."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "C'est une vraie question, on s'interroge en effet sur ce calendrier à quelques jours du deuxième tour de l'élection législative."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Clémentine Autain explique aussi que le calendrier de ce déplacement à quelques jours du deuxième tour des élections législatives pose question et empêche le débat."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique que le timing est mauvais."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Mauvais timing, me semble-t-il."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Donc effectivement on peut s'interroger, mais en tout cas je ne veux pas critiquer le fait qu'Emmanuel Macron aille à Kiev, je pense qu'il aurait pu le faire bien avant."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique que le timing est mauvais."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique que la stratégie de créer un lien avec l'ukraine et la russie est le bon."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Je partage ce qui a été dit, je pense que depuis le début de cette guerre le chef de l'État a fait le choix de maintenir un lien diplomatique à la fois avec la Russie, à la fois avec l'Ukraine, tout en essayant une forme de conciliation et une forme de dialogue."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Mauvais timing, me semble-t-il."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique que la stratégie de créer un lien avec l'Ukraine et la Russie est le bon."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella déplore cependant l'absence du président dans les débats."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "La France tout naturellement lui apporte son soutien, mais ça n'empêche pas le président de la République de débattre du pouvoir d'achat, de la sécurité, des questions d'identité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Je partage ce qui a été dit, je pense que depuis le début de cette guerre le chef de l'État a fait le choix de maintenir un lien diplomatique à la fois avec la Russie, à la fois avec l'Ukraine, tout en essayant une forme de conciliation et une forme de dialogue."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella déplore cependant l'absence du président dans les débats."
     },
-    {
-        "abstractive": {
-            "text": "Gabriel Attal explique que c'est très important pour affirmer le soutien de la france, et qu'il ne pouvait pas faire autrement car le déplacement se fait avec d'autres présidents."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "D'abord, ce que je veux dire, c'est que plus qu'une image, c'est un moment important dans cette crise ukrainienne, puisque ça a été l'occasion à la fois d'affirmer un soutien, un respect au combat que mènent les Ukrainiens pour se défendre, pour annoncer aussi des perspectives en matière de soutien militaire et d'intégration à l'Union Européenne."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "La France tout naturellement lui apporte son soutien, mais ça n'empêche pas le président de la République de débattre du pouvoir d'achat, de la sécurité, des questions d'identité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal explique que c'est très important pour affirmer le soutien de la France, et qu'il ne pouvait pas faire autrement car le déplacement se fait avec d'autres présidents."
     },
-    {
-        "abstractive": {
-            "text": "Gabriel attal attaque ensuite Jean Luc Mélenchon et Marine le pen qui ont votés contre les sanctions contre la Russie."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Est-ce que les deux candidats à la présidentielle que vous souteniez, Jean-Luc Mélenchon et Marine Le Pen, se sont opposés dès le début de cette crise, à ce que nous soutenions les Ukrainiens?"
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Je vous ai pas interrompu, mais Jean-Luc Mélenchon, comme Marine Le Pen, se sont opposés à ce que nous accompagnons l'Ukraine en matière humanitaire et militaire dans ce conflit."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "D'abord, ce que je veux dire, c'est que plus qu'une image, c'est un moment important dans cette crise ukrainienne, puisque ça a été l'occasion à la fois d'affirmer un soutien, un respect au combat que mènent les Ukrainiens pour se défendre, pour annoncer aussi des perspectives en matière de soutien militaire et d'intégration à l'Union Européenne."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal attaque ensuite Jean Luc Mélenchon et Marine Le Pen qui ont votés contre les sanctions contre la Russie."
     },
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Clémentine Autain, Gabriel Attal et Jordan Bardella discutent de la situation en Ukraine."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Y’as matière humanitaire et faire la guerre."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Quand Vous prenez un embargo sur le pétrole, vous agissez pour le pouvoir d'achat des Français ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Est-ce que les deux candidats à la présidentielle que vous souteniez, Jean-Luc Mélenchon et Marine Le Pen, se sont opposés dès le début de cette crise, à ce que nous soutenions les Ukrainiens?"
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Je vous ai pas interrompu, mais Jean-Luc Mélenchon, comme Marine Le Pen, se sont opposés à ce que nous accompagnons l'Ukraine en matière humanitaire et militaire dans ce conflit."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Clémentine Autain, Gabriel Attal et Jordan Bardella discutent de la situation en Ukraine."
     },
-    {
-        "abstractive": {
-            "text": "Clémentine Autain explique que les votes négatif s'expliquait par la volonté de ne pas entrer en co bélligérence."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Agir pour la résolution de ce conflit, c'est aussi agir pour le pouvoir d'achat des Français qui subissent une inflation parce qu'il y a ce conflit."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Le dernier vote au Parlement européen sur le paquet justement d'aide à l'Ukraine notre délégation, et là je ne parle pas simplement de tout le monde au sein de la nupes mais même de la délégation de la France insoumise a voté."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Y’as matière humanitaire et faire la guerre."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Quand Vous prenez un embargo sur le pétrole, vous agissez pour le pouvoir d'achat des Français ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Clémentine Autain explique que les votes négatifs s'expliquaient par la volonté de ne pas entrer en co belligérance."
     },
-    {
-        "abstractive": {
-            "text": "Jordan Bardella explique que ces votes négatifs viennent de la punition subies par les français au résultat de ces sanctions"
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Notre boussole à tous est évidemment la recherche de la paix et de faire en sorte qu'il n'y ait aucun des deux Etats qui se sentent humiliés pour faire en sorte qu'un jour ils puissent y avoir un dialogue et au moins un lien diplomatique entre les deux Etats."
-            },
-            {
-                "speaker": "Jordan Bardella",
-                "text": "évidemment qu'il faut prendre des sanctions contre les décideurs de guerre contre les dirigeants russes qui décident de cette guerre,  mais il faut quand même souligner que les sanctions énergétiques, énergétiques, ne fonctionnent pas aujourd'hui parce qu'en vérité 75% des pays du monde continuent à avoir des relations commerciales avec la Russie, et donc les matières premières qui ne sont pas vendues à l'Europe sont vendues à l'Inde, à la chine, à l’égypte."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Agir pour la résolution de ce conflit, c'est aussi agir pour le pouvoir d'achat des Français qui subissent une inflation parce qu'il y a ce conflit."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Le dernier vote au Parlement européen sur le paquet justement d'aide à l'Ukraine notre délégation, et là je ne parle pas simplement de tout le monde au sein de la nupes mais même de la délégation de la France insoumise a voté."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella explique que ces votes négatifs viennent de la punition subie par les Français au résultat de ces sanctions."
+    },
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Notre boussole à tous est évidemment la recherche de la paix et de faire en sorte qu'il n'y ait aucun des deux Etats qui se sentent humiliés pour faire en sorte qu'un jour ils puissent y avoir un dialogue et au moins un lien diplomatique entre les deux Etats."
+      },
+      {
+        "speaker": "Jordan Bardella",
+        "text": "évidemment qu'il faut prendre des sanctions contre les décideurs de guerre contre les dirigeants russes qui décident de cette guerre,  mais il faut quand même souligner que les sanctions énergétiques, énergétiques, ne fonctionnent pas aujourd'hui parce qu'en vérité 75% des pays du monde continuent à avoir des relations commerciales avec la Russie, et donc les matières premières qui ne sont pas vendues à l'Europe sont vendues à l'Inde, à la chine, à l’égypte."
+      }
+    ]
+  }
 ]

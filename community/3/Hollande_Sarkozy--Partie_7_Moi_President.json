@@ -1,241 +1,241 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat Sarkozy et Hollande discutent de l’indépendance de la fonction présidentielle et de la gestion du pouvoir."
-        },
-        "extractive": [
-            {
-                "speaker": "Laurence Ferrari",
-                "text": "Comment comptez-vous présider l'un et l'autre ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat Nicolas Sarkozy et François Hollande discutent de l’indépendance de la fonction présidentielle et de la gestion du pouvoir."
     },
-    {
-        "abstractive": {
-            "text": "Sarkozy souhaite proposer au Français un nouveau modèle de croissance, fondé sur l’école, l’innovation et l’économie du savoir ; il a déjà dédié toute son énergie à l’exercice du pouvoir, et reconnaît n’avoir pas tout réussi."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Dans les cinq années qui viennent, je veux proposer aux Français un nouveau modèle français de croissance, un nouveau modèle Français, basé sur l'économie du savoir, la formation professionnelle, des changements à l'école, pour que notre école de la République soit une école de l'exigence."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "C'est sans doute la fonction la plus difficile qui soit, une fonction que j'ai apprise pendant cinq ans, à laquelle j'ai tout donné de mon énergie, de mon expérience, où je n'ai pas tout réussi."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Laurence Ferrari",
+        "text": "Comment comptez-vous présider l'un et l'autre ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy souhaite proposer au Français un nouveau modèle de croissance, fondé sur l’école, l’innovation et l’économie du savoir ; il a déjà dédié toute son énergie à l’exercice du pouvoir, et reconnaît n’avoir pas tout réussi."
     },
-    {
-        "abstractive": {
-            "text": "Hollande se lance alors dans une tirade percutante, articulée autour de l’anaphore « moi Président »."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Moi, Président de la République, je ne serai pas chef de la majorité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Dans les cinq années qui viennent, je veux proposer aux Français un nouveau modèle français de croissance, un nouveau modèle Français, basé sur l'économie du savoir, la formation professionnelle, des changements à l'école, pour que notre école de la République soit une école de l'exigence."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "C'est sans doute la fonction la plus difficile qui soit, une fonction que j'ai apprise pendant cinq ans, à laquelle j'ai tout donné de mon énergie, de mon expérience, où je n'ai pas tout réussi."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande se lance alors dans une tirade percutante, articulée autour de l’anaphore « moi Président »."
     },
-    {
-        "abstractive": {
-            "text": "C’est une attaque implicite à l’égard de la président de Sarkozy ; il l’accuse d’avoir été chef de la majorité et d’avoir refusé l’indépendance de la justice ; il souhaite lui être exemplaire, et établira un gouvernement paritaire, interdira le cumul des mandats et instaurera une dose de proportionnelle en 2017."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Moi, Président de la République, je ferai fonctionner la justice de manière indépendante."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Moi, Président de la République, je ferai en sorte que mon comportement soit à chaque instant exemplaire."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Moi, Président de la République, je constituerai un gouvernement qui sera paritaire."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Moi, Président de la République, les ministres ne pourront pas cumuler leurs fonctions avec un mandat local parce que je considère qu'ils devraient se consacrer pleinement à leur tâche."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Moi, Président de la République, j'introduirai la représentation proportionnelle pour les élections législatives de 2017 car je pense qu'il est bon que l'ensemble des sensibilités politiques soit représenté."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Moi, Président de la République, je ne serai pas chef de la majorité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "C’est une attaque implicite à l’égard de la présidence de Sarkozy ; il l’accuse d’avoir été chef de la majorité et d’avoir refusé l’indépendance de la justice ; il souhaite lui être exemplaire, et établira un gouvernement paritaire, interdira le cumul des mandats et instaurera une dose de proportionnelle en 2017."
     },
-    {
-        "abstractive": {
-            "text": "Il veut être un Président normal."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "J'avais évoqué une présidence normale."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Moi, Président de la République, je ferai fonctionner la justice de manière indépendante."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Moi, Président de la République, je ferai en sorte que mon comportement soit à chaque instant exemplaire."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Moi, Président de la République, je constituerai un gouvernement qui sera paritaire."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Moi, Président de la République, les ministres ne pourront pas cumuler leurs fonctions avec un mandat local parce que je considère qu'ils devraient se consacrer pleinement à leur tâche."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Moi, Président de la République, j'introduirai la représentation proportionnelle pour les élections législatives de 2017 car je pense qu'il est bon que l'ensemble des sensibilités politiques soit représenté."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il veut être un Président normal."
     },
-    {
-        "abstractive": {
-            "text": "Piqué, Sarkozy lui répond que la fonction même est contradictoire avec la normalité."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Monsieur Hollande, vous avez parlé, sans doute pour être désagréable à mon endroit, d'un Président normal."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Je vais vous dire, la fonction de Président de la République n'est pas une fonction normale, la situation que nous connaissons n'est pas une situation normale."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "J'avais évoqué une présidence normale."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Piqué, Nicolas Sarkozy lui répond que la fonction même est contradictoire avec la normalité."
     },
-    {
-        "abstractive": {
-            "text": "Les deux candidats s’accusent alors de népotisme ; Sarkozy récuse les accusations d’Hollande selon lesquelles sa présidence n’avait pas été impartiale."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Monsieur Hollande, vous avez aux côtés de François Mitterrand qui présidait le Conseil Supérieur de la Magistrature."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Vous avez fait nommer procureur de la République de Paris le Directeur de cabinet du garde des Sceaux."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Monsieur Hollande, vous avez parlé, sans doute pour être désagréable à mon endroit, d'un Président normal."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Je vais vous dire, la fonction de Président de la République n'est pas une fonction normale, la situation que nous connaissons n'est pas une situation normale."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Les deux candidats s’accusent alors de népotisme ; Nicolas Sarkozy récuse les accusations d’François Hollande selon lesquelles sa présidence n’avait pas été impartiale."
     },
-    {
-        "abstractive": {
-            "text": "Il critique Hollande pour avoir été aux côtés de François Mitterrand qui présidait le Conseil Supérieur de la Magistrature."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Le CSM a donné son accord pour cet homme d'une intégrité absolument remarquable."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Vous n'étiez pas convoqué par Monsieur Mitterrand toutes les semaines pour un petit-déjeuner avec les hiérarques du parti socialistes ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Monsieur Hollande, vous avez aux côtés de François Mitterrand qui présidait le Conseil Supérieur de la Magistrature."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Vous avez fait nommer procureur de la République de Paris le Directeur de cabinet du garde des Sceaux."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il critique François Hollande pour avoir été aux côtés de François Mitterrand qui présidait le Conseil Supérieur de la Magistrature."
     },
-    {
-        "abstractive": {
-            "text": "En face, Hollande fustige certaines nominations faites par Sarkozy."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Vous vous êtes comporté comme un chef de parti."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Le CSM a donné son accord pour cet homme d'une intégrité absolument remarquable."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Vous n'étiez pas convoqué par Monsieur Mitterrand toutes les semaines pour un petit-déjeuner avec les hiérarques du parti socialistes ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "En face, François Hollande fustige certaines nominations faites par Sarkozy."
     },
-    {
-        "abstractive": {
-            "text": "Pour Hollande, Sarkozy a agi en chef de parti, non en chef de la République."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "c'est tout à fait différent d'inviter les parlementaires."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Vous avez également participé à des réunions de collecte de fonds à l'hôtel Bristol."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Vous vous êtes comporté comme un chef de parti."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Hollande, Nicolas Sarkozy a agi en chef de parti, non en chef de la République."
     },
-    {
-        "abstractive": {
-            "text": "Or, il est normal d’inviter à l’Elysée des parlementaires selon Sarkozy ; François Mitterrand lui-même le faisait."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "j'ai invité tous les parlementaires."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "c'est tout à fait différent d'inviter les parlementaires."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Vous avez également participé à des réunions de collecte de fonds à l'hôtel Bristol."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Or, il est normal d’inviter à l’Élysée des parlementaires selon Sarkozy ; François Mitterrand lui-même le faisait."
     },
-    {
-        "abstractive": {
-            "text": "Mais Hollande répond que seule la droite a été invitée."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Uniquement de droite, plusieurs fois."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "j'ai invité tous les parlementaires."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Mais François Hollande répond que seule la droite a été invitée."
     },
-    {
-        "abstractive": {
-            "text": "Mensonges pour Sarkozy."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Monsieur Hollande, c'est un mensonge."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Uniquement de droite, plusieurs fois."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Mensonges pour Sarkozy."
     },
-    {
-        "abstractive": {
-            "text": "Il rappelle ensuite avoir nommé des élus de gauches pour certaines fonctions ; pour Hollande, seuls ses proches ont eu des postes."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "A la Cour des Comptes, j'ai nommé un député socialiste."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Vous avez nommé partout vos proches."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Monsieur Hollande, c'est un mensonge."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il rappelle ensuite avoir nommé des élus de gauches pour certaines fonctions ; pour Hollande, seuls ses proches ont eu des postes."
     },
-    {
-        "abstractive": {
-            "text": "Outré, Sarkozy l’accuse d’être un calomniateur."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Vous êtes un petit calomniateur en disant ça."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "A la Cour des Comptes, j'ai nommé un député socialiste."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Vous avez nommé partout vos proches."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Outré, Nicolas Sarkozy l’accuse d’être un calomniateur."
     },
-    {
-        "abstractive": {
-            "text": "Hollande termine en expliquant que s’il était élu, il associera l’opposition aux nominations, il renoncera au statut pénal du chef de l’État et ce ne sera plus le Président qui nommera les patrons de l’audiovisuel public."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Si je deviens le prochain Président de la République, je ne nommerai personne sans que les Commissions parlementaires en décident, non pas à la majorité des deux tiers contre mais à la majorité des deux tiers pour."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "l'opposition sera donc directement associée, impliquée."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Deuxièmement, si je deviens le prochain Président de la République, je renoncerai au statut pénal du chef de l'Etat en organisant différemment la protection."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Sur l'audiovisuel public, ce ne sera plus le président de la République qui nommera, ce sera une commission parlementaire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Vous êtes un petit calomniateur en disant ça."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande termine en expliquant que s’il était élu, il associera l’opposition aux nominations, il renoncera au statut pénal du chef de l’État et ce ne sera plus le Président qui nommera les patrons de l’audiovisuel public."
     },
-    {
-        "abstractive": {
-            "text": "Sarkozy souligne qu’il a toujours voulu que l’opposition ait des responsabilités."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Monsieur Hollande, j'ai voulu que l'opposition ait des responsabilités"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Si je deviens le prochain Président de la République, je ne nommerai personne sans que les Commissions parlementaires en décident, non pas à la majorité des deux tiers contre mais à la majorité des deux tiers pour."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "l'opposition sera donc directement associée, impliquée."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Deuxièmement, si je deviens le prochain Président de la République, je renoncerai au statut pénal du chef de l'Etat en organisant différemment la protection."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Sur l'audiovisuel public, ce ne sera plus le président de la République qui nommera, ce sera une commission parlementaire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy souligne qu’il a toujours voulu que l’opposition ait des responsabilités."
+    },
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Monsieur Hollande, j'ai voulu que l'opposition ait des responsabilités"
+      }
+    ]
+  }
 ]

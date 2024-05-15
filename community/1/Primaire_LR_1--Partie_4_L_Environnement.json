@@ -1,130 +1,130 @@
 [
-    {
-        "abstractive": {
-            "text": "L'environnement est le sujet de ce débat, spécifiquement le nucléaire et les éoliennes."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Comment on fait pour arriver à produire assez d'électricité, sachant que le nucléaire, même si on le redéveloppe, ne suffira pas sans éoliennes, alors que vous dites ras le bol, plus une seule éolienne en France ce soir."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "L'environnement est le sujet de ce débat, spécifiquement le nucléaire et les éoliennes."
     },
-    {
-        "abstractive": {
-            "text": "Xavier Bertrand souhaite revenir sur les PPE et créer une dizaine de centrales nucléaires."
-        },
-        "extractive": [
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "Je vous l'ai dit tout à l'heure dans mon introduction pour bien comprendre, moi, je reviendrai sur la PPE, cette loi programmation de l'énergie qui veut amener en 2035 la part du nucléaire à 50."
-            },
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "C'est la raison pour laquelle je décide le lancement de la construction de six réacteurs, et que je demande 10 EPR."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Comment on fait pour arriver à produire assez d'électricité, sachant que le nucléaire, même si on le redéveloppe, ne suffira pas sans éoliennes, alors que vous dites ras le bol, plus une seule éolienne en France ce soir."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Xavier Bertrand souhaite revenir sur les PPE et créer une dizaine de centrales nucléaires."
     },
-    {
-        "abstractive": {
-            "text": "Il souhaite aussi la supression des éoliennes, qui ruinent les paysages."
-        },
-        "extractive": [
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "On va passer aux véhicules électriques, il va nous falloir des bornes, allez, on est à quarante mille bornes aujourd'hui, bornes électriques, elles fonctionnent pas toutes, d'ailleurs, on va passer à 500 000, vous croyez que c'est avec ces satanées éoliennes qu'on va réussir justement?"
-            },
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "Ça fait partie de ce qu'est notre grand pays et on est en train de massacrer des paysages par des promoteurs qui vont justement voir des mairies où il n'y a pas beaucoup de ressources en leur disant attendez, on va vous donner de l'argent."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "Je vous l'ai dit tout à l'heure dans mon introduction pour bien comprendre, moi, je reviendrai sur la PPE, cette loi programmation de l'énergie qui veut amener en 2035 la part du nucléaire à 50."
+      },
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "C'est la raison pour laquelle je décide le lancement de la construction de six réacteurs, et que je demande 10 EPR."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il souhaite aussi la suppression des éoliennes, qui ruinent les paysages."
     },
-    {
-        "abstractive": {
-            "text": "Valérie Pécresse est pour une alliance entre les éoliennes et le nucléaire."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Donc, les Français le vivent au quotidien, donc pour lutter contre le dérèglement climatique, il y a un seul, une seule priorité écologique, celle du mandat, c'est zéro carbone 2050."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Et pour atteindre le zéro carbone 2050, il faut marcher sur deux pieds, il faut, effectivement, les énergies renouvelables et le nucléaire, donc les éoliennes et le nucléaire, parce qu'on n'arrivera pas à se passer du nucléaire pour atteindre cet objectif zéro carbone, ce n'est pas possible."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Moi, je ne propose pas dix EPR comme Xavier Bertrand, j'en propose 6, mais je me suis rendu à Flamanville pour réaffirmer mon attachement à cette filière industrielle française qu'on ne peut pas laisser sacrifier parce qu'Emmanuel Macron a laissé les Allemands défendre leurs centrales au gaz contre le nucléaire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "On va passer aux véhicules électriques, il va nous falloir des bornes, allez, on est à quarante mille bornes aujourd'hui, bornes électriques, elles fonctionnent pas toutes, d'ailleurs, on va passer à 500 000, vous croyez que c'est avec ces satanées éoliennes qu'on va réussir justement?"
+      },
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "Ça fait partie de ce qu'est notre grand pays et on est en train de massacrer des paysages par des promoteurs qui vont justement voir des mairies où il n'y a pas beaucoup de ressources en leur disant attendez, on va vous donner de l'argent."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse est pour une alliance entre les éoliennes et le nucléaire."
     },
-    {
-        "abstractive": {
-            "text": "Elle parle de différentes sources renouvelables."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Donc, il faut continuer tout le solaire, il faut continuer la méthanisation des déchets des agriculteurs, il faut aller vers l'hydrogène et il faudra faire de l'éolien."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Donc, les Français le vivent au quotidien, donc pour lutter contre le dérèglement climatique, il y a un seul, une seule priorité écologique, celle du mandat, c'est zéro carbone 2050."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Et pour atteindre le zéro carbone 2050, il faut marcher sur deux pieds, il faut, effectivement, les énergies renouvelables et le nucléaire, donc les éoliennes et le nucléaire, parce qu'on n'arrivera pas à se passer du nucléaire pour atteindre cet objectif zéro carbone, ce n'est pas possible."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Moi, je ne propose pas dix EPR comme Xavier Bertrand, j'en propose 6, mais je me suis rendu à Flamanville pour réaffirmer mon attachement à cette filière industrielle française qu'on ne peut pas laisser sacrifier parce qu'Emmanuel Macron a laissé les Allemands défendre leurs centrales au gaz contre le nucléaire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle parle de différentes sources renouvelables."
     },
-    {
-        "abstractive": {
-            "text": "Philippe Juvin veut arriver a 50% de création d'énergie nucléaire et 50% de création d'énergie renouvelables, notemment avec le déplacement des éoliennes dans le milieu marin."
-        },
-        "extractive": [
-            {
-                "speaker": "Philippe Juvin",
-                "text": "La meilleure manière d'y arriver, et la moins coûteuse, c'est de faire 50 pour cent d'éolien, de renouvelable, et 50 de nucléaire, mais pour faire 50 de nucléaire, il faut en fait en faire plus qu'aujourd'hui."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Je propose d'abord, comme je vous l'ai dit, je veux 50% de renouvelables en 2050, on y arrive par l'éolien en mer."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Pendant les 20 ans qui viennent, on met la pression sur l'éolien en mer, dans 20 ans, les éoliennes terrestres seront arrivées en fin de vie, on les démonte et on en monte plus."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Donc, il faut continuer tout le solaire, il faut continuer la méthanisation des déchets des agriculteurs, il faut aller vers l'hydrogène et il faudra faire de l'éolien."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Philippe Juvin veut arriver à 50% de création d'énergie nucléaire et 50% de création d'énergies renouvelables, notamment avec le déplacement des éoliennes dans le milieu marin."
     },
-    {
-        "abstractive": {
-            "text": "Michel Barnier est pour une utilisation d'hydroélectrique et du solaire en plus du nucléaire."
-        },
-        "extractive": [
-            {
-                "speaker": "Michel Barnier",
-                "text": "Maintenant, il n'y a pas que l'éolien, il y a d'autres énergies qui sont très importantes, le solaire."
-            },
-            {
-                "speaker": "Michel Barnier",
-                "text": "Et l'autre potentiel que je me permets de vous signaler, et comme personne n'en a parlé, c'est les économies d'énergie, le KW qui coûte le moins cher et le baril de pétrole qui pollue le moins, c'est celui qu'on ne consomme pas."
-            },
-            {
-                "speaker": "Michel Barnier",
-                "text": "Donc nous continuerons et nous améliorerons, notamment pour les familles les plus modestes, les économies d'énergies et le traitement sonore des logements."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Philippe Juvin",
+        "text": "La meilleure manière d'y arriver, et la moins coûteuse, c'est de faire 50 pour cent d'éolien, de renouvelable, et 50 de nucléaire, mais pour faire 50 de nucléaire, il faut en fait en faire plus qu'aujourd'hui."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Je propose d'abord, comme je vous l'ai dit, je veux 50% de renouvelables en 2050, on y arrive par l'éolien en mer."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Pendant les 20 ans qui viennent, on met la pression sur l'éolien en mer, dans 20 ans, les éoliennes terrestres seront arrivées en fin de vie, on les démonte et on en monte plus."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Michel Barnier est pour une utilisation d'hydroélectrique et du solaire en plus du nucléaire."
     },
-    {
-        "abstractive": {
-            "text": "Eric Ciotti veut se concentrer sur le nucléaire et l'hydraulique"
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Bien sûr qu'il faut lancer ses six EPR que propose EDF et s'ils opèrent, c'est plus de réacteurs."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Je crois aussi en l'hydrogène, je crois au mix énergétique."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Il faut de l'énergie hydraulique."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Michel Barnier",
+        "text": "Maintenant, il n'y a pas que l'éolien, il y a d'autres énergies qui sont très importantes, le solaire."
+      },
+      {
+        "speaker": "Michel Barnier",
+        "text": "Et l'autre potentiel que je me permets de vous signaler, et comme personne n'en a parlé, c'est les économies d'énergie, le KW qui coûte le moins cher et le baril de pétrole qui pollue le moins, c'est celui qu'on ne consomme pas."
+      },
+      {
+        "speaker": "Michel Barnier",
+        "text": "Donc nous continuerons et nous améliorerons, notamment pour les familles les plus modestes, les économies d'énergies et le traitement sonore des logements."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti veut se concentrer sur le nucléaire et l'hydraulique."
+    },
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Bien sûr qu'il faut lancer ses six EPR que propose EDF et s'ils opèrent, c'est plus de réacteurs."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Je crois aussi en l'hydrogène, je crois au mix énergétique."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Il faut de l'énergie hydraulique."
+      }
+    ]
+  }
 ]

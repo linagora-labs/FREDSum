@@ -1,151 +1,151 @@
 [
-    {
-        "abstractive": {
-            "text": "Le présentateur commence par rappeler que Sarkozy, poussé par ses supporters lors d’un meeting, a appelé à abroger la loi Taubira."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Ce samedi, Nicolas Sarkozy a dit, et je cite."
-            },
-            {
-                "speaker": "P1",
-                "text": "La loi Taubira, pour que les choses soient claires, je veux nous en débarrasser tout de suite, devra être réécrite de fond en comble."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Le présentateur commence par rappeler que Sarkozy, poussé par ses supporters lors d’un meeting, a appelé à abroger la loi Taubira."
     },
-    {
-        "abstractive": {
-            "text": "Guaino pense que les termes utilisés étaient mauvais."
-        },
-        "extractive": [
-            {
-                "speaker": "Henri Guaino",
-                "text": "Moi c'est pas un mot que j'emploierais."
-            },
-            {
-                "speaker": "Henri Guaino",
-                "text": "C’est un problème de conscience, chacun est placé en face de sa conscience."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Ce samedi, Nicolas Sarkozy a dit, et je cite."
+      },
+      {
+        "speaker": "P1",
+        "text": "La loi Taubira, pour que les choses soient claires, je veux nous en débarrasser tout de suite, devra être réécrite de fond en comble."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Henri Guaino pense que les termes utilisés étaient mauvais."
     },
-    {
-        "abstractive": {
-            "text": "Maintenant que la loi est passée, il ne souhaite pas revenir dessus, mais veut empêcher la filiation pour les couples homosexuels."
-        },
-        "extractive": [
-            {
-                "speaker": "Henri Guaino",
-                "text": "Ce qu'il a dit, il a dit voilà, je ne reviendrai pas sur le mariage lui même, les homosexuels ont le droit de s’aimer et et de s’unirs comme les comme les hétérosexuels."
-            },
-            {
-                "speaker": "Henri Guaino",
-                "text": "Mais, en revanche, je veux qu'on mette un pare-feu constitutionnel parce qu'il n'y a que dans la Constitution que cela peut savoir un sens, entre le mariage et la filiation, il faut que le mariage n'est pas mariage entre couples de même sexe entre entre personnes de même sexe n'ait pas de conséquences sur la filiation."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Henri Guaino",
+        "text": "Moi c'est pas un mot que j'emploierais."
+      },
+      {
+        "speaker": "Henri Guaino",
+        "text": "C’est un problème de conscience, chacun est placé en face de sa conscience."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Maintenant que la loi est passée, il ne souhaite pas revenir dessus, mais veut empêcher la filiation pour les couples homosexuels."
     },
-    {
-        "abstractive": {
-            "text": "Pour Mélenchon, Sarkozy a le droit de vouloir abroger la loi Taubira."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Alors je comprends que Manuel Valls pense que non, mais après tout si la majorité des adhérents de l'UMP est favorable à l’abrogation, il y a pas de honte à ce que Monsieur Sarkozy donne raison à la majorité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Henri Guaino",
+        "text": "Ce qu'il a dit, il a dit voilà, je ne reviendrai pas sur le mariage lui même, les homosexuels ont le droit de s’aimer et et de s’unirs comme les comme les hétérosexuels."
+      },
+      {
+        "speaker": "Henri Guaino",
+        "text": "Mais, en revanche, je veux qu'on mette un pare-feu constitutionnel parce qu'il n'y a que dans la Constitution que cela peut savoir un sens, entre le mariage et la filiation, il faut que le mariage n'est pas mariage entre couples de même sexe entre entre personnes de même sexe n'ait pas de conséquences sur la filiation."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Mélenchon, Nicolas Sarkozy a le droit de vouloir abroger la loi Taubira."
     },
-    {
-        "abstractive": {
-            "text": "Il se réjouit par ailleurs que Guaino ne veuille pas revenir sur le mariage pour tous, mais est en désaccord avec lui sur la question de la filiation."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Je vois que nous sommes dorénavant tous d'accord pour le mariage pour tous ayant été le premier parlementaire à déposer un projet de loi sur le PACS, je me réjouis de chaque avancées."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Maintenant, revenons à l’affiliation."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "La filiation ne pourrait être mise en cause que par l’adoption."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Alors je comprends que Manuel Valls pense que non, mais après tout si la majorité des adhérents de l'UMP est favorable à l’abrogation, il y a pas de honte à ce que Monsieur Sarkozy donne raison à la majorité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il se réjouit par ailleurs que Henri Guaino ne veuille pas revenir sur le mariage pour tous, mais est en désaccord avec lui sur la question de la filiation."
     },
-    {
-        "abstractive": {
-            "text": "Guaino redoute que la PMA pour tous, puis la GPA, finissent par être légalisées."
-        },
-        "extractive": [
-            {
-                "speaker": "Henri Guaino",
-                "text": "Si on laisse les choses en l'état, et bien on aura la PMA de confort pour tout le monde, et la GPA, c’est inéluctable."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Parce que si nous devons parler de la gestation pour autrui, je suis absolument hostile à cette idée."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Je vois que nous sommes dorénavant tous d'accord pour le mariage pour tous ayant été le premier parlementaire à déposer un projet de loi sur le PACS, je me réjouis de chaque avancées."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Maintenant, revenons à l’affiliation."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "La filiation ne pourrait être mise en cause que par l’adoption."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Henri Guaino redoute que la PMA pour tous, puis la GPA, finissent par être légalisées."
     },
-    {
-        "abstractive": {
-            "text": "Mélenchon est défavorable à la GPA mais pense que les couples homosexuels doivent pouvoir adopter ; il est préférable qu’un orphelin ait une famille plutôt que rien."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Je vous prie de bien noter que quand on parle d'adoption, on parle d'enfant qui n'ont pas de parents et par conséquent, on peut considérer que c'est mieux pour le développement d'un enfant d'avoir une famille que de ne pas en avoir."
-            },
-            {
-                "speaker": "Henri Guaino",
-                "text": "Il y a un rapport de un a dix entre candidats à l’adoption et adoptant, donc il n’y a pas de problème de trouver de familles à ceux qui n'en n'ont pas."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Henri Guaino",
+        "text": "Si on laisse les choses en l'état, et bien on aura la PMA de confort pour tout le monde, et la GPA, c’est inéluctable."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Parce que si nous devons parler de la gestation pour autrui, je suis absolument hostile à cette idée."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon est défavorable à la GPA mais pense que les couples homosexuels doivent pouvoir adopter ; il est préférable qu’un orphelin ait une famille plutôt que rien."
     },
-    {
-        "abstractive": {
-            "text": "Guaino rappelle alors qu’il y a beaucoup plus de familles souhaitant adopter que d’adoptants pour qu’il soit nécessaire de donner ce droit aux couples homosexuels."
-        },
-        "extractive": [
-            {
-                "speaker": "Henri Guaino",
-                "text": "La République, c'est qu'on traite également des situations identiques et différemment des situations différentes, et si c'est un couple hétérosexuel n'est pas dans la même situation qu'un couple homosexuel."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Je vous prie de bien noter que quand on parle d'adoption, on parle d'enfant qui n'ont pas de parents et par conséquent, on peut considérer que c'est mieux pour le développement d'un enfant d'avoir une famille que de ne pas en avoir."
+      },
+      {
+        "speaker": "Henri Guaino",
+        "text": "Il y a un rapport de un a dix entre candidats à l’adoption et adoptant, donc il n’y a pas de problème de trouver de familles à ceux qui n'en n'ont pas."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Henri Guaino rappelle alors qu’il y a beaucoup plus de familles souhaitant adopter que d’adoptants pour qu’il soit nécessaire de donner ce droit aux couples homosexuels."
     },
-    {
-        "abstractive": {
-            "text": "Il pense par ailleurs qu’il est important de respecter les limites de la nature."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "L’idée c’est que l’égalité de droit est fondamental quelle que soit la situation."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Henri Guaino",
+        "text": "La République, c'est qu'on traite également des situations identiques et différemment des situations différentes, et si c'est un couple hétérosexuel n'est pas dans la même situation qu'un couple homosexuel."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il pense par ailleurs qu’il est important de respecter les limites de la nature."
     },
-    {
-        "abstractive": {
-            "text": "Or, pour Mélenchon, la nature n’a rien à faire dans le débat ; il faut l’égalité en droit pour tous."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Et que du moment qu'on y trouve l'amour et le couple, je vois pas ce que vous voudriez de plus quant à la nature."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "L’idée c’est que l’égalité de droit est fondamental quelle que soit la situation."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Or, pour Mélenchon, la nature n’a rien à faire dans le débat ; il faut l’égalité en droit pour tous."
     },
-    {
-        "abstractive": {
-            "text": "Guaino reste sur sa position, car même pour un enfant adopté, la question des origines et donc la recherche de la famille biologique se pose forcément."
-        },
-        "extractive": [
-            {
-                "speaker": "Henri Guaino",
-                "text": "Même un enfant qui ne connaît pas ses origines a besoin d'aller chercher, d'aller chercher ses origines, il a il a besoin de savoir"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Et que du moment qu'on y trouve l'amour et le couple, je vois pas ce que vous voudriez de plus quant à la nature."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Henri Guaino reste sur sa position, car même pour un enfant adopté, la question des origines et donc la recherche de la famille biologique se pose forcément."
+    },
+    "extractive": [
+      {
+        "speaker": "Henri Guaino",
+        "text": "Même un enfant qui ne connaît pas ses origines a besoin d'aller chercher, d'aller chercher ses origines, il a il a besoin de savoir"
+      }
+    ]
+  }
 ]

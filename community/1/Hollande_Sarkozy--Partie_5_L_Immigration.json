@@ -1,259 +1,259 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, François Hollande et Nicolas Sarkozy discutent de leur vision sur l'immigration."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Je vous propose de commencer par un sujet dont on a pas mal débattu ces derniers temps : l'immigration."
-            },
-            {
-                "speaker": "P2",
-                "text": "Le premier point concerne ce qu'on appelle les flux d'immigrés, ceux que nous accueillons sur notre sol."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, François Hollande et Nicolas Sarkozy discutent de leur vision sur l'immigration."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande commence en attaquant le bilan de Nicolas Sarkozy, qui a augmenté l'immigration à 200 mille immigrés légaux par ans."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Nicolas Sarkozy est donc en responsabilité de l'immigration depuis dix ans : ministre de l'Intérieur, puis président République. Le nombre de personnes rentrant sur notre territoire en situation légale est de 200 000 par an."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Je vous propose de commencer par un sujet dont on a pas mal débattu ces derniers temps : l'immigration."
+      },
+      {
+        "speaker": "P2",
+        "text": "Le premier point concerne ce qu'on appelle les flux d'immigrés, ceux que nous accueillons sur notre sol."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande commence en attaquant le bilan de Nicolas Sarkozy, qui a augmenté l'immigration à 200 mille immigrés légaux par ans."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande discute de l'immigration économique, qu'il souhaite limiter."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Et puis en définitive, ce chiffre n'a pas pu être atteint et l'immigration économique est tombée à 30 000 au lieu des 100 000 attendus."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Immigration économique : je pense qu'aujourd'hui, il faut la limiter."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Et je fais même une proposition, que chaque année au Parlement il y aura une discussion pour savoir exactement le nombre que nous pouvons admettre pour l'immigration économique."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Nicolas Sarkozy est donc en responsabilité de l'immigration depuis dix ans : ministre de l'Intérieur, puis président République. Le nombre de personnes rentrant sur notre territoire en situation légale est de 200 000 par an."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande discute de l'immigration économique, qu'il souhaite limiter."
     },
-    {
-        "abstractive": {
-            "text": "Il explique aussi être pour l'immigration étudiante, et souhaite que les situations des demandeurs d'asile soit étudiée plus rapidement."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Etudiants étrangers : près de 60 000 sur les 180 à 200 000."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Je suis pour qu'il y ait des étudiants étrangers qui viennent apprendre sur notre territoire et j'ai trouvé regrettable que Monsieur Guéant fasse une circulaire pour rendre plus compliquée leur situation, parce que nous avons besoin de ces talents, parce qu'ils vont, avec notre langue, développer des savoirs qui nous serons très précieux."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Et puis en définitive, ce chiffre n'a pas pu être atteint et l'immigration économique est tombée à 30 000 au lieu des 100 000 attendus."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Immigration économique : je pense qu'aujourd'hui, il faut la limiter."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Et je fais même une proposition, que chaque année au Parlement il y aura une discussion pour savoir exactement le nombre que nous pouvons admettre pour l'immigration économique."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il explique aussi être pour l'immigration étudiante, et souhaite que les situations des demandeurs d'asile soient étudiées plus rapidement."
     },
-    {
-        "abstractive": {
-            "text": "François hollande termine en expliquant qu'il est pour l'immigration familiale, sous conditions de revenus minimum, de logements, et de maîtrise du francais."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Ensuite, il y a des demandeurs d'asile. Nous en recevons à peu près 50 à 60 000, qui mettent un an et demi, un an et demi, avant d'obtenir une réponse."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Je dis qu'on ne peut pas laisser des familles attendre un an et demi d'avoir une réponse et qui, quand elle positive, restent sur notre territoire et quand elle n'est pas positive, y restent quand même parce qu'il est très difficile d'en partir."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Je considère que pour l'immigration familiale, il faut poser des règles sur un niveau de revenus minimum - ce qui existe déjà - et aussi pour des conditions de logement et la maîtrise du français."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Sur les conjoints de Français, et c'est là-dessus que vous voulez intervenir, je considère que nous ne pouvons pas empêcher un Français ou une Française qui s'est marié, sauf si ce mariage est contestable et est contesté, de faire venir son conjoint ici."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Etudiants étrangers : près de 60 000 sur les 180 à 200 000."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Je suis pour qu'il y ait des étudiants étrangers qui viennent apprendre sur notre territoire et j'ai trouvé regrettable que Monsieur Guéant fasse une circulaire pour rendre plus compliquée leur situation, parce que nous avons besoin de ces talents, parce qu'ils vont, avec notre langue, développer des savoirs qui nous serons très précieux."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande termine en expliquant qu'il est pour l'immigration familiale, sous conditions de revenus minimum, de logements, et de maîtrise du français."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy met en cause les chiffres de François Hollande, expliquant que l'immigration est à 180 mille."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Nous avons accueilli trop de monde, ce qui a paralysé notre système d'intégration."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Ensuite, il y a des demandeurs d'asile. Nous en recevons à peu près 50 à 60 000, qui mettent un an et demi, un an et demi, avant d'obtenir une réponse."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Je dis qu'on ne peut pas laisser des familles attendre un an et demi d'avoir une réponse et qui, quand elle positive, restent sur notre territoire et quand elle n'est pas positive, y restent quand même parce qu'il est très difficile d'en partir."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Je considère que pour l'immigration familiale, il faut poser des règles sur un niveau de revenus minimum - ce qui existe déjà - et aussi pour des conditions de logement et la maîtrise du français."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Sur les conjoints de Français, et c'est là-dessus que vous voulez intervenir, je considère que nous ne pouvons pas empêcher un Français ou une Française qui s'est marié, sauf si ce mariage est contestable et est contesté, de faire venir son conjoint ici."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy met en cause les chiffres de François Hollande, expliquant que l'immigration est à 180 mille."
     },
-    {
-        "abstractive": {
-            "text": "Il explique qu'il y a trop d'immigré et pas assez d'emploi, d'écoles et de logements pour les intégrer."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Nous n'avons pas assez d'emplois, pas assez d'écoles, pas assez de logements."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Il faut donc réduire le nombre de ceux que nous accueillons, pas parce que nous ne les aimons pas, pas parce que nous en avons peur, mais parce qu'on n'arrive plus à les intégrer."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Nous avons accueilli trop de monde, ce qui a paralysé notre système d'intégration."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il explique qu'il y a trop d'immigré et pas assez d'emploi, d'écoles et de logements pour les intégrer."
     },
-    {
-        "abstractive": {
-            "text": "Il explique vouloir un juge unique pour le droit des étrangers, au lieu d'un juge de rétention et d'un juge judiciaire."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Deuxième élément, je ne peux pas dire aux Français qu'il faut faire des économies, réduire nos dépenses, et accepter l'immigration qui ne viendrait en France que parce qu'elle est tentée par des prestations sociales parmi les plus généreuses."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Première proposition, un juge unique pour le droit des étrangers."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Le juge de la rétention, c'est le juge judiciaire, et je le juge de l'expulsion, c'est le juge administratif, je souhaite que ce soit le même juge, parce que si on libère de la rétention quelqu'un avant de lui avoir donné une réponse, « vous avez le droit d'entrer » ou « pas le droit d'entrer », s'il est entré avant, naturellement on ne pourra pas l'expulser après, cela sera beaucoup plus difficile."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Nous n'avons pas assez d'emplois, pas assez d'écoles, pas assez de logements."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Il faut donc réduire le nombre de ceux que nous accueillons, pas parce que nous ne les aimons pas, pas parce que nous en avons peur, mais parce qu'on n'arrive plus à les intégrer."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il explique vouloir un juge unique pour le droit des étrangers, au lieu d'un juge de rétention et d'un juge judiciaire."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy souhaite aussi avoir un examen de français avant l'entrée sur le territoire pour les gens âgés de plus de seize ans, et souhaite conditionner les aides sociales à dix ans sur le territoire, dont cinq ans de cotisations."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Deuxième élément, je propose que pour tout nouvel entrant, y compris sur le rapprochement familial comme sur le regroupement familial, parce que les deux, ce sont 65 000 personnes par an, je propose que dans tous nos consulats soit organisé un examen de français avant l'entrée sur le territoire ayant un âge qui dépasse 16 ans et de connaissance des valeurs de la République."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Et enfin, pour éviter qu'on ne vienne en France que pour l'attrait de certaines prestations sociales, je propose qu'on ne puisse toucher les prestations sociales comme le minimum vieillesse ou le RSA qu'après dix années de présence en France et cinq années de cotisations."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Deuxième élément, je ne peux pas dire aux Français qu'il faut faire des économies, réduire nos dépenses, et accepter l'immigration qui ne viendrait en France que parce qu'elle est tentée par des prestations sociales parmi les plus généreuses."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Première proposition, un juge unique pour le droit des étrangers."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Le juge de la rétention, c'est le juge judiciaire, et je le juge de l'expulsion, c'est le juge administratif, je souhaite que ce soit le même juge, parce que si on libère de la rétention quelqu'un avant de lui avoir donné une réponse, « vous avez le droit d'entrer » ou « pas le droit d'entrer », s'il est entré avant, naturellement on ne pourra pas l'expulser après, cela sera beaucoup plus difficile."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy souhaite aussi avoir un examen de Français avant l'entrée sur le territoire pour les gens âgés de plus de seize ans, et souhaite conditionner les aides sociales à dix ans sur le territoire, dont cinq ans de cotisations."
     },
-    {
-        "abstractive": {
-            "text": "Le présentateur pose ensuite la question du droit de vote des étrangers aux éléctions municipales."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Il y a un autre sujet qui vous divise, c'est le droit de vote pour les immigrés non membres de la Communauté européenne aux élections municipales."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Deuxième élément, je propose que pour tout nouvel entrant, y compris sur le rapprochement familial comme sur le regroupement familial, parce que les deux, ce sont 65 000 personnes par an, je propose que dans tous nos consulats soit organisé un examen de français avant l'entrée sur le territoire ayant un âge qui dépasse 16 ans et de connaissance des valeurs de la République."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Et enfin, pour éviter qu'on ne vienne en France que pour l'attrait de certaines prestations sociales, je propose qu'on ne puisse toucher les prestations sociales comme le minimum vieillesse ou le RSA qu'après dix années de présence en France et cinq années de cotisations."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Le présentateur pose ensuite la question du droit de vote des étrangers aux élections municipales."
     },
-    {
-        "abstractive": {
-            "text": "François hollande est pour le droit de vote des étrangers aux municipales, si ils sont en situation régulière et installé depuis plus de cinq ans."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "La question du juge n'a rien à voir avec l'immigration légale, la question du juge, c'est par rapport à l'immigration illégale pour favoriser ou faciliter l'expulsion, donc la proposition de Monsieur Sarkozy n'est pas du tout appropriée à l'immigration légale."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Elle est appropriée à la lutte contre l'immigration illégale, par ailleurs que je peux comprendre, mais qui doit d'abord toucher les filières clandestines"
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Sur le droit de vote, c'est une position que je défends depuis des années, uniquement pour les élections municipales et par rapport à des étrangers en situation régulière sur le territoire et installés depuis plus de 5 ans."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Vous disiez que vous étiez intellectuellement favorable à cette introduction du droit de vote des étrangers pour les élections municipales mais que vous n'aviez pas la majorité."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Il y a à peu près 50 pays dans le monde, beaucoup sont en Europe, qui appliquent le droit de vote des étrangers pour les élections municipales."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Pour faire passer cette réforme, il nous faudra avoir une majorité des trois cinquièmes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Il y a un autre sujet qui vous divise, c'est le droit de vote pour les immigrés non membres de la Communauté européenne aux élections municipales."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande est pour le droit de vote des étrangers aux municipales, s'ils sont en situation régulière et installé depuis plus de cinq ans."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande explique être contre les centre de rétention, qui mettent des enfants dans des conditions très difficiles"
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Donc les centres de rétention, on les garde ?"
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Sur le centre de rétention, moi je considère qu'un enfant ne peut pas être mis dans un centre de rétention, parce qu'il est avec sa famille au milieu d'autres étrangers dans des conditions très difficiles."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "La question du juge n'a rien à voir avec l'immigration légale, la question du juge, c'est par rapport à l'immigration illégale pour favoriser ou faciliter l'expulsion, donc la proposition de Monsieur Sarkozy n'est pas du tout appropriée à l'immigration légale."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Elle est appropriée à la lutte contre l'immigration illégale, par ailleurs que je peux comprendre, mais qui doit d'abord toucher les filières clandestines"
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Sur le droit de vote, c'est une position que je défends depuis des années, uniquement pour les élections municipales et par rapport à des étrangers en situation régulière sur le territoire et installés depuis plus de 5 ans."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Vous disiez que vous étiez intellectuellement favorable à cette introduction du droit de vote des étrangers pour les élections municipales mais que vous n'aviez pas la majorité."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Il y a à peu près 50 pays dans le monde, beaucoup sont en Europe, qui appliquent le droit de vote des étrangers pour les élections municipales."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Pour faire passer cette réforme, il nous faudra avoir une majorité des trois cinquièmes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande explique être contre les centres de rétention, qui mettent des enfants dans des conditions très difficiles."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy est contre, car il estime que cela créerait un vote communautariste, qui aiderait les revendications identitaires et communautaires."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Je considère comme irresponsable de proposer un vote communautariste et un vote communautaire alors que nous sommes face à des tensions communautaires et identitaires extraordinairement fortes."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "En Europe, les Français dans d'autres pays, votent, et les Européens en France votent."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Contester que le droit de vote aux immigrés, c'est un droit de vote qui ira d'abord à une communauté d'Afrique du Nord ou à une communauté subsaharienne, c'est ne rien connaitre aux flux migratoires."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Si vous donnez le droit de vote aux immigrés, avec la tentation communautariste que nous connaissons aujourd'hui et que nous voyons chaque jour, que vous dénoncez comme moi d'ailleurs, à ce moment-là pour les municipales il y aura des revendications identitaires et communautaires, des horaires différenciés pour les femmes et les hommes dans les piscines, des menus différenciés dans les cantines municipales, des médecins différenciés pour les hommes et les femmes dans l'hôpital."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Donc les centres de rétention, on les garde ?"
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Sur le centre de rétention, moi je considère qu'un enfant ne peut pas être mis dans un centre de rétention, parce qu'il est avec sa famille au milieu d'autres étrangers dans des conditions très difficiles."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy est contre, car il estime que cela créerait un vote communautariste, qui aiderait les revendications identitaires et communautaires."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande attaque Nicolas Sarkozy, estimant que c'est faux"
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Deuxièmement, vous dites, ça va introduire des revendications communautaires, je mets en cause ce principe, parce qu'il y a des étrangers qui sont là depuis des années, qui viennent effectivement d'Afrique ou du Maghreb, qui peuvent être musulmans ou pas musulmans, pratiquants ou pas pratiquants, et qui ne conçoivent pas forcément l'élection locale comme un instrument de pression religieuse."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Je considère comme irresponsable de proposer un vote communautariste et un vote communautaire alors que nous sommes face à des tensions communautaires et identitaires extraordinairement fortes."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "En Europe, les Français dans d'autres pays, votent, et les Européens en France votent."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Contester que le droit de vote aux immigrés, c'est un droit de vote qui ira d'abord à une communauté d'Afrique du Nord ou à une communauté subsaharienne, c'est ne rien connaitre aux flux migratoires."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Si vous donnez le droit de vote aux immigrés, avec la tentation communautariste que nous connaissons aujourd'hui et que nous voyons chaque jour, que vous dénoncez comme moi d'ailleurs, à ce moment-là pour les municipales il y aura des revendications identitaires et communautaires, des horaires différenciés pour les femmes et les hommes dans les piscines, des menus différenciés dans les cantines municipales, des médecins différenciés pour les hommes et les femmes dans l'hôpital."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande attaque Nicolas Sarkozy, estimant que c'est faux."
     },
-    {
-        "abstractive": {
-            "text": "Les deux discutent ensuite du nombre de naturalisations que François Hollande propose."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Vous avez promis de faire les régularisations mais nous n'avons toujours pas compris quelle serait votre politique."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Vous n'avez aucun objectif chiffré en termes d'immigration, sauf sur l'immigration économique qui représente 15 000 cas sur 180 000."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Sur l'immigration légale, j'ai dit que nous resterions sur 180 000."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Le nombre de régularisations restera autour de 30 000 puisqu'actuellement, vous régularisez plus de 30 000 personnes chaque année"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Deuxièmement, vous dites, ça va introduire des revendications communautaires, je mets en cause ce principe, parce qu'il y a des étrangers qui sont là depuis des années, qui viennent effectivement d'Afrique ou du Maghreb, qui peuvent être musulmans ou pas musulmans, pratiquants ou pas pratiquants, et qui ne conçoivent pas forcément l'élection locale comme un instrument de pression religieuse."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Les deux discutent ensuite du nombre de naturalisations que François Hollande propose."
+    },
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Vous avez promis de faire les régularisations mais nous n'avons toujours pas compris quelle serait votre politique."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Vous n'avez aucun objectif chiffré en termes d'immigration, sauf sur l'immigration économique qui représente 15 000 cas sur 180 000."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Sur l'immigration légale, j'ai dit que nous resterions sur 180 000."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Le nombre de régularisations restera autour de 30 000 puisqu'actuellement, vous régularisez plus de 30 000 personnes chaque année"
+      }
+    ]
+  }
 ]

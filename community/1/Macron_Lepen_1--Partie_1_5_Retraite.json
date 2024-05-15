@@ -1,81 +1,81 @@
 [
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron et Marine Le Pen débattent de la question des retraites en France."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Je vais vous demander de répondre particulièrement et très clairement à une question : à quel âge les Français doivent-ils partir à la retraite ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron et Marine Le Pen débattent de la question des retraites en France."
     },
-    {
-        "abstractive": {
-            "text": "Marine le Pen souhaite mettre en place le départ à la retraite à soixante ans avec quarante annuités, et accuse Emmanuel Macron d'être la raison pour laquelle le régime des retraite est en grande difficulté, car il a entraîné un chômage de masse."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Soixante ans avec quarante annuités donc soixante ans s’ils ont quarante annuités, voilà."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Voilà donc si le régime de retraite aujourd'hui est en grande difficulté ce n’est pas de la faute des Français, c’est de votre faute."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Je vais vous demander de répondre particulièrement et très clairement à une question : à quel âge les Français doivent-ils partir à la retraite ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen souhaite mettre en place le départ à la retraite à soixante ans avec quarante annuités, et accuse Emmanuel Macron d'être la raison pour laquelle le régime des retraites est en grande difficulté, car il a entraîné un chômage de masse."
     },
-    {
-        "abstractive": {
-            "text": "Marine Le Pen explique que sa réforme coûte 17 milliards et que la baisse du chômage de trois points en rapporte 25."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "C’est celui qui a été au pouvoir depuis des années et des années, qui a mis en place un modèle économique, qui a entraîné un chômage de masse car le seul moyen et un très bon moyen de sauver le système de retraite c’est de retrouver la voie de l’emploi."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "La retraite à soixante ans avec quarante annuités c’est dix-sept milliards de coût, baisser le chômage de trois points c’est vingt-cinq milliards de recettes pour l’État."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Sauf que ça vous avez été incapable de le faire parce qu’encore une fois le modèle économique soumis à la mondialisation sauvage, l’ouverture totale des frontières, la concurrence de tous contre tous, et bien ça, ça entraine le chômage de masse que nous vivons aujourdhui."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Soixante ans avec quarante annuités donc soixante ans s’ils ont quarante annuités, voilà."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Voilà donc si le régime de retraite aujourd'hui est en grande difficulté ce n’est pas de la faute des Français, c’est de votre faute."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen explique que sa réforme coûte 17 milliards et que la baisse du chômage de trois points en rapporte 25."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron accuse Marine Le Pen d'avoir changé le calendrier de sa réforme."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Alors d’abord, Mme Le Pen propose de partir à soixante ans, donc elle proposait naguère qu’on puisse le faire dès son élection, maintenant elle a reporté la chose, ça coûte trente milliards."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "C’est celui qui a été au pouvoir depuis des années et des années, qui a mis en place un modèle économique, qui a entraîné un chômage de masse car le seul moyen et un très bon moyen de sauver le système de retraite c’est de retrouver la voie de l’emploi."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "La retraite à soixante ans avec quarante annuités c’est dix-sept milliards de coût, baisser le chômage de trois points c’est vingt-cinq milliards de recettes pour l’État."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Sauf que ça vous avez été incapable de le faire parce qu’encore une fois le modèle économique soumis à la mondialisation sauvage, l’ouverture totale des frontières, la concurrence de tous contre tous, et bien ça, ça entraine le chômage de masse que nous vivons aujourdhui."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron accuse Marine Le Pen d'avoir changé le calendrier de sa réforme."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron souhaite garder un système par répartition, sans changer l'âge de départ ou le niveau de cotisations, mais en créant un régime unique."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Les retraites, moi je propose de garder un système par répartition."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Ce sont les actifs qui payent les retraites des retraités donc quand on fait une mesure comme Mme Le Pen, soit on va augmenter les cotisations, soit on va baisser les pensions."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Et, dans toutes les hypothèses qu’il y a, évidemment que la baisse du chômage est prise en compte, mais vous n’avez pas expliqué comment la baisse du chômage est prise en compte."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Non mais le régime unique c’est ça, c’était déjà la disparition des complémentaires."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Alors d’abord, Mme Le Pen propose de partir à soixante ans, donc elle proposait naguère qu’on puisse le faire dès son élection, maintenant elle a reporté la chose, ça coûte trente milliards."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron souhaite garder un système par répartition, sans changer l'âge de départ ou le niveau de cotisations, mais en créant un régime unique."
+    },
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Les retraites, moi je propose de garder un système par répartition."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Ce sont les actifs qui payent les retraites des retraités donc quand on fait une mesure comme Mme Le Pen, soit on va augmenter les cotisations, soit on va baisser les pensions."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Et, dans toutes les hypothèses qu’il y a, évidemment que la baisse du chômage est prise en compte, mais vous n’avez pas expliqué comment la baisse du chômage est prise en compte."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Non mais le régime unique c’est ça, c’était déjà la disparition des complémentaires."
+      }
+    ]
+  }
 ]

@@ -1,158 +1,158 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Royal et Bayrou discutent de la question policière et de son rapport avec la jeunesse."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Comment expliquez vous que les policiers soient si souvent, et dans des lieux nombreux, pris à partie, et même parfois en intervention carrément attaquée ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Ségolène Royal et François Bayrou discutent de la question policière et de son rapport avec la jeunesse."
     },
-    {
-        "abstractive": {
-            "text": " Royal rappelle que les policiers vivent une situation difficile mais qu’en face, de nombreux jeunes souffrent du manque de services publiques et de l’absence de considération."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Je pense aussi que peut-être une des raisons de cette montée de l'agressivité contre les services publics vient du fait que ces services publics ont été amenuisés dans les quartiers les plus difficiles."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Comment expliquez vous que les policiers soient si souvent, et dans des lieux nombreux, pris à partie, et même parfois en intervention carrément attaquée ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal rappelle que les policiers vivent une situation difficile mais qu’en face, de nombreux jeunes souffrent du manque de services publiques et de l’absence de considération."
     },
-    {
-        "abstractive": {
-            "text": "Elle fustige la fin de la police de proximité et souhaite établir un système équivalent (police de quartier) pour créer un vrai lien entre les populations et les forces de l’ordre."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "C'est la suppression de la police de proximité qui a été décidée, et je pense qu'elle a eu un effet direct sur la montée des violences."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Je veux moi, créer une police de quartier, c'est à dire une police qui soit en osmose avec la population, qui connaisse la population des quartiers, pour que les français cessent d'avoir peur les uns des autres."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Je pense aussi que peut-être une des raisons de cette montée de l'agressivité contre les services publics vient du fait que ces services publics ont été amenuisés dans les quartiers les plus difficiles."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle fustige la fin de la police de proximité et souhaite établir un système équivalent (police de quartier) pour créer un vrai lien entre les populations et les forces de l’ordre."
     },
-    {
-        "abstractive": {
-            "text": "Elle est d’accord avec Bayrou pour ouvrir les commissariats en permanence, et souhaiterait étendre ce dispositif aux centres de soin."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Donc il y a là un chantier essentiel, et d'ailleurs il y a une proposition dans ce qu'a dit François Bayrou que je trouve bonne."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "C'est d'ouvrir les commissariats de police 24h sur 24."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "C'est la suppression de la police de proximité qui a été décidée, et je pense qu'elle a eu un effet direct sur la montée des violences."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Je veux moi, créer une police de quartier, c'est à dire une police qui soit en osmose avec la population, qui connaisse la population des quartiers, pour que les français cessent d'avoir peur les uns des autres."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle est d’accord avec François Bayrou pour ouvrir les commissariats en permanence, et souhaiterait étendre ce dispositif aux centres de soin."
     },
-    {
-        "abstractive": {
-            "text": "Royal pense également qu’il faut une sanction proportionnée dès le premier acte de délinquance."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Par exemple le tout premier acte de transgression doit déboucher sur une sanction proportionnée, et donc je pense qu'il faut des états généraux des services publics pas seulement dans les quartiers, mais dans tout le pays, sur la question de la justice, de la police de proximité, de la santé de proximité, et bien évidemment de l'école."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Donc il y a là un chantier essentiel, et d'ailleurs il y a une proposition dans ce qu'a dit François Bayrou que je trouve bonne."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "C'est d'ouvrir les commissariats de police 24h sur 24."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal pense également qu’il faut une sanction proportionnée dès le premier acte de délinquance."
     },
-    {
-        "abstractive": {
-            "text": "Bayrou est d’accord."
-        },
-        "extractive": [
-            {
-                "speaker": "François Bayrou",
-                "text": "Je suis pour l'essentiel d'accord avec cette vision."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Par exemple le tout premier acte de transgression doit déboucher sur une sanction proportionnée, et donc je pense qu'il faut des états généraux des services publics pas seulement dans les quartiers, mais dans tout le pays, sur la question de la justice, de la police de proximité, de la santé de proximité, et bien évidemment de l'école."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Bayrou est d’accord."
     },
-    {
-        "abstractive": {
-            "text": "Bien que les policiers soient exposés, il explique que de nombreux jeunes sont victimes de racisme."
-        },
-        "extractive": [
-            {
-                "speaker": "François Bayrou",
-                "text": "Les policiers en souffrent, parce que les policiers sont exposés, personne ne le dit ou ne pense à eux, mais ils sont aussi exposés, les jeunes, en tout cas les jeunes qui sont de couleur, ou d'origine, ils ont le sentiment d'être ciblés, ils ont le sentiment que les contrôles d'identité se multiplient contre eux, et c'est pas un sentiment, c'est une réalité."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Bayrou",
+        "text": "Je suis pour l'essentiel d'accord avec cette vision."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bien que les policiers soient exposés, il explique que de nombreux jeunes sont victimes de racisme."
     },
-    {
-        "abstractive": {
-            "text": "Il rejoint Royal sur la police de proximité et l’absence de services publics dans les quartiers."
-        },
-        "extractive": [
-            {
-                "speaker": "François Bayrou",
-                "text": "Je suis pour que on reconstruise une police de proximité, ou de quartiers, moi je l'appelle fidélisé, qui soit au contact des gens qui puissent, des jeunes, qui puissent les connaître par leur prénom, savoir lesquels sont en train de faire des bêtises, les mettre en garde."
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "Il y a un gros travail de prévention à faire, et je suis d'accord pour qu'on cherche des alternatives à la prison dès la première sanction."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Bayrou",
+        "text": "Les policiers en souffrent, parce que les policiers sont exposés, personne ne le dit ou ne pense à eux, mais ils sont aussi exposés, les jeunes, en tout cas les jeunes qui sont de couleur, ou d'origine, ils ont le sentiment d'être ciblés, ils ont le sentiment que les contrôles d'identité se multiplient contre eux, et c'est pas un sentiment, c'est une réalité."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il rejoint Ségolène Royal sur la police de proximité et l’absence de services publics dans les quartiers."
     },
-    {
-        "abstractive": {
-            "text": "Bayrou, quoique hésitant, pense que sanctionner la famille des enfants délinquants pourrait être une solution."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Juste une question, parce que le temps passe, mais est-ce que les parents doivent être tenus pour responsables, y compris financièrement de ce que font leurs enfants lorsqu'ils dérapent ou versent même dans la délinquance ?"
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "Alors si ça peut aider ce genre de sanctions, je suis un tout petit peu sceptique, je suis pas sûr que ça ait apporté beaucoup ce genre de sanctions, mais si ça peut aider, pourquoi pas."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Bayrou",
+        "text": "Je suis pour que on reconstruise une police de proximité, ou de quartiers, moi je l'appelle fidélisé, qui soit au contact des gens qui puissent, des jeunes, qui puissent les connaître par leur prénom, savoir lesquels sont en train de faire des bêtises, les mettre en garde."
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "Il y a un gros travail de prévention à faire, et je suis d'accord pour qu'on cherche des alternatives à la prison dès la première sanction."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bayrou, quoique hésitant, pense que sanctionner la famille des enfants délinquants pourrait être une solution."
     },
-    {
-        "abstractive": {
-            "text": "Royal pense que les parents sont responsables des vices de leurs enfants, mais estime qu’il faut avant tout pouvoir les accompagner."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Il faut une articulation beaucoup plus forte entre les parents, ou le parent isolé, parce que beaucoup de femmes sont abandonnées avec leurs enfants, sont abandonnées par le père."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Juste une question, parce que le temps passe, mais est-ce que les parents doivent être tenus pour responsables, y compris financièrement de ce que font leurs enfants lorsqu'ils dérapent ou versent même dans la délinquance ?"
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "Alors si ça peut aider ce genre de sanctions, je suis un tout petit peu sceptique, je suis pas sûr que ça ait apporté beaucoup ce genre de sanctions, mais si ça peut aider, pourquoi pas."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal pense que les parents sont responsables des vices de leurs enfants, mais estime qu’il faut avant tout pouvoir les accompagner."
     },
-    {
-        "abstractive": {
-            "text": "Elle propose donc des médiateurs familiaux et des internats pour aider à structurer des familles au sein desquelles bien souvent le père est absent."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Donc il ne faut pas les disqualifier par rapport à leurs enfants, et je pense que la bonne solution, c'est ce qui a fait ses preuves en tout cas, ce sont des internats de proximité ou les mamans se regrouppent pour élever collectivement leurs enfants en étant appuyés sur un travailleur social, ou sur un éducateur de la PJJ, ou ce sont les internats relais que j'avais mis en place lorsque j'étais ministre de l'enseignement scolaire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Il faut une articulation beaucoup plus forte entre les parents, ou le parent isolé, parce que beaucoup de femmes sont abandonnées avec leurs enfants, sont abandonnées par le père."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle propose donc des médiateurs familiaux et des internats pour aider à structurer des familles au sein desquelles bien souvent le père est absent."
     },
-    {
-        "abstractive": {
-            "text": "Royal ne souhaite pas sanctionner les familles, car cela les enfoncerait, mais elle salue la possibilité pour la justice de mettre sous tutelle les allocations afin d’être certain qu’elles bénéficient à l’enfant."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "En revanche, la mise sous tutelle des allocations familiales qui existent déjà dans la loi, qui est déjà appliquée sous le contrôle d'un travailleur social, qui va aider la famille et non pas l'enfoncer, mais pour être sûr que les allocations familiales bénéficient bien à l’enfant, et ne servent pas à faire autre chose."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "La je crois en effet que c'est tout à fait judicieux quand c'est nécessaire."
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "Je suis d'accord"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Donc il ne faut pas les disqualifier par rapport à leurs enfants, et je pense que la bonne solution, c'est ce qui a fait ses preuves en tout cas, ce sont des internats de proximité ou les mamans se regrouppent pour élever collectivement leurs enfants en étant appuyés sur un travailleur social, ou sur un éducateur de la PJJ, ou ce sont les internats relais que j'avais mis en place lorsque j'étais ministre de l'enseignement scolaire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal ne souhaite pas sanctionner les familles, car cela les enfoncerait, mais elle salue la possibilité pour la justice de mettre sous tutelle les allocations afin d’être certain qu’elles bénéficient à l’enfant."
+    },
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "En revanche, la mise sous tutelle des allocations familiales qui existent déjà dans la loi, qui est déjà appliquée sous le contrôle d'un travailleur social, qui va aider la famille et non pas l'enfoncer, mais pour être sûr que les allocations familiales bénéficient bien à l’enfant, et ne servent pas à faire autre chose."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "La je crois en effet que c'est tout à fait judicieux quand c'est nécessaire."
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "Je suis d'accord"
+      }
+    ]
+  }
 ]

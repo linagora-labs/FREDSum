@@ -1,91 +1,91 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Bayrou et Royal discutent de la question européenne."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Vous êtes tous les deux pour un référendum sur un nouveau traité constitutionnel mais Ségolène Royal vous êtes plutôt pour la réconciliation entre les électeurs du oui et du non au traité constitutionnel et François Bayrou vous brandissez un peu le oui en bandoulière."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, François Bayrou et Ségolène Royal discutent de la question européenne."
     },
-    {
-        "abstractive": {
-            "text": "Bayrou commence par expliquer que le « non » au référendum de 2005 vient de l’illisibilité du traité ainsi que des risques concernant le modèle ultra-libéral et l’adhésion de la Turquie, risques qui transparaissaient dans le texte."
-        },
-        "extractive": [
-            {
-                "speaker": "François Bayrou",
-                "text": "Il y a un certain nombre d'anti-européens mais il y a des gens qui ont cru que parce que le texte était illisible, et il l'était pour qui que ce soit, il y avait sous ce texte un piège et que ce piège c'était qu'on voulait leur imposer un modèle de société qui n'était pas le leur, ultra libéral on va dire, puis des inquiétudes au sujet de l'adhésion de la Turquie qui a été décidée dans des conditions extrêmement lourdes de conséquences selon moi."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Vous êtes tous les deux pour un référendum sur un nouveau traité constitutionnel mais Ségolène Royal vous êtes plutôt pour la réconciliation entre les électeurs du oui et du non au traité constitutionnel et François Bayrou vous brandissez un peu le oui en bandoulière."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Bayrou commence par expliquer que le « non » au référendum de 2005 vient de l’illisibilité du traité ainsi que des risques concernant le modèle ultra-libéral et l’adhésion de la Turquie, risques qui transparaissaient dans le texte."
     },
-    {
-        "abstractive": {
-            "text": "Royale et lui souhaitent un nouveau référendum sur un texte plus clair et moins long."
-        },
-        "extractive": [
-            {
-                "speaker": "François Bayrou",
-                "text": "Aucune de ces questions-là ne peut se résoudre si l'Europe n'est pas forte et en bonne santé pour qu'elle soit forte et en bonne santé faut que les citoyens français puissent la soutenir, et c'est pourquoi je suis en effet quand on aura un texte court, lisible compréhensible par tout le monde pour le soumettre au référendum des Français, ce qui est je crois aussi votre idée."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Bayrou",
+        "text": "Il y a un certain nombre d'anti-européens mais il y a des gens qui ont cru que parce que le texte était illisible, et il l'était pour qui que ce soit, il y avait sous ce texte un piège et que ce piège c'était qu'on voulait leur imposer un modèle de société qui n'était pas le leur, ultra libéral on va dire, puis des inquiétudes au sujet de l'adhésion de la Turquie qui a été décidée dans des conditions extrêmement lourdes de conséquences selon moi."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Royale et lui souhaitent un nouveau référendum sur un texte plus clair et moins long."
     },
-    {
-        "abstractive": {
-            "text": "Royale ajoute que la défiance des Français à l’égard de l’Europe vient de son incapacité à lutter contre le chômage et à défendre un certain modèle social, elle souhaite donc un salaire minimum européen et une réforme de la BCE pour qu’elle puisse s’occuper de l’emploi et de la croissance."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "C'est vrai qu'aujourd'hui il y a encore du travail à faire, des rapprochements mais je vois que les choses bougent puisqu'il y a eu aussi une annexe sociale qui a été travaillée avec Jacques Deleur et Paul Rasmussen et qu'aujourd'hui chacun sent bien que l'Europe doit d'abord défendre les valeurs humaines, c'est-à-dire faire en sorte que l'Europe se construise non pas pour être tirée vers le bas, et pour être aligné vers les pays à bas salaires ou à faible protection sociale mais au contraire, à mettre ensemble nos forces pour tirer collectivement les travailleurs vers le haut en termes de niveau de revenus et par exemple l'idée qu'il existe un salaire minimum au niveau de l'Europe est une idée qui fait son chemin et qui est inscrite dans ce protocole social."
-            },
-            {
-                "speaker": "Ségolène Royal",
-                "text": "Donc il va falloir avancer sur ces questions mais en amont, réaliser ensemble un certain nombre d'actions, moi je souhaite par exemple la réforme du statut de la Banque centrale européenne, parce que je veux que l'Europe s'occupe aussi de croissance et d'emploi, et c'est en reconstruisant cette confiance sur des projets concrets que les Français pourront ensuite dire oui."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Bayrou",
+        "text": "Aucune de ces questions-là ne peut se résoudre si l'Europe n'est pas forte et en bonne santé pour qu'elle soit forte et en bonne santé faut que les citoyens français puissent la soutenir, et c'est pourquoi je suis en effet quand on aura un texte court, lisible compréhensible par tout le monde pour le soumettre au référendum des Français, ce qui est je crois aussi votre idée."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal ajoute que la défiance des Français à l’égard de l’Europe vient de son incapacité à lutter contre le chômage et à défendre un certain modèle social, elle souhaite donc un salaire minimum européen et une réforme de la BCE pour qu’elle puisse s’occuper de l’emploi et de la croissance."
     },
-    {
-        "abstractive": {
-            "text": "Bayrou est en désaccord : les pays européens sont trop hétérogènes pour avoir un salaire minimum commun et l’implication de la BCE dans l’économie entraînerait la baisse de l’euro et donc de l’inflation."
-        },
-        "extractive": [
-            {
-                "speaker": "François Bayrou",
-                "text": "Si vous mettez le salaire minimum au niveau de la France, vous tuez l'ensemble des pays de l'est européen qui ont un si bas niveau de vie qu'un salaire minimum comme ça les empêcherait de créer des emplois, si vous mettez le salaire minimum au niveau de ces pays de l'est alors c'est la France qui se trouve complètement déséquilibrée."
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "Deuxièmement, il y a deux conséquences si vous avez un euro faible; premièrement, la hausse des prix repart à la hausse et si on trouve qu'il n'y a pas assez de hausse des prix en France, là on est singulièrement imprudents, et, troisièmement plus l'euro est faible, plus les taux d'intérêt sont hauts, donc vous ne pouvez plus ni consommer, ni investir, et donc vous affaiblissez l'économie française."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "C'est vrai qu'aujourd'hui il y a encore du travail à faire, des rapprochements mais je vois que les choses bougent puisqu'il y a eu aussi une annexe sociale qui a été travaillée avec Jacques Deleur et Paul Rasmussen et qu'aujourd'hui chacun sent bien que l'Europe doit d'abord défendre les valeurs humaines, c'est-à-dire faire en sorte que l'Europe se construise non pas pour être tirée vers le bas, et pour être aligné vers les pays à bas salaires ou à faible protection sociale mais au contraire, à mettre ensemble nos forces pour tirer collectivement les travailleurs vers le haut en termes de niveau de revenus et par exemple l'idée qu'il existe un salaire minimum au niveau de l'Europe est une idée qui fait son chemin et qui est inscrite dans ce protocole social."
+      },
+      {
+        "speaker": "Ségolène Royal",
+        "text": "Donc il va falloir avancer sur ces questions mais en amont, réaliser ensemble un certain nombre d'actions, moi je souhaite par exemple la réforme du statut de la Banque centrale européenne, parce que je veux que l'Europe s'occupe aussi de croissance et d'emploi, et c'est en reconstruisant cette confiance sur des projets concrets que les Français pourront ensuite dire oui."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Bayrou est en désaccord : les pays européens sont trop hétérogènes pour avoir un salaire minimum commun et l’implication de la BCE dans l’économie entraînerait la baisse de l’euro et donc de l’inflation."
     },
-    {
-        "abstractive": {
-            "text": "Royale  pense que le salaire minium permettra d’éviter les délocalisations vers l’Europe de l’est ; il s’agit d’une première étape vers une Europe plus sociale."
-        },
-        "extractive": [
-            {
-                "speaker": "Ségolène Royal",
-                "text": "d'abord, sur le salaire minimum, je crois que c'est un objectif indispensable, sinon, les délocalisations continueront en éjectant nos emplois vers les pays à bas salaires."
-            },
-            {
-                "speaker": "François Bayrou",
-                "text": "Je suis d'accord avec vous ça ne va pas se faire du jour au lendemain mais l'idée même que politiquement on affirme qu'au sein de l'Europe l'objectif de l'Europe c'est l'amélioration de la situation et du pouvoir d'achat des salariés, ça me semble absolument essentiel quant à l'euro, mon objectif c'est de ça n'est certainement pas de faire un euro faible, mais quand même ça n'est pas incompatible d'avoir un euro fort plus un objectif de croissance et un objectif de lutte contre le chômage."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Bayrou",
+        "text": "Si vous mettez le salaire minimum au niveau de la France, vous tuez l'ensemble des pays de l'est européen qui ont un si bas niveau de vie qu'un salaire minimum comme ça les empêcherait de créer des emplois, si vous mettez le salaire minimum au niveau de ces pays de l'est alors c'est la France qui se trouve complètement déséquilibrée."
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "Deuxièmement, il y a deux conséquences si vous avez un euro faible; premièrement, la hausse des prix repart à la hausse et si on trouve qu'il n'y a pas assez de hausse des prix en France, là on est singulièrement imprudents, et, troisièmement plus l'euro est faible, plus les taux d'intérêt sont hauts, donc vous ne pouvez plus ni consommer, ni investir, et donc vous affaiblissez l'économie française."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ségolène Royal pense que le salaire minium permettra d’éviter les délocalisations vers l’Europe de l’Est ; il s’agit d’une première étape vers une Europe plus sociale."
     },
-    {
-        "abstractive": {
-            "text": "Pour Bayrou, les délocalisations ne sont pas forcément mauvaises, il donne l’exemple de l’Espagne et du Portugal qui se sont industrialisés grâce aux délocalisations d’usines automobiles,  qui a permis un rattrapage tout en profitant à des industriels français, comme Renault"
-        },
-        "extractive": [
-            {
-                "speaker": "François Bayrou",
-                "text": "Je ne suis pas pour qu'on montre du doigt toute installation d'entreprise, j'ai vécu en première loge ce que c'est que d'avoir à côté de soi, c'était l'Espagne et le Portugal, des pays en retard de développement et puis qui tout d'un coup ont rattrapé leur retard de développement parce qu'en effet ils avaient des conditions qui attirait l'activité chez eux, ça a été un bien fait pour nous."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Ségolène Royal",
+        "text": "d'abord, sur le salaire minimum, je crois que c'est un objectif indispensable, sinon, les délocalisations continueront en éjectant nos emplois vers les pays à bas salaires."
+      },
+      {
+        "speaker": "François Bayrou",
+        "text": "Je suis d'accord avec vous ça ne va pas se faire du jour au lendemain mais l'idée même que politiquement on affirme qu'au sein de l'Europe l'objectif de l'Europe c'est l'amélioration de la situation et du pouvoir d'achat des salariés, ça me semble absolument essentiel quant à l'euro, mon objectif c'est de ça n'est certainement pas de faire un euro faible, mais quand même ça n'est pas incompatible d'avoir un euro fort plus un objectif de croissance et un objectif de lutte contre le chômage."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Bayrou, les délocalisations ne sont pas forcément mauvaises, il donne l’exemple de l’Espagne et du Portugal qui se sont industrialisés grâce aux délocalisations d’usines automobiles, qui a permis un rattrapage tout en profitant à des industriels français, comme Renault."
+    },
+    "extractive": [
+      {
+        "speaker": "François Bayrou",
+        "text": "Je ne suis pas pour qu'on montre du doigt toute installation d'entreprise, j'ai vécu en première loge ce que c'est que d'avoir à côté de soi, c'était l'Espagne et le Portugal, des pays en retard de développement et puis qui tout d'un coup ont rattrapé leur retard de développement parce qu'en effet ils avaient des conditions qui attirait l'activité chez eux, ça a été un bien fait pour nous."
+      }
+    ]
+  }
 ]

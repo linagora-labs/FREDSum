@@ -1,126 +1,112 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Eric Zemmour et Jean Luc mélenchon discutent du déclassement de la France à l'international."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "On se demande aussi si nous sommes face à un risque de déclassement sur la scène internationale."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Eric Zemmour et Jean Luc Mélenchon discutent du déclassement de la France à l'international."
     },
-    {
-        "abstractive": {
-            "text": "Jean luc mélenchon explique être pour que la france quitte l'OTAN qui n'a plus de sens depuis la chute de l'urss, et que la france crée de nouvelles alliances."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Est-ce qu'il aurait fallu par exemple sortir de l'otan, jean-luc mélenchon ?"
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Moi c'est ma position constante, je pense que nous n'avons rien à faire dans cette alliance militaire, qui euh d'ailleurs n'a pas de sens."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "On se demande aussi si nous sommes face à un risque de déclassement sur la scène internationale."
+      },
+      {
+        "speaker": "P2",
+        "text": "Est-ce qu'il aurait fallu par exemple sortir de l'otan, jean-luc mélenchon ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon explique être pour que la France quitte l'OTAN qui n'a plus de sens depuis la chute de l'URSS, et que la France crée de nouvelles alliances."
     },
-    {
-        "abstractive": {
-            "text": "Jean luc mélenchon explique que la force de la france est son autorité morale, scientifique et culturelle, et souhaite que la france soit la première à promouvoire les accords internationaux sur des domaines où il n'y a pas de loi, comme sur les grands fonds et la démilitarisation de l'espace."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Ca a été créé pour faire face à l'urss il y a plus d'urss il y a toujours l'otan."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Je suis donc pour que la france récupère intégralement, totalement son indépendance et pour qu'elle soit à l'initiative d'autres alliances."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Moi c'est ma position constante, je pense que nous n'avons rien à faire dans cette alliance militaire, qui euh d'ailleurs n'a pas de sens."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Ca a été créé pour faire face à l'urss il y a plus d'urss il y a toujours l'otan."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jean Luc Mélenchon explique que la force de la France est son autorité morale, scientifique et culturelle, et souhaite que la France soit la première à promouvoir les accords internationaux sur des domaines où il n'y a pas de loi, comme sur les grands fonds et la démilitarisation de l'espace."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour explique s'accorder avec Jean luc mélenchon sur la dissolution de l'OTAN."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "La puissance de la france tient à la fois à sa capacité à se défendre par elle-même, avec ses propres moyens, mais ce n'est pas ça l'essentiel de la puissance."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "L'essentiel de la puissance c'est l'autorité morale, scientifique, culturelle, que notre pays peut avoir."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Nous sommes le deuxième peuple du monde pour la contribution à l'exploration de l'espace, vous vous rendez compte ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Je suis donc pour que la france récupère intégralement, totalement son indépendance et pour qu'elle soit à l'initiative d'autres alliances."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "La puissance de la france tient à la fois à sa capacité à se défendre par elle-même, avec ses propres moyens, mais ce n'est pas ça l'essentiel de la puissance."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "L'essentiel de la puissance c'est l'autorité morale, scientifique, culturelle, que notre pays peut avoir."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Nous sommes le deuxième peuple du monde pour la contribution à l'exploration de l'espace, vous vous rendez compte ?"
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Et bien ça aussi je propose que dans le cadre de la francophonie des peuples, tous ceux qui veulent participer avec nous à cet immense travail, et bien ils y viennent."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Les français doivent être les premiers à promouvoir des traités et des accords internationaux sur des domaines où il n'y a pas de loi, par exemple, les grands fonds ne font l'objet d'aucune loi, que nous soyons les premiers à le proposer que nous soyons les premiers à proposer de revenir à l'idée de démilitarisation de l'espace."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "C'est-à-dire ouvert à la contribution de chacun comme dit la déclaration des droits de l'homme que vous voulez retirer de la constitution."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour explique s'accorder avec Jean Luc Mélenchon sur la dissolution de l'OTAN."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour souohaite développer l'industrie militaire française, en continuant les alliances avec les américains tout en s'alliant avec les russes."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Et bien ça aussi je propose que dans le cadre de la francophonie des peuples, tous ceux qui veulent participer avec nous à cet immense travail, et bien ils y viennent."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Les français doivent être les premiers à promouvoir des traités et des accords internationaux sur des domaines où il n'y a pas de loi, par exemple, les grands fonds ne font l'objet d'aucune loi, que nous soyons les premiers à le proposer que nous soyons les premiers à proposer de revenir à l'idée de démilitarisation de l'espace."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je veux pas la pas retirer de la constitution."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je suis tout à fait d'accord avec le début de ce qu'a dit monsieur mélenchon, enfin, pas tout à fait."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "J'aurais dit la même chose je dis ça depuis des années aussi, je pense que l'otan aurait dû se dissoudre en mille neuf cent quatre-vingt-dix quand l'urss a disparu."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour souhaite développer l'industrie militaire française, en continuant les alliances avec les Américains tout en s'alliant avec les Russes."
     },
-    {
-        "abstractive": {
-            "text": "Eric Zemmour souhaite sauver la civilisation française"
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "C'est-à-dire ouvert à la contribution de chacun comme dit la déclaration des droits de l'homme que vous voulez retirer de la constitution."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Euh donc je suis tout à fait d'accord avec ça nous n'avons rien à faire là-dedans euh nous devrions au contraire développer, euh encore plus ce qu’elle n'est notre industrie militaire, accroître notre budget militaire, et effectivement rechercher des alliances nouvelles."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Ca veut pas dire qu'on renonce aux alliances avec les américains, avec les anglais, avec les allemands, mais ça veut dire par exemple tendre la main aux russes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour souhaite sauver la civilisation française."
     },
-    {
-        "abstractive": {
-            "text": null
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je veux pas la pas retirer de la constitution."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je suis tout à fait d'accord avec le début de ce qu'a dit monsieur mélenchon, enfin, pas tout à fait."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "J'aurais dit la même chose je dis ça depuis des années aussi, je pense que l'otan aurait dû se dissoudre en mille neuf cent quatre-vingt-dix quand l'urss a disparu."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Euh donc je suis tout à fait d'accord avec ça nous n'avons rien à faire là-dedans euh nous devrions au contraire développer, euh encore plus ce qu’elle n'est notre industrie militaire, accroître notre budget militaire, et effectivement rechercher des alliances nouvelles."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Ca veut pas dire qu'on renonce aux alliances avec les américains, avec les anglais, avec les allemands, mais ça veut dire par exemple tendre la main aux russes."
-            }
-        ]
-    },
-    {
-        "abstractive": {
-            "text": null
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Je ne veux pas qu'on remplace la civilisation française par une autre civilisation, qu'on remplace le peuple français par un autre peuple. Parce que c'est ça qui est en train de se passer."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Je ne veux pas qu'on remplace la civilisation française par une autre civilisation, qu'on remplace le peuple français par un autre peuple. Parce que c'est ça qui est en train de se passer."
+      }
+    ]
+  }
 ]

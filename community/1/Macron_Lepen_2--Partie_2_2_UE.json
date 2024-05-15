@@ -1,183 +1,183 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Emmanuel Macron et Marine Le Pen discutent de leur vision pour l'union européenne."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Souhaitez-vous rester dans l'Union européenne telle qu'elle est aujourd'hui avec le couple franco-allemand comme moteur."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Emmanuel Macron et Marine Le Pen discutent de leur vision pour l'Union européenne."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron explique croire en l'europe, qui a aidé la France a avoir des vaccins pendant la pandémie, qui a crée un politique de solidarité financière et de mutualisation des dettes, qui a posé les fondements de l'europe de la défense et aidé à la souveraineté nationale."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Moi je crois dans l'Europe, et je crois dans le couple franco-allemand."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Quand nous avons eu la pandémie, la France, vous savez ne produisait pas de vaccins arn messager, on était tous très heureux d'en avoir en janvier 2021, on l'a fait parce qu'on a eu un accord européen."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Nous avons en Européen, parce qu'il y a d'abord eu un accord franco-allemand, bâti une politique de solidarité financière, de mutualisation des dettes futures."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Nous avons ensemble commencé à mettre en place les fondements d'une Europe de la défense et donc, moi je suis convaincu en effet que notre souveraineté est nationale et européenne et que les deux se complètent et que c'est par l'Europe qu'on sera plus indépendant pour notre énergie, pour notre technologie, pour notre défense, pour notre agroalimentaire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Souhaitez-vous rester dans l'Union européenne telle qu'elle est aujourd'hui avec le couple franco-allemand comme moteur."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron explique croire en l'Europe, qui a aidé la France à avoir des vaccins pendant la pandémie, qui a créé un politique de solidarité financière et de mutualisation des dettes, qui a posé les fondements de l'Europe de la défense et aidé à la souveraineté nationale."
     },
-    {
-        "abstractive": {
-            "text": "Marine Le Pen explique qu'il n'y a pas de souveraineté européenne, mais qu'elle souhaite rester dans l'union en la modifiant pour créer une alliance européenne des nations."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Même question Marine Le Pen, dans votre programme vous dites que vous souhaitez l'avènement d'une alliance européenne des nations qui se substituerait progressivement à l'Union européenne."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "D'abord permettez-moi de dire à Emmanuel Macron qu'il n'y a pas de souveraineté européenne parce qu'il n'y a pas de peuple européen."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je souhaite rester dans l'Union européenne."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je souhaite profondément la faire modifier pour effectivement faire émerger une alliance européenne des nations."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Moi je crois dans l'Europe, et je crois dans le couple franco-allemand."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Quand nous avons eu la pandémie, la France, vous savez ne produisait pas de vaccins arn messager, on était tous très heureux d'en avoir en janvier 2021, on l'a fait parce qu'on a eu un accord européen."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Nous avons en Européen, parce qu'il y a d'abord eu un accord franco-allemand, bâti une politique de solidarité financière, de mutualisation des dettes futures."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Nous avons ensemble commencé à mettre en place les fondements d'une Europe de la défense et donc, moi je suis convaincu en effet que notre souveraineté est nationale et européenne et que les deux se complètent et que c'est par l'Europe qu'on sera plus indépendant pour notre énergie, pour notre technologie, pour notre défense, pour notre agroalimentaire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen explique qu'il n'y a pas de souveraineté européenne, mais qu'elle souhaite rester dans l'union en la modifiant pour créer une alliance européenne des nations."
     },
-    {
-        "abstractive": {
-            "text": "Marine Le Pen explique être contre les politiques de libre échange de l'union européenne, des travailleurs détachés, et des politiques agricoles."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Parce qu'il y a toute une série de politiques de l'Union européenne avec lesquelles je suis en désaccord, la multiplication des accords de libre-échange, où on vend des voitures allemandes en sacrifiant des éleveurs, à la concurrence des poulets du Brésil ou du bœuf du Canada."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je suis en désaccord avec la politique des travailleurs détachés qui font que des milliers, des dizaines de milliers, des centaines de milliers même, de travailleurs détachés viennent dans notre pays, travaillent et que les charges qu'ils payent ne sont pas payés en France mais sont payées dans leur pays d'origine."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Je suis opposée à la politique que vous avez soutenue, de la ferme à la fourchette qui vise à baisser de 10 à 20 % la production agricole européenne au moment où le monde est en train de faire face à une crise alimentaire qui va voir un certain nombre de pays, probablement, être victimes d'émeutes de la faim."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Même question Marine Le Pen, dans votre programme vous dites que vous souhaitez l'avènement d'une alliance européenne des nations qui se substituerait progressivement à l'Union européenne."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "D'abord permettez-moi de dire à Emmanuel Macron qu'il n'y a pas de souveraineté européenne parce qu'il n'y a pas de peuple européen."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je souhaite rester dans l'Union européenne."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je souhaite profondément la faire modifier pour effectivement faire émerger une alliance européenne des nations."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen explique être contre les politiques de libre échange de l'Union européenne, des travailleurs détachés, et des politiques agricoles."
     },
-    {
-        "abstractive": {
-            "text": "Marine Le Pen souhaite avoir une union européenne qui respecte les choix de société des pays qui la forment."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Donc je souhaite encore une fois que la Commission respecte les nations souveraines, respecte leurs choix, y compris leurs choix de société car nous faisons des choix de société, par les votes qu'ils font les Français font des choix de société et je considère que la Commission européenne doit les respecter."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Parce qu'il y a toute une série de politiques de l'Union européenne avec lesquelles je suis en désaccord, la multiplication des accords de libre-échange, où on vend des voitures allemandes en sacrifiant des éleveurs, à la concurrence des poulets du Brésil ou du bœuf du Canada."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je suis en désaccord avec la politique des travailleurs détachés qui font que des milliers, des dizaines de milliers, des centaines de milliers même, de travailleurs détachés viennent dans notre pays, travaillent et que les charges qu'ils payent ne sont pas payés en France mais sont payées dans leur pays d'origine."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Je suis opposée à la politique que vous avez soutenue, de la ferme à la fourchette qui vise à baisser de 10 à 20 % la production agricole européenne au moment où le monde est en train de faire face à une crise alimentaire qui va voir un certain nombre de pays, probablement, être victimes d'émeutes de la faim."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen souhaite avoir une union européenne qui respecte les choix de société des pays qui la forment."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron explique qu'il est impossible de changer l'union européenne tout seul, et que la france soutient ses intérêts auprès des accords, comme pour la PAC et le travail détaché."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Changer tout seul un club en réduisant sa cotisation, en disant je choisis mes règles."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "La deuxième chose, vous proposez une alliance avec la Russie dans vos priorités."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Et donc nous avons refusé d'avancer sur ce dossier parce qu'il n'y avait pas de respect des engagements de Paris, du respect de la biodiversité et on a d'ailleurs lutté contre la déforestation importée grâce à l'Europe et pour nos agriculteurs."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "La deuxième on s'est battu pour une PAC qui ne baisse pas malgré le Brexit."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Sur le travail détaché, il n'y a pas des centaines de milliers de travailleurs détachés."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Donc je souhaite encore une fois que la Commission respecte les nations souveraines, respecte leurs choix, y compris leurs choix de société car nous faisons des choix de société, par les votes qu'ils font les Français font des choix de société et je considère que la Commission européenne doit les respecter."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron explique qu'il est impossible de changer l'Union européenne tout seul, et que la France soutient ses intérêts auprès des accords, comme pour la PAC et le travail détaché."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron explique que le projet de Marine Le Pen se résume à sortir de l'europe."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Mais derrière cela, des valeurs de l'Europe et des règles du Conseil de l'Europe jusqu'au marché de l'énergie dont vous proposez de sortir, jusqu'à Schengen sur lequel vous n'êtes pas claire, votre projet quand on remet brique à brique les choses en place, c'est un projet qui ne dit pas son nom mais qui consiste à sortir de l'Europe."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Changer tout seul un club en réduisant sa cotisation, en disant je choisis mes règles."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "La deuxième chose, vous proposez une alliance avec la Russie dans vos priorités."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Et donc nous avons refusé d'avancer sur ce dossier parce qu'il n'y avait pas de respect des engagements de Paris, du respect de la biodiversité et on a d'ailleurs lutté contre la déforestation importée grâce à l'Europe et pour nos agriculteurs."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "La deuxième on s'est battu pour une PAC qui ne baisse pas malgré le Brexit."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Sur le travail détaché, il n'y a pas des centaines de milliers de travailleurs détachés."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron explique que le projet de Marine Le Pen se résume à sortir de l'Europe."
     },
-    {
-        "abstractive": {
-            "text": "Marine Le Pen explique que la politique de travailleurs détaché nuit à la compétitivité française, et souhaite mettre en place la préférence nationale."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Quand dans un secteur une entreprise fait appel à des travailleurs détachés évidemment ça lui coûte moins cher et par conséquent les autres entreprises sont obligées de faire, elles aussi, appel à des travailleurs détachés parce que sinon elles ne sont plus compétitives."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Car mon objectif, ma priorité, mon obsession c'est justement que les Français puissent travailler dans leur propre pays."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Mais derrière cela, des valeurs de l'Europe et des règles du Conseil de l'Europe jusqu'au marché de l'énergie dont vous proposez de sortir, jusqu'à Schengen sur lequel vous n'êtes pas claire, votre projet quand on remet brique à brique les choses en place, c'est un projet qui ne dit pas son nom mais qui consiste à sortir de l'Europe."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen explique que la politique de travailleurs détaché nuit à la compétitivité française, et souhaite mettre en place la préférence nationale."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron explique que c'est vrai, mais que faire autrement revient à la fin du marché unique européen."
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Ce que dit Mme Le Pen est vrai mais la préférence nationale à l'emploi c'est la fin du marché unique européen."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Quand dans un secteur une entreprise fait appel à des travailleurs détachés évidemment ça lui coûte moins cher et par conséquent les autres entreprises sont obligées de faire, elles aussi, appel à des travailleurs détachés parce que sinon elles ne sont plus compétitives."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Car mon objectif, ma priorité, mon obsession c'est justement que les Français puissent travailler dans leur propre pays."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron explique que c'est vrai, mais que faire autrement revient à la fin du marché unique européen."
     },
-    {
-        "abstractive": {
-            "text": "Marine Le Pen explique vouloir créer des relations avec l'Afrique."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Moi, l'image que j'ai de la France c'est que c'est une puissance mondiale, pas seulement une puissance européenne."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "On n'a pas parlé de l'Afrique avec laquelle il faut évidemment développer des nouvelles relations."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Ce que dit Mme Le Pen est vrai mais la préférence nationale à l'emploi c'est la fin du marché unique européen."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen explique vouloir créer des relations avec l'Afrique."
     },
-    {
-        "abstractive": {
-            "text": "Emmanuel Macron explique qu'il entretient déjà des relations avec l'afrique, et que Marine Le Pen propose un projet de rétrécissement"
-        },
-        "extractive": [
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Moi j'ai fait plus de voyages qu'aucun de mes prédécesseurs sur le continent africain, c'est un continent auquel je tiens, j'ai refondé cette relation y compris en regardant avec lucidité et courage notre histoire sur ce sujet."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Le projet que vous portez est un projet de rétrécissement, un projet qui est attentatoire à l'universalisme français"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Moi, l'image que j'ai de la France c'est que c'est une puissance mondiale, pas seulement une puissance européenne."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "On n'a pas parlé de l'Afrique avec laquelle il faut évidemment développer des nouvelles relations."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Emmanuel Macron explique qu'il entretient déjà des relations avec l'Afrique, et que Marine Le Pen propose un projet de rétrécissement."
+    },
+    "extractive": [
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Moi j'ai fait plus de voyages qu'aucun de mes prédécesseurs sur le continent africain, c'est un continent auquel je tiens, j'ai refondé cette relation y compris en regardant avec lucidité et courage notre histoire sur ce sujet."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Le projet que vous portez est un projet de rétrécissement, un projet qui est attentatoire à l'universalisme français"
+      }
+    ]
+  }
 ]

@@ -1,288 +1,288 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, François Hollande et Nicolas Sarkozy discutent de la dette française."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Vous êtes tous les deux d'accord, avec un calendrier un peu différent, pour arriver à l'équilibre des comptes publics."
-            },
-            {
-                "speaker": "P2",
-                "text": "Parlons d'abord des dépenses de l'Etat, vous vous engagez tous les deux à les réduire, comment fait-on concrètement ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, François Hollande et Nicolas Sarkozy discutent de la dette française."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande commence en attaquant le bilan de Nicolas Sarkozy, qui a augmenté la dette de six cent milliards depuis le début de son quinquennat."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Parlons de la dette publique, elle a augmenté de 600 milliards d'euros depuis le début du quinquennat de Nicolas Sarkozy."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Nous ferons 40 milliards de prélèvements supplémentaires et 50 milliards d'économies sur les dépenses."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Vous êtes tous les deux d'accord, avec un calendrier un peu différent, pour arriver à l'équilibre des comptes publics."
+      },
+      {
+        "speaker": "P2",
+        "text": "Parlons d'abord des dépenses de l'Etat, vous vous engagez tous les deux à les réduire, comment fait-on concrètement ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande commence en attaquant le bilan de Nicolas Sarkozy, qui a augmenté la dette de six cent milliards depuis le début de son quinquennat."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande attaque Nicolas Sarkozy, qui a selon lui fait trop de cadeaux aux plus aisés."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Sur les recettes supplémentaires, sur les seuls ménages, ce seront uniquement les plus hauts revenus et les plus grandes fortunes, c'est-à-dire précisément les catégories qui ont été les grandes bénéficiaires de la politique du candidat sortant."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "D'abord, les revenus du travail seront fiscalisés au même titre que les revenus du capital ou les revenus du capital au même titre que les revenus du travail."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Les niches fiscales, qui ont été une façon pour beaucoup de contribuables aisés d'échapper à la progressivité de l'impôt, seront plafonnées à 10 000 euros."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Parlons de la dette publique, elle a augmenté de 600 milliards d'euros depuis le début du quinquennat de Nicolas Sarkozy."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Nous ferons 40 milliards de prélèvements supplémentaires et 50 milliards d'économies sur les dépenses."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande attaque Nicolas Sarkozy, qui a selon lui fait trop de cadeaux aux plus aisés."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande souhaite imposer les grandes fortunes, et crée une tranche supérieure d'impôts à cent cinquante mille de quarante cinq pour cent, complété par un impot sur la fortune."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Enfin, il y aura une tranche supérieure, 150 000 euros par part, qui sera à 45 %, au lieu de 41 % aujourd'hui."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Ces éléments seront aussi complétés par le rétablissement de l'impôt sur la fortune parce que, avoir été capable, en fin de mandat, d'infliger aux Français la TVA anti-délocalisation, mais qui ne dissuadera aucune délocalisation, 13 milliards d'euros de prélèvements supplémentaires et d'avoir accordé un allégement fiscal sur l'impôt sur le revenu de près de 2 milliards d'euros ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Sur les recettes supplémentaires, sur les seuls ménages, ce seront uniquement les plus hauts revenus et les plus grandes fortunes, c'est-à-dire précisément les catégories qui ont été les grandes bénéficiaires de la politique du candidat sortant."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "D'abord, les revenus du travail seront fiscalisés au même titre que les revenus du capital ou les revenus du capital au même titre que les revenus du travail."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Les niches fiscales, qui ont été une façon pour beaucoup de contribuables aisés d'échapper à la progressivité de l'impôt, seront plafonnées à 10 000 euros."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande souhaite imposer les grandes fortunes, et crée une tranche supérieure d'impôts à cent cinquante mille de quarante cinq pour cent, complété par un impôt sur la fortune."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy défend son bilan et explique qu'une grande partie de la dette vient du déficit structurel et de la crise."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Savez-vous Monsieur Hollande, vous qui êtes depuis si longtemps éloigné des dossiers qu'en 2009, les recettes de l'impôt sur les bénéfices de la France ont chuté du jour au lendemain de 25 % et que nous avons garanti, sur 100 milliards de transferts de l'Etat vers les collectivités territoriales, la stricte égalité d'une année sur l'autre."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Enfin, il y aura une tranche supérieure, 150 000 euros par part, qui sera à 45 %, au lieu de 41 % aujourd'hui."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Ces éléments seront aussi complétés par le rétablissement de l'impôt sur la fortune parce que, avoir été capable, en fin de mandat, d'infliger aux Français la TVA anti-délocalisation, mais qui ne dissuadera aucune délocalisation, 13 milliards d'euros de prélèvements supplémentaires et d'avoir accordé un allégement fiscal sur l'impôt sur le revenu de près de 2 milliards d'euros ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy défend son bilan et explique qu'une grande partie de la dette vient du déficit structurel et de la crise."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy attaque ensuite François hollande sur son programme, en expliquant qu'il sera incapable de faire des économies en engageant des fonctionnaires ainsi qu'en revenant sur la réforme des retraites."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Vous commencez par promettre aux syndicats de l'éducation nationale, avant la moindre discussion, 61 000 postes de fonctionnaires en plus, alors même qu'avec François Fillon, nous avons supprimé 160 000 postes de fonctionnaires."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Vous qui êtes tellement attachés à la réduction de la dette et des dépenses, comment se fait-il que vous ne soyez pas d'accord avec la réduction du nombre de fonctionnaires, qui pèsent pour la moitié du budget de la Nation ?"
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Deuxième élément, la réforme des retraites que nous avons mise en œuvre et que vous avez contestée, réduit de 20 milliards le déficit de l'assurance vieillesse."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Et vous considérez en plus qu'il faut revenir sur cette réforme car vous contestez l'allongement de la durée de la vie et vous allez augmenter de 0,5 point les cotisations payées par les salariés, ce qui va miner leur pouvoir d'achat, et de 0,5 point les cotisations payées par les entreprises, ce qui va renforcer la délocalisation."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Savez-vous Monsieur Hollande, vous qui êtes depuis si longtemps éloigné des dossiers qu'en 2009, les recettes de l'impôt sur les bénéfices de la France ont chuté du jour au lendemain de 25 % et que nous avons garanti, sur 100 milliards de transferts de l'Etat vers les collectivités territoriales, la stricte égalité d'une année sur l'autre."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy attaque ensuite François Hollande sur son programme, en expliquant qu'il sera incapable de faire des économies en engageant des fonctionnaires ainsi qu'en revenant sur la réforme des retraites."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique que la france est le seul pays ayant gardé l'impôt sur la fortune, et supprimé les droits de successions pour les familles de milieu moyen."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "La France est le seul pays d'Europe qui a gardé l'impôt sur la fortune."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "La réforme de l'impôt sur la fortune que j'ai faite, je l'ai conduite intégralement financée par les plus fortunés puisqu'elle l'a été par une augmentation des droits de succession, payée sur les plus hautes fortunes, de 40 % à 45 %."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Deuxièmement, la réforme que nous avons faite, qui a été intégralement financée par l'augmentation des prélèvements sur les revenus, vous proposez que les prélèvements de l'épargne et que les prélèvements du travail soient les mêmes, nous l'avons déjà fait."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Parce que moi, j'estime que quelqu'un qui a travaillé toute sa vie, il est parfaitement normal, quand il a un petit patrimoine ou un patrimoine moyen, qu'il le laisse à ses enfants en franchise d'impôt."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Vous commencez par promettre aux syndicats de l'éducation nationale, avant la moindre discussion, 61 000 postes de fonctionnaires en plus, alors même qu'avec François Fillon, nous avons supprimé 160 000 postes de fonctionnaires."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Vous qui êtes tellement attachés à la réduction de la dette et des dépenses, comment se fait-il que vous ne soyez pas d'accord avec la réduction du nombre de fonctionnaires, qui pèsent pour la moitié du budget de la Nation ?"
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Deuxième élément, la réforme des retraites que nous avons mise en œuvre et que vous avez contestée, réduit de 20 milliards le déficit de l'assurance vieillesse."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Et vous considérez en plus qu'il faut revenir sur cette réforme car vous contestez l'allongement de la durée de la vie et vous allez augmenter de 0,5 point les cotisations payées par les salariés, ce qui va miner leur pouvoir d'achat, et de 0,5 point les cotisations payées par les entreprises, ce qui va renforcer la délocalisation."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique que la France est le seul pays ayant gardé l'impôt sur la fortune, et supprimé les droits de succession pour les familles de milieu moyen."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande accuse aussi Nicolas Sarkozy d'avoir abandonné l'éducation nationale."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Deuxièmement, sur ce que vous appelez les postes de fonctionnaires, j'ai effectivement considéré que dans l'état actuel de l'école publique que j'ai apprécié tout au long de cette campagne, parce que c'est très dur, pour les enseignants et les personnels de l'Education nationale, de vivre ce que vous leur avez fait supporter, très dur : 80 000 suppressions de postes , les RASED, c'est-à-dire les réseaux qui servent aux enfants les plus en difficulté, rayés de la carte, dans les écoles rurales les suppressions de classes, dans les écoles des quartiers, un certain nombre de soutiens qui sont maintenant ôtés."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "La France est le seul pays d'Europe qui a gardé l'impôt sur la fortune."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "La réforme de l'impôt sur la fortune que j'ai faite, je l'ai conduite intégralement financée par les plus fortunés puisqu'elle l'a été par une augmentation des droits de succession, payée sur les plus hautes fortunes, de 40 % à 45 %."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Deuxièmement, la réforme que nous avons faite, qui a été intégralement financée par l'augmentation des prélèvements sur les revenus, vous proposez que les prélèvements de l'épargne et que les prélèvements du travail soient les mêmes, nous l'avons déjà fait."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Parce que moi, j'estime que quelqu'un qui a travaillé toute sa vie, il est parfaitement normal, quand il a un petit patrimoine ou un patrimoine moyen, qu'il le laisse à ses enfants en franchise d'impôt."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande accuse aussi Nicolas Sarkozy d'avoir abandonné l'éducation nationale."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande explique qu'il souhaite aider les personnes ayant un travail pénible a prendre leur retraite à soixante ans, et s'engage à stabiliser les effectifs de la fonction publique, ainsi qu'a ne pas augmenter la dépense publique de plus d'un pour cent par an."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Enfin, sur la question des retraites, vous avez fait une réforme, qui d'ailleurs ne sera plus financée à partir de 2017-2018."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "La première des injustices est qu'une femme, un homme qui a commencé à travailler à 18 ans et qui va avoir ses 41 années de cotisation, à qui l'on va dire « mais non, ce n'est plus 60 ans, c'est maintenant 62 ans et donc il va falloir faire 42 ans, 43 ans de travail », sont souvent ceux qui ont commencé tôt, qui ont fait des métiers pénibles."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "J'ai considéré que oui, pour cette catégorie, je rétablirai le départ à 60 ans dès lors qu'il y a 41 années de cotisation et qu'on a commencé tôt à travailler : 5 milliards d'euros."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Deuxièmement, sur ce que vous appelez les postes de fonctionnaires, j'ai effectivement considéré que dans l'état actuel de l'école publique que j'ai apprécié tout au long de cette campagne, parce que c'est très dur, pour les enseignants et les personnels de l'Education nationale, de vivre ce que vous leur avez fait supporter, très dur : 80 000 suppressions de postes , les RASED, c'est-à-dire les réseaux qui servent aux enfants les plus en difficulté, rayés de la carte, dans les écoles rurales les suppressions de classes, dans les écoles des quartiers, un certain nombre de soutiens qui sont maintenant ôtés."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande explique qu'il souhaite aider les personnes ayant un travail pénible à prendre leur retraite à soixante ans, et s'engage à stabiliser les effectifs de la fonction publique, ainsi qu'à ne pas augmenter la dépense publique de plus d'un pour cent par an."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande explique que les prélèvements obligatoires ont augmenté durant le quinquennat de nicolas sarkozy, et qu'il continuera d'augmenter."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Et vous avez décrit comment les cotisations seront effectivement relevées à la fin du quinquennat : 0,1 % par an fin 2017, et j'assume là encore ce choix."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Enfin, sur la question des retraites, vous avez fait une réforme, qui d'ailleurs ne sera plus financée à partir de 2017-2018."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "La première des injustices est qu'une femme, un homme qui a commencé à travailler à 18 ans et qui va avoir ses 41 années de cotisation, à qui l'on va dire « mais non, ce n'est plus 60 ans, c'est maintenant 62 ans et donc il va falloir faire 42 ans, 43 ans de travail », sont souvent ceux qui ont commencé tôt, qui ont fait des métiers pénibles."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "J'ai considéré que oui, pour cette catégorie, je rétablirai le départ à 60 ans dès lors qu'il y a 41 années de cotisation et qu'on a commencé tôt à travailler : 5 milliards d'euros."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande explique que les prélèvements obligatoires ont augmenté durant le quinquennat de nicolas sarkozy, et qu'il continuera d'augmenter."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique qu'il n'a pas aidé les plus aisé, qu'il a aligné la fiscalité des revenus financiers sur ceux du travail."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "La France est, avec la Suède, le pays où les impôts sont les plus lourds, et vous voulez continuer à les augmenter ?"
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Et vous proposez, pour financer votre folie dépensière, votre incapacité à dire non dès qu'un syndicat ou un corps intermédiaire vous demande quelque chose, une augmentation continue des impôts."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "C'est vous qui avez augmenté les prélèvements obligatoires."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Si bien que, si on vous suivait, le niveau des prélèvements obligatoires, à la fin de ce que pourrait être votre prochain quinquennat si vous étiez réélu, serait supérieur à 46,7 % du PIB."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Parce que si j'ai augmenté les impôts je n'ai pas fait de cadeau aux plus riches, et notamment parce que j'ai aligné la fiscalité des revenus financiers sur les revenus du travail."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Et vous avez décrit comment les cotisations seront effectivement relevées à la fin du quinquennat : 0,1 % par an fin 2017, et j'assume là encore ce choix."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique qu'il n'a pas aidé les plus aisé, qu'il a aligné la fiscalité des revenus financiers sur ceux du travail."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique qu'il souhaite mieux former les enseignants et qu'ils travailent plus au lieu d'en engager plus."
-        },
-        "extractive": [
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "12 millions d'enfants scolarisés dans nos écoles, 1 million d'adultes, nous avons le taux d'encadrement le plus élevé de l'OCDE."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Le problème, c'est un problème de qualité, il faut augmenter la rémunération des enseignants."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Et si on veut augmenter la rémunération des enseignants, on doit diminuer leur nombre."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Moins d'enseignants, mieux payés, mieux formés, ayant 26 heures d'obligation de service au lieu de 18 heures."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Vous dites que j'ai supprimé les RASED, faux, archi-faux, mais je considère que les RASED, c'est pour les cas les plus graves, ce sont un certain nombre de spécialistes qui vont s'occuper des enfants qui ont les difficultés les plus grandes."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Mais je considère qu'il faut maintenant donner du temps aux adultes dans les classes, aux professeurs dans les classes, pour pouvoir s'occuper des enfants qui ont des difficultés."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Je propose d'augmenter de 25 % la rémunération de ces professeurs, sur la base du volontariat."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "La France est, avec la Suède, le pays où les impôts sont les plus lourds, et vous voulez continuer à les augmenter ?"
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Et vous proposez, pour financer votre folie dépensière, votre incapacité à dire non dès qu'un syndicat ou un corps intermédiaire vous demande quelque chose, une augmentation continue des impôts."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "C'est vous qui avez augmenté les prélèvements obligatoires."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Si bien que, si on vous suivait, le niveau des prélèvements obligatoires, à la fin de ce que pourrait être votre prochain quinquennat si vous étiez réélu, serait supérieur à 46,7 % du PIB."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Parce que si j'ai augmenté les impôts je n'ai pas fait de cadeau aux plus riches, et notamment parce que j'ai aligné la fiscalité des revenus financiers sur les revenus du travail."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique qu'il souhaite mieux former les enseignants et qu'ils travailent plus au lieu d'en engager plus."
     },
-    {
-        "abstractive": {
-            "text": "Nicolas Sarkozy explique ensuite que François Hollande ne pourra pas trouver d'économies."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Les policiers, je veux augmenter leur nombre puisque vous avez supprimé 12 000 postes."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "C'est la réforme que nous avons conduite qui met en cause la pénibilité."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Aujourd'hui, une personne qui part, qui a commencé à travailler à 18 ans, part à la retraite à 60 ans."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "J'ai introduit pour la première fois en France le critère de la pénibilité."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Ne confondez pas invalidité et pénibilité."
-            },
-            {
-                "speaker": "Nicolas Sarkozy",
-                "text": "Quand cette invalidité est de 20 %, le départ à la retraite à 60 ans est de droit."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "12 millions d'enfants scolarisés dans nos écoles, 1 million d'adultes, nous avons le taux d'encadrement le plus élevé de l'OCDE."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Le problème, c'est un problème de qualité, il faut augmenter la rémunération des enseignants."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Et si on veut augmenter la rémunération des enseignants, on doit diminuer leur nombre."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Moins d'enseignants, mieux payés, mieux formés, ayant 26 heures d'obligation de service au lieu de 18 heures."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Vous dites que j'ai supprimé les RASED, faux, archi-faux, mais je considère que les RASED, c'est pour les cas les plus graves, ce sont un certain nombre de spécialistes qui vont s'occuper des enfants qui ont les difficultés les plus grandes."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Mais je considère qu'il faut maintenant donner du temps aux adultes dans les classes, aux professeurs dans les classes, pour pouvoir s'occuper des enfants qui ont des difficultés."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Je propose d'augmenter de 25 % la rémunération de ces professeurs, sur la base du volontariat."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Nicolas Sarkozy explique ensuite que François Hollande ne pourra pas trouver d'économies."
     },
-    {
-        "abstractive": {
-            "text": "François Hollande explique que la france a le niveau d'encadrement le plus bas de l'OCDE en école primaire, et que l'augmentation de salaires des professeurs proposée par Nicolas Sarkozy n'est pas assez haute pour l'augmentation d'heures."
-        },
-        "extractive": [
-            {
-                "speaker": "François Hollande",
-                "text": "Première idée fausse, le taux d'encadrement dans le primaire est le plus bas dans l'OCDE."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Ensuite, sur la formation, vous dites qu'on veut des enseignants mieux formés, vous avez vous-même, votre gouvernement, supprimé purement et simplement la formation des enseignants."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Ensuite, sur ce que vous proposez aux enseignants : vous leur dites : « Je vais vous demander de travailler 50 % de plus, non plus 18 heures mais 26 heures, et je vais vous payer 25 % de plus."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Sur les retraites, je veux revenir à votre exemple, ceux qui ont commencé à 18 ans et qui ont fait des métiers pénibles, eux, seront obligés d'attendre 62 ans."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Ceux qui ont 18 ans et 41 années, ça fait 59 ans, ils sont obligés d'attendre déjà 60 ans, donc, ils vont être obligés d'attendre 62 ans, trois ans de plus."
-            },
-            {
-                "speaker": "François Hollande",
-                "text": "Sur les économies, parce que je ne peux pas laisser penser que j'augmenterai la dépense publique, vous avez pris la règle du non-remplacement d'un fonctionnaire sur deux, je ne la retiens pas"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Les policiers, je veux augmenter leur nombre puisque vous avez supprimé 12 000 postes."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "C'est la réforme que nous avons conduite qui met en cause la pénibilité."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Aujourd'hui, une personne qui part, qui a commencé à travailler à 18 ans, part à la retraite à 60 ans."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "J'ai introduit pour la première fois en France le critère de la pénibilité."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Ne confondez pas invalidité et pénibilité."
+      },
+      {
+        "speaker": "Nicolas Sarkozy",
+        "text": "Quand cette invalidité est de 20 %, le départ à la retraite à 60 ans est de droit."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Hollande explique que la France a le niveau d'encadrement le plus bas de l'OCDE en école primaire, et que l'augmentation de salaires des professeurs proposée par Nicolas Sarkozy n'est pas assez haute pour l'augmentation d'heures."
+    },
+    "extractive": [
+      {
+        "speaker": "François Hollande",
+        "text": "Première idée fausse, le taux d'encadrement dans le primaire est le plus bas dans l'OCDE."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Ensuite, sur la formation, vous dites qu'on veut des enseignants mieux formés, vous avez vous-même, votre gouvernement, supprimé purement et simplement la formation des enseignants."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Ensuite, sur ce que vous proposez aux enseignants : vous leur dites : « Je vais vous demander de travailler 50 % de plus, non plus 18 heures mais 26 heures, et je vais vous payer 25 % de plus."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Sur les retraites, je veux revenir à votre exemple, ceux qui ont commencé à 18 ans et qui ont fait des métiers pénibles, eux, seront obligés d'attendre 62 ans."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Ceux qui ont 18 ans et 41 années, ça fait 59 ans, ils sont obligés d'attendre déjà 60 ans, donc, ils vont être obligés d'attendre 62 ans, trois ans de plus."
+      },
+      {
+        "speaker": "François Hollande",
+        "text": "Sur les économies, parce que je ne peux pas laisser penser que j'augmenterai la dépense publique, vous avez pris la règle du non-remplacement d'un fonctionnaire sur deux, je ne la retiens pas"
+      }
+    ]
+  }
 ]

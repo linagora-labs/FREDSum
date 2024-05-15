@@ -1,156 +1,156 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, les candidats discutent de la question du voile."
-        },
-        "extractive": [
-            {
-                "speaker": "David Pujadas",
-                "text": "Eric Ciotti, vous êtes pour l'interdiction du port du voile, pour les mineures, pour les filles mineures, ainsi qu'à l'université ou par les maires lors des sorties scolaires."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, les candidats discutent de la question du voile."
     },
-    {
-        "abstractive": {
-            "text": "Pujadas rappelle que Ciotti souhaite interdire le voile à l’université, lors des sorties scolaires et pour les mineurs ; le journaliste s’interroge sur la manière de réaliser les contrôles que cela implique."
-        },
-        "extractive": [
-            {
-                "speaker": "David Pujadas",
-                "text": "Alors, sans préjuger du bien fondé ou pas de votre proposition, du point de vue de l'applicabilité, est ce que vous imaginez le nombre de contrôles d'identité qu'il faudrait pour appliquer cette mesure là?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "David Pujadas",
+        "text": "Eric Ciotti, vous êtes pour l'interdiction du port du voile, pour les mineures, pour les filles mineures, ainsi qu'à l'université ou par les maires lors des sorties scolaires."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "David Pujadas rappelle que Eric Ciotti souhaite interdire le voile à l’université, lors des sorties scolaires et pour les mineurs ; le journaliste s’interroge sur la manière de réaliser les contrôles que cela implique."
     },
-    {
-        "abstractive": {
-            "text": "Ciotti répond qu’il faut du courage et que cela est nécessaire face aux territoires conquis par l’islamisme."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Il faudra du courage."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Et il faudra le faire, même s'il y a des conflits."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Aujourd'hui, il y a des territoires où les lois de la République ne s'appliquent plus."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "David Pujadas",
+        "text": "Alors, sans préjuger du bien fondé ou pas de votre proposition, du point de vue de l'applicabilité, est ce que vous imaginez le nombre de contrôles d'identité qu'il faudrait pour appliquer cette mesure là?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti répond qu’il faut du courage et que cela est nécessaire face aux territoires conquis par l’islamisme."
     },
-    {
-        "abstractive": {
-            "text": "Pécresse explique qu’elle a ce courage : elle a défendu la loi d’interdiction de la burqa, elle a fait voter la première charte de la laïcité et elle est attaquée pour islamophobie pour avoir interdit le burkini dans certains lieux."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Alors d'abord, j'ai été avec Jean-François Copé à l'origine de la loi sur l'interdiction de la burqa dans l'espace public."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Ensuite, aujourd'hui, il se trouve qu'après avoir fait voter la première charte de la laïcité en France pour éviter de donner un euro d'argent public aux ennemis de la République qui faisaient du prosélytisme islamiste, eh bien, je suis aujourd'hui sous le coup d'une procédure du défenseur des droits."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Enfin de la Défenseur des droits, puisque c'est une femme, qui m'attaque sur saisine du Comité contre l'islamophobie en France pour discrimination religieuse, parce que j'ai interdit le port du burkini dans les îles de loisirs de la région Ile de France."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Alors Je le dis, je ne reculerait pas parce que sur ces sujets là, il n'y a pas de raison qu'on change."
-            },
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Je considère que c'est un instrument de soumission et ce que je souhaite, c'est qu'il n'y ait plus de port du voile forcé en France."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Il faudra du courage."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Et il faudra le faire, même s'il y a des conflits."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Aujourd'hui, il y a des territoires où les lois de la République ne s'appliquent plus."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Valérie Pécresse explique qu’elle a ce courage : elle a défendu la loi d’interdiction de la burqa, elle a fait voter la première charte de la laïcité et elle est attaquée pour islamophobie pour avoir interdit le burkini dans certains lieux."
     },
-    {
-        "abstractive": {
-            "text": "Elle veut par ailleurs faire disparaître la pratique du voile forcé dans les familles."
-        },
-        "extractive": [
-            {
-                "speaker": "Valérie Pécresse",
-                "text": "Et ça veut dire qu'on pourrait avoir des recours contre une obligation de porter le voile pour des jeunes femmes de 14 ou 15 ans qu'on obligerait dans leur famille à porter le voile."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Alors d'abord, j'ai été avec Jean-François Copé à l'origine de la loi sur l'interdiction de la burqa dans l'espace public."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Ensuite, aujourd'hui, il se trouve qu'après avoir fait voter la première charte de la laïcité en France pour éviter de donner un euro d'argent public aux ennemis de la République qui faisaient du prosélytisme islamiste, eh bien, je suis aujourd'hui sous le coup d'une procédure du défenseur des droits."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Enfin de la Défenseur des droits, puisque c'est une femme, qui m'attaque sur saisine du Comité contre l'islamophobie en France pour discrimination religieuse, parce que j'ai interdit le port du burkini dans les îles de loisirs de la région Ile de France."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Alors Je le dis, je ne reculerait pas parce que sur ces sujets là, il n'y a pas de raison qu'on change."
+      },
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Je considère que c'est un instrument de soumission et ce que je souhaite, c'est qu'il n'y ait plus de port du voile forcé en France."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle veut par ailleurs faire disparaître la pratique du voile forcé dans les familles."
     },
-    {
-        "abstractive": {
-            "text": "Barnier rejoint Ciotti sur l’interdiction du voile à l’université et au cours des sorties scolaires."
-        },
-        "extractive": [
-            {
-                "speaker": "Michel Barnier",
-                "text": "Et s'agissant des universités, comme s'agissant des accompagnants de sorties scolaires, je pense qu'il faut en effet interdire le voile."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Valérie Pécresse",
+        "text": "Et ça veut dire qu'on pourrait avoir des recours contre une obligation de porter le voile pour des jeunes femmes de 14 ou 15 ans qu'on obligerait dans leur famille à porter le voile."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Michel Barnier rejoint Eric Ciotti sur l’interdiction du voile à l’université et au cours des sorties scolaires."
     },
-    {
-        "abstractive": {
-            "text": "Il souhaite par ailleurs changer l’urbanisme villes pour les rendre plus agréables et généraliser la police municipale armée, comme l’avait suggéré Juvin."
-        },
-        "extractive": [
-            {
-                "speaker": "Michel Barnier",
-                "text": "D'abord, la reconstruction, comme l'avait proposé Jean-Louis Borloo il y a quelques années."
-            },
-            {
-                "speaker": "Michel Barnier",
-                "text": "Et Je pense qu'il faut que l'Etat encourage et soutienne des polices municipales armées dans toutes les villes de plus de 10.000 habitants."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Michel Barnier",
+        "text": "Et s'agissant des universités, comme s'agissant des accompagnants de sorties scolaires, je pense qu'il faut en effet interdire le voile."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il souhaite par ailleurs changer l’urbanisme villes pour les rendre plus agréables et généraliser la police municipale armée, comme l’avait suggéré Juvin."
     },
-    {
-        "abstractive": {
-            "text": "Ce dernier aussi est d’accord pour l’interdiction du voile à l’université et au cours des sorties scolaires."
-        },
-        "extractive": [
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Sur les sorties scolaires, oui, on est dans un cadre scolaire."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Le voile doit être interdit."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Michel Barnier",
+        "text": "D'abord, la reconstruction, comme l'avait proposé Jean-Louis Borloo il y a quelques années."
+      },
+      {
+        "speaker": "Michel Barnier",
+        "text": "Et Je pense qu'il faut que l'Etat encourage et soutienne des polices municipales armées dans toutes les villes de plus de 10.000 habitants."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ce dernier aussi est d’accord pour l’interdiction du voile à l’université et au cours des sorties scolaires."
     },
-    {
-        "abstractive": {
-            "text": "Il insiste sur l’école pour apprendre aux jeunes à aimer la France et sur le développement des services publics dans les zones où la République a failli."
-        },
-        "extractive": [
-            {
-                "speaker": "Philippe Juvin",
-                "text": "À l'école, il faut réapprendre à aimer la France, sa culture, son histoire, sa manière, sa manière de vivre."
-            },
-            {
-                "speaker": "Philippe Juvin",
-                "text": "Il faut réinvestir l'espace public avec des services publics là où nous sommes partis."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Sur les sorties scolaires, oui, on est dans un cadre scolaire."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Le voile doit être interdit."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il insiste sur l’école pour apprendre aux jeunes à aimer la France et sur le développement des services publics dans les zones où la République a failli."
     },
-    {
-        "abstractive": {
-            "text": "Bertrand enfin entend donner des consignes claires à la police qui ne peut aujourd’hui pas toujours intervenir, afin de ne pas créer de problèmes ; il propose également de fermer les mosquée salafiste, où l’on prêche la haine et l’inégalité entre les hommes et les femmes"
-        },
-        "extractive": [
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "Et il faut aussi qu'il y ait des consignes claires aujourd'hui, consigne est donnée à beaucoup des forces de l'ordre de ne pas intervenir, pour qu'il n'y ait pas de problème."
-            },
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "J'ai proposé notamment que les mosquées salafistes, là où on prêche la haine, là où on dit que la loi religieuse est supérieure à la loi de la République, que la femme n'est pas l'égale de l'homme."
-            },
-            {
-                "speaker": "Xavier Bertrand",
-                "text": "Eh bien, je le dis, ces mosquées salafistes, on les ferme tout de suite en renforçant la loi"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Philippe Juvin",
+        "text": "À l'école, il faut réapprendre à aimer la France, sa culture, son histoire, sa manière, sa manière de vivre."
+      },
+      {
+        "speaker": "Philippe Juvin",
+        "text": "Il faut réinvestir l'espace public avec des services publics là où nous sommes partis."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Xavier Bertrand enfin entend donner des consignes claires à la police qui ne peut aujourd’hui pas toujours intervenir, afin de ne pas créer de problèmes ; il propose également de fermer les mosquées salafistes, où l’on prêche la haine et l’inégalité entre les hommes et les femmes."
+    },
+    "extractive": [
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "Et il faut aussi qu'il y ait des consignes claires aujourd'hui, consigne est donnée à beaucoup des forces de l'ordre de ne pas intervenir, pour qu'il n'y ait pas de problème."
+      },
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "J'ai proposé notamment que les mosquées salafistes, là où on prêche la haine, là où on dit que la loi religieuse est supérieure à la loi de la République, que la femme n'est pas l'égale de l'homme."
+      },
+      {
+        "speaker": "Xavier Bertrand",
+        "text": "Eh bien, je le dis, ces mosquées salafistes, on les ferme tout de suite en renforçant la loi"
+      }
+    ]
+  }
 ]

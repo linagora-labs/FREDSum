@@ -1,150 +1,150 @@
 [
-    {
-        "abstractive": {
-            "text": "Autain accuse le gouvernement d’avoir fermé 17 000 lits pendant son quinquennat."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Et les fonctionnaires, on n'a pas eu le temps d'en parler aussi sur la question du pouvoir d'achat, vous savez qu'ils subissent le gel du point d'indice depuis fort longtemps."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Je rappelle que la Macronie, pendant 5 ans, enfin avant, la Crise covid avait fermé 17 000 lits."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Clémentine Autain accuse le gouvernement d’avoir fermé 17 000 lits pendant son quinquennat."
     },
-    {
-        "abstractive": {
-            "text": "Elle propose une augmentation de 200 euros pour les infirmières qui démarrent."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Ce qu'on propose, par exemple, c'est que pour les infirmières qui démarrent, il y a immédiatement 200 euros de plus."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Et les fonctionnaires, on n'a pas eu le temps d'en parler aussi sur la question du pouvoir d'achat, vous savez qu'ils subissent le gel du point d'indice depuis fort longtemps."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Je rappelle que la Macronie, pendant 5 ans, enfin avant, la Crise covid avait fermé 17 000 lits."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle propose une augmentation de 200 euros pour les infirmières qui démarrent."
     },
-    {
-        "abstractive": {
-            "text": "Elle pense que le gouvernement sera incapable d’investir dans l’hôpital dans la mesure où sa priorité sera de ramener le déficit à 3 %."
-        },
-        "extractive": [
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Mais pour faire tout ça, là, je sais moi qui vais poser la question à Gabriel Attal, parce que ce sera pareil sur l'éducation, c'est que je ne vois pas comment on peut le faire avec un gouvernement qui promet de rentrer dans les 3 % de déficit sur le mandat, c'est ce qu’il a promis à la Commission européenne, ça, ça représente 80 milliards d'euros sans nous dire, à un seul moment, comment il fait."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Ce qu'on propose, par exemple, c'est que pour les infirmières qui démarrent, il y a immédiatement 200 euros de plus."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle pense que le gouvernement sera incapable d’investir dans l’hôpital dans la mesure où sa priorité sera de ramener le déficit à 3 %."
     },
-    {
-        "abstractive": {
-            "text": "Attal répond que c’est la croissance qui doit avant tout permettre de réduire les déficit."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Non, ce n'est pas 80 milliards, à part dans la tête de M. Mélenchon."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Mais pour faire tout ça, là, je sais moi qui vais poser la question à Gabriel Attal, parce que ce sera pareil sur l'éducation, c'est que je ne vois pas comment on peut le faire avec un gouvernement qui promet de rentrer dans les 3 % de déficit sur le mandat, c'est ce qu’il a promis à la Commission européenne, ça, ça représente 80 milliards d'euros sans nous dire, à un seul moment, comment il fait."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal répond que c’est la croissance qui doit avant tout permettre de réduire les déficits."
     },
-    {
-        "abstractive": {
-            "text": "Il veut rendre l’hôpital plus attractif."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Si il y a des lits qui ferment, c'est aussi parce qu'il y a des personnels qui s'en vont et qui sont partis."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Non, ce n'est pas 80 milliards, à part dans la tête de M. Mélenchon."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il veut rendre l’hôpital plus attractif."
     },
-    {
-        "abstractive": {
-            "text": "Il explique que le gouvernement a déjà commencé ce projet, en revalorisant les salaires dans le cadre des ségurs de la santé."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "On a fait le ségur de la santé au moins 183 euros net par mois."
-            },
-            {
-                "speaker": "Clémentine Autain",
-                "text": "Je veux parler des infirmières en début de carrière."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "On a engagé un plan historique de réinvestissement dans nos hôpitaux et dans nos EHPAD."
-            },
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Et le troisième chantier, et je terminerai par là, j'avais un peu de retard sur le temps de parole, le troisième chantier, c'est celui du fonctionnement dans l'hôpital, des conditions de travail dans l'hôpital."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Si il y a des lits qui ferment, c'est aussi parce qu'il y a des personnels qui s'en vont et qui sont partis."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il explique que le gouvernement a déjà commencé ce projet, en revalorisant les salaires dans le cadre des ségurs de la santé."
     },
-    {
-        "abstractive": {
-            "text": "Bardella critique à son tour la baisse des moyens de l’hôpital depuis 2013."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Les soignants aujourd'hui, ils s'estiment maltraités. Ils s'estiment maltraités parce que voyez-vous, ils sont paix 10 % de moins que la moyenne de l'OCDE."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "On a fait le ségur de la santé au moins 183 euros net par mois."
+      },
+      {
+        "speaker": "Clémentine Autain",
+        "text": "Je veux parler des infirmières en début de carrière."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "On a engagé un plan historique de réinvestissement dans nos hôpitaux et dans nos EHPAD."
+      },
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Et le troisième chantier, et je terminerai par là, j'avais un peu de retard sur le temps de parole, le troisième chantier, c'est celui du fonctionnement dans l'hôpital, des conditions de travail dans l'hôpital."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella critique à son tour la baisse des moyens de l’hôpital depuis 2013."
     },
-    {
-        "abstractive": {
-            "text": "Il accuse le gouvernement de gérer l’hôpital et les autres services publics comme des entreprises."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Vous avez détruit l'hôpital public parce que vous avez supprimé 27 milliers à l'hôpital public depuis 2013 et que vous avez continué à fermer des lits pendant la crise sanitaire."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Les soignants aujourd'hui, ils s'estiment maltraités. Ils s'estiment maltraités parce que voyez-vous, ils sont paix 10 % de moins que la moyenne de l'OCDE."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il accuse le gouvernement de gérer l’hôpital et les autres services publics comme des entreprises."
     },
-    {
-        "abstractive": {
-            "text": "Il souhaite au contraire que les soignants puissent être davantage impliqués dans la prise de décision."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Donc, nous on propose une direction bicéphale entre les soignants et des gens qui gèrent l'administration, mais on ne peut pas remettre entre les mains de gens qui se comportent comme des chefs d'entreprise le service public."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Vous avez détruit l'hôpital public parce que vous avez supprimé 27 milliers à l'hôpital public depuis 2013 et que vous avez continué à fermer des lits pendant la crise sanitaire."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il souhaite au contraire que les soignants puissent être davantage impliqués dans la prise de décision."
     },
-    {
-        "abstractive": {
-            "text": "Bardella propose à la fois une hausse des salaires des soignants et à la fois des investissements massifs dans les infrastructures."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Nous, on propose 20 milliards, 10 milliards pour investir dans les infrastructures de santé, et 10 milliards pour augmenter significativement les salaires."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Donc, nous on propose une direction bicéphale entre les soignants et des gens qui gèrent l'administration, mais on ne peut pas remettre entre les mains de gens qui se comportent comme des chefs d'entreprise le service public."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jordan Bardella propose à la fois une hausse des salaires des soignants et à la fois des investissements massifs dans les infrastructures."
     },
-    {
-        "abstractive": {
-            "text": "Il se désole enfin du climat d’insécurité dans lequel le personnel soignant doit travailler."
-        },
-        "extractive": [
-            {
-                "speaker": "Jordan Bardella",
-                "text": "Il faut rendre l'hôpital public aux soignants, il faut leur permettre d'exercer dans des conditions dignes, il faut assurer la sécurité à l'hôpital, parce que je vais vous dire qu'il y a beaucoup d'endroits, et notamment beaucoup d'infrastructures de santé, notamment en Seine-Saint-Denis où je suis élu, où les soignants sont agressés quand ils vont travailler et ils vont travailler la peur aux ventre."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Nous, on propose 20 milliards, 10 milliards pour investir dans les infrastructures de santé, et 10 milliards pour augmenter significativement les salaires."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il se désole enfin du climat d’insécurité dans lequel le personnel soignant doit travailler."
     },
-    {
-        "abstractive": {
-            "text": "Attal termine en expliquant souhaiter rassembler tous les acteurs de la santé pour trouver des solutions aux problèmes variés qui sont posés dans les différents territoires."
-        },
-        "extractive": [
-            {
-                "speaker": "Gabriel Attal",
-                "text": "Quand on dit qu'on veut réunir l'ensemble des acteurs concernés au niveau national et local, c'est précisément pour répondre à des problématiques particulières qu'ils peuvent vivre aussi dans certains territoires"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Jordan Bardella",
+        "text": "Il faut rendre l'hôpital public aux soignants, il faut leur permettre d'exercer dans des conditions dignes, il faut assurer la sécurité à l'hôpital, parce que je vais vous dire qu'il y a beaucoup d'endroits, et notamment beaucoup d'infrastructures de santé, notamment en Seine-Saint-Denis où je suis élu, où les soignants sont agressés quand ils vont travailler et ils vont travailler la peur aux ventre."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Gabriel Attal termine en expliquant souhaiter rassembler tous les acteurs de la santé pour trouver des solutions aux problèmes variés qui sont posés dans les différents territoires."
+    },
+    "extractive": [
+      {
+        "speaker": "Gabriel Attal",
+        "text": "Quand on dit qu'on veut réunir l'ensemble des acteurs concernés au niveau national et local, c'est précisément pour répondre à des problématiques particulières qu'ils peuvent vivre aussi dans certains territoires"
+      }
+    ]
+  }
 ]

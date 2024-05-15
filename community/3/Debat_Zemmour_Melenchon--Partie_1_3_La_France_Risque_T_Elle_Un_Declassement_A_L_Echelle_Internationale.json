@@ -1,176 +1,176 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Mélenchon et Zemmour évoquent la grandeur de la France et son indépendance."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Est-ce qu'il aurait fallu par exemple sortir de l'otan, jean-luc mélenchon ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Jean Luc Mélenchon et Eric Zemmour évoquent la grandeur de la France et son indépendance."
     },
-    {
-        "abstractive": {
-            "text": "Interrogé par le journaliste, Mélenchon explique vouloir quitter l’OTAN, organisation dépourvue de sens aujourd’hui."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Moi c'est ma position constante, je pense que nous n'avons rien à faire dans cette alliance militaire, qui euh d'ailleurs n'a pas de sens."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Est-ce qu'il aurait fallu par exemple sortir de l'otan, jean-luc mélenchon ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Interrogé par le journaliste, Jean Luc Mélenchon explique vouloir quitter l’OTAN, organisation dépourvue de sens aujourd’hui."
     },
-    {
-        "abstractive": {
-            "text": "La puissance de la France doit se faire sur la base de l’autorité morale, scientifique et culturelle."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "L'essentiel de la puissance c'est l'autorité morale, scientifique, culturelle, que notre pays peut avoir."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Moi c'est ma position constante, je pense que nous n'avons rien à faire dans cette alliance militaire, qui euh d'ailleurs n'a pas de sens."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "La puissance de la France doit se faire sur la base de l’autorité morale, scientifique et culturelle."
     },
-    {
-        "abstractive": {
-            "text": "Pour lui, le pays doit exploiter son espace maritime, le deuxième du monde, et ses compétences dans le domaine spatiale ; elle possède ainsi de nombreux avantages."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Les français ont tout en main pour y parvenir nous sommes le deuxième territoire maritime du monde."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Nous sommes le deuxième peuple du monde pour la contribution à l'exploration de l'espace, vous vous rendez compte ?"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "L'essentiel de la puissance c'est l'autorité morale, scientifique, culturelle, que notre pays peut avoir."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour lui, le pays doit exploiter son espace maritime, le deuxième du monde, et ses compétences dans le domaine spatiale ; elle possède ainsi de nombreux avantages."
     },
-    {
-        "abstractive": {
-            "text": "Elle doit également nouer des alliances dans le cadre de la francophonie, assise de la créolisation."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Et la francophonie peut-être un espace de créolisation et donc de puissance collective pour tous ceux qui parlent cette langue."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Les français ont tout en main pour y parvenir nous sommes le deuxième territoire maritime du monde."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Nous sommes le deuxième peuple du monde pour la contribution à l'exploration de l'espace, vous vous rendez compte ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Elle doit également nouer des alliances dans le cadre de la francophonie, assise de la créolisation."
     },
-    {
-        "abstractive": {
-            "text": "Le pays peut avoir un rôle majeur à l’échelle mondial grâce à des accords internationaux qu’elle pourrait proposer dans différents domaines."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Les français doivent être les premiers à promouvoir des traités et des accords internationaux sur des domaines où il n'y a pas de loi, par exemple, les grands fonds ne font l'objet d'aucune loi, que nous soyons les premiers à le proposer que nous soyons les premiers à proposer de revenir à l'idée de démilitarisation de l'espace."
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Les français s'occupe de tout le monde, et de tout !"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Et la francophonie peut-être un espace de créolisation et donc de puissance collective pour tous ceux qui parlent cette langue."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Le pays peut avoir un rôle majeur à l’échelle mondiale grâce à des accords internationaux qu’elle pourrait proposer dans différents domaines."
     },
-    {
-        "abstractive": {
-            "text": "Il termine en accusant son rival de vouloir retirer la déclaration des droits de l’homme de la constitution."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "C'est-à-dire ouvert à la contribution de chacun comme dit la déclaration des droits de l'homme que vous voulez retirer de la constitution."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Les français doivent être les premiers à promouvoir des traités et des accords internationaux sur des domaines où il n'y a pas de loi, par exemple, les grands fonds ne font l'objet d'aucune loi, que nous soyons les premiers à le proposer que nous soyons les premiers à proposer de revenir à l'idée de démilitarisation de l'espace."
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Les français s'occupe de tout le monde, et de tout !"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il termine en accusant son rival de vouloir retirer la déclaration des droits de l’homme de la constitution."
     },
-    {
-        "abstractive": {
-            "text": "Zemmour récuse ce propos."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Non."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "C'est-à-dire ouvert à la contribution de chacun comme dit la déclaration des droits de l'homme que vous voulez retirer de la constitution."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Zemmour récuse ce propos."
     },
-    {
-        "abstractive": {
-            "text": "Néanmoins, il est en accord avec Mélenchon sur l’OTAN ; il faut en sortir, sans pour autant renier les alliances traditionnelles ; il appelle même à tendre la main aux Russes."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "J'aurais dit la même chose je dis ça depuis des années aussi, je pense que l'otan aurait dû se dissoudre en mille neuf cent quatre-vingt-dix quand l'urss a disparu."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Ca veut pas dire qu'on renonce aux alliances avec les américains, avec les anglais, avec les allemands, mais ça veut dire par exemple tendre la main aux russes."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Non."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Néanmoins, il est en accord avec Jean Luc Mélenchon sur l’OTAN ; il faut en sortir, sans pour autant renier les alliances traditionnelles ; il appelle même à tendre la main aux Russes."
     },
-    {
-        "abstractive": {
-            "text": "Il se montre toutefois dubitatif sur l’efficacité des traités internationaux que la France pourrait faire valoir."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Et je je n'aime pas spécialement euh cette machine onusienne qui pond des rapports, des proclamations, et caetera et caetera."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "J'aurais dit la même chose je dis ça depuis des années aussi, je pense que l'otan aurait dû se dissoudre en mille neuf cent quatre-vingt-dix quand l'urss a disparu."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Ca veut pas dire qu'on renonce aux alliances avec les américains, avec les anglais, avec les allemands, mais ça veut dire par exemple tendre la main aux russes."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il se montre toutefois dubitatif sur l’efficacité des traités internationaux que la France pourrait faire valoir."
     },
-    {
-        "abstractive": {
-            "text": "Il rappelle ensuite que la France n’est pas raciste ; elle doit simplement défendre sa culture, sa spécificité."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "La france n'est pas raciste quand elle fait, quand elle  défend son modèle, quand elle défend sa culture, quand elle défend sa civilisation."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Et je je n'aime pas spécialement euh cette machine onusienne qui pond des rapports, des proclamations, et caetera et caetera."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Il rappelle ensuite que la France n’est pas raciste ; elle doit simplement défendre sa culture, sa spécificité."
     },
-    {
-        "abstractive": {
-            "text": "La France n’est pas raciste, mais Zemmour l’est, pour Mélenchon ; il voit de l’homophobie et de la misogynie dans le modèle défendu par son rival."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Ecoutez le zemmouristan ça existe d'accord ?"
-            },
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Un pays où les femmes sont rabaissés, un euh il y a la peine de mort qu'il vous plaît, un pays où les homosexuels sont punis, un pays où on voulait parler conventions internationales."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "La france n'est pas raciste quand elle fait, quand elle  défend son modèle, quand elle défend sa culture, quand elle défend sa civilisation."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "La France n’est pas raciste, mais Eric Zemmour l’est, pour Mélenchon ; il voit de l’homophobie et de la misogynie dans le modèle défendu par son rival."
     },
-    {
-        "abstractive": {
-            "text": "Or, pour Zemmour, ces valeurs évoquées ne sont pas celles de la France, mais précisément celles des banlieues islamisées du pays."
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Zemmour",
-                "text": "la vous décrivez les banlieues islamisées Monsieur Mélenchon !"
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Ecoutez le zemmouristan ça existe d'accord ?"
+      },
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Un pays où les femmes sont rabaissés, un euh il y a la peine de mort qu'il vous plaît, un pays où les homosexuels sont punis, un pays où on voulait parler conventions internationales."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Or, pour Zemmour, ces valeurs évoquées ne sont pas celles de la France, mais précisément celles des banlieues islamisées du pays."
     },
-    {
-        "abstractive": {
-            "text": "Pour Mélenchon, les gens s’appellent comme ils le souhaitent ; pour Zemmour, il faut s’inscrire dans une culture commune, et le prénom y participe."
-        },
-        "extractive": [
-            {
-                "speaker": "Jean Luc Mélenchon",
-                "text": "Je veux vous dire les gens s'appelle comme ils veulent, ils le font par tradition familiale."
-            },
-            {
-                "speaker": "Eric Zemmour",
-                "text": "Le peuple en commun commence avec une culture commune."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Eric Zemmour",
+        "text": "la vous décrivez les banlieues islamisées Monsieur Mélenchon !"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Pour Mélenchon, les gens s’appellent comme ils le souhaitent ; pour Zemmour, il faut s’inscrire dans une culture commune, et le prénom y participe."
+    },
+    "extractive": [
+      {
+        "speaker": "Jean Luc Mélenchon",
+        "text": "Je veux vous dire les gens s'appelle comme ils veulent, ils le font par tradition familiale."
+      },
+      {
+        "speaker": "Eric Zemmour",
+        "text": "Le peuple en commun commence avec une culture commune."
+      }
+    ]
+  }
 ]

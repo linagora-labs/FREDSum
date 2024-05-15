@@ -1,82 +1,82 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Eric Ciotti, Bruno Retailleau et Aurélien Pradié discutent de l'aide au carburant pour les travailleurs."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "En juillet, votre parti, dont votre présidente en place, Annie Gennevar, voulait un carburant à 1,50 €. Il y avait une ristourne, elle va prendre fin."
-            },
-            {
-                "speaker": "P1",
-                "text": "La première ministre a dit qu'on va cibler cette aide sur les travailleurs."
-            },
-            {
-                "speaker": "P1",
-                "text": "Est-ce que c'est une aide que vous êtes prêts à voter Bruno Retailleau et Aurélien Pradier ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Eric Ciotti, Bruno Retailleau et Aurélien Pradié discutent de l'aide au carburant pour les travailleurs."
     },
-    {
-        "abstractive": {
-            "text": "Bruno Retailleau explique qu'il souhaite voter une aide qui permettrait de cibler les plus grands rouleurs, qui en ont besoin pour travailler."
-        },
-        "extractive": [
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Je me méfie, mais il faut des aides beaucoup plus ciblées pour ceux qui en ont besoin."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Ce que je voudrais simplement dire, moi qui suis un enfant de la ruralité, dans ce qu'on appelle la France périphérique, il n'y a pas de transports collectifs."
-            },
-            {
-                "speaker": "Bruno Retailleau",
-                "text": "Et du coup, ceux qui ont besoin de leur voiture, leur voiture diesel, essence, ont besoin pour aller travailler."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "En juillet, votre parti, dont votre présidente en place, Annie Gennevar, voulait un carburant à 1,50 €. Il y avait une ristourne, elle va prendre fin."
+      },
+      {
+        "speaker": "P1",
+        "text": "La première ministre a dit qu'on va cibler cette aide sur les travailleurs."
+      },
+      {
+        "speaker": "P1",
+        "text": "Est-ce que c'est une aide que vous êtes prêts à voter Bruno Retailleau et Aurélien Pradier ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Bruno Retailleau explique qu'il souhaite voter une aide qui permettrait de cibler les plus grands rouleurs, qui en ont besoin pour travailler."
     },
-    {
-        "abstractive": {
-            "text": "Aurélien Pradié explique qu'il ne veut pas plus de bureaucratie, et souhaite supprimer la TVA qui s'applique sur la première taxe sur les  carburants, afin  d'avoir une mesure généraliste."
-        },
-        "extractive": [
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "La taxe sur la taxe que nous avons aujourd’hui sur les carburants est une aberration."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Ce que nous proposerons, et je pense que nous avons ce point d'accord, que nous supprimions la TVA qui s'applique déjà sur la première taxe sur les carburants."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "Je souhaite une mesure généraliste."
-            },
-            {
-                "speaker": "Aurélien Pradié",
-                "text": "On ne peut pas, il y a quelques secondes, nous dire que la politique des CERFA, de la bureaucratisation, était un problème et ensuite se dire qu'on va cibler les rouleurs."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Je me méfie, mais il faut des aides beaucoup plus ciblées pour ceux qui en ont besoin."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Ce que je voudrais simplement dire, moi qui suis un enfant de la ruralité, dans ce qu'on appelle la France périphérique, il n'y a pas de transports collectifs."
+      },
+      {
+        "speaker": "Bruno Retailleau",
+        "text": "Et du coup, ceux qui ont besoin de leur voiture, leur voiture diesel, essence, ont besoin pour aller travailler."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Aurélien Pradié explique qu'il ne veut pas plus de bureaucratie, et souhaite supprimer la TVA qui s'applique sur la première taxe sur les carburants, afin d'avoir une mesure généraliste."
     },
-    {
-        "abstractive": {
-            "text": "Eric Ciotti s'accorde avec Aurélien Pradié et estime qu'il faut aider les automobiliste"
-        },
-        "extractive": [
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Oui, c'est toujours ce que j'ai proposé, je l'avais déjà fait l'année dernière."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Vous voyez, c'est beaucoup plus vertueux de payer les impôts que de signer des chèques, parce que là, on aide réellement l'économie et de façon durable."
-            },
-            {
-                "speaker": "Eric Ciotti",
-                "text": "Moi, je dis aidons les automobilistes, parce que la voiture, d'abord, ça peut être un instrument de travail, c'est aussi un instrument de liberté et on a un peu besoin de liberté dans ce pays qui étouffe tout."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "La taxe sur la taxe que nous avons aujourd’hui sur les carburants est une aberration."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Ce que nous proposerons, et je pense que nous avons ce point d'accord, que nous supprimions la TVA qui s'applique déjà sur la première taxe sur les carburants."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "Je souhaite une mesure généraliste."
+      },
+      {
+        "speaker": "Aurélien Pradié",
+        "text": "On ne peut pas, il y a quelques secondes, nous dire que la politique des CERFA, de la bureaucratisation, était un problème et ensuite se dire qu'on va cibler les rouleurs."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Eric Ciotti s'accorde avec Aurélien Pradié et estime qu'il faut aider les automobilistes."
+    },
+    "extractive": [
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Oui, c'est toujours ce que j'ai proposé, je l'avais déjà fait l'année dernière."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Vous voyez, c'est beaucoup plus vertueux de payer les impôts que de signer des chèques, parce que là, on aide réellement l'économie et de façon durable."
+      },
+      {
+        "speaker": "Eric Ciotti",
+        "text": "Moi, je dis aidons les automobilistes, parce que la voiture, d'abord, ça peut être un instrument de travail, c'est aussi un instrument de liberté et on a un peu besoin de liberté dans ce pays qui étouffe tout."
+      }
+    ]
+  }
 ]

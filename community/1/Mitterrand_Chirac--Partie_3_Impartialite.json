@@ -1,77 +1,77 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, François Mitterand et Jacques Chirac débattent de leur vision sur l'impartialité de l'état."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "J'aimerais, si vous le voulez bien, vous poser une autre question avant : Raymond Barre a le premier, je crois, utilisé l'expression \"d'Etat impartial\", je ne vous demande pas, monsieur Mitterrand, monsieur Chirac, de faire le décompte des entorses à cette règle que vous reprochez à votre adversaire mais plus concrètement de nous dire ce que vous ferez, demain, l'un et l'autre, si vous êtes élus, pour assurer cette impartialité de l'Etat ?"
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, François Mitterrand et Jacques Chirac débattent de leur vision sur l'impartialité de l'état."
     },
-    {
-        "abstractive": {
-            "text": "Selon Jacques Chirac, l'impartialité est naturelle, et il dénonce le congrès de Valence, ainsi que François Mitterrand, qui a changé les chefs des chaînes de télévision et n'a pas condamné le congrès de valence."
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Cette impartialité de l'Etat va de soi et ce que, pour ma part, j'ai dénoncé et contesté, en 1981, cette chasse aux sorcières qui a trouvé son point d'orgue au moment du Congrès de Valence dont je n'ai pas entendu, d'ailleurs, que vous l'ayez condamné, c'était, d'ailleurs, difficile puisque, vous-même, aviez affirmé que le Parti socialiste devait pénétrer l'Etat alors que vous étiez chef de l'Etat et que vous l'y encouragiez."
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Nous, nous n'avons changé aucun dirigeant des chaînes de télévision et de radio contrairement à ce qui s'était passé en 81 et je suis heureux de constater qu'un grand journal du soir disait, récemment, \"Le Monde\", pour ne pas le citer, \"que l'enquête générale faite auprès de l'ensemble de vos confrères, monsieur Vannier, indiquait que, pour la première fois, depuis longtemps, il n'était plus soumis à des pressions politiques” je m'en réjouis !"
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Demain, si les Français me font confiance, s'ils approuvent mes propositions, je puis m'engager à ce que, conformément à l'esprit qui a toujours été le mien et que j'ai notamment appliqué pendant les deux ans où j'ai été Premier ministre, l'impartialité de l'Etat soit totalement garantie."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "J'aimerais, si vous le voulez bien, vous poser une autre question avant : Raymond Barre a le premier, je crois, utilisé l'expression \"d'Etat impartial\", je ne vous demande pas, monsieur Mitterrand, monsieur Chirac, de faire le décompte des entorses à cette règle que vous reprochez à votre adversaire mais plus concrètement de nous dire ce que vous ferez, demain, l'un et l'autre, si vous êtes élus, pour assurer cette impartialité de l'Etat ?"
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Selon Jacques Chirac, l'impartialité est naturelle, et il dénonce le congrès de Valence, ainsi que François Mitterrand, qui a changé les chefs des chaînes de télévision et n'a pas condamné le congrès de Valence."
     },
-    {
-        "abstractive": {
-            "text": "François mitterand explique qu'il a dénoncé le congrès de Valence."
-        },
-        "extractive": [
-            {
-                "speaker": "François Mitterrand",
-                "text": "Mais, écoutez, il ne faut pas avoir des lectures à trous, si vous aviez lu très attentivement le journal \"Le Monde\" que vous venez de citer, vous auriez vu un grand titre, en première page, le Congrès de Valence s'est tenu pendant que j'étais au Mexique, pour la conférence de Cancun, et quand je suis revenu, accueilli par les journalistes, très ému, dès ma descente d'avion, j'ai dit, \"ce n'est pas cela qu'il faut faire, il ne faut pas essayer de diviser les Français et certaines expressions excessives de mes amis, eh bien, ils ont eu tort\"."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Cette impartialité de l'Etat va de soi et ce que, pour ma part, j'ai dénoncé et contesté, en 1981, cette chasse aux sorcières qui a trouvé son point d'orgue au moment du Congrès de Valence dont je n'ai pas entendu, d'ailleurs, que vous l'ayez condamné, c'était, d'ailleurs, difficile puisque, vous-même, aviez affirmé que le Parti socialiste devait pénétrer l'Etat alors que vous étiez chef de l'Etat et que vous l'y encouragiez."
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Nous, nous n'avons changé aucun dirigeant des chaînes de télévision et de radio contrairement à ce qui s'était passé en 81 et je suis heureux de constater qu'un grand journal du soir disait, récemment, \"Le Monde\", pour ne pas le citer, \"que l'enquête générale faite auprès de l'ensemble de vos confrères, monsieur Vannier, indiquait que, pour la première fois, depuis longtemps, il n'était plus soumis à des pressions politiques” je m'en réjouis !"
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Demain, si les Français me font confiance, s'ils approuvent mes propositions, je puis m'engager à ce que, conformément à l'esprit qui a toujours été le mien et que j'ai notamment appliqué pendant les deux ans où j'ai été Premier ministre, l'impartialité de l'Etat soit totalement garantie."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "François Mitterrand explique qu'il a dénoncé le congrès de Valence."
     },
-    {
-        "abstractive": {
-            "text": "Selon lui, Jacques Chirac a nommé ses membres à la tête des institutions d'information, et il souhaite faire revenir l'impartialité."
-        },
-        "extractive": [
-            {
-                "speaker": "François Mitterrand",
-                "text": "C'était vraiment extraordinaire d'entendre cette démonstration sur l'information, la manière dont la CNCL s'est installée, la manière dont elle a été composée, les nominations auxquelles elle a procédé, tout cela a montré une main-mise de caractère totalitaire, je n'hésite pas à employer ce mot , sur les moyens de l'information."
-            },
-            {
-                "speaker": "François Mitterrand",
-                "text": "Je voudrais vraiment qu'il soit entendu que nous allons faire triompher quelques principes de liberté qui ont été bafoués au cours de ces derniers temps."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "François Mitterrand",
+        "text": "Mais, écoutez, il ne faut pas avoir des lectures à trous, si vous aviez lu très attentivement le journal \"Le Monde\" que vous venez de citer, vous auriez vu un grand titre, en première page, le Congrès de Valence s'est tenu pendant que j'étais au Mexique, pour la conférence de Cancun, et quand je suis revenu, accueilli par les journalistes, très ému, dès ma descente d'avion, j'ai dit, \"ce n'est pas cela qu'il faut faire, il ne faut pas essayer de diviser les Français et certaines expressions excessives de mes amis, eh bien, ils ont eu tort\"."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Selon lui, Jacques Chirac a nommé ses membres à la tête des institutions d'information, et il souhaite faire revenir l'impartialité."
     },
-    {
-        "abstractive": {
-            "text": "Jacques Chirac explique qu'il n'a changé aucun dirigeant de chaîne, contrairement à François Mitterrand, et l'accuse d'avoir attribué des chaînes à ses amis avant d'avoir perdues les élections de 86"
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Monsieur Mitterrand, en 1981, tous les dirigeants de chaînes ont été changés par vous, pas par moi."
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Monsieur Mitterrand, nous, nous n'avons changé personne en 86."
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Lorsque, quelques semaines avant les élections de 86 dont vous avez bien vu que vous alliez les perdre, que le peuple français vous désavouerait, vous vous êtes caché dans un petit coin pour négocier, avec vos amis, l'attribution sans aucun appel d'offre de La Cinq et de la Six, pensez-vous que ce soit véritablement \"l'Etat impartial\""
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "François Mitterrand",
+        "text": "C'était vraiment extraordinaire d'entendre cette démonstration sur l'information, la manière dont la CNCL s'est installée, la manière dont elle a été composée, les nominations auxquelles elle a procédé, tout cela a montré une main-mise de caractère totalitaire, je n'hésite pas à employer ce mot , sur les moyens de l'information."
+      },
+      {
+        "speaker": "François Mitterrand",
+        "text": "Je voudrais vraiment qu'il soit entendu que nous allons faire triompher quelques principes de liberté qui ont été bafoués au cours de ces derniers temps."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jacques Chirac explique qu'il n'a changé aucun dirigeant de chaîne, contrairement à François Mitterrand, et l'accuse d'avoir attribué des chaînes à ses amis avant d'avoir perdues les élections de 86."
+    },
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Monsieur Mitterrand, en 1981, tous les dirigeants de chaînes ont été changés par vous, pas par moi."
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Monsieur Mitterrand, nous, nous n'avons changé personne en 86."
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Lorsque, quelques semaines avant les élections de 86 dont vous avez bien vu que vous alliez les perdre, que le peuple français vous désavouerait, vous vous êtes caché dans un petit coin pour négocier, avec vos amis, l'attribution sans aucun appel d'offre de La Cinq et de la Six, pensez-vous que ce soit véritablement \"l'Etat impartial\""
+      }
+    ]
+  }
 ]

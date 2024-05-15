@@ -1,144 +1,144 @@
 [
-    {
-        "abstractive": {
-            "text": "Dans ce débat, Jacques Chirac et Lionel Jospin discutent de leur vision sur le Sida et sur l'agriculture Française."
-        },
-        "extractive": [
-            {
-                "speaker": "P1",
-                "text": "Mais, là, simplement, on va vous demander, dans l'intérêt de tout le monde, dans le vôtre aussi, de bien jouer le jeu, on va vous poser une question inévitablement réductrice sur le Sida et une autre à propos des agriculteurs dont il serait inconvenant qu'on ne dise pas un mot."
-            },
-            {
-                "speaker": "P1",
-                "text": "D'abord, M. Jospin, en substance évidemment, à propos du Sida qui est l'un des grands fléaux actuels, y-a-t-il deux ou trois mesures dont vous imaginez, si vous étiez élu Président, que vous pourriez encourager leur mise en œuvre ?"
-            },
-            {
-                "speaker": "P2",
-                "text": "Alors, Messieurs, sur le problème des agriculteurs qui nous écoutent ce soir et qui se sentent très souvent aussi des exclus de la société française, faut-il baisser les charges des exploitants et faut-il que l'Etat français prenne plus à sa charge la défense des agriculteurs français, notamment dans le contexte européen actuel. M. Chirac."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Dans ce débat, Jacques Chirac et Lionel Jospin discutent de leur vision sur le Sida et sur l'agriculture française."
     },
-    {
-        "abstractive": {
-            "text": "Lionel Jospin explique qu'il faut une politique de santé tournée vers laa limitation des risques pour le sida, à l'aide des pouvoirs publics et associatifs."
-        },
-        "extractive": [
-            {
-                "speaker": "Lionel Jospin",
-                "text": "Guerre au Sida, c'est-à-dire une politique de santé publique tournée résolument vers la limitation des risques et vers une réponse aux problèmes auxquels sont confrontés les séropositifs ou les malades du Sida : donc, une volonté déterminée des Pouvoirs publics et, en même temps, un appui avec le mouvement associatif, mais pas en se reposant sur le mouvement associatif."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P1",
+        "text": "Mais, là, simplement, on va vous demander, dans l'intérêt de tout le monde, dans le vôtre aussi, de bien jouer le jeu, on va vous poser une question inévitablement réductrice sur le Sida et une autre à propos des agriculteurs dont il serait inconvenant qu'on ne dise pas un mot."
+      },
+      {
+        "speaker": "P1",
+        "text": "D'abord, M. Jospin, en substance évidemment, à propos du Sida qui est l'un des grands fléaux actuels, y-a-t-il deux ou trois mesures dont vous imaginez, si vous étiez élu Président, que vous pourriez encourager leur mise en œuvre ?"
+      },
+      {
+        "speaker": "P2",
+        "text": "Alors, Messieurs, sur le problème des agriculteurs qui nous écoutent ce soir et qui se sentent très souvent aussi des exclus de la société française, faut-il baisser les charges des exploitants et faut-il que l'Etat français prenne plus à sa charge la défense des agriculteurs français, notamment dans le contexte européen actuel. M. Chirac."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Lionel Jospin explique qu'il faut une politique de santé tournée vers la limitation des risques pour le sida, à l'aide des pouvoirs publics et associatifs."
     },
-    {
-        "abstractive": {
-            "text": "Lionel Jospin explique qu'il faut une politique de prévention dans la jeunesse et les populations à risque, ainsi qu'une attitude humaine avec une aide à la santé, une allocation adulte handicapé et les accueil des malades."
-        },
-        "extractive": [
-            {
-                "speaker": "Lionel Jospin",
-                "text": "Deuxièmement, une politique systématique de prévention dans la jeunesse, bien sûr, mais aussi sans tabou vers les populations dites à risque, toxicomanes, homosexuels, hommes dans les prisons."
-            },
-            {
-                "speaker": "Lionel Jospin",
-                "text": "Et puis une attitude humaine : aide à la santé, allocation adulte handicapé, accueil des malades du Sida, c'est-à-dire montrer que nous les entourons, que nous sommes à leurs côtés."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Lionel Jospin",
+        "text": "Guerre au Sida, c'est-à-dire une politique de santé publique tournée résolument vers la limitation des risques et vers une réponse aux problèmes auxquels sont confrontés les séropositifs ou les malades du Sida : donc, une volonté déterminée des Pouvoirs publics et, en même temps, un appui avec le mouvement associatif, mais pas en se reposant sur le mouvement associatif."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Lionel Jospin explique qu'il faut une politique de prévention dans la jeunesse et les populations à risque, ainsi qu'une attitude humaine avec une aide à la santé, une allocation adulte handicapé et les accueils des malades."
     },
-    {
-        "abstractive": {
-            "text": "Lionel Jospin explique qu'il faut continuer la recherche."
-        },
-        "extractive": [
-            {
-                "speaker": "Lionel Jospin",
-                "text": "Et puis, à terme, bien sur, l'espérance de la recherche."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Lionel Jospin",
+        "text": "Deuxièmement, une politique systématique de prévention dans la jeunesse, bien sûr, mais aussi sans tabou vers les populations dites à risque, toxicomanes, homosexuels, hommes dans les prisons."
+      },
+      {
+        "speaker": "Lionel Jospin",
+        "text": "Et puis une attitude humaine : aide à la santé, allocation adulte handicapé, accueil des malades du Sida, c'est-à-dire montrer que nous les entourons, que nous sommes à leurs côtés."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Lionel Jospin explique qu'il faut continuer la recherche."
     },
-    {
-        "abstractive": {
-            "text": "Jacques Chirac s'accorde avec Lionel jospin, et étend ces mesures sur les victimes de l'hépatite."
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Je partage tout à fait le sentiment de M. Jospin sur ces points, je serai donc beaucoup plus bref."
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Je voudrais simplement qu'on n'oublie pas qu'il y a ceux qui sont séropositifs ou ont le Sida, mais il y a aussi les victimes de l'hépatite, et qui sont également très nombreux et pour lesquels, naturellement, les choses doivent être faites de la même façon."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Lionel Jospin",
+        "text": "Et puis, à terme, bien sur, l'espérance de la recherche."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jacques Chirac s'accorde avec Lionel jospin, et étend ces mesures sur les victimes de l'hépatite."
     },
-    {
-        "abstractive": {
-            "text": "Sur l'agriculture, Jacques Chirac explique que l'agriculture est une des grandes forces de la france, et qu'elle doit rester une grande nation exportatrice."
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Alors, je serai très bref : l'agriculture est l'une des grandes chances de la France, c'est une carte maîtresse pour la France de demain."
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "II est indispensable, premièrement, que nous restions une grande nation exportatrice."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Je partage tout à fait le sentiment de M. Jospin sur ces points, je serai donc beaucoup plus bref."
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Je voudrais simplement qu'on n'oublie pas qu'il y a ceux qui sont séropositifs ou ont le Sida, mais il y a aussi les victimes de l'hépatite, et qui sont également très nombreux et pour lesquels, naturellement, les choses doivent être faites de la même façon."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Sur l'agriculture, Jacques Chirac explique que l'agriculture est une des grandes forces de la France, et qu'elle doit rester une grande nation exportatrice."
     },
-    {
-        "abstractive": {
-            "text": "Jacques Chirac explique qu'il faut encourager les jeunes à s'installer en diminuant les charges sur l'exploitation, et qu'il faut soutenir les différentes formes d'agricultures avec une aide particulière à l'agriculture défavorisée."
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Deuxièmement, que l'on encourage les jeunes à s'installer, et donc il faut effectivement diminuer les charges excessives qui pèsent sur l'exploitation."
-            },
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Troisièmement, il faut soutenir les différentes formes d'agriculture, c'est-à-dire que l'agriculture doit exister sur l'ensemble du territoire, et non pas seulement dans certains domaines très compétitifs, ce qui suppose une aide particulière à l'agriculture défavorisée."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Alors, je serai très bref : l'agriculture est l'une des grandes chances de la France, c'est une carte maîtresse pour la France de demain."
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "II est indispensable, premièrement, que nous restions une grande nation exportatrice."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jacques Chirac explique qu'il faut encourager les jeunes à s'installer en diminuant les charges sur l'exploitation, et qu'il faut soutenir les différentes formes d'agricultures avec une aide particulière à l'agriculture défavorisée."
     },
-    {
-        "abstractive": {
-            "text": "Jacques Chirac explique qu'il faut être ferme envers bruxelles."
-        },
-        "extractive": [
-            {
-                "speaker": "Jacques Chirac",
-                "text": "Il faut être ferme, très ferme à Bruxelles, et là je sais de quoi je parle."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Deuxièmement, que l'on encourage les jeunes à s'installer, et donc il faut effectivement diminuer les charges excessives qui pèsent sur l'exploitation."
+      },
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Troisièmement, il faut soutenir les différentes formes d'agriculture, c'est-à-dire que l'agriculture doit exister sur l'ensemble du territoire, et non pas seulement dans certains domaines très compétitifs, ce qui suppose une aide particulière à l'agriculture défavorisée."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Jacques Chirac explique qu'il faut être ferme envers Bruxelles."
     },
-    {
-        "abstractive": {
-            "text": "Lionel Jospin s'accorde avec l'aide aux jeunes, pour leurs installation."
-        },
-        "extractive": [
-            {
-                "speaker": "Lionel Jospin",
-                "text": "D'accord avec le début de ce qu'a dit Jacques Chirac, avec une politique d'encouragement à l'installation des jeunes."
-            },
-            {
-                "speaker": "Lionel Jospin",
-                "text": "Ce qui peut signifier qu'entre des choix à faire, qui sont la concentration, l'augmentation des tailles des exploitations,et l'on doit avoir une agriculture compétitive,et celui de l'encouragement à l'installation des jeunes, il faut peut-être, dans la période qui vient, favoriser la dimension de l'installation des jeunes par toute une série de mesures que je ne reprends pas."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Jacques Chirac",
+        "text": "Il faut être ferme, très ferme à Bruxelles, et là je sais de quoi je parle."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Lionel Jospin s'accorde avec l'aide aux jeunes, pour leurs installations."
     },
-    {
-        "abstractive": {
-            "text": "Lionel Jospin explique qu'il faut enlever le plafonnement des aides, et répartir les droits à produire"
-        },
-        "extractive": [
-            {
-                "speaker": "Lionel Jospin",
-                "text": "M. Chirac, il n'a pas eu le temps, peut-être, mais il y en a une qui m'est cher, qui est très importante, c'est la question du plafonnement des aides, de façon à aider les agriculteurs qui en ont le plus besoin."
-            },
-            {
-                "speaker": "Lionel Jospin",
-                "text": "Et l'autre, c'est la bonne répartition des droits à produire, qui permettra, notamment, de favoriser l'installation des jeunes"
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Lionel Jospin",
+        "text": "D'accord avec le début de ce qu'a dit Jacques Chirac, avec une politique d'encouragement à l'installation des jeunes."
+      },
+      {
+        "speaker": "Lionel Jospin",
+        "text": "Ce qui peut signifier qu'entre des choix à faire, qui sont la concentration, l'augmentation des tailles des exploitations,et l'on doit avoir une agriculture compétitive,et celui de l'encouragement à l'installation des jeunes, il faut peut-être, dans la période qui vient, favoriser la dimension de l'installation des jeunes par toute une série de mesures que je ne reprends pas."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Lionel Jospin explique qu'il faut enlever le plafonnement des aides, et répartir les droits à produire."
+    },
+    "extractive": [
+      {
+        "speaker": "Lionel Jospin",
+        "text": "M. Chirac, il n'a pas eu le temps, peut-être, mais il y en a une qui m'est cher, qui est très importante, c'est la question du plafonnement des aides, de façon à aider les agriculteurs qui en ont le plus besoin."
+      },
+      {
+        "speaker": "Lionel Jospin",
+        "text": "Et l'autre, c'est la bonne répartition des droits à produire, qui permettra, notamment, de favoriser l'installation des jeunes"
+      }
+    ]
+  }
 ]

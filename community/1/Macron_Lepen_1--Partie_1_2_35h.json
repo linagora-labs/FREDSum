@@ -1,73 +1,73 @@
 [
-    {
-        "abstractive": {
-            "text": "Marine Le Pen et Emmanuel Macron débattent sur la semaine de 35 heures."
-        },
-        "extractive": [
-            {
-                "speaker": "P2",
-                "text": "Il semble qu’aucun d’entre vous, dans son programme, ne propose de revenir sur la durée légale du travail, 35h."
-            }
-        ]
+  {
+    "abstractive": {
+      "text": "Marine Le Pen et Emmanuel Macron débattent sur la semaine de 35 heures."
     },
-    {
-        "abstractive": {
-            "text": "Ils ont tous deux exprimé leur accord pour ne pas revenir sur la durée légale de travail de 35 heures."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Moi je veux que les négociations aient lieu par branche, M. Macron veut que les négociations aient lieu par entreprise."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "P2",
+        "text": "Il semble qu’aucun d’entre vous, dans son programme, ne propose de revenir sur la durée légale du travail, 35h."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Ils ont tous deux exprimé leur accord pour ne pas revenir sur la durée légale de travail de 35 heures."
     },
-    {
-        "abstractive": {
-            "text": "Cependant, ils divergent sur la manière de négocier les heures de travail."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "C’est fratricide parce qu’il est évident que la négociation par entreprise c’est jeter les entreprises les unes contre les autres."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Moi je veux que les négociations aient lieu par branche, M. Macron veut que les négociations aient lieu par entreprise."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Cependant, ils divergent sur la manière de négocier les heures de travail."
     },
-    {
-        "abstractive": {
-            "text": "Marine Le Pen propose de négocier par branche, tandis qu'Emmanuel Macron propose de négocier par entreprise."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Vous savez très bien que, dans les branches, il y aura les grosses entreprises qui pourront moduler ce temps de travail et que les petites ne pourront pas et donc elles seront amenées à disparaître."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Mais cette dérégulation totale, cette casse du droit du travail, ça va être, évidemment, une politique de précarisation, ça ne va pas créer de l’emploi, ça va créer des chômeurs supplémentaires."
-            },
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Et qu’il faut, enfin, faire une politique de protection des emplois et de développement des TPE, PME."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Les TPE, PME qu’est-ce qu’elles demandent, vous avez été voir les chefs d’entreprises, ils veulent quoi, plus de visibilité, ils veulent pouvoir qu’ils soient TPE, PME, entreprises de tailles intermédiaires."
-            },
-            {
-                "speaker": "Emmanuel Macron",
-                "text": "Donc, il faut leur laisser la possibilité de négocier, pour certaines, un accord majoritaire d'entreprise."
-            }
-        ]
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "C’est fratricide parce qu’il est évident que la négociation par entreprise c’est jeter les entreprises les unes contre les autres."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen propose de négocier par branche, tandis qu'Emmanuel Macron propose de négocier par entreprise."
     },
-    {
-        "abstractive": {
-            "text": "Marine Le Pen critique cette idée car cela pourrait mettre en concurrence les entreprises les unes contre les autres et créerait une concurrence nationale déloyale."
-        },
-        "extractive": [
-            {
-                "speaker": "Marine Le Pen",
-                "text": "Donc vous partez du principe que c'est le code du travail qui crée, en réalité, du chômage."
-            }
-        ]
-    }
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Vous savez très bien que, dans les branches, il y aura les grosses entreprises qui pourront moduler ce temps de travail et que les petites ne pourront pas et donc elles seront amenées à disparaître."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Mais cette dérégulation totale, cette casse du droit du travail, ça va être, évidemment, une politique de précarisation, ça ne va pas créer de l’emploi, ça va créer des chômeurs supplémentaires."
+      },
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Et qu’il faut, enfin, faire une politique de protection des emplois et de développement des TPE, PME."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Les TPE, PME qu’est-ce qu’elles demandent, vous avez été voir les chefs d’entreprises, ils veulent quoi, plus de visibilité, ils veulent pouvoir qu’ils soient TPE, PME, entreprises de tailles intermédiaires."
+      },
+      {
+        "speaker": "Emmanuel Macron",
+        "text": "Donc, il faut leur laisser la possibilité de négocier, pour certaines, un accord majoritaire d'entreprise."
+      }
+    ]
+  },
+  {
+    "abstractive": {
+      "text": "Marine Le Pen critique cette idée car cela pourrait mettre en concurrence les entreprises les unes contre les autres et créerait une concurrence nationale déloyale."
+    },
+    "extractive": [
+      {
+        "speaker": "Marine Le Pen",
+        "text": "Donc vous partez du principe que c'est le code du travail qui crée, en réalité, du chômage."
+      }
+    ]
+  }
 ]
